@@ -1,0 +1,905 @@
+[
+  {
+    "id": 201,
+    "difficulty": 0,
+    "title": "1. Who is known as the 'Father of History'?",
+    "description": "",
+    "summary": "Herodotus, a Greek historian, is often called the 'Father of History' for his systematic collection of historical events.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,World History,Basic GK,Exams: UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 201, "id": 501, "title": "Herodotus", "tenantId": 4, "isAnswer": true },
+      { "questionId": 201, "id": 502, "title": "Thucydides", "tenantId": 4, "isAnswer": false },
+      { "questionId": 201, "id": 503, "title": "Plato", "tenantId": 4, "isAnswer": false },
+      { "questionId": 201, "id": 504, "title": "Socrates", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+  {
+    "id": 202,
+    "difficulty": 0,
+    "title": "2. The Indus Valley Civilization developed mainly along which river?",
+    "description": "",
+    "summary": "The Indus Valley Civilization flourished along the Indus River and its tributaries.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Indus Valley Civilization,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 202, "id": 505, "title": "Indus River", "tenantId": 4, "isAnswer": true },
+      { "questionId": 202, "id": 506, "title": "Ganga River", "tenantId": 4, "isAnswer": false },
+      { "questionId": 202, "id": 507, "title": "Yamuna River", "tenantId": 4, "isAnswer": false },
+      { "questionId": 202, "id": 508, "title": "Brahmaputra River", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+  {
+    "id": 203,
+    "difficulty": 0,
+    "title": "3. Who built the Taj Mahal?",
+    "description": "",
+    "summary": "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Mughal Empire,Art & Culture,UPSC,SSC,RPSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 203, "id": 509, "title": "Shah Jahan", "tenantId": 4, "isAnswer": true },
+      { "questionId": 203, "id": 510, "title": "Akbar", "tenantId": 4, "isAnswer": false },
+      { "questionId": 203, "id": 511, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
+      { "questionId": 203, "id": 512, "title": "Humayun", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+  {
+    "id": 204,
+    "difficulty": 0,
+    "title": "4. Who was the first Prime Minister of independent India?",
+    "description": "",
+    "summary": "Jawaharlal Nehru became the first Prime Minister of India after independence in 1947.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Indian Polity,Freedom Movement,UPSC,SSC,RPSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 204, "id": 513, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": true },
+      { "questionId": 204, "id": 514, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 204, "id": 515, "title": "Sardar Patel", "tenantId": 4, "isAnswer": false },
+      { "questionId": 204, "id": 516, "title": "Dr. B.R. Ambedkar", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+  {
+    "id": 205,
+    "difficulty": 0,
+    "title": "5. Who founded the Maurya Empire?",
+    "description": "",
+    "summary": "Chandragupta Maurya established the Maurya Empire with the guidance of Chanakya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Maurya Empire,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 205, "id": 517, "title": "Chandragupta Maurya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 205, "id": 518, "title": "Ashoka", "tenantId": 4, "isAnswer": false },
+      { "questionId": 205, "id": 519, "title": "Bindusara", "tenantId": 4, "isAnswer": false },
+      { "questionId": 205, "id": 520, "title": "Harsha", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 206,
+    "difficulty": 0,
+    "title": "6. Who wrote the Indian National Anthem?",
+    "description": "",
+    "summary": "Rabindranath Tagore wrote 'Jana Gana Mana', the National Anthem of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Indian Culture,Freedom Movement,UPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 206, "id": 521, "title": "Rabindranath Tagore", "tenantId": 4, "isAnswer": true },
+      { "questionId": 206, "id": 522, "title": "Bankim Chandra Chatterjee", "tenantId": 4, "isAnswer": false },
+      { "questionId": 206, "id": 523, "title": "Subramania Bharati", "tenantId": 4, "isAnswer": false },
+      { "questionId": 206, "id": 524, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 207,
+    "difficulty": 0,
+    "title": "7. Which script was used in the Ashokan inscriptions?",
+    "description": "",
+    "summary": "Ashokan inscriptions were mainly written in the Brahmi script, the earliest writing system of ancient India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Mauryan Empire,Epigraphy,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 207, "id": 525, "title": "Brahmi", "tenantId": 4, "isAnswer": true },
+      { "questionId": 207, "id": 526, "title": "Kharosthi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 207, "id": 527, "title": "Tamil-Brahmi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 207, "id": 528, "title": "Devnagari", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 208,
+    "difficulty": 0,
+    "title": "8. Where did Gautama Buddha attain enlightenment?",
+    "description": "",
+    "summary": "Gautama Buddha attained enlightenment at Bodh Gaya under the Bodhi tree.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Buddhism,World Religions,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 208, "id": 529, "title": "Bodh Gaya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 208, "id": 530, "title": "Sarnath", "tenantId": 4, "isAnswer": false },
+      { "questionId": 208, "id": 531, "title": "Kushinagar", "tenantId": 4, "isAnswer": false },
+      { "questionId": 208, "id": 532, "title": "Lumbini", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 209,
+    "difficulty": 0,
+    "title": "9. Who was the last Mughal Emperor of India?",
+    "description": "",
+    "summary": "Bahadur Shah Zafar was the last Mughal Emperor, exiled after the Revolt of 1857.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Mughal Empire,1857 Revolt,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 209, "id": 533, "title": "Bahadur Shah Zafar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 209, "id": 534, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
+      { "questionId": 209, "id": 535, "title": "Shah Alam II", "tenantId": 4, "isAnswer": false },
+      { "questionId": 209, "id": 536, "title": "Akbar II", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 210,
+    "difficulty": 0,
+    "title": "10. Which Indian leader is known as the 'Iron Man of India'?",
+    "description": "",
+    "summary": "Sardar Vallabhbhai Patel is widely known as the 'Iron Man of India' for his role in the political integration of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Freedom Movement,Indian Polity,UPSC,Bank PO,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 210, "id": 537, "title": "Sardar Vallabhbhai Patel", "tenantId": 4, "isAnswer": true },
+      { "questionId": 210, "id": 538, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": false },
+      { "questionId": 210, "id": 539, "title": "Subhash Chandra Bose", "tenantId": 4, "isAnswer": false },
+      { "questionId": 210, "id": 540, "title": "Bhagat Singh", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  /* ------------------- Difficulty 1 (Moderate Level) ------------------- */
+
+  {
+    "id": 211,
+    "difficulty": 1,
+    "title": "11. Who introduced the Mansabdari system in India?",
+    "description": "",
+    "summary": "Akbar introduced the Mansabdari system to reorganize the Mughal military and administrative setup.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Mughal Administration,UPSC,RPSC,SSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 211, "id": 541, "title": "Akbar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 211, "id": 542, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
+      { "questionId": 211, "id": 543, "title": "Shah Jahan", "tenantId": 4, "isAnswer": false },
+      { "questionId": 211, "id": 544, "title": "Babur", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 212,
+    "difficulty": 1,
+    "title": "12. Which Indus Valley site is famous for its dockyard?",
+    "description": "",
+    "summary": "Lothal, located in modern Gujarat, is known for its advanced dockyard demonstrating maritime trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Indus Valley Civilization,Archaeology,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 212, "id": 545, "title": "Lothal", "tenantId": 4, "isAnswer": true },
+      { "questionId": 212, "id": 546, "title": "Mohenjo-Daro", "tenantId": 4, "isAnswer": false },
+      { "questionId": 212, "id": 547, "title": "Harappa", "tenantId": 4, "isAnswer": false },
+      { "questionId": 212, "id": 548, "title": "Kalibangan", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 213,
+    "difficulty": 1,
+    "title": "13. In which year was the Battle of Plassey fought?",
+    "description": "",
+    "summary": "The Battle of Plassey in 1757 marked the beginning of British rule in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,British India,UPSC,SSC,RPSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 213, "id": 549, "title": "1757", "tenantId": 4, "isAnswer": true },
+      { "questionId": 213, "id": 550, "title": "1764", "tenantId": 4, "isAnswer": false },
+      { "questionId": 213, "id": 551, "title": "1857", "tenantId": 4, "isAnswer": false },
+      { "questionId": 213, "id": 552, "title": "1802", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 214,
+    "difficulty": 1,
+    "title": "14. Who was the founder of the Gupta Dynasty?",
+    "description": "",
+    "summary": "Sri Gupta was the founder of the Gupta dynasty, which is often called the Golden Age of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Gupta Empire,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 214, "id": 553, "title": "Sri Gupta", "tenantId": 4, "isAnswer": true },
+      { "questionId": 214, "id": 554, "title": "Chandragupta I", "tenantId": 4, "isAnswer": false },
+      { "questionId": 214, "id": 555, "title": "Samudragupta", "tenantId": 4, "isAnswer": false },
+      { "questionId": 214, "id": 556, "title": "Kumaragupta", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 215,
+    "difficulty": 1,
+    "title": "15. Which Viceroy introduced the portfolio system in India?",
+    "description": "",
+    "summary": "Lord Canning introduced the portfolio system to distribute administrative responsibilities.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,British Administration,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 215, "id": 557, "title": "Lord Canning", "tenantId": 4, "isAnswer": true },
+      { "questionId": 215, "id": 558, "title": "Lord Dalhousie", "tenantId": 4, "isAnswer": false },
+      { "questionId": 215, "id": 559, "title": "Lord Curzon", "tenantId": 4, "isAnswer": false },
+      { "questionId": 215, "id": 560, "title": "Lord Ripon", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 216,
+    "difficulty": 1,
+    "title": "16. Who composed the Allahabad Pillar Prashasti?",
+    "description": "",
+    "summary": "The Allahabad Prashasti was written by Harisena, the court poet of Samudragupta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Gupta Empire,Inscriptions,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 216, "id": 561, "title": "Harisena", "tenantId": 4, "isAnswer": true },
+      { "questionId": 216, "id": 562, "title": "Kalidasa", "tenantId": 4, "isAnswer": false },
+      { "questionId": 216, "id": 563, "title": "Banabhatta", "tenantId": 4, "isAnswer": false },
+      { "questionId": 216, "id": 564, "title": "Vishakhadatta", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 217,
+    "difficulty": 1,
+    "title": "17. Who was the founder of the Slave Dynasty in India?",
+    "description": "",
+    "summary": "Qutb-ud-din Aibak laid the foundation of the Slave Dynasty in Delhi after the death of Muhammad Ghori.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Delhi Sultanate,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 217, "id": 565, "title": "Qutb-ud-din Aibak", "tenantId": 4, "isAnswer": true },
+      { "questionId": 217, "id": 566, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 217, "id": 567, "title": "Balban", "tenantId": 4, "isAnswer": false },
+      { "questionId": 217, "id": 568, "title": "Razia Sultana", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 218,
+    "difficulty": 1,
+    "title": "18. The early capital of Harsha was located at which place?",
+    "description": "",
+    "summary": "Thanesar in Haryana was the early capital of Emperor Harsha before he shifted to Kannauj.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Harsha Period,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 218, "id": 569, "title": "Thanesar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 218, "id": 570, "title": "Kannauj", "tenantId": 4, "isAnswer": false },
+      { "questionId": 218, "id": 571, "title": "Pataliputra", "tenantId": 4, "isAnswer": false },
+      { "questionId": 218, "id": 572, "title": "Ujjain", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 219,
+    "difficulty": 1,
+    "title": "19. Who founded the Brahmo Samaj?",
+    "description": "",
+    "summary": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828, pioneering socio-religious reforms in modern India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Reform Movements,UPSC,Bank PO,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 219, "id": 573, "title": "Raja Ram Mohan Roy", "tenantId": 4, "isAnswer": true },
+      { "questionId": 219, "id": 574, "title": "Dayanand Saraswati", "tenantId": 4, "isAnswer": false },
+      { "questionId": 219, "id": 575, "title": "Swami Vivekananda", "tenantId": 4, "isAnswer": false },
+      { "questionId": 219, "id": 576, "title": "Ishwar Chandra Vidyasagar", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 220,
+    "difficulty": 1,
+    "title": "20. In which year was the Indian National Congress founded?",
+    "description": "",
+    "summary": "The Indian National Congress was founded in 1885 by A.O. Hume along with Indian leaders.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Freedom Movement,INC,UPSC,SSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 220, "id": 577, "title": "1885", "tenantId": 4, "isAnswer": true },
+      { "questionId": 220, "id": 578, "title": "1890", "tenantId": 4, "isAnswer": false },
+      { "questionId": 220, "id": 579, "title": "1905", "tenantId": 4, "isAnswer": false },
+      { "questionId": 220, "id": 580, "title": "1857", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  /* ------------------- Difficulty 2 (Challenging Questions) ------------------- */
+
+  {
+    "id": 221,
+    "difficulty": 2,
+    "title": "21. Which Buddhist Council resulted in the division of Buddhism into Hinayana and Mahayana?",
+    "description": "",
+    "summary": "The Second Buddhist Council at Vaishali led to doctrinal disputes, eventually splitting Buddhism.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Buddhism,Religious History,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 221, "id": 581, "title": "Second Council", "tenantId": 4, "isAnswer": true },
+      { "questionId": 221, "id": 582, "title": "Third Council", "tenantId": 4, "isAnswer": false },
+      { "questionId": 221, "id": 583, "title": "First Council", "tenantId": 4, "isAnswer": false },
+      { "questionId": 221, "id": 584, "title": "Fourth Council", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 222,
+    "difficulty": 2,
+    "title": "22. The Treaty of Mangalore (1784) was signed between which two powers?",
+    "description": "",
+    "summary": "The Treaty of Mangalore marked the end of the Second Anglo-Mysore War between Tipu Sultan and the British.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Mysore Wars,British India,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 222, "id": 585, "title": "Tipu Sultan and British", "tenantId": 4, "isAnswer": true },
+      { "questionId": 222, "id": 586, "title": "Hyder Ali and Marathas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 222, "id": 587, "title": "British and Nizam", "tenantId": 4, "isAnswer": false },
+      { "questionId": 222, "id": 588, "title": "Marathas and Mysore", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 223,
+    "difficulty": 2,
+    "title": "23. Who translated the Upanishads into Persian as 'Sirr-i-Akbar'?",
+    "description": "",
+    "summary": "Dara Shikoh translated the Upanishads into Persian, reflecting his interest in syncretic traditions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Mughal Empire,Art & Culture,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 223, "id": 589, "title": "Dara Shikoh", "tenantId": 4, "isAnswer": true },
+      { "questionId": 223, "id": 590, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
+      { "questionId": 223, "id": 591, "title": "Shah Jahan", "tenantId": 4, "isAnswer": false },
+      { "questionId": 223, "id": 592, "title": "Jahangir", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 224,
+    "difficulty": 2,
+    "title": "24. The 'Din-i Ilahi' was a religious doctrine propounded by which Mughal emperor?",
+    "description": "",
+    "summary": "Akbar introduced Din-i Ilahi to promote religious harmony among diverse faiths in the empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Mughal Empire,Religious Movements,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 224, "id": 593, "title": "Akbar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 224, "id": 594, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
+      { "questionId": 224, "id": 595, "title": "Humayun", "tenantId": 4, "isAnswer": false },
+      { "questionId": 224, "id": 596, "title": "Jahangir", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 225,
+    "difficulty": 2,
+    "title": "25. Which act introduced the system of Dyarchy in Indian provinces?",
+    "description": "",
+    "summary": "The Government of India Act, 1919 introduced Dyarchy, dividing provincial subjects into Reserved and Transferred lists.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Constitutional History,British Acts,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 225, "id": 597, "title": "Government of India Act 1919", "tenantId": 4, "isAnswer": true },
+      { "questionId": 225, "id": 598, "title": "Indian Councils Act 1909", "tenantId": 4, "isAnswer": false },
+      { "questionId": 225, "id": 599, "title": "Government of India Act 1935", "tenantId": 4, "isAnswer": false },
+      { "questionId": 225, "id": 600, "title": "Regulating Act 1773", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 226,
+    "difficulty": 2,
+    "title": "26. The capital of the Cholas was located at which place?",
+    "description": "",
+    "summary": "The Chola capital was at Thanjavur, later moved to Gangaikonda Cholapuram by Rajendra Chola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,South Indian History,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 226, "id": 601, "title": "Thanjavur", "tenantId": 4, "isAnswer": true },
+      { "questionId": 226, "id": 602, "title": "Madurai", "tenantId": 4, "isAnswer": false },
+      { "questionId": 226, "id": 603, "title": "Kanchipuram", "tenantId": 4, "isAnswer": false },
+      { "questionId": 226, "id": 604, "title": "Pataliputra", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 227,
+    "difficulty": 2,
+    "title": "27. The Battle of Talikota (1565) led to the decline of which empire?",
+    "description": "",
+    "summary": "The defeat of Vijayanagara Empire in the Battle of Talikota marked its downfall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Vijayanagara Empire,Battles in Indian History,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 227, "id": 605, "title": "Vijayanagara Empire", "tenantId": 4, "isAnswer": true },
+      { "questionId": 227, "id": 606, "title": "Maratha Empire", "tenantId": 4, "isAnswer": false },
+      { "questionId": 227, "id": 607, "title": "Mughal Empire", "tenantId": 4, "isAnswer": false },
+      { "questionId": 227, "id": 608, "title": "Chola Empire", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 228,
+    "difficulty": 2,
+    "title": "28. Who authored the book 'Indica' describing Mauryan India?",
+    "description": "",
+    "summary": "Megasthenes, the Greek ambassador in Chandragupta Maurya's court, wrote 'Indica'.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Maurya Empire,Foreign Accounts,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 228, "id": 609, "title": "Megasthenes", "tenantId": 4, "isAnswer": true },
+      { "questionId": 228, "id": 610, "title": "Fa-Hien", "tenantId": 4, "isAnswer": false },
+      { "questionId": 228, "id": 611, "title": "Hiuen Tsang", "tenantId": 4, "isAnswer": false },
+      { "questionId": 228, "id": 612, "title": "Pliny", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 229,
+    "difficulty": 2,
+    "title": "29. The Ryotwari system was introduced by which British officer?",
+    "description": "",
+    "summary": "Thomas Munro introduced the Ryotwari system in Madras presidency, establishing direct revenue settlement with cultivators.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,British Administration,Land Revenue Systems,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 229, "id": 613, "title": "Thomas Munro", "tenantId": 4, "isAnswer": true },
+      { "questionId": 229, "id": 614, "title": "Cornwallis", "tenantId": 4, "isAnswer": false },
+      { "questionId": 229, "id": 615, "title": "Warren Hastings", "tenantId": 4, "isAnswer": false },
+      { "questionId": 229, "id": 616, "title": "Lord Dalhousie", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 230,
+    "difficulty": 2,
+    "title": "30. The capital city of the Kushan Empire was located at which place?",
+    "description": "",
+    "summary": "Peshawar, known as Purushapura, was a major capital of the Kushan Empire under Kanishka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Kushan Empire,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 230, "id": 617, "title": "Peshawar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 230, "id": 618, "title": "Mathura", "tenantId": 4, "isAnswer": false },
+      { "questionId": 230, "id": 619, "title": "Taxila", "tenantId": 4, "isAnswer": false },
+      { "questionId": 230, "id": 620, "title": "Ujjain", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  /* ------------------- Difficulty 3 (Advanced Questions) ------------------- */
+
+  {
+    "id": 231,
+    "difficulty": 3,
+    "title": "31. Which Harappan site shows evidence of the earliest ploughed field?",
+    "description": "",
+    "summary": "Kalibangan in Rajasthan shows the earliest known evidence of a ploughed agricultural field.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Indus Valley Civilization,Archaeology,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 231, "id": 621, "title": "Kalibangan", "tenantId": 4, "isAnswer": true },
+      { "questionId": 231, "id": 622, "title": "Lothal", "tenantId": 4, "isAnswer": false },
+      { "questionId": 231, "id": 623, "title": "Dholavira", "tenantId": 4, "isAnswer": false },
+      { "questionId": 231, "id": 624, "title": "Harappa", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 232,
+    "difficulty": 3,
+    "title": "32. Chandragupta II adopted which title after his victory over the Saka rulers?",
+    "description": "",
+    "summary": "Chandragupta II adopted the title 'Vikramaditya' after defeating the Saka rulers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Gupta Empire,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 232, "id": 625, "title": "Vikramaditya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 232, "id": 626, "title": "Samrat", "tenantId": 4, "isAnswer": false },
+      { "questionId": 232, "id": 627, "title": "Maharajadhiraj", "tenantId": 4, "isAnswer": false },
+      { "questionId": 232, "id": 628, "title": "Param Bhattaraka", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 233,
+    "difficulty": 3,
+    "title": "33. Which ruler built the Qutub Minar?",
+    "description": "",
+    "summary": "Qutub Minar was started by Qutb-ud-din Aibak and completed by Iltutmish.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Delhi Sultanate,Architecture,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 233, "id": 629, "title": "Qutb-ud-din Aibak", "tenantId": 4, "isAnswer": true },
+      { "questionId": 233, "id": 630, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 233, "id": 631, "title": "Alauddin Khilji", "tenantId": 4, "isAnswer": false },
+      { "questionId": 233, "id": 632, "title": "Balban", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 234,
+    "difficulty": 3,
+    "title": "34. The Charter Act of 1833 made which provision?",
+    "description": "",
+    "summary": "The Charter Act of 1833 centralized Indian administration by making the Governor-General of Bengal the Governor-General of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Charter Acts,British India,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 234, "id": 633, "title": "Governor-General of India was created", "tenantId": 4, "isAnswer": true },
+      { "questionId": 234, "id": 634, "title": "Dyarchy was introduced", "tenantId": 4, "isAnswer": false },
+      { "questionId": 234, "id": 635, "title": "Bicameral legislature created", "tenantId": 4, "isAnswer": false },
+      { "questionId": 234, "id": 636, "title": "Provincial autonomy granted", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 235,
+    "difficulty": 3,
+    "title": "35. The 'Sixteen Mahajanapadas' are first mentioned in which ancient text?",
+    "description": "",
+    "summary": "The Anguttara Nikaya of Buddhist literature first lists the Sixteen Mahajanapadas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Mahajanapadas,Buddhist Literature,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 235, "id": 637, "title": "Anguttara Nikaya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 235, "id": 638, "title": "Rigveda", "tenantId": 4, "isAnswer": false },
+      { "questionId": 235, "id": 639, "title": "Atharvaveda", "tenantId": 4, "isAnswer": false },
+      { "questionId": 235, "id": 640, "title": "Samaveda", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 236,
+    "difficulty": 3,
+    "title": "36. Who built the famous Brihadeeswara Temple at Thanjavur?",
+    "description": "",
+    "summary": "Rajaraja Chola I constructed the Brihadeeswara Temple, showcasing Chola architectural brilliance.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Chola Empire,Architecture,Art & Culture,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 236, "id": 641, "title": "Rajaraja Chola I", "tenantId": 4, "isAnswer": true },
+      { "questionId": 236, "id": 642, "title": "Rajendra Chola", "tenantId": 4, "isAnswer": false },
+      { "questionId": 236, "id": 643, "title": "Aditya Chola", "tenantId": 4, "isAnswer": false },
+      { "questionId": 236, "id": 644, "title": "Kulottunga Chola", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 237,
+    "difficulty": 3,
+    "title": "37. The 'Doctrine of Lapse' was associated with which Governor-General?",
+    "description": "",
+    "summary": "Lord Dalhousie implemented the Doctrine of Lapse to annex Indian states lacking a natural heir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,British Policies,1857 Revolt,UPSC,RPSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 237, "id": 645, "title": "Lord Dalhousie", "tenantId": 4, "isAnswer": true },
+      { "questionId": 237, "id": 646, "title": "Lord Canning", "tenantId": 4, "isAnswer": false },
+      { "questionId": 237, "id": 647, "title": "Lord Wellesley", "tenantId": 4, "isAnswer": false },
+      { "questionId": 237, "id": 648, "title": "Lord Ripon", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 238,
+    "difficulty": 3,
+    "title": "38. Who was the first Muslim woman to rule Delhi?",
+    "description": "",
+    "summary": "Razia Sultana was the first and only woman ruler of the Delhi Sultanate.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Delhi Sultanate,Women in History,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 238, "id": 649, "title": "Razia Sultana", "tenantId": 4, "isAnswer": true },
+      { "questionId": 238, "id": 650, "title": "Noor Jahan", "tenantId": 4, "isAnswer": false },
+      { "questionId": 238, "id": 651, "title": "Mumtaz Mahal", "tenantId": 4, "isAnswer": false },
+      { "questionId": 238, "id": 652, "title": "Jahanara Begum", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 239,
+    "difficulty": 3,
+    "title": "39. Who authored the 'Arthashastra'?",
+    "description": "",
+    "summary": "Chanakya, also known as Kautilya or Vishnugupta, authored the ancient treatise on statecraft called Arthashastra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Maurya Empire,Economics,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 239, "id": 653, "title": "Kautilya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 239, "id": 654, "title": "Patanjali", "tenantId": 4, "isAnswer": false },
+      { "questionId": 239, "id": 655, "title": "Panini", "tenantId": 4, "isAnswer": false },
+      { "questionId": 239, "id": 656, "title": "Bhasa", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 240,
+    "difficulty": 3,
+    "title": "40. The Lucknow Pact of 1916 was signed between which political groups?",
+    "description": "",
+    "summary": "The Lucknow Pact marked cooperation between the Indian National Congress and the Muslim League.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Freedom Movement,Constitutional Developments,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 240, "id": 657, "title": "INC & Muslim League", "tenantId": 4, "isAnswer": true },
+      { "questionId": 240, "id": 658, "title": "INC & Hindu Mahasabha", "tenantId": 4, "isAnswer": false },
+      { "questionId": 240, "id": 659, "title": "Muslim League & British", "tenantId": 4, "isAnswer": false },
+      { "questionId": 240, "id": 660, "title": "INC & Swaraj Party", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  /* ----------- Difficulty 3 continues: 41–50 ----------- */
+
+  {
+    "id": 241,
+    "difficulty": 3,
+    "title": "41. The famous traveler Ibn Battuta visited India during the reign of which ruler?",
+    "description": "",
+    "summary": "Ibn Battuta visited India during the reign of Muhammad bin Tughlaq and served as the Qazi of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Travelers in India,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 241, "id": 661, "title": "Muhammad bin Tughlaq", "tenantId": 4, "isAnswer": true },
+      { "questionId": 241, "id": 662, "title": "Alauddin Khilji", "tenantId": 4, "isAnswer": false },
+      { "questionId": 241, "id": 663, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 241, "id": 664, "title": "Balban", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 242,
+    "difficulty": 3,
+    "title": "42. Who led the Bardoli Satyagraha in 1928?",
+    "description": "",
+    "summary": "Vallabhbhai Patel successfully led the Bardoli Satyagraha, earning the title 'Sardar'.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Freedom Movement,Satyagraha,UPSC,RPSC,Bank PO",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 242, "id": 665, "title": "Vallabhbhai Patel", "tenantId": 4, "isAnswer": true },
+      { "questionId": 242, "id": 666, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": false },
+      { "questionId": 242, "id": 667, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 242, "id": 668, "title": "Subhash Chandra Bose", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 243,
+    "difficulty": 3,
+    "title": "43. Who was the founder of the 'Satyashodhak Samaj'?",
+    "description": "",
+    "summary": "Jyotiba Phule founded the Satyashodhak Samaj to fight caste discrimination and promote social equality.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Social Reform Movements,UPSC,SSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 243, "id": 669, "title": "Jyotiba Phule", "tenantId": 4, "isAnswer": true },
+      { "questionId": 243, "id": 670, "title": "Dr. B.R. Ambedkar", "tenantId": 4, "isAnswer": false },
+      { "questionId": 243, "id": 671, "title": "Dayanand Saraswati", "tenantId": 4, "isAnswer": false },
+      { "questionId": 243, "id": 672, "title": "Swami Vivekananda", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 244,
+    "difficulty": 3,
+    "title": "44. Which dynasty built the Konark Sun Temple?",
+    "description": "",
+    "summary": "The Eastern Ganga dynasty, particularly King Narasimhadeva I, built the Konark Sun Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Art & Culture,Architecture,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 244, "id": 673, "title": "Eastern Ganga Dynasty", "tenantId": 4, "isAnswer": true },
+      { "questionId": 244, "id": 674, "title": "Gahadavalas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 244, "id": 675, "title": "Rashtrakutas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 244, "id": 676, "title": "Chalukyas", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 245,
+    "difficulty": 3,
+    "title": "45. Who established the 'Servants of India Society'?",
+    "description": "",
+    "summary": "Gopal Krishna Gokhale founded the Servants of India Society to train national workers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Freedom Struggle,Reform Movements,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 245, "id": 677, "title": "Gopal Krishna Gokhale", "tenantId": 4, "isAnswer": true },
+      { "questionId": 245, "id": 678, "title": "Bal Gangadhar Tilak", "tenantId": 4, "isAnswer": false },
+      { "questionId": 245, "id": 679, "title": "Lala Lajpat Rai", "tenantId": 4, "isAnswer": false },
+      { "questionId": 245, "id": 680, "title": "Annie Besant", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 246,
+    "difficulty": 3,
+    "title": "46. The famous 'Nasik Prashasti' was composed by which poet?",
+    "description": "",
+    "summary": "The Nasik Prashasti was authored by Gautami Balashri, mother of Gautamiputra Satakarni of the Satavahanas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Satavahanas,Inscriptions,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 246, "id": 681, "title": "Gautami Balashri", "tenantId": 4, "isAnswer": true },
+      { "questionId": 246, "id": 682, "title": "Harisena", "tenantId": 4, "isAnswer": false },
+      { "questionId": 246, "id": 683, "title": "Kalhana", "tenantId": 4, "isAnswer": false },
+      { "questionId": 246, "id": 684, "title": "Banabhatta", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 247,
+    "difficulty": 3,
+    "title": "47. Which revolutionary founded the 'Hindustan Socialist Republican Association'?",
+    "description": "",
+    "summary": "HSRA was founded by Chandrashekhar Azad and Bhagat Singh to promote armed struggle for independence.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Revolutionary Movements,Freedom Struggle,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 247, "id": 685, "title": "Chandrashekhar Azad", "tenantId": 4, "isAnswer": true },
+      { "questionId": 247, "id": 686, "title": "Bhagat Singh", "tenantId": 4, "isAnswer": false },
+      { "questionId": 247, "id": 687, "title": "Sukhdev", "tenantId": 4, "isAnswer": false },
+      { "questionId": 247, "id": 688, "title": "Rajguru", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 248,
+    "difficulty": 3,
+    "title": "48. Which king issued the first known land grant inscriptions in India?",
+    "description": "",
+    "summary": "The Satavahana kings are credited with issuing the earliest land grant inscriptions in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India,Satavahanas,Epigraphy,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 248, "id": 689, "title": "Satavahanas", "tenantId": 4, "isAnswer": true },
+      { "questionId": 248, "id": 690, "title": "Guptas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 248, "id": 691, "title": "Mauryas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 248, "id": 692, "title": "Kushanas", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 249,
+    "difficulty": 3,
+    "title": "49. The Treaty of Salbai (1782) was signed between the British and which Indian power?",
+    "description": "",
+    "summary": "The Treaty of Salbai ended the First Anglo-Maratha War between the British and the Marathas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Marathas,British India,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 249, "id": 693, "title": "Marathas", "tenantId": 4, "isAnswer": true },
+      { "questionId": 249, "id": 694, "title": "Mysore Kingdom", "tenantId": 4, "isAnswer": false },
+      { "questionId": 249, "id": 695, "title": "Sikh Empire", "tenantId": 4, "isAnswer": false },
+      { "questionId": 249, "id": 696, "title": "Nizam of Hyderabad", "tenantId": 4, "isAnswer": false }
+    ]
+  },
+
+  {
+    "id": 250,
+    "difficulty": 3,
+    "title": "50. Who authored the famous historical text 'Rajatarangini'?",
+    "description": "",
+    "summary": "Kalhana, a Kashmiri historian, wrote Rajatarangini, a detailed chronicle of Kashmir's kings.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Historical Texts,Kashmir History,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      { "questionId": 250, "id": 697, "title": "Kalhana", "tenantId": 4, "isAnswer": true },
+      { "questionId": 250, "id": 698, "title": "Bilhana", "tenantId": 4, "isAnswer": false },
+      { "questionId": 250, "id": 699, "title": "Banabhatta", "tenantId": 4, "isAnswer": false },
+      { "questionId": 250, "id": 700, "title": "Bhasa", "tenantId": 4, "isAnswer": false }
+    ]
+  }
+]
