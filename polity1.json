@@ -1,0 +1,2120 @@
+[
+   {
+      "id":51,
+      "difficulty":0,
+      "title":"51. Who is known as the Father of the Indian Constitution?",
+      "description":"",
+      "hint":"He was the Chairman of the Drafting Committee.",
+      "summary":"Dr. B.R. Ambedkar played the leading role in drafting the Constitution of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitution,Making of Constitution,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":51,
+            "id":201,
+            "title":"Dr. B.R. Ambedkar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":51,
+            "id":202,
+            "title":"Jawaharlal Nehru",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":51,
+            "id":203,
+            "title":"Rajendra Prasad",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":51,
+            "id":204,
+            "title":"Sardar Patel",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":52,
+      "difficulty":0,
+      "title":"52. How many Fundamental Rights are currently guaranteed by the Constitution of India?",
+      "description":"",
+      "hint":"Originally there were seven; one was later removed.",
+      "summary":"At present, there are six Fundamental Rights in the Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":52,
+            "id":205,
+            "title":"6",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":52,
+            "id":206,
+            "title":"5",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":52,
+            "id":207,
+            "title":"7",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":52,
+            "id":208,
+            "title":"8",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":53,
+      "difficulty":0,
+      "title":"53. What is the supreme law of India?",
+      "description":"",
+      "hint":"All laws must conform to it.",
+      "summary":"The Constitution is the highest legal authority in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitution,Basic Concepts",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":53,
+            "id":209,
+            "title":"Constitution of India",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":53,
+            "id":210,
+            "title":"Parliament",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":53,
+            "id":211,
+            "title":"Supreme Court",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":53,
+            "id":212,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":54,
+      "difficulty":0,
+      "title":"54. Who is the constitutional head of the Union Government?",
+      "description":"",
+      "hint":"This office is elected indirectly.",
+      "summary":"The President is the constitutional head of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,President,Executive",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":54,
+            "id":213,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":54,
+            "id":214,
+            "title":"Prime Minister",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":54,
+            "id":215,
+            "title":"Vice President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":54,
+            "id":216,
+            "title":"Chief Justice of India",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":55,
+      "difficulty":0,
+      "title":"55. Which part of the Constitution contains Fundamental Rights?",
+      "description":"",
+      "hint":"It comes immediately before the Directive Principles.",
+      "summary":"Part III of the Constitution contains Fundamental Rights.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Constitution",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":55,
+            "id":217,
+            "title":"Part III",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":55,
+            "id":218,
+            "title":"Part II",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":55,
+            "id":219,
+            "title":"Part IV",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":55,
+            "id":220,
+            "title":"Part V",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":56,
+      "difficulty":1,
+      "title":"56. Which Article abolishes untouchability?",
+      "description":"",
+      "hint":"It is one of the shortest but most important Fundamental Rights articles.",
+      "summary":"Article 17 abolishes untouchability and forbids its practice.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Article 17,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":56,
+            "id":221,
+            "title":"Article 17",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":56,
+            "id":222,
+            "title":"Article 15",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":56,
+            "id":223,
+            "title":"Article 19",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":56,
+            "id":224,
+            "title":"Article 21",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":57,
+      "difficulty":1,
+      "title":"57. Who appoints the Prime Minister of India?",
+      "description":"",
+      "hint":"The appointment is formal, but based on majority support in Lok Sabha.",
+      "summary":"The President appoints the Prime Minister.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Prime Minister,Executive",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":57,
+            "id":225,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":57,
+            "id":226,
+            "title":"Parliament",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":57,
+            "id":227,
+            "title":"Supreme Court",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":57,
+            "id":228,
+            "title":"Election Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":58,
+      "difficulty":1,
+      "title":"58. Which house of Parliament is known as the Upper House?",
+      "description":"",
+      "hint":"Its members are not directly elected by all citizens.",
+      "summary":"Rajya Sabha is the Upper House of Parliament.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Parliament,Rajya Sabha",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":58,
+            "id":229,
+            "title":"Rajya Sabha",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":58,
+            "id":230,
+            "title":"Lok Sabha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":58,
+            "id":231,
+            "title":"Legislative Assembly",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":58,
+            "id":232,
+            "title":"Cabinet",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":59,
+      "difficulty":1,
+      "title":"59. What is the minimum voting age in India?",
+      "description":"",
+      "hint":"It was reduced by the 61st Constitutional Amendment.",
+      "summary":"Indian citizens can vote after attaining 18 years of age.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Elections,Constitutional Amendments",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":59,
+            "id":233,
+            "title":"18 Years",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":59,
+            "id":234,
+            "title":"21 Years",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":59,
+            "id":235,
+            "title":"20 Years",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":59,
+            "id":236,
+            "title":"25 Years",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":60,
+      "difficulty":1,
+      "title":"60. Which body conducts elections in India?",
+      "description":"",
+      "hint":"It is an independent constitutional body.",
+      "summary":"The Election Commission of India conducts elections.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Election Commission,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":60,
+            "id":237,
+            "title":"Election Commission of India",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":60,
+            "id":238,
+            "title":"Parliament",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":60,
+            "id":239,
+            "title":"Supreme Court",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":60,
+            "id":240,
+            "title":"President Secretariat",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":61,
+      "difficulty":2,
+      "title":"61. Which Article guarantees the Right to Constitutional Remedies?",
+      "description":"",
+      "hint":"Dr. Ambedkar called it the heart and soul of the Constitution.",
+      "summary":"Article 32 allows citizens to approach the Supreme Court for enforcement of Fundamental Rights.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Article 32,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":61,
+            "id":241,
+            "title":"Article 32",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":61,
+            "id":242,
+            "title":"Article 21",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":61,
+            "id":243,
+            "title":"Article 19",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":61,
+            "id":244,
+            "title":"Article 14",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":62,
+      "difficulty":2,
+      "title":"62. Which constitutional amendment added Fundamental Duties?",
+      "description":"",
+      "hint":"This amendment is often called the Mini Constitution.",
+      "summary":"The 42nd Constitutional Amendment Act, 1976 added Fundamental Duties.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Duties,Amendments,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":62,
+            "id":245,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":62,
+            "id":246,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":62,
+            "id":247,
+            "title":"61st Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":62,
+            "id":248,
+            "title":"73rd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":63,
+      "difficulty":2,
+      "title":"63. Which Schedule deals with the Anti-Defection Law?",
+      "description":"",
+      "hint":"It was inserted by the 52nd Amendment.",
+      "summary":"The Tenth Schedule contains provisions related to defection.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Schedules,Anti Defection,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":63,
+            "id":249,
+            "title":"Tenth Schedule",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":63,
+            "id":250,
+            "title":"Ninth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":63,
+            "id":251,
+            "title":"Eleventh Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":63,
+            "id":252,
+            "title":"Twelfth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":64,
+      "difficulty":2,
+      "title":"64. Who presides over a joint sitting of Parliament?",
+      "description":"",
+      "hint":"The officer belongs to the directly elected House.",
+      "summary":"The Speaker of Lok Sabha presides over a joint sitting.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Parliament,Joint Sitting",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":64,
+            "id":253,
+            "title":"Speaker of Lok Sabha",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":64,
+            "id":254,
+            "title":"Vice President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":64,
+            "id":255,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":64,
+            "id":256,
+            "title":"Chief Justice",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":65,
+      "difficulty":2,
+      "title":"65. Which Article deals with the proclamation of National Emergency?",
+      "description":"",
+      "hint":"This Article is frequently asked in UPSC prelims.",
+      "summary":"Article 352 provides for National Emergency.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Emergency Provisions,Article 352",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":65,
+            "id":257,
+            "title":"Article 352",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":65,
+            "id":258,
+            "title":"Article 356",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":65,
+            "id":259,
+            "title":"Article 360",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":65,
+            "id":260,
+            "title":"Article 368",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":66,
+      "difficulty":2,
+      "title":"66. Which Constitutional Amendment lowered the voting age from 21 years to 18 years?",
+      "description":"",
+      "hint":"This amendment was passed in 1988 and expanded democratic participation.",
+      "summary":"The 61st Constitutional Amendment Act, 1988 reduced the voting age from 21 to 18 years.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitutional Amendments,Elections,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":66,
+            "id":261,
+            "title":"61st Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":66,
+            "id":262,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":66,
+            "id":263,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":66,
+            "id":264,
+            "title":"73rd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":67,
+      "difficulty":2,
+      "title":"67. Who is the ex-officio Chairman of the Rajya Sabha?",
+      "description":"",
+      "hint":"This person is also the second-highest constitutional authority in India.",
+      "summary":"The Vice President of India serves as the ex-officio Chairman of the Rajya Sabha.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Rajya Sabha,Vice President,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":67,
+            "id":265,
+            "title":"Vice President",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":67,
+            "id":266,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":67,
+            "id":267,
+            "title":"Prime Minister",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":67,
+            "id":268,
+            "title":"Speaker of Lok Sabha",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":68,
+      "difficulty":2,
+      "title":"68. Which Article provides for the establishment of the Finance Commission?",
+      "description":"",
+      "hint":"This constitutional body is constituted every five years.",
+      "summary":"Article 280 provides for the Finance Commission.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Finance Commission,Constitutional Bodies,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":68,
+            "id":269,
+            "title":"Article 280",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":68,
+            "id":270,
+            "title":"Article 324",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":68,
+            "id":271,
+            "title":"Article 315",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":68,
+            "id":272,
+            "title":"Article 148",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":69,
+      "difficulty":2,
+      "title":"69. Which Constitutional Amendment gave constitutional status to Panchayati Raj Institutions?",
+      "description":"",
+      "hint":"It was enacted in 1992 and relates to rural local self-government.",
+      "summary":"The 73rd Constitutional Amendment Act provided constitutional status to Panchayati Raj Institutions.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Panchayati Raj,73rd Amendment,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":69,
+            "id":273,
+            "title":"73rd Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":69,
+            "id":274,
+            "title":"74th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":69,
+            "id":275,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":69,
+            "id":276,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":70,
+      "difficulty":2,
+      "title":"70. What is the maximum strength of the Lok Sabha as provided by the Constitution?",
+      "description":"",
+      "hint":"The actual current strength is lower than this constitutional limit.",
+      "summary":"The Constitution provides for a maximum strength of 552 members in the Lok Sabha.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Parliament,Lok Sabha,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":70,
+            "id":277,
+            "title":"552",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":70,
+            "id":278,
+            "title":"545",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":70,
+            "id":279,
+            "title":"550",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":70,
+            "id":280,
+            "title":"500",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":71,
+      "difficulty":3,
+      "title":"71. Which writ is issued to produce a detained person before a court?",
+      "description":"",
+      "hint":"Its Latin meaning is 'you may have the body'.",
+      "summary":"Habeas Corpus safeguards personal liberty against unlawful detention.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Writs,Judiciary,Fundamental Rights,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":71,
+            "id":281,
+            "title":"Habeas Corpus",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":71,
+            "id":282,
+            "title":"Mandamus",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":71,
+            "id":283,
+            "title":"Certiorari",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":71,
+            "id":284,
+            "title":"Quo Warranto",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":72,
+      "difficulty":3,
+      "title":"72. Which feature of the Indian Constitution was borrowed from the Constitution of Ireland?",
+      "description":"",
+      "hint":"These principles guide the State in governance but are not enforceable in court.",
+      "summary":"Directive Principles of State Policy were borrowed from the Irish Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitution,Sources of Constitution,DPSP,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":72,
+            "id":285,
+            "title":"Directive Principles of State Policy",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":72,
+            "id":286,
+            "title":"Fundamental Rights",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":72,
+            "id":287,
+            "title":"Judicial Review",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":72,
+            "id":288,
+            "title":"Parliamentary System",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":73,
+      "difficulty":3,
+      "title":"73. Which body is known as the guardian of the Constitution?",
+      "description":"",
+      "hint":"It has the power of judicial review.",
+      "summary":"The Supreme Court protects and interprets the Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Judiciary,Supreme Court,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":73,
+            "id":289,
+            "title":"Supreme Court",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":73,
+            "id":290,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":73,
+            "id":291,
+            "title":"Parliament",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":73,
+            "id":292,
+            "title":"Election Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":74,
+      "difficulty":3,
+      "title":"74. Which Constitutional Amendment granted constitutional status to Urban Local Bodies?",
+      "description":"",
+      "hint":"This amendment is often studied together with the 73rd Amendment.",
+      "summary":"The 74th Constitutional Amendment Act provided constitutional status to Municipalities.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Urban Local Government,74th Amendment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":74,
+            "id":293,
+            "title":"74th Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":74,
+            "id":294,
+            "title":"73rd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":74,
+            "id":295,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":74,
+            "id":296,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":75,
+      "difficulty":3,
+      "title":"75. Which Article empowers the President to promulgate Ordinances?",
+      "description":"",
+      "hint":"This power can be used when Parliament is not in session.",
+      "summary":"Article 123 empowers the President to promulgate Ordinances.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,President,Ordinance,Article 123,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":75,
+            "id":297,
+            "title":"Article 123",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":75,
+            "id":298,
+            "title":"Article 143",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":75,
+            "id":299,
+            "title":"Article 356",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":75,
+            "id":300,
+            "title":"Article 352",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":76,
+      "difficulty":3,
+      "title":"76. Which Schedule of the Constitution contains the Union, State and Concurrent Lists?",
+      "description":"",
+      "hint":"This schedule is fundamental to India's federal structure.",
+      "summary":"The Seventh Schedule distributes legislative powers between the Union and States.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Federalism,Schedules,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":76,
+            "id":301,
+            "title":"Seventh Schedule",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":76,
+            "id":302,
+            "title":"Eighth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":76,
+            "id":303,
+            "title":"Ninth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":76,
+            "id":304,
+            "title":"Tenth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":77,
+      "difficulty":4,
+      "title":"77. In which case did the Supreme Court propound the Basic Structure Doctrine?",
+      "description":"",
+      "hint":"The case involved Parliament's power to amend the Constitution.",
+      "summary":"The Kesavananda Bharati case (1973) established the Basic Structure Doctrine.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Judiciary,Basic Structure,Landmark Cases,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":77,
+            "id":305,
+            "title":"Kesavananda Bharati Case",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":77,
+            "id":306,
+            "title":"Golaknath Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":77,
+            "id":307,
+            "title":"Minerva Mills Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":77,
+            "id":308,
+            "title":"S.R. Bommai Case",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":78,
+      "difficulty":4,
+      "title":"78. Which Constitutional Amendment inserted the words 'Socialist' and 'Secular' into the Preamble?",
+      "description":"",
+      "hint":"The same amendment also added Fundamental Duties.",
+      "summary":"The 42nd Constitutional Amendment inserted the words Socialist and Secular into the Preamble.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Preamble,42nd Amendment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":78,
+            "id":309,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":78,
+            "id":310,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":78,
+            "id":311,
+            "title":"24th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":78,
+            "id":312,
+            "title":"52nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":79,
+      "difficulty":4,
+      "title":"79. Which emergency has never been proclaimed in India till date?",
+      "description":"",
+      "hint":"It is related to the country's financial stability.",
+      "summary":"Financial Emergency under Article 360 has never been imposed in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Emergency Provisions,Article 360,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":79,
+            "id":313,
+            "title":"Financial Emergency",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":79,
+            "id":314,
+            "title":"National Emergency",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":79,
+            "id":315,
+            "title":"President's Rule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":79,
+            "id":316,
+            "title":"State Emergency",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":80,
+      "difficulty":4,
+      "title":"80. Which constitutional body audits the accounts of the Union and State Governments?",
+      "description":"",
+      "hint":"This authority is often called the guardian of the public purse.",
+      "summary":"The Comptroller and Auditor General (CAG) audits government accounts.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,CAG,Constitutional Bodies,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":80,
+            "id":317,
+            "title":"Comptroller and Auditor General",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":80,
+            "id":318,
+            "title":"Finance Commission",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":80,
+            "id":319,
+            "title":"NITI Aayog",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":80,
+            "id":320,
+            "title":"Election Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":81,
+      "difficulty":4,
+      "title":"81. Which Article of the Constitution provides for President's Rule in a State?",
+      "description":"",
+      "hint":"This provision is invoked when constitutional machinery fails in a state.",
+      "summary":"Article 356 empowers the President to impose President's Rule in a state.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Emergency Provisions,Article 356,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":81,
+            "id":321,
+            "title":"Article 356",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":81,
+            "id":322,
+            "title":"Article 352",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":81,
+            "id":323,
+            "title":"Article 360",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":81,
+            "id":324,
+            "title":"Article 365",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":82,
+      "difficulty":4,
+      "title":"82. Which case established that Parliament cannot alter the Basic Structure of the Constitution?",
+      "description":"",
+      "hint":"The judgment was delivered by the largest constitutional bench in Indian history.",
+      "summary":"The Kesavananda Bharati case established the Basic Structure Doctrine.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Judiciary,Basic Structure,Landmark Cases,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":82,
+            "id":325,
+            "title":"Kesavananda Bharati Case",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":82,
+            "id":326,
+            "title":"S.R. Bommai Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":82,
+            "id":327,
+            "title":"Golaknath Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":82,
+            "id":328,
+            "title":"Maneka Gandhi Case",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":83,
+      "difficulty":4,
+      "title":"83. Which Article deals with the amendment of the Constitution?",
+      "description":"",
+      "hint":"This Article lays down the procedure for constitutional amendments.",
+      "summary":"Article 368 specifies the procedure for amending the Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitutional Amendments,Article 368,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":83,
+            "id":329,
+            "title":"Article 368",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":83,
+            "id":330,
+            "title":"Article 352",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":83,
+            "id":331,
+            "title":"Article 356",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":83,
+            "id":332,
+            "title":"Article 324",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":84,
+      "difficulty":4,
+      "title":"84. Which constitutional body conducts elections to Parliament and State Legislatures?",
+      "description":"",
+      "hint":"It is established under Article 324.",
+      "summary":"The Election Commission of India supervises and conducts elections.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Election Commission,Article 324,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":84,
+            "id":333,
+            "title":"Election Commission of India",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":84,
+            "id":334,
+            "title":"Finance Commission",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":84,
+            "id":335,
+            "title":"UPSC",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":84,
+            "id":336,
+            "title":"CAG",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":85,
+      "difficulty":4,
+      "title":"85. Which writ commands a public authority to perform its legal duty?",
+      "description":"",
+      "hint":"Its Latin meaning is 'we command'.",
+      "summary":"Mandamus is issued to direct a public authority to perform its duty.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Writs,Judiciary,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":85,
+            "id":337,
+            "title":"Mandamus",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":85,
+            "id":338,
+            "title":"Habeas Corpus",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":85,
+            "id":339,
+            "title":"Certiorari",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":85,
+            "id":340,
+            "title":"Quo Warranto",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":86,
+      "difficulty":4,
+      "title":"86. Which amendment added Part IX to the Constitution?",
+      "description":"",
+      "hint":"It is associated with democratic decentralization in rural India.",
+      "summary":"The 73rd Constitutional Amendment added Part IX relating to Panchayats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Panchayati Raj,73rd Amendment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":86,
+            "id":341,
+            "title":"73rd Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":86,
+            "id":342,
+            "title":"74th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":86,
+            "id":343,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":86,
+            "id":344,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":87,
+      "difficulty":4,
+      "title":"87. Which Schedule contains the list of recognized languages in India?",
+      "description":"",
+      "hint":"The number of languages in this schedule increased through amendments.",
+      "summary":"The Eighth Schedule contains the recognized languages of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Schedules,Languages,Eighth Schedule,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":87,
+            "id":345,
+            "title":"Eighth Schedule",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":87,
+            "id":346,
+            "title":"Seventh Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":87,
+            "id":347,
+            "title":"Ninth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":87,
+            "id":348,
+            "title":"Tenth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":88,
+      "difficulty":4,
+      "title":"88. Which Article empowers the Supreme Court to issue writs for enforcement of Fundamental Rights?",
+      "description":"",
+      "hint":"Dr. Ambedkar called this Article the heart and soul of the Constitution.",
+      "summary":"Article 32 empowers the Supreme Court to issue writs.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Article 32,Writs,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":88,
+            "id":349,
+            "title":"Article 32",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":88,
+            "id":350,
+            "title":"Article 226",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":88,
+            "id":351,
+            "title":"Article 19",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":88,
+            "id":352,
+            "title":"Article 21",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":89,
+      "difficulty":4,
+      "title":"89. Which case is associated with the doctrine of judicial review being part of the basic structure?",
+      "description":"",
+      "hint":"The judgment struck down parts of the 42nd Amendment.",
+      "summary":"The Minerva Mills case reinforced judicial review as part of the basic structure.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Judiciary,Judicial Review,Landmark Cases,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":89,
+            "id":353,
+            "title":"Minerva Mills Case",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":89,
+            "id":354,
+            "title":"Kesavananda Bharati Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":89,
+            "id":355,
+            "title":"Golaknath Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":89,
+            "id":356,
+            "title":"ADM Jabalpur Case",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":90,
+      "difficulty":4,
+      "title":"90. Which body recommends the distribution of tax revenues between the Centre and States?",
+      "description":"",
+      "hint":"It is constituted every five years by the President.",
+      "summary":"The Finance Commission recommends revenue-sharing arrangements.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Finance Commission,Fiscal Federalism,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":90,
+            "id":357,
+            "title":"Finance Commission",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":90,
+            "id":358,
+            "title":"NITI Aayog",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":90,
+            "id":359,
+            "title":"GST Council",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":90,
+            "id":360,
+            "title":"UPSC",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":91,
+      "difficulty":5,
+      "title":"91. Which Article grants special status provisions for Jammu and Kashmir before its abrogation in 2019?",
+      "description":"",
+      "hint":"It was located in Part XXI of the Constitution.",
+      "summary":"Article 370 provided special constitutional provisions to Jammu and Kashmir.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Article 370,Constitution,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":91,
+            "id":361,
+            "title":"Article 370",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":91,
+            "id":362,
+            "title":"Article 371",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":91,
+            "id":363,
+            "title":"Article 356",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":91,
+            "id":364,
+            "title":"Article 35",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":92,
+      "difficulty":5,
+      "title":"92. Which case is known for expanding the scope of Article 21?",
+      "description":"",
+      "hint":"It involved the issue of a passport being impounded.",
+      "summary":"The Maneka Gandhi case broadened the interpretation of the Right to Life and Personal Liberty.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Article 21,Landmark Cases,Judiciary,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":92,
+            "id":365,
+            "title":"Maneka Gandhi Case",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":92,
+            "id":366,
+            "title":"Kesavananda Bharati Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":92,
+            "id":367,
+            "title":"Golaknath Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":92,
+            "id":368,
+            "title":"S.R. Bommai Case",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":93,
+      "difficulty":5,
+      "title":"93. Which constitutional body is responsible for recruiting civil servants for the Union Government?",
+      "description":"",
+      "hint":"Its name includes the word 'Public'.",
+      "summary":"The Union Public Service Commission conducts recruitment for central services.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,UPSC,Constitutional Bodies,Civil Services",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":93,
+            "id":369,
+            "title":"UPSC",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":93,
+            "id":370,
+            "title":"SSC",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":93,
+            "id":371,
+            "title":"Election Commission",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":93,
+            "id":372,
+            "title":"Finance Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":94,
+      "difficulty":5,
+      "title":"94. Which Schedule was created to protect certain laws from judicial review?",
+      "description":"",
+      "hint":"It was introduced by the First Constitutional Amendment.",
+      "summary":"The Ninth Schedule was created to shield specific laws from judicial scrutiny.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Ninth Schedule,Constitutional Amendments,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":94,
+            "id":373,
+            "title":"Ninth Schedule",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":94,
+            "id":374,
+            "title":"Eighth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":94,
+            "id":375,
+            "title":"Tenth Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":94,
+            "id":376,
+            "title":"Seventh Schedule",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":95,
+      "difficulty":5,
+      "title":"95. Which case emphasized that secularism is a basic feature of the Constitution?",
+      "description":"",
+      "hint":"The case dealt extensively with Article 356 and federalism.",
+      "summary":"The S.R. Bommai case recognized secularism as a basic feature.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Secularism,S.R. Bommai,Federalism,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":95,
+            "id":377,
+            "title":"S.R. Bommai Case",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":95,
+            "id":378,
+            "title":"Kesavananda Bharati Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":95,
+            "id":379,
+            "title":"Minerva Mills Case",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":95,
+            "id":380,
+            "title":"Golaknath Case",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":96,
+      "difficulty":5,
+      "title":"96. Which Article provides for the establishment of the Inter-State Council?",
+      "description":"",
+      "hint":"It promotes coordination between the Union and States.",
+      "summary":"Article 263 provides for the Inter-State Council.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Federalism,Inter-State Council,Article 263,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":96,
+            "id":381,
+            "title":"Article 263",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":96,
+            "id":382,
+            "title":"Article 280",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":96,
+            "id":383,
+            "title":"Article 324",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":96,
+            "id":384,
+            "title":"Article 315",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":97,
+      "difficulty":5,
+      "title":"97. Which constitutional amendment is known as the Mini Constitution?",
+      "description":"",
+      "hint":"It made extensive changes during the Emergency period.",
+      "summary":"The 42nd Constitutional Amendment is known as the Mini Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,42nd Amendment,Constitutional Amendments,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":97,
+            "id":385,
+            "title":"42nd Amendment",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":97,
+            "id":386,
+            "title":"44th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":97,
+            "id":387,
+            "title":"24th Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":97,
+            "id":388,
+            "title":"52nd Amendment",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":98,
+      "difficulty":5,
+      "title":"98. Which Article empowers High Courts to issue writs?",
+      "description":"",
+      "hint":"Unlike the Supreme Court, this power extends beyond Fundamental Rights.",
+      "summary":"Article 226 empowers High Courts to issue writs.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,High Courts,Writs,Article 226,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":98,
+            "id":389,
+            "title":"Article 226",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":98,
+            "id":390,
+            "title":"Article 32",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":98,
+            "id":391,
+            "title":"Article 21",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":98,
+            "id":392,
+            "title":"Article 19",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":99,
+      "difficulty":5,
+      "title":"99. Which committee recommended the establishment of Panchayati Raj Institutions in India?",
+      "description":"",
+      "hint":"Its report was submitted in 1957.",
+      "summary":"The Balwant Rai Mehta Committee recommended the Panchayati Raj system.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Panchayati Raj,Committees,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":99,
+            "id":393,
+            "title":"Balwant Rai Mehta Committee",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":99,
+            "id":394,
+            "title":"Ashok Mehta Committee",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":99,
+            "id":395,
+            "title":"L.M. Singhvi Committee",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":99,
+            "id":396,
+            "title":"Sarkaria Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":100,
+      "difficulty":5,
+      "title":"100. Which constitutional office is known as the guardian of the Public Purse?",
+      "description":"",
+      "hint":"This authority audits government expenditure after it has occurred.",
+      "summary":"The Comptroller and Auditor General (CAG) safeguards public finances through auditing.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,CAG,Constitutional Bodies,Finance,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":100,
+            "id":397,
+            "title":"Comptroller and Auditor General",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":100,
+            "id":398,
+            "title":"Finance Commission",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":100,
+            "id":399,
+            "title":"UPSC",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":100,
+            "id":400,
+            "title":"Election Commission",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   }
+]
