@@ -514,10 +514,10 @@
     "questionTags": "Modern India,British Administration,Land Revenue Systems,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 229, "id": 613, "title": "Warren Hastings", "tenantId": 4, "isAnswer": false },
+      { "questionId": 229, "id": 613,"title": "Lord Dalhousie", "tenantId": 4, "isAnswer": false }
       { "questionId": 229, "id": 614, "title": "Cornwallis", "tenantId": 4, "isAnswer": false },
       { "questionId": 229, "id": 615, "title": "Thomas Munro", "tenantId": 4, "isAnswer": true },
-      { "questionId": 229, "id": 616, "title": "Lord Dalhousie", "tenantId": 4, "isAnswer": false }
+      { "questionId": 229, "id": 616,  "title": "Warren Hastings", "tenantId": 4, "isAnswer": false },
     ]
   },
 
@@ -714,10 +714,10 @@
     "questionTags": "Modern India,Freedom Movement,Constitutional Developments,UPSC,Bank PO,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 240, "id": 657, "title": "INC & Muslim League", "tenantId": 4, "isAnswer": true },
+      { "questionId": 240, "id": 657, "title": "INC & Swaraj Party", "tenantId": 4, "isAnswer": false }
       { "questionId": 240, "id": 658, "title": "INC & Hindu Mahasabha", "tenantId": 4, "isAnswer": false },
       { "questionId": 240, "id": 659, "title": "Muslim League & British", "tenantId": 4, "isAnswer": false },
-      { "questionId": 240, "id": 660, "title": "INC & Swaraj Party", "tenantId": 4, "isAnswer": false }
+      { "questionId": 240, "id": 660, "title": "INC & Muslim League", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -734,9 +734,9 @@
     "questionTags": "Medieval India,Travelers in India,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 241, "id": 661, "title": "Muhammad bin Tughlaq", "tenantId": 4, "isAnswer": true },
+      { "questionId": 241, "id": 661, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
       { "questionId": 241, "id": 662, "title": "Alauddin Khilji", "tenantId": 4, "isAnswer": false },
-      { "questionId": 241, "id": 663, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 241, "id": 663, "title": "Muhammad bin Tughlaq", "tenantId": 4, "isAnswer": true },
       { "questionId": 241, "id": 664, "title": "Balban", "tenantId": 4, "isAnswer": false }
     ]
   },
@@ -752,8 +752,8 @@
     "questionTags": "Modern India,Freedom Movement,Satyagraha,UPSC,RPSC,Bank PO",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 242, "id": 665, "title": "Vallabhbhai Patel", "tenantId": 4, "isAnswer": true },
-      { "questionId": 242, "id": 666, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": false },
+      { "questionId": 242, "id": 665,"title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": false }, 
+      { "questionId": 242, "id": 666, "title": "Vallabhbhai Patel", "tenantId": 4, "isAnswer": true },
       { "questionId": 242, "id": 667, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false },
       { "questionId": 242, "id": 668, "title": "Subhash Chandra Bose", "tenantId": 4, "isAnswer": false }
     ]
