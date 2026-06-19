@@ -10,10 +10,10 @@
     "questionTags": "History,World History,Basic GK,Exams: UPSC,SSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 201, "id": 501, "title": "Herodotus", "tenantId": 4, "isAnswer": true },
+      { "questionId": 201, "id": 501, "title": "Socrates", "tenantId": 4, "isAnswer": false }
       { "questionId": 201, "id": 502, "title": "Thucydides", "tenantId": 4, "isAnswer": false },
       { "questionId": 201, "id": 503, "title": "Plato", "tenantId": 4, "isAnswer": false },
-      { "questionId": 201, "id": 504, "title": "Socrates", "tenantId": 4, "isAnswer": false }
+      { "questionId": 201, "id": 504,"title": "Herodotus", "tenantId": 4, "isAnswer": true },
     ]
   },
   {
@@ -27,9 +27,9 @@
     "questionTags": "Ancient India,Indus Valley Civilization,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 202, "id": 505, "title": "Indus River", "tenantId": 4, "isAnswer": true },
+      { "questionId": 202, "id": 505, "title": "Yamuna River", "tenantId": 4, "isAnswer": false },
       { "questionId": 202, "id": 506, "title": "Ganga River", "tenantId": 4, "isAnswer": false },
-      { "questionId": 202, "id": 507, "title": "Yamuna River", "tenantId": 4, "isAnswer": false },
+      { "questionId": 202, "id": 507, "title": "Indus River", "tenantId": 4, "isAnswer": true },
       { "questionId": 202, "id": 508, "title": "Brahmaputra River", "tenantId": 4, "isAnswer": false }
     ]
   },
@@ -61,8 +61,8 @@
     "questionTags": "Modern India,Indian Polity,Freedom Movement,UPSC,SSC,RPSC,Bank PO",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 204, "id": 513, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": true },
-      { "questionId": 204, "id": 514, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 204, "id": 513, "title": "Mahatma Gandhi", "tenantId": 4, "isAnswer": false },
+      { "questionId": 204, "id": 514, "title": "Jawaharlal Nehru", "tenantId": 4, "isAnswer": true },
       { "questionId": 204, "id": 515, "title": "Sardar Patel", "tenantId": 4, "isAnswer": false },
       { "questionId": 204, "id": 516, "title": "Dr. B.R. Ambedkar", "tenantId": 4, "isAnswer": false }
     ]
@@ -78,8 +78,8 @@
     "questionTags": "Ancient India,Maurya Empire,UPSC,SSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 205, "id": 517, "title": "Chandragupta Maurya", "tenantId": 4, "isAnswer": true },
-      { "questionId": 205, "id": 518, "title": "Ashoka", "tenantId": 4, "isAnswer": false },
+      { "questionId": 205, "id": 517, "title": "Ashoka", "tenantId": 4, "isAnswer": false },
+      { "questionId": 205, "id": 518,  "title": "Chandragupta Maurya", "tenantId": 4, "isAnswer": true },
       { "questionId": 205, "id": 519, "title": "Bindusara", "tenantId": 4, "isAnswer": false },
       { "questionId": 205, "id": 520, "title": "Harsha", "tenantId": 4, "isAnswer": false }
     ]
@@ -132,10 +132,10 @@
     "questionTags": "Ancient India,Buddhism,World Religions,UPSC,SSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 208, "id": 529, "title": "Bodh Gaya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 208, "id": 529,"title": "Lumbini", "tenantId": 4, "isAnswer": false }
       { "questionId": 208, "id": 530, "title": "Sarnath", "tenantId": 4, "isAnswer": false },
       { "questionId": 208, "id": 531, "title": "Kushinagar", "tenantId": 4, "isAnswer": false },
-      { "questionId": 208, "id": 532, "title": "Lumbini", "tenantId": 4, "isAnswer": false }
+      { "questionId": 208, "id": 532,  "title": "Bodh Gaya", "tenantId": 4, "isAnswer": true },
     ]
   },
 
