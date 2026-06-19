@@ -314,8 +314,8 @@
     "questionTags": "Ancient India,Harsha Period,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 218, "id": 569, "title": "Thanesar", "tenantId": 4, "isAnswer": true },
-      { "questionId": 218, "id": 570, "title": "Kannauj", "tenantId": 4, "isAnswer": false },
+      { "questionId": 218, "id": 569, "title": "Kannauj", "tenantId": 4, "isAnswer": false },
+      { "questionId": 218, "id": 570, "title": "Thanesar", "tenantId": 4, "isAnswer": true },
       { "questionId": 218, "id": 571, "title": "Pataliputra", "tenantId": 4, "isAnswer": false },
       { "questionId": 218, "id": 572, "title": "Ujjain", "tenantId": 4, "isAnswer": false }
     ]
@@ -496,8 +496,8 @@
     "questionTags": "Ancient India,Maurya Empire,Foreign Accounts,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 228, "id": 609, "title": "Megasthenes", "tenantId": 4, "isAnswer": true },
-      { "questionId": 228, "id": 610, "title": "Fa-Hien", "tenantId": 4, "isAnswer": false },
+      { "questionId": 228, "id": 609, "title": "Fa-Hien", "tenantId": 4, "isAnswer": false },
+      { "questionId": 228, "id": 610, "title": "Megasthenes", "tenantId": 4, "isAnswer": true },
       { "questionId": 228, "id": 611, "title": "Hiuen Tsang", "tenantId": 4, "isAnswer": false },
       { "questionId": 228, "id": 612, "title": "Pliny", "tenantId": 4, "isAnswer": false }
     ]
@@ -514,9 +514,9 @@
     "questionTags": "Modern India,British Administration,Land Revenue Systems,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 229, "id": 613, "title": "Thomas Munro", "tenantId": 4, "isAnswer": true },
+      { "questionId": 229, "id": 613, "title": "Warren Hastings", "tenantId": 4, "isAnswer": false },
       { "questionId": 229, "id": 614, "title": "Cornwallis", "tenantId": 4, "isAnswer": false },
-      { "questionId": 229, "id": 615, "title": "Warren Hastings", "tenantId": 4, "isAnswer": false },
+      { "questionId": 229, "id": 615, "title": "Thomas Munro", "tenantId": 4, "isAnswer": true },
       { "questionId": 229, "id": 616, "title": "Lord Dalhousie", "tenantId": 4, "isAnswer": false }
     ]
   },
@@ -532,10 +532,10 @@
     "questionTags": "Ancient India,Kushan Empire,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 230, "id": 617, "title": "Peshawar", "tenantId": 4, "isAnswer": true },
+      { "questionId": 230, "id": 620, "title": "Ujjain", "tenantId": 4, "isAnswer": false }
       { "questionId": 230, "id": 618, "title": "Mathura", "tenantId": 4, "isAnswer": false },
       { "questionId": 230, "id": 619, "title": "Taxila", "tenantId": 4, "isAnswer": false },
-      { "questionId": 230, "id": 620, "title": "Ujjain", "tenantId": 4, "isAnswer": false }
+      { "questionId": 230, "id": 617, "title": "Peshawar", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -552,8 +552,8 @@
     "questionTags": "Ancient India,Indus Valley Civilization,Archaeology,UPSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 231, "id": 621, "title": "Kalibangan", "tenantId": 4, "isAnswer": true },
       { "questionId": 231, "id": 622, "title": "Lothal", "tenantId": 4, "isAnswer": false },
+      { "questionId": 231, "id": 621, "title": "Kalibangan", "tenantId": 4, "isAnswer": true },
       { "questionId": 231, "id": 623, "title": "Dholavira", "tenantId": 4, "isAnswer": false },
       { "questionId": 231, "id": 624, "title": "Harappa", "tenantId": 4, "isAnswer": false }
     ]
@@ -570,10 +570,10 @@
     "questionTags": "Ancient India,Gupta Empire,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 232, "id": 625, "title": "Vikramaditya", "tenantId": 4, "isAnswer": true },
+      { "questionId": 232, "id": 628, "title": "Param Bhattaraka", "tenantId": 4, "isAnswer": false }
       { "questionId": 232, "id": 626, "title": "Samrat", "tenantId": 4, "isAnswer": false },
       { "questionId": 232, "id": 627, "title": "Maharajadhiraj", "tenantId": 4, "isAnswer": false },
-      { "questionId": 232, "id": 628, "title": "Param Bhattaraka", "tenantId": 4, "isAnswer": false }
+      { "questionId": 232, "id": 625, "title": "Vikramaditya", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -606,9 +606,9 @@
     "questionTags": "Modern India,Charter Acts,British India,UPSC,Bank PO,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 234, "id": 633, "title": "Governor-General of India was created", "tenantId": 4, "isAnswer": true },
+      { "questionId": 234,  "id": 635, "title": "Bicameral legislature created", "tenantId": 4, "isAnswer": false },
       { "questionId": 234, "id": 634, "title": "Dyarchy was introduced", "tenantId": 4, "isAnswer": false },
-      { "questionId": 234, "id": 635, "title": "Bicameral legislature created", "tenantId": 4, "isAnswer": false },
+      { "questionId": 234,"id": 633, "title": "Governor-General of India was created", "tenantId": 4, "isAnswer": true },
       { "questionId": 234, "id": 636, "title": "Provincial autonomy granted", "tenantId": 4, "isAnswer": false }
     ]
   },
@@ -624,8 +624,8 @@
     "questionTags": "Ancient India,Mahajanapadas,Buddhist Literature,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 235, "id": 637, "title": "Anguttara Nikaya", "tenantId": 4, "isAnswer": true },
       { "questionId": 235, "id": 638, "title": "Rigveda", "tenantId": 4, "isAnswer": false },
+      { "questionId": 235, "id": 637, "title": "Anguttara Nikaya", "tenantId": 4, "isAnswer": true },
       { "questionId": 235, "id": 639, "title": "Atharvaveda", "tenantId": 4, "isAnswer": false },
       { "questionId": 235, "id": 640, "title": "Samaveda", "tenantId": 4, "isAnswer": false }
     ]
