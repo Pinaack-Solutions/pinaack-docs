@@ -788,8 +788,8 @@
     "questionTags": "Medieval India,Art & Culture,Architecture,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 244, "id": 673, "title": "Eastern Ganga Dynasty", "tenantId": 4, "isAnswer": true },
-      { "questionId": 244, "id": 674, "title": "Gahadavalas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 244, "id": 673, "title": "Gahadavalas", "tenantId": 4, "isAnswer": false },
+      { "questionId": 244, "id": 674, "title": "Eastern Ganga Dynasty", "tenantId": 4, "isAnswer": true },
       { "questionId": 244, "id": 675, "title": "Rashtrakutas", "tenantId": 4, "isAnswer": false },
       { "questionId": 244, "id": 676, "title": "Chalukyas", "tenantId": 4, "isAnswer": false }
     ]
@@ -806,10 +806,10 @@
     "questionTags": "Modern India,Freedom Struggle,Reform Movements,UPSC,Bank PO,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 245, "id": 677, "title": "Gopal Krishna Gokhale", "tenantId": 4, "isAnswer": true },
+      { "questionId": 245, "id": 677, "title": "Annie Besant", "tenantId": 4, "isAnswer": false }
       { "questionId": 245, "id": 678, "title": "Bal Gangadhar Tilak", "tenantId": 4, "isAnswer": false },
       { "questionId": 245, "id": 679, "title": "Lala Lajpat Rai", "tenantId": 4, "isAnswer": false },
-      { "questionId": 245, "id": 680, "title": "Annie Besant", "tenantId": 4, "isAnswer": false }
+      { "questionId": 245, "id": 680, "title": "Gopal Krishna Gokhale", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -824,10 +824,10 @@
     "questionTags": "Ancient India,Satavahanas,Inscriptions,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 246, "id": 681, "title": "Gautami Balashri", "tenantId": 4, "isAnswer": true },
+      { "questionId": 246, "id": 681, "title": "Banabhatta", "tenantId": 4, "isAnswer": false }
       { "questionId": 246, "id": 682, "title": "Harisena", "tenantId": 4, "isAnswer": false },
       { "questionId": 246, "id": 683, "title": "Kalhana", "tenantId": 4, "isAnswer": false },
-      { "questionId": 246, "id": 684, "title": "Banabhatta", "tenantId": 4, "isAnswer": false }
+      { "questionId": 246, "id": 684, "title": "Gautami Balashri", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -842,10 +842,10 @@
     "questionTags": "Modern India,Revolutionary Movements,Freedom Struggle,UPSC,Bank PO,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 247, "id": 685, "title": "Chandrashekhar Azad", "tenantId": 4, "isAnswer": true },
+      { "questionId": 247, "id": 685,  "title": "Rajguru", "tenantId": 4, "isAnswer": false }
       { "questionId": 247, "id": 686, "title": "Bhagat Singh", "tenantId": 4, "isAnswer": false },
       { "questionId": 247, "id": 687, "title": "Sukhdev", "tenantId": 4, "isAnswer": false },
-      { "questionId": 247, "id": 688, "title": "Rajguru", "tenantId": 4, "isAnswer": false }
+      { "questionId": 247, "id": 688,"title": "Chandrashekhar Azad", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -878,8 +878,8 @@
     "questionTags": "Modern India,Marathas,British India,UPSC,Bank PO,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 249, "id": 693, "title": "Marathas", "tenantId": 4, "isAnswer": true },
-      { "questionId": 249, "id": 694, "title": "Mysore Kingdom", "tenantId": 4, "isAnswer": false },
+      { "questionId": 249, "id": 693, "title": "Mysore Kingdom", "tenantId": 4, "isAnswer": false },
+      { "questionId": 249, "id": 694, "title": "Marathas", "tenantId": 4, "isAnswer": true },
       { "questionId": 249, "id": 695, "title": "Sikh Empire", "tenantId": 4, "isAnswer": false },
       { "questionId": 249, "id": 696, "title": "Nizam of Hyderabad", "tenantId": 4, "isAnswer": false }
     ]
@@ -896,9 +896,9 @@
     "questionTags": "Medieval India,Historical Texts,Kashmir History,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 250, "id": 697, "title": "Kalhana", "tenantId": 4, "isAnswer": true },
+      { "questionId": 250, "id": 697, "title": "Banabhatta", "tenantId": 4, "isAnswer": false },
       { "questionId": 250, "id": 698, "title": "Bilhana", "tenantId": 4, "isAnswer": false },
-      { "questionId": 250, "id": 699, "title": "Banabhatta", "tenantId": 4, "isAnswer": false },
+      { "questionId": 250, "id": 699, "title": "Kalhana", "tenantId": 4, "isAnswer": true },
       { "questionId": 250, "id": 700, "title": "Bhasa", "tenantId": 4, "isAnswer": false }
     ]
   }
