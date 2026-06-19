@@ -206,8 +206,8 @@
     "questionTags": "Ancient India,Indus Valley Civilization,Archaeology,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 212, "id": 545, "title": "Lothal", "tenantId": 4, "isAnswer": true },
-      { "questionId": 212, "id": 546, "title": "Mohenjo-Daro", "tenantId": 4, "isAnswer": false },
+      { "questionId": 212, "id": 545, "title": "Mohenjo-Daro", "tenantId": 4, "isAnswer": false },
+      { "questionId": 212, "id": 546, "title": "Lothal", "tenantId": 4, "isAnswer": true },
       { "questionId": 212, "id": 547, "title": "Harappa", "tenantId": 4, "isAnswer": false },
       { "questionId": 212, "id": 548, "title": "Kalibangan", "tenantId": 4, "isAnswer": false }
     ]
@@ -224,9 +224,9 @@
     "questionTags": "Modern India,British India,UPSC,SSC,RPSC,Bank PO",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 213, "id": 549, "title": "1757", "tenantId": 4, "isAnswer": true },
+      { "questionId": 213, "id": 549, "title": "1857", "tenantId": 4, "isAnswer": false },
       { "questionId": 213, "id": 550, "title": "1764", "tenantId": 4, "isAnswer": false },
-      { "questionId": 213, "id": 551, "title": "1857", "tenantId": 4, "isAnswer": false },
+      { "questionId": 213, "id": 551, "title": "1757", "tenantId": 4, "isAnswer": true },
       { "questionId": 213, "id": 552, "title": "1802", "tenantId": 4, "isAnswer": false }
     ]
   },
@@ -278,10 +278,10 @@
     "questionTags": "Ancient India,Gupta Empire,Inscriptions,UPSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 216, "id": 561, "title": "Harisena", "tenantId": 4, "isAnswer": true },
+      { "questionId": 216, "id": 561,  "title": "Vishakhadatta", "tenantId": 4, "isAnswer": false }
       { "questionId": 216, "id": 562, "title": "Kalidasa", "tenantId": 4, "isAnswer": false },
       { "questionId": 216, "id": 563, "title": "Banabhatta", "tenantId": 4, "isAnswer": false },
-      { "questionId": 216, "id": 564, "title": "Vishakhadatta", "tenantId": 4, "isAnswer": false }
+      { "questionId": 216, "id": 564,"title": "Harisena", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -296,8 +296,8 @@
     "questionTags": "Medieval India,Delhi Sultanate,UPSC,RPSC,SSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 217, "id": 565, "title": "Qutb-ud-din Aibak", "tenantId": 4, "isAnswer": true },
-      { "questionId": 217, "id": 566, "title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 217, "id": 565,"title": "Iltutmish", "tenantId": 4, "isAnswer": false },
+      { "questionId": 217, "id": 566,  "title": "Qutb-ud-din Aibak", "tenantId": 4, "isAnswer": true },
       { "questionId": 217, "id": 567, "title": "Balban", "tenantId": 4, "isAnswer": false },
       { "questionId": 217, "id": 568, "title": "Razia Sultana", "tenantId": 4, "isAnswer": false }
     ]
@@ -332,8 +332,8 @@
     "questionTags": "Modern India,Reform Movements,UPSC,Bank PO,SSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 219, "id": 573, "title": "Raja Ram Mohan Roy", "tenantId": 4, "isAnswer": true },
-      { "questionId": 219, "id": 574, "title": "Dayanand Saraswati", "tenantId": 4, "isAnswer": false },
+      { "questionId": 219, "id": 573,  "title": "Dayanand Saraswati", "tenantId": 4, "isAnswer": false },
+      { "questionId": 219, "id": 574, "title": "Raja Ram Mohan Roy", "tenantId": 4, "isAnswer": true },
       { "questionId": 219, "id": 575, "title": "Swami Vivekananda", "tenantId": 4, "isAnswer": false },
       { "questionId": 219, "id": 576, "title": "Ishwar Chandra Vidyasagar", "tenantId": 4, "isAnswer": false }
     ]
@@ -350,10 +350,10 @@
     "questionTags": "Modern India,Freedom Movement,INC,UPSC,SSC,Bank PO",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 220, "id": 577, "title": "1885", "tenantId": 4, "isAnswer": true },
+      { "questionId": 220, "id": 577, "title": "1857", "tenantId": 4, "isAnswer": false }
       { "questionId": 220, "id": 578, "title": "1890", "tenantId": 4, "isAnswer": false },
       { "questionId": 220, "id": 579, "title": "1905", "tenantId": 4, "isAnswer": false },
-      { "questionId": 220, "id": 580, "title": "1857", "tenantId": 4, "isAnswer": false }
+      { "questionId": 220, "id": 580, "title": "1885", "tenantId": 4, "isAnswer": true },
     ]
   },
 
@@ -370,8 +370,8 @@
     "questionTags": "Ancient India,Buddhism,Religious History,UPSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 221, "id": 581, "title": "Second Council", "tenantId": 4, "isAnswer": true },
-      { "questionId": 221, "id": 582, "title": "Third Council", "tenantId": 4, "isAnswer": false },
+      { "questionId": 221, "id": 581,"title": "Third Council", "tenantId": 4, "isAnswer": false },
+      { "questionId": 221, "id": 582,  "title": "Second Council", "tenantId": 4, "isAnswer": true },
       { "questionId": 221, "id": 583, "title": "First Council", "tenantId": 4, "isAnswer": false },
       { "questionId": 221, "id": 584, "title": "Fourth Council", "tenantId": 4, "isAnswer": false }
     ]
@@ -406,10 +406,10 @@
     "questionTags": "Medieval India,Mughal Empire,Art & Culture,UPSC,SSC,RPSC",
     "createdDate": "2025-02-19T10:30:00.000Z",
     "options": [
-      { "questionId": 223, "id": 589, "title": "Dara Shikoh", "tenantId": 4, "isAnswer": true },
+      { "questionId": 223, "id": 589, "title": "Jahangir", "tenantId": 4, "isAnswer": false }
       { "questionId": 223, "id": 590, "title": "Aurangzeb", "tenantId": 4, "isAnswer": false },
-      { "questionId": 223, "id": 591, "title": "Shah Jahan", "tenantId": 4, "isAnswer": false },
-      { "questionId": 223, "id": 592, "title": "Jahangir", "tenantId": 4, "isAnswer": false }
+      { "questionId": 223, "id": 591, "title": "Dara Shikoh", "tenantId": 4, "isAnswer": true },
+      { "questionId": 223, "id": 592, "title": "Shah Jahan", "tenantId": 4, "isAnswer": false },
     ]
   },
 
