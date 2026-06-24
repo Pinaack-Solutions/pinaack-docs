@@ -1468,5 +1468,635 @@
             "isAnswer":false
          }
       ]
+   },
+   {
+      "id":286,
+      "difficulty":3,
+      "title":"286. Shendurney Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"It is part of the Agasthyamalai Biosphere Reserve.",
+      "summary":"Shendurney Wildlife Sanctuary is an important protected area in southern Kerala.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Shendurney,Kerala,Agasthyamalai,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":286,
+            "id":941,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":286,
+            "id":942,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":286,
+            "id":943,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":286,
+            "id":944,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":287,
+      "difficulty":3,
+      "title":"287. Sajnekhali Wildlife Sanctuary is located in which famous delta region?",
+      "description":"",
+      "hint":"The world's largest mangrove delta.",
+      "summary":"Sajnekhali Wildlife Sanctuary forms part of the Sundarbans ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Sajnekhali,Sundarbans,West Bengal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":287,
+            "id":945,
+            "title":"Mahanadi Delta",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":287,
+            "id":946,
+            "title":"Godavari Delta",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":287,
+            "id":947,
+            "title":"Sundarbans Delta",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":287,
+            "id":948,
+            "title":"Krishna Delta",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":288,
+      "difficulty":3,
+      "title":"288. Lothian Island Wildlife Sanctuary is situated in which state?",
+      "description":"",
+      "hint":"It is part of the Sundarbans region.",
+      "summary":"Lothian Island Wildlife Sanctuary is located in West Bengal.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Lothian Island,West Bengal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":288,
+            "id":949,
+            "title":"Odisha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":288,
+            "id":950,
+            "title":"West Bengal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":288,
+            "id":951,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":288,
+            "id":952,
+            "title":"Tripura",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":289,
+      "difficulty":4,
+      "title":"289. Raiganj Wildlife Sanctuary is also popularly known by what name?",
+      "description":"",
+      "hint":"Named after a local river.",
+      "summary":"Raiganj Wildlife Sanctuary is popularly known as Kulik Bird Sanctuary.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Raiganj,Kulik Bird Sanctuary,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":289,
+            "id":953,
+            "title":"Buxa Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":289,
+            "id":954,
+            "title":"Kulik Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":289,
+            "id":955,
+            "title":"Mahananda Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":289,
+            "id":956,
+            "title":"Jaldhaka Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":290,
+      "difficulty":4,
+      "title":"290. Eaglenest Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"It is known for the Bugun Liocichla bird.",
+      "summary":"Eaglenest Wildlife Sanctuary is one of India's premier birding destinations in Arunachal Pradesh.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Eaglenest,Arunachal Pradesh,Birds,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":290,
+            "id":957,
+            "title":"Nagaland",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":290,
+            "id":958,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":290,
+            "id":959,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":290,
+            "id":960,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":291,
+      "difficulty":4,
+      "title":"291. Pakke Wildlife Sanctuary is especially known for conservation of which bird family?",
+      "description":"",
+      "hint":"These birds have large curved bills.",
+      "summary":"Pakke Wildlife Sanctuary is famous for hornbill conservation.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Pakke,Hornbill,Arunachal Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":291,
+            "id":961,
+            "title":"Hornbills",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":291,
+            "id":962,
+            "title":"Flamingos",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":291,
+            "id":963,
+            "title":"Bustards",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":291,
+            "id":964,
+            "title":"Cranes",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":292,
+      "difficulty":4,
+      "title":"292. Dibang Wildlife Sanctuary is located in which Himalayan state?",
+      "description":"",
+      "hint":"India's easternmost state.",
+      "summary":"Dibang Wildlife Sanctuary protects a large area of eastern Himalayan biodiversity.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Dibang,Arunachal Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":292,
+            "id":965,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":292,
+            "id":966,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":292,
+            "id":967,
+            "title":"Uttarakhand",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":292,
+            "id":968,
+            "title":"Himachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":293,
+      "difficulty":4,
+      "title":"293. Dr. Salim Ali Bird Sanctuary is located in which state?",
+      "description":"",
+      "hint":"India's smallest state by area.",
+      "summary":"Dr. Salim Ali Bird Sanctuary is an important mangrove bird habitat in Goa.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Salim Ali Bird Sanctuary,Goa,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":293,
+            "id":969,
+            "title":"Goa",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":293,
+            "id":970,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":293,
+            "id":971,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":293,
+            "id":972,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":294,
+      "difficulty":4,
+      "title":"294. Bondla Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"A popular tourist destination on India's west coast.",
+      "summary":"Bondla Wildlife Sanctuary is one of the smallest but most visited sanctuaries in Goa.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bondla,Goa,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":294,
+            "id":973,
+            "title":"Goa",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":294,
+            "id":974,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":294,
+            "id":975,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":294,
+            "id":976,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":295,
+      "difficulty":5,
+      "title":"295. Bhagwan Mahavir Wildlife Sanctuary is famous for protecting which ecosystem?",
+      "description":"",
+      "hint":"A biodiversity hotspot along India's western edge.",
+      "summary":"Bhagwan Mahavir Wildlife Sanctuary forms part of the Western Ghats ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bhagwan Mahavir,Western Ghats,Goa,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":295,
+            "id":977,
+            "title":"Eastern Ghats",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":295,
+            "id":978,
+            "title":"Western Ghats",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":295,
+            "id":979,
+            "title":"Aravalli Range",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":295,
+            "id":980,
+            "title":"Vindhya Range",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":296,
+      "difficulty":5,
+      "title":"296. Interview Island Wildlife Sanctuary is located in which Union Territory?",
+      "description":"",
+      "hint":"This UT consists of island groups in the Bay of Bengal.",
+      "summary":"Interview Island Wildlife Sanctuary is located in the Andaman and Nicobar Islands.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Interview Island,Andaman and Nicobar,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":296,
+            "id":981,
+            "title":"Lakshadweep",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":296,
+            "id":982,
+            "title":"Andaman and Nicobar Islands",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":296,
+            "id":983,
+            "title":"Puducherry",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":296,
+            "id":984,
+            "title":"Dadra and Nagar Haveli and Daman and Diu",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":297,
+      "difficulty":5,
+      "title":"297. Narcondam Wildlife Sanctuary is famous for protecting which endemic bird?",
+      "description":"",
+      "hint":"The bird shares its name with the island.",
+      "summary":"Narcondam Wildlife Sanctuary is the only habitat of the Narcondam Hornbill.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Narcondam Hornbill,Andaman and Nicobar,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":297,
+            "id":985,
+            "title":"Nicobar Pigeon",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":297,
+            "id":986,
+            "title":"Narcondam Hornbill",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":297,
+            "id":987,
+            "title":"Andaman Teal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":297,
+            "id":988,
+            "title":"Megapode",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":298,
+      "difficulty":5,
+      "title":"298. Fambong Lho Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"Home to Kanchenjunga, India's highest peak.",
+      "summary":"Fambong Lho Wildlife Sanctuary is situated in Sikkim.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Fambong Lho,Sikkim,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":298,
+            "id":989,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":298,
+            "id":990,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":298,
+            "id":991,
+            "title":"West Bengal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":298,
+            "id":992,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":299,
+      "difficulty":5,
+      "title":"299. Barsey Wildlife Sanctuary is best known for the abundance of which flowering plant?",
+      "description":"",
+      "hint":"This flower is the state flower of several Himalayan states.",
+      "summary":"Barsey Wildlife Sanctuary is famous for its rhododendron forests.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Barsey,Rhododendron,Sikkim,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":299,
+            "id":993,
+            "title":"Orchid",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":299,
+            "id":994,
+            "title":"Rhododendron",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":299,
+            "id":995,
+            "title":"Magnolia",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":299,
+            "id":996,
+            "title":"Bamboo",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":300,
+      "difficulty":5,
+      "title":"300. Nongkhyllem Wildlife Sanctuary is located in which northeastern state?",
+      "description":"",
+      "hint":"Its capital is Shillong.",
+      "summary":"Nongkhyllem Wildlife Sanctuary is one of Meghalaya's most important protected areas.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Nongkhyllem,Meghalaya,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":300,
+            "id":997,
+            "title":"Tripura",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":300,
+            "id":998,
+            "title":"Meghalaya",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":300,
+            "id":999,
+            "title":"Mizoram",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":300,
+            "id":1000,
+            "title":"Nagaland",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
    }
 ]
