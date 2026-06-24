@@ -1,0 +1,1472 @@
+[
+   {
+      "id":251,
+      "difficulty":0,
+      "title":"251. Which Wildlife Sanctuary in Rajasthan is famous for blackbucks?",
+      "description":"",
+      "hint":"It is located near Jodhpur.",
+      "summary":"Gajner Wildlife Sanctuary is known for blackbucks and desert wildlife.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Rajasthan,Blackbuck,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":251,
+            "id":801,
+            "title":"Gajner Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":251,
+            "id":802,
+            "title":"Kumbhalgarh Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":251,
+            "id":803,
+            "title":"Mount Abu Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":251,
+            "id":804,
+            "title":"Tal Chhapar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":252,
+      "difficulty":0,
+      "title":"252. Tal Chhapar Wildlife Sanctuary is famous for which animal?",
+      "description":"",
+      "hint":"A graceful antelope found in grasslands.",
+      "summary":"Tal Chhapar Wildlife Sanctuary is renowned for blackbuck conservation.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Tal Chhapar,Blackbuck,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":252,
+            "id":805,
+            "title":"Nilgai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":252,
+            "id":806,
+            "title":"Blackbuck",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":252,
+            "id":807,
+            "title":"Chinkara",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":252,
+            "id":808,
+            "title":"Wild Ass",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":253,
+      "difficulty":0,
+      "title":"253. Sultanpur Wildlife Sanctuary was upgraded into a National Park in which state?",
+      "description":"",
+      "hint":"The state surrounds Delhi on three sides.",
+      "summary":"Sultanpur is located in Haryana and later became Sultanpur National Park.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Sultanpur,Haryana,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":253,
+            "id":809,
+            "title":"Punjab",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":253,
+            "id":810,
+            "title":"Haryana",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":253,
+            "id":811,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":253,
+            "id":812,
+            "title":"Uttar Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":254,
+      "difficulty":0,
+      "title":"254. Which Wildlife Sanctuary in Delhi protects part of the Aravalli hills?",
+      "description":"",
+      "hint":"It shares its name with a nearby village.",
+      "summary":"Asola Bhatti Wildlife Sanctuary protects the Northern Aravalli ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Delhi,Aravalli,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":254,
+            "id":813,
+            "title":"Okhla Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":254,
+            "id":814,
+            "title":"Asola Bhatti Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":254,
+            "id":815,
+            "title":"Najafgarh Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":254,
+            "id":816,
+            "title":"Yamuna Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":255,
+      "difficulty":1,
+      "title":"255. Which Wildlife Sanctuary in Uttar Pradesh is famous for migratory birds?",
+      "description":"",
+      "hint":"Located near Noida.",
+      "summary":"Okhla Bird Sanctuary attracts numerous migratory bird species.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bird Sanctuary,Uttar Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":255,
+            "id":817,
+            "title":"National Chambal Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":255,
+            "id":818,
+            "title":"Okhla Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":255,
+            "id":819,
+            "title":"Kaimur Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":255,
+            "id":820,
+            "title":"Ranipur Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":256,
+      "difficulty":1,
+      "title":"256. National Chambal Sanctuary is known for conserving which critically endangered reptile?",
+      "description":"",
+      "hint":"It has a very long narrow snout.",
+      "summary":"National Chambal Sanctuary is India's most important habitat for the gharial.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Gharial,Chambal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":256,
+            "id":821,
+            "title":"Mugger Crocodile",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":256,
+            "id":822,
+            "title":"Gharial",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":256,
+            "id":823,
+            "title":"Saltwater Crocodile",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":256,
+            "id":824,
+            "title":"Monitor Lizard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":257,
+      "difficulty":1,
+      "title":"257. Which Wildlife Sanctuary in Gujarat is famous for the Indian Wild Ass?",
+      "description":"",
+      "hint":"Located in the Little Rann region.",
+      "summary":"Wild Ass Sanctuary protects the last population of Indian Wild Ass.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Wild Ass,Gujarat,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":257,
+            "id":825,
+            "title":"Nal Sarovar Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":257,
+            "id":826,
+            "title":"Wild Ass Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":257,
+            "id":827,
+            "title":"Jessore Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":257,
+            "id":828,
+            "title":"Barda Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":258,
+      "difficulty":1,
+      "title":"258. Nal Sarovar Bird Sanctuary is located in which state?",
+      "description":"",
+      "hint":"Its largest city is Ahmedabad.",
+      "summary":"Nal Sarovar Bird Sanctuary is an important wetland in Gujarat.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Nal Sarovar,Birds,Gujarat,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":258,
+            "id":829,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":258,
+            "id":830,
+            "title":"Gujarat",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":258,
+            "id":831,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":258,
+            "id":832,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":259,
+      "difficulty":1,
+      "title":"259. Which bird sanctuary in Gujarat attracts flamingos?",
+      "description":"",
+      "hint":"It is centered around a large wetland lake.",
+      "summary":"Nal Sarovar Bird Sanctuary is famous for flamingos and migratory birds.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Flamingo,Gujarat,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":259,
+            "id":833,
+            "title":"Jessore Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":259,
+            "id":834,
+            "title":"Barda Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":259,
+            "id":835,
+            "title":"Nal Sarovar Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":259,
+            "id":836,
+            "title":"Wild Ass Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":260,
+      "difficulty":2,
+      "title":"260. Which Wildlife Sanctuary in Rajasthan is famous for wolves and leopards in the Aravalli hills?",
+      "description":"",
+      "hint":"A famous fort shares its name.",
+      "summary":"Kumbhalgarh Wildlife Sanctuary is known for wolves, leopards and rich biodiversity.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Kumbhalgarh,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":260,
+            "id":837,
+            "title":"Mount Abu Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":260,
+            "id":838,
+            "title":"Kumbhalgarh Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":260,
+            "id":839,
+            "title":"Tal Chhapar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":260,
+            "id":840,
+            "title":"Jaisamand Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":261,
+      "difficulty":2,
+      "title":"261. Mount Abu Wildlife Sanctuary is located in which mountain range?",
+      "description":"",
+      "hint":"The oldest fold mountains of India.",
+      "summary":"Mount Abu Wildlife Sanctuary lies in the Aravalli Range.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Mount Abu,Aravalli,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":261,
+            "id":841,
+            "title":"Vindhya Range",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":261,
+            "id":842,
+            "title":"Satpura Range",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":261,
+            "id":843,
+            "title":"Aravalli Range",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":261,
+            "id":844,
+            "title":"Western Ghats",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":262,
+      "difficulty":2,
+      "title":"262. Which Wildlife Sanctuary in Karnataka is famous for black panther sightings?",
+      "description":"",
+      "hint":"It shares its name with a river.",
+      "summary":"Dandeli Wildlife Sanctuary is known for black panthers and hornbills.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Dandeli,Black Panther,Karnataka,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":262,
+            "id":845,
+            "title":"Bhadra Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":262,
+            "id":846,
+            "title":"Dandeli Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":262,
+            "id":847,
+            "title":"Cauvery Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":262,
+            "id":848,
+            "title":"Pushpagiri Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":263,
+      "difficulty":2,
+      "title":"263. Bhadra Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"The state's capital is Bengaluru.",
+      "summary":"Bhadra Wildlife Sanctuary is located in Karnataka.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bhadra,Karnataka,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":263,
+            "id":849,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":263,
+            "id":850,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":263,
+            "id":851,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":263,
+            "id":852,
+            "title":"Goa",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":264,
+      "difficulty":3,
+      "title":"264. Which Wildlife Sanctuary in Kerala is famous for Nilgiri langurs and elephants?",
+      "description":"",
+      "hint":"Named after a large reservoir.",
+      "summary":"Periyar Wildlife Sanctuary is one of India's best-known protected areas.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Periyar,Kerala,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":264,
+            "id":853,
+            "title":"Wayanad Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":264,
+            "id":854,
+            "title":"Periyar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":264,
+            "id":855,
+            "title":"Chinnar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":264,
+            "id":856,
+            "title":"Peppara Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":265,
+      "difficulty":3,
+      "title":"265. Wayanad Wildlife Sanctuary is part of which larger biosphere reserve?",
+      "description":"",
+      "hint":"Shared by Karnataka, Kerala and Tamil Nadu.",
+      "summary":"Wayanad Wildlife Sanctuary is part of the Nilgiri Biosphere Reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Wayanad,Nilgiri Biosphere Reserve,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":265,
+            "id":857,
+            "title":"Agasthyamalai Biosphere Reserve",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":265,
+            "id":858,
+            "title":"Nilgiri Biosphere Reserve",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":265,
+            "id":859,
+            "title":"Pachmarhi Biosphere Reserve",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":265,
+            "id":860,
+            "title":"Nokrek Biosphere Reserve",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":266,
+      "difficulty":3,
+      "title":"266. Which Wildlife Sanctuary in Assam is famous for golden langurs?",
+      "description":"",
+      "hint":"It shares a border with Bhutan.",
+      "summary":"Chakrashila Wildlife Sanctuary is famous for the endangered golden langur.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Golden Langur,Assam,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":266,
+            "id":861,
+            "title":"Pobitora Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":266,
+            "id":862,
+            "title":"Chakrashila Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":266,
+            "id":863,
+            "title":"Bornadi Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":266,
+            "id":864,
+            "title":"Laokhowa Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":267,
+      "difficulty":3,
+      "title":"267. Pobitora Wildlife Sanctuary is famous for which animal?",
+      "description":"",
+      "hint":"It has one of the highest densities of this species in India.",
+      "summary":"Pobitora Wildlife Sanctuary is famous for the one-horned rhinoceros.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Rhinoceros,Assam,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":267,
+            "id":865,
+            "title":"Wild Buffalo",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":267,
+            "id":866,
+            "title":"One-horned Rhinoceros",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":267,
+            "id":867,
+            "title":"Golden Langur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":267,
+            "id":868,
+            "title":"Hoolock Gibbon",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":268,
+      "difficulty":4,
+      "title":"268. Which Wildlife Sanctuary in Odisha is famous for saltwater crocodiles?",
+      "description":"",
+      "hint":"Located near a mangrove ecosystem.",
+      "summary":"Bhitarkanika Wildlife Sanctuary is known for estuarine crocodiles.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bhitarkanika,Crocodiles,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":268,
+            "id":869,
+            "title":"Satkosia Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":268,
+            "id":870,
+            "title":"Bhitarkanika Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":268,
+            "id":871,
+            "title":"Debrigarh Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":268,
+            "id":872,
+            "title":"Hadgarh Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":269,
+      "difficulty":4,
+      "title":"269. Which Wildlife Sanctuary in Maharashtra is famous for giant squirrels?",
+      "description":"",
+      "hint":"Named after a Maratha ruler.",
+      "summary":"Bhimashankar Wildlife Sanctuary is known for the Indian giant squirrel.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Giant Squirrel,Maharashtra,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":269,
+            "id":873,
+            "title":"Radhanagari Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":269,
+            "id":874,
+            "title":"Bhimashankar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":269,
+            "id":875,
+            "title":"Koyna Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":269,
+            "id":876,
+            "title":"Tansa Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":270,
+      "difficulty":4,
+      "title":"270. Ranganathittu Bird Sanctuary is situated on the banks of which river?",
+      "description":"",
+      "hint":"The river originates in Karnataka and flows into Tamil Nadu.",
+      "summary":"Ranganathittu Bird Sanctuary is situated on the Cauvery River.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Ranganathittu,Cauvery,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":270,
+            "id":877,
+            "title":"Krishna",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":270,
+            "id":878,
+            "title":"Godavari",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":270,
+            "id":879,
+            "title":"Cauvery",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":270,
+            "id":880,
+            "title":"Tungabhadra",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":271,
+      "difficulty":4,
+      "title":"271. Which Wildlife Sanctuary is famous for the endangered Hangul deer?",
+      "description":"",
+      "hint":"Located in Jammu and Kashmir.",
+      "summary":"Dachigam Wildlife Sanctuary was originally known for Hangul conservation before becoming a National Park.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Hangul,Jammu and Kashmir,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":271,
+            "id":881,
+            "title":"Overa-Aru Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":271,
+            "id":882,
+            "title":"Dachigam Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":271,
+            "id":883,
+            "title":"Hokersar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":271,
+            "id":884,
+            "title":"Changthang Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":272,
+      "difficulty":5,
+      "title":"272. Changthang Wildlife Sanctuary is famous for which rare mammal?",
+      "description":"",
+      "hint":"A large cat adapted to high mountains.",
+      "summary":"Changthang Wildlife Sanctuary is an important habitat for the snow leopard.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Changthang,Snow Leopard,Ladakh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":272,
+            "id":885,
+            "title":"Red Panda",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":272,
+            "id":886,
+            "title":"Snow Leopard",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":272,
+            "id":887,
+            "title":"Clouded Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":272,
+            "id":888,
+            "title":"Lynx",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":273,
+      "difficulty":5,
+      "title":"273. Which Wildlife Sanctuary in Tamil Nadu is known for grizzled giant squirrels?",
+      "description":"",
+      "hint":"Located near Srivilliputhur.",
+      "summary":"Srivilliputhur Grizzled Squirrel Wildlife Sanctuary was established to protect this endangered species.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Grizzled Squirrel,Tamil Nadu,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":273,
+            "id":889,
+            "title":"Mudumalai Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":273,
+            "id":890,
+            "title":"Kalakkad Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":273,
+            "id":891,
+            "title":"Srivilliputhur Grizzled Squirrel Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":273,
+            "id":892,
+            "title":"Vedanthangal Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":274,
+      "difficulty":5,
+      "title":"274. Vedanthangal Bird Sanctuary is located in which state?",
+      "description":"",
+      "hint":"Its capital is Chennai.",
+      "summary":"Vedanthangal is one of India's oldest bird sanctuaries and is located in Tamil Nadu.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Vedanthangal,Tamil Nadu,Birds,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":274,
+            "id":893,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":274,
+            "id":894,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":274,
+            "id":895,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":274,
+            "id":896,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":275,
+      "difficulty":5,
+      "title":"275. Which Wildlife Sanctuary in Arunachal Pradesh is famous for hoolock gibbons?",
+      "description":"",
+      "hint":"India's only ape is found here.",
+      "summary":"Mehao Wildlife Sanctuary is an important habitat for hoolock gibbons.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Hoolock Gibbon,Arunachal Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":275,
+            "id":897,
+            "title":"Pakke Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":275,
+            "id":898,
+            "title":"Eaglenest Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":275,
+            "id":899,
+            "title":"Mehao Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":275,
+            "id":900,
+            "title":"Dibang Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":276,
+      "difficulty":1,
+      "title":"276. Ranganathittu Bird Sanctuary is located in which state?",
+      "description":"",
+      "hint":"The capital city of this state is Bengaluru.",
+      "summary":"Ranganathittu Bird Sanctuary is Karnataka's most famous bird sanctuary.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bird Sanctuary,Karnataka,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":276,
+            "id":901,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":276,
+            "id":902,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":276,
+            "id":903,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":276,
+            "id":904,
+            "title":"Telangana",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":277,
+      "difficulty":1,
+      "title":"277. Bhitarkanika Wildlife Sanctuary is famous for conserving which reptile?",
+      "description":"",
+      "hint":"It is the largest crocodile species in India.",
+      "summary":"Bhitarkanika is known for its estuarine crocodile population.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bhitarkanika,Crocodile,Odisha,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":277,
+            "id":905,
+            "title":"Gharial",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":277,
+            "id":906,
+            "title":"Monitor Lizard",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":277,
+            "id":907,
+            "title":"Estuarine Crocodile",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":277,
+            "id":908,
+            "title":"Python",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":278,
+      "difficulty":2,
+      "title":"278. Debrigarh Wildlife Sanctuary is situated near which famous reservoir?",
+      "description":"",
+      "hint":"One of the longest earthen dams in the world.",
+      "summary":"Debrigarh lies along the Hirakud Reservoir in Odisha.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Debrigarh,Hirakud,Odisha,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":278,
+            "id":909,
+            "title":"Rihand Reservoir",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":278,
+            "id":910,
+            "title":"Hirakud Reservoir",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":278,
+            "id":911,
+            "title":"Nagarjuna Sagar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":278,
+            "id":912,
+            "title":"Indira Sagar",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":279,
+      "difficulty":2,
+      "title":"279. Satkosia Wildlife Sanctuary is associated with which major river?",
+      "description":"",
+      "hint":"The river forms a famous gorge in Odisha.",
+      "summary":"Satkosia is located along the Mahanadi River.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Satkosia,Mahanadi,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":279,
+            "id":913,
+            "title":"Godavari",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":279,
+            "id":914,
+            "title":"Krishna",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":279,
+            "id":915,
+            "title":"Mahanadi",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":279,
+            "id":916,
+            "title":"Subarnarekha",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":280,
+      "difficulty":2,
+      "title":"280. Coringa Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"The Godavari delta is located here.",
+      "summary":"Coringa Wildlife Sanctuary protects mangrove ecosystems in Andhra Pradesh.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Coringa,Mangroves,Andhra Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":280,
+            "id":917,
+            "title":"Odisha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":280,
+            "id":918,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":280,
+            "id":919,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":280,
+            "id":920,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":281,
+      "difficulty":2,
+      "title":"281. Kolleru Bird Sanctuary is situated between which two major rivers?",
+      "description":"",
+      "hint":"Both rivers flow into the Bay of Bengal.",
+      "summary":"Kolleru Lake lies between the Krishna and Godavari river deltas.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Kolleru,Bird Sanctuary,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":281,
+            "id":921,
+            "title":"Krishna and Godavari",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":281,
+            "id":922,
+            "title":"Godavari and Mahanadi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":281,
+            "id":923,
+            "title":"Krishna and Cauvery",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":281,
+            "id":924,
+            "title":"Pennar and Krishna",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":282,
+      "difficulty":2,
+      "title":"282. Pulicat Bird Sanctuary is shared by Andhra Pradesh and which other state?",
+      "description":"",
+      "hint":"Its capital city is Chennai.",
+      "summary":"Pulicat Lake is shared by Andhra Pradesh and Tamil Nadu.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Pulicat,Tamil Nadu,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":282,
+            "id":925,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":282,
+            "id":926,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":282,
+            "id":927,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":282,
+            "id":928,
+            "title":"Odisha",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":283,
+      "difficulty":3,
+      "title":"283. Point Calimere Wildlife Sanctuary is located on which coast?",
+      "description":"",
+      "hint":"This coast lies along the Bay of Bengal.",
+      "summary":"Point Calimere lies on the Coromandel Coast of Tamil Nadu.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Point Calimere,Coromandel Coast,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":283,
+            "id":929,
+            "title":"Malabar Coast",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":283,
+            "id":930,
+            "title":"Konkan Coast",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":283,
+            "id":931,
+            "title":"Coromandel Coast",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":283,
+            "id":932,
+            "title":"Kathiawar Coast",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":284,
+      "difficulty":3,
+      "title":"284. Chinnar Wildlife Sanctuary is located in which biodiversity hotspot?",
+      "description":"",
+      "hint":"A mountain chain running parallel to India's west coast.",
+      "summary":"Chinnar Wildlife Sanctuary is part of the Western Ghats hotspot.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Chinnar,Western Ghats,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":284,
+            "id":933,
+            "title":"Eastern Himalayas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":284,
+            "id":934,
+            "title":"Western Ghats",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":284,
+            "id":935,
+            "title":"Indo-Burma",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":284,
+            "id":936,
+            "title":"Sundaland",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":285,
+      "difficulty":3,
+      "title":"285. Peppara Wildlife Sanctuary is located in which state?",
+      "description":"",
+      "hint":"The state is known as God's Own Country.",
+      "summary":"Peppara Wildlife Sanctuary is situated in Kerala.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Peppara,Kerala,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":285,
+            "id":937,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":285,
+            "id":938,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":285,
+            "id":939,
+            "title":"Goa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":285,
+            "id":940,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   }
+]
