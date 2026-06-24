@@ -1934,40 +1934,45 @@
    {
       "id":197,
       "difficulty":5,
-      "title":"197. Which National Park in Andhra Pradesh is named after a former Prime Minister of India?",
+      "title":"197. Sri Venkateswara National Park is located in which state?",
       "description":"",
-      "hint":"The Prime Minister's surname was Gandhi.",
-      "summary":"Indira Gandhi National Park is one of the important protected areas of southern India.",
+      "hint":"The famous Tirumala Hills are located within this protected area.",
+      "summary":"Sri Venkateswara National Park is located in Andhra Pradesh and forms part of the Eastern Ghats ecosystem.",
       "tenantId":4,
       "isVerify":true,
-      "questionTags":"National Parks,Indira Gandhi National Park,Andhra Pradesh,UPSC",
+      "questionTags":"National Parks,Sri Venkateswara National Park,Andhra Pradesh,Eastern Ghats,UPSC,RPSC",
       "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
       "options":[
          {
             "questionId":197,
             "id":785,
-            "title":"Papikonda National Park",
+            "title":"Telangana",
+            "errorMessage":null,
             "tenantId":4,
             "isAnswer":false
          },
          {
             "questionId":197,
             "id":786,
-            "title":"Rajiv Gandhi National Park",
+            "title":"Odisha",
+            "errorMessage":null,
             "tenantId":4,
             "isAnswer":false
          },
          {
             "questionId":197,
             "id":787,
-            "title":"Indira Gandhi National Park",
+            "title":"Andhra Pradesh",
+            "errorMessage":null,
             "tenantId":4,
             "isAnswer":true
          },
          {
             "questionId":197,
             "id":788,
-            "title":"Sri Venkateswara National Park",
+            "title":"Tamil Nadu",
+            "errorMessage":null,
             "tenantId":4,
             "isAnswer":false
          }
