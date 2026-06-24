@@ -1,0 +1,2102 @@
+[
+  {
+    "id":451,
+    "difficulty":0,
+    "title":"451. Who founded Buddhism?",
+    "description":"",
+    "hint":"He was born as Siddhartha Gautama.",
+    "summary":"Buddhism was founded by Gautama Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Gautama Buddha,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":451,
+        "id":1601,
+        "title":"Mahavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":451,
+        "id":1602,
+        "title":"Gautama Buddha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":451,
+        "id":1603,
+        "title":"Ashoka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":451,
+        "id":1604,
+        "title":"Chandragupta Maurya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":452,
+    "difficulty":0,
+    "title":"452. What was the original name of Buddha before enlightenment?",
+    "description":"",
+    "hint":"He was a prince of the Shakya clan.",
+    "summary":"Buddha was born as Siddhartha Gautama.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Buddha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":452,
+        "id":1605,
+        "title":"Siddhartha Gautama",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":452,
+        "id":1606,
+        "title":"Rahula",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":452,
+        "id":1607,
+        "title":"Devadatta",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":452,
+        "id":1608,
+        "title":"Mahakassapa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":453,
+    "difficulty":0,
+    "title":"453. At which place was Gautama Buddha born?",
+    "description":"",
+    "hint":"This site is now in Nepal.",
+    "summary":"Buddha was born at Lumbini.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Lumbini,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":453,
+        "id":1609,
+        "title":"Bodh Gaya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":453,
+        "id":1610,
+        "title":"Kushinagar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":453,
+        "id":1611,
+        "title":"Lumbini",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":453,
+        "id":1612,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":454,
+    "difficulty":0,
+    "title":"454. Under which tree did Buddha attain enlightenment?",
+    "description":"",
+    "hint":"The tree became sacred in Buddhism.",
+    "summary":"Buddha attained enlightenment under the Bodhi Tree.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Bodh Gaya,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":454,
+        "id":1613,
+        "title":"Neem Tree",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":454,
+        "id":1614,
+        "title":"Peepal (Bodhi) Tree",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":454,
+        "id":1615,
+        "title":"Banyan Tree",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":454,
+        "id":1616,
+        "title":"Mango Tree",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":455,
+    "difficulty":0,
+    "title":"455. Where did Buddha attain enlightenment?",
+    "description":"",
+    "hint":"Located in present-day Bihar.",
+    "summary":"Buddha attained enlightenment at Bodh Gaya.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Bodh Gaya,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":455,
+        "id":1617,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":455,
+        "id":1618,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":455,
+        "id":1619,
+        "title":"Bodh Gaya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":455,
+        "id":1620,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":456,
+    "difficulty":0,
+    "title":"456. What is the meaning of the word 'Buddha'?",
+    "description":"",
+    "hint":"It refers to a state of spiritual realization.",
+    "summary":"Buddha means 'The Enlightened One'.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Basic Concepts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":456,
+        "id":1621,
+        "title":"King",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":456,
+        "id":1622,
+        "title":"Teacher",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":456,
+        "id":1623,
+        "title":"The Enlightened One",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":456,
+        "id":1624,
+        "title":"Priest",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":457,
+    "difficulty":0,
+    "title":"457. Where did Buddha deliver his first sermon?",
+    "description":"",
+    "hint":"It is associated with the Dharmachakra.",
+    "summary":"Buddha delivered his first sermon at Sarnath.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sarnath,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":457,
+        "id":1625,
+        "title":"Kushinagar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":457,
+        "id":1626,
+        "title":"Lumbini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":457,
+        "id":1627,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":457,
+        "id":1628,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":458,
+    "difficulty":0,
+    "title":"458. What is Buddha's first sermon known as?",
+    "description":"",
+    "hint":"It refers to setting the wheel in motion.",
+    "summary":"The first sermon is called Dharmachakra Pravartana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Teachings,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":458,
+        "id":1629,
+        "title":"Mahaparinirvana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":458,
+        "id":1630,
+        "title":"Dharmachakra Pravartana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":458,
+        "id":1631,
+        "title":"Tripitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":458,
+        "id":1632,
+        "title":"Vinaya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":459,
+    "difficulty":0,
+    "title":"459. Where did Buddha attain Mahaparinirvana?",
+    "description":"",
+    "hint":"Located in present-day Uttar Pradesh.",
+    "summary":"Buddha attained Mahaparinirvana at Kushinagar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Kushinagar,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":459,
+        "id":1633,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":459,
+        "id":1634,
+        "title":"Kushinagar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":459,
+        "id":1635,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":459,
+        "id":1636,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":460,
+    "difficulty":0,
+    "title":"460. Which king was Buddha's contemporary and ruler of Magadha?",
+    "description":"",
+    "hint":"His son Ajatashatru later became famous.",
+    "summary":"King Bimbisara was a contemporary of Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Magadha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":460,
+        "id":1637,
+        "title":"Bimbisara",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":460,
+        "id":1638,
+        "title":"Ashoka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":460,
+        "id":1639,
+        "title":"Bindusara",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":460,
+        "id":1640,
+        "title":"Mahapadma Nanda",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":461,
+    "difficulty":1,
+    "title":"461. Which of the following is NOT one of the Four Noble Truths?",
+    "description":"",
+    "hint":"This concept belongs more to social organization than Buddhist philosophy.",
+    "summary":"The caste system is not one of the Four Noble Truths.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Four Noble Truths,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":461,
+        "id":1641,
+        "title":"Existence of suffering",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":461,
+        "id":1642,
+        "title":"Cause of suffering",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":461,
+        "id":1643,
+        "title":"Caste System",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":461,
+        "id":1644,
+        "title":"Path leading to end of suffering",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":462,
+    "difficulty":1,
+    "title":"462. What is the first Noble Truth?",
+    "description":"",
+    "hint":"It acknowledges a universal human experience.",
+    "summary":"The first Noble Truth states that life involves suffering (Dukkha).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Four Noble Truths",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":462,
+        "id":1645,
+        "title":"Life is suffering",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":462,
+        "id":1646,
+        "title":"Life is eternal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":462,
+        "id":1647,
+        "title":"Life is illusion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":462,
+        "id":1648,
+        "title":"Life is happiness",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":463,
+    "difficulty":1,
+    "title":"463. According to Buddhism, what is the main cause of suffering?",
+    "description":"",
+    "hint":"It involves excessive desire and attachment.",
+    "summary":"Craving or desire (Tanha) is considered the root cause of suffering.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Teachings",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":463,
+        "id":1649,
+        "title":"Ignorance",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":463,
+        "id":1650,
+        "title":"Craving and Attachment",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":463,
+        "id":1651,
+        "title":"Nature",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":463,
+        "id":1652,
+        "title":"Society",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":464,
+    "difficulty":1,
+    "title":"464. What is the ultimate goal of Buddhism?",
+    "description":"",
+    "hint":"It is liberation from the cycle of birth and death.",
+    "summary":"Nirvana is the ultimate goal in Buddhism.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Nirvana",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":464,
+        "id":1653,
+        "title":"Heaven",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":464,
+        "id":1654,
+        "title":"Moksha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":464,
+        "id":1655,
+        "title":"Nirvana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":464,
+        "id":1656,
+        "title":"Salvation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":465,
+    "difficulty":1,
+    "title":"465. Which path did Buddha advocate between luxury and extreme austerity?",
+    "description":"",
+    "hint":"It avoids both extremes.",
+    "summary":"Buddha advocated the Middle Path (Middle Way).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Middle Path",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":465,
+        "id":1657,
+        "title":"Middle Path",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":465,
+        "id":1658,
+        "title":"Path of Sacrifice",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":465,
+        "id":1659,
+        "title":"Path of Rituals",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":465,
+        "id":1660,
+        "title":"Path of Kings",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":466,
+    "difficulty":1,
+    "title":"466. In which language were Buddha's teachings primarily preached?",
+    "description":"",
+    "hint":"A language spoken by common people of that time.",
+    "summary":"Buddha preached mainly in Pali and related Prakrit dialects.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Pali,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":466,
+        "id":1661,
+        "title":"Sanskrit",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":466,
+        "id":1662,
+        "title":"Pali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":466,
+        "id":1663,
+        "title":"Persian",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":466,
+        "id":1664,
+        "title":"Tamil",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":467,
+    "difficulty":1,
+    "title":"467. What does the Buddhist symbol 'Dharmachakra' represent?",
+    "description":"",
+    "hint":"It is often depicted as a wheel.",
+    "summary":"The Dharmachakra symbolizes the Wheel of Dharma.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Symbols",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":467,
+        "id":1665,
+        "title":"Wheel of Dharma",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":467,
+        "id":1666,
+        "title":"Sun God",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":467,
+        "id":1667,
+        "title":"Royal Authority",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":467,
+        "id":1668,
+        "title":"Agriculture",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":468,
+    "difficulty":1,
+    "title":"468. Who was Buddha's son?",
+    "description":"",
+    "hint":"His name means 'fetter' or 'bond'.",
+    "summary":"Rahula was the son of Gautama Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Rahula",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":468,
+        "id":1669,
+        "title":"Rahula",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":468,
+        "id":1670,
+        "title":"Ananda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":468,
+        "id":1671,
+        "title":"Upali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":468,
+        "id":1672,
+        "title":"Sariputta",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":469,
+    "difficulty":2,
+    "title":"469. Who was Buddha's wife?",
+    "description":"",
+    "hint":"She was a princess of the Koliya clan.",
+    "summary":"Yashodhara was the wife of Siddhartha Gautama.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Yashodhara",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":469,
+        "id":1673,
+        "title":"Mahaprajapati",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":469,
+        "id":1674,
+        "title":"Yashodhara",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":469,
+        "id":1675,
+        "title":"Amrapali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":469,
+        "id":1676,
+        "title":"Sujata",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":470,
+    "difficulty":2,
+    "title":"470. Which woman offered milk-rice to Siddhartha before enlightenment?",
+    "description":"",
+    "hint":"Her act helped him abandon extreme asceticism.",
+    "summary":"Sujata offered milk-rice to Siddhartha Gautama.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sujata",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":470,
+        "id":1677,
+        "title":"Yashodhara",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":470,
+        "id":1678,
+        "title":"Sujata",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":470,
+        "id":1679,
+        "title":"Amrapali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":470,
+        "id":1680,
+        "title":"Mahamaya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":471,
+    "difficulty":1,
+    "title":"471. What is the collective community of Buddhist monks and nuns called?",
+    "description":"",
+    "hint":"It is one of the Three Jewels of Buddhism.",
+    "summary":"The Sangha refers to the community of Buddhist monks and nuns.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sangha,UPSC,RPSC,SSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":471,
+        "id":1681,
+        "title":"Tripitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":471,
+        "id":1682,
+        "title":"Dhamma",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":471,
+        "id":1683,
+        "title":"Vihara",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":471,
+        "id":1684,
+        "title":"Sangha",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":472,
+    "difficulty":1,
+    "title":"472. Which of the following is one of the Three Jewels (Triratna) of Buddhism?",
+    "description":"",
+    "hint":"Followers take refuge in it along with Buddha and Sangha.",
+    "summary":"The Three Jewels are Buddha, Dhamma and Sangha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Triratna,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":472,
+        "id":1685,
+        "title":"Dhamma",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":472,
+        "id":1686,
+        "title":"Yajna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":472,
+        "id":1687,
+        "title":"Ashrama",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":472,
+        "id":1688,
+        "title":"Vedanta",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":473,
+    "difficulty":1,
+    "title":"473. Which Buddhist text contains rules for monks and nuns?",
+    "description":"",
+    "hint":"It is one of the three sections of the Tripitaka.",
+    "summary":"Vinaya Pitaka contains monastic rules and discipline.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Tripitaka,Vinaya Pitaka,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":473,
+        "id":1689,
+        "title":"Sutta Pitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":473,
+        "id":1690,
+        "title":"Abhidhamma Pitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":473,
+        "id":1691,
+        "title":"Vinaya Pitaka",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":473,
+        "id":1692,
+        "title":"Jataka Pitaka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":474,
+    "difficulty":1,
+    "title":"474. Which Buddhist text primarily contains the teachings and sermons of Buddha?",
+    "description":"",
+    "hint":"It is the largest section of the Tripitaka.",
+    "summary":"Sutta Pitaka contains the teachings and discourses of Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sutta Pitaka,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":474,
+        "id":1693,
+        "title":"Vinaya Pitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":474,
+        "id":1694,
+        "title":"Sutta Pitaka",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":474,
+        "id":1695,
+        "title":"Abhidhamma Pitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":474,
+        "id":1696,
+        "title":"Arthashastra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":475,
+    "difficulty":2,
+    "title":"475. The stories of Buddha's previous births are collectively known as?",
+    "description":"",
+    "hint":"Many of these stories teach moral lessons.",
+    "summary":"Jataka Tales describe the previous births of Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Jataka Tales,UPSC,RPSC,SSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":475,
+        "id":1697,
+        "title":"Tripitaka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":475,
+        "id":1698,
+        "title":"Vinaya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":475,
+        "id":1699,
+        "title":"Dhammapada",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":475,
+        "id":1700,
+        "title":"Jataka Tales",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":476,
+    "difficulty":1,
+    "title":"476. Where was the First Buddhist Council held?",
+    "description":"",
+    "hint":"It was held shortly after Buddha's Mahaparinirvana.",
+    "summary":"The First Buddhist Council was held at Rajgir under the patronage of Ajatashatru.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Buddhist Councils,Rajgir,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":476,
+        "id":1701,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":476,
+        "id":1702,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":476,
+        "id":1703,
+        "title":"Pataliputra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":476,
+        "id":1704,
+        "title":"Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":477,
+    "difficulty":1,
+    "title":"477. Which king patronized the First Buddhist Council?",
+    "description":"",
+    "hint":"He was the ruler of Magadha and son of Bimbisara.",
+    "summary":"Ajatashatru patronized the First Buddhist Council.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Ajatashatru,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":477,
+        "id":1705,
+        "title":"Ashoka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":477,
+        "id":1706,
+        "title":"Ajatashatru",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":477,
+        "id":1707,
+        "title":"Kanishka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":477,
+        "id":1708,
+        "title":"Bimbisara",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":478,
+    "difficulty":1,
+    "title":"478. Where was the Second Buddhist Council held?",
+    "description":"",
+    "hint":"This ancient republic was important in Buddhist history.",
+    "summary":"The Second Buddhist Council was held at Vaishali.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Vaishali,Councils,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":478,
+        "id":1709,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":478,
+        "id":1710,
+        "title":"Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":478,
+        "id":1711,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":478,
+        "id":1712,
+        "title":"Taxila",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":479,
+    "difficulty":2,
+    "title":"479. Which emperor patronized the Third Buddhist Council?",
+    "description":"",
+    "hint":"He embraced Buddhism after the Kalinga War.",
+    "summary":"The Third Buddhist Council was held under Emperor Ashoka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Ashoka,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":479,
+        "id":1713,
+        "title":"Bimbisara",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":479,
+        "id":1714,
+        "title":"Kanishka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":479,
+        "id":1715,
+        "title":"Ajatashatru",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":479,
+        "id":1716,
+        "title":"Ashoka",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":480,
+    "difficulty":2,
+    "title":"480. The Third Buddhist Council was held at?",
+    "description":"",
+    "hint":"It later became the Mauryan capital.",
+    "summary":"The Third Buddhist Council was held at Pataliputra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Pataliputra,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":480,
+        "id":1717,
+        "title":"Pataliputra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":480,
+        "id":1718,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":480,
+        "id":1719,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":480,
+        "id":1720,
+        "title":"Nalanda",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":481,
+    "difficulty":2,
+    "title":"481. Which Buddhist Council was held under Kanishka?",
+    "description":"",
+    "hint":"It is associated with the rise of Mahayana Buddhism.",
+    "summary":"The Fourth Buddhist Council was held under Kanishka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Kanishka,Councils,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":481,
+        "id":1721,
+        "title":"Second Council",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":481,
+        "id":1722,
+        "title":"Fourth Council",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":481,
+        "id":1723,
+        "title":"First Council",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":481,
+        "id":1724,
+        "title":"Third Council",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":482,
+    "difficulty":2,
+    "title":"482. The Fourth Buddhist Council was held in which region?",
+    "description":"",
+    "hint":"Today it is administered as a Union Territory of India.",
+    "summary":"The Fourth Buddhist Council was held in Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Kashmir,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":482,
+        "id":1725,
+        "title":"Taxila",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":482,
+        "id":1726,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":482,
+        "id":1727,
+        "title":"Kashmir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":482,
+        "id":1728,
+        "title":"Nalanda",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":483,
+    "difficulty":1,
+    "title":"483. Which Buddhist sect is often called the 'Lesser Vehicle'?",
+    "description":"",
+    "hint":"Modern scholars generally prefer the term Theravada.",
+    "summary":"Hinayana is traditionally referred to as the Lesser Vehicle.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Hinayana,Theravada",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":483,
+        "id":1729,
+        "title":"Hinayana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":483,
+        "id":1730,
+        "title":"Mahayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":483,
+        "id":1731,
+        "title":"Vajrayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":483,
+        "id":1732,
+        "title":"Zen",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":484,
+    "difficulty":1,
+    "title":"484. Which Buddhist sect is known as the 'Greater Vehicle'?",
+    "description":"",
+    "hint":"It emphasizes the Bodhisattva ideal.",
+    "summary":"Mahayana Buddhism is known as the Greater Vehicle.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Mahayana,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":484,
+        "id":1733,
+        "title":"Hinayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":484,
+        "id":1734,
+        "title":"Mahayana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":484,
+        "id":1735,
+        "title":"Vajrayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":484,
+        "id":1736,
+        "title":"Therigatha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":485,
+    "difficulty":2,
+    "title":"485. Which Buddhist sect developed many tantric practices?",
+    "description":"",
+    "hint":"It became influential in Tibet.",
+    "summary":"Vajrayana Buddhism is associated with tantric traditions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Vajrayana,Tibet",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":485,
+        "id":1737,
+        "title":"Mahayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":485,
+        "id":1738,
+        "title":"Hinayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":485,
+        "id":1739,
+        "title":"Vajrayana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":485,
+        "id":1740,
+        "title":"Theravada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":486,
+    "difficulty":1,
+    "title":"486. Which Buddhist sect spread widely in Sri Lanka?",
+    "description":"",
+    "hint":"It is closely associated with Pali literature.",
+    "summary":"Theravada Buddhism became dominant in Sri Lanka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Theravada,Sri Lanka",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":486,
+        "id":1741,
+        "title":"Theravada",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":486,
+        "id":1742,
+        "title":"Mahayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":486,
+        "id":1743,
+        "title":"Vajrayana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":486,
+        "id":1744,
+        "title":"Zen",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":487,
+    "difficulty":1,
+    "title":"487. Who was Ashoka's son that helped spread Buddhism to Sri Lanka?",
+    "description":"",
+    "hint":"His sister Sanghamitta also accompanied the mission.",
+    "summary":"Mahinda played a major role in spreading Buddhism to Sri Lanka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Mahinda,Ashoka",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":487,
+        "id":1745,
+        "title":"Kunala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":487,
+        "id":1746,
+        "title":"Mahinda",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":487,
+        "id":1747,
+        "title":"Jalauka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":487,
+        "id":1748,
+        "title":"Tivara",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":488,
+    "difficulty":1,
+    "title":"488. Which daughter of Ashoka helped establish Buddhism in Sri Lanka?",
+    "description":"",
+    "hint":"She carried a branch of the Bodhi Tree.",
+    "summary":"Sanghamitta contributed significantly to Buddhism in Sri Lanka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sanghamitta,Ashoka",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":488,
+        "id":1749,
+        "title":"Charumati",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":488,
+        "id":1750,
+        "title":"Sanghamitta",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":488,
+        "id":1751,
+        "title":"Devi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":488,
+        "id":1752,
+        "title":"Kaurwaki",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":489,
+    "difficulty":2,
+    "title":"489. Which university became the most famous center of Buddhist learning in ancient India?",
+    "description":"",
+    "hint":"Located in present-day Bihar.",
+    "summary":"Nalanda University was a world-renowned center of Buddhist education.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Nalanda,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":489,
+        "id":1753,
+        "title":"Taxila",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":489,
+        "id":1754,
+        "title":"Vikramashila",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":489,
+        "id":1755,
+        "title":"Nalanda",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":489,
+        "id":1756,
+        "title":"Vallabhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":490,
+    "difficulty":2,
+    "title":"490. Which Chinese traveler studied at Nalanda University?",
+    "description":"",
+    "hint":"He visited India during Harsha's reign.",
+    "summary":"Xuanzang (Hiuen Tsang) studied and taught at Nalanda.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Nalanda,Xuanzang",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":490,
+        "id":1757,
+        "title":"Faxian",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":490,
+        "id":1758,
+        "title":"Xuanzang",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":490,
+        "id":1759,
+        "title":"Ibn Battuta",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":490,
+        "id":1760,
+        "title":"Al-Biruni",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":491,
+    "difficulty":2,
+    "title":"491. Which Buddhist monastery-university was founded by the Pala rulers?",
+    "description":"",
+    "hint":"It was considered second only to Nalanda.",
+    "summary":"Vikramashila was a major Buddhist center established by the Palas.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Vikramashila,Pala Dynasty",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":491,
+        "id":1761,
+        "title":"Nalanda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":491,
+        "id":1762,
+        "title":"Odantapuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":491,
+        "id":1763,
+        "title":"Vikramashila",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":491,
+        "id":1764,
+        "title":"Takshashila",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":492,
+    "difficulty":2,
+    "title":"492. Which symbol represents Buddha's enlightenment?",
+    "description":"",
+    "hint":"It is a sacred tree.",
+    "summary":"The Bodhi Tree symbolizes Buddha's enlightenment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Symbols,Bodhi Tree",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":492,
+        "id":1765,
+        "title":"Lotus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":492,
+        "id":1766,
+        "title":"Bodhi Tree",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":492,
+        "id":1767,
+        "title":"Lion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":492,
+        "id":1768,
+        "title":"Wheel",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":493,
+    "difficulty":3,
+    "title":"493. The Buddhist doctrine of 'Anatta' refers to?",
+    "description":"",
+    "hint":"It rejects the idea of a permanent soul.",
+    "summary":"Anatta means the doctrine of non-self.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Philosophy,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":493,
+        "id":1769,
+        "title":"Karma",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":493,
+        "id":1770,
+        "title":"Non-self",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":493,
+        "id":1771,
+        "title":"Meditation",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":493,
+        "id":1772,
+        "title":"Liberation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":494,
+    "difficulty":3,
+    "title":"494. The doctrine of 'Pratityasamutpada' is related to?",
+    "description":"",
+    "hint":"Everything arises due to causes and conditions.",
+    "summary":"Pratityasamutpada means dependent origination.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Dependent Origination,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":494,
+        "id":1773,
+        "title":"Dependent Origination",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":494,
+        "id":1774,
+        "title":"Non-violence",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":494,
+        "id":1775,
+        "title":"Monastic Discipline",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":494,
+        "id":1776,
+        "title":"Rebirth",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":495,
+    "difficulty":2,
+    "title":"495. Which ruler is known as the 'Second Ashoka' for promoting Buddhism?",
+    "description":"",
+    "hint":"He belonged to the Kushana dynasty.",
+    "summary":"Kanishka greatly promoted Buddhism and is often called the Second Ashoka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Kanishka,Kushana",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":495,
+        "id":1777,
+        "title":"Samudragupta",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":495,
+        "id":1778,
+        "title":"Harsha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":495,
+        "id":1779,
+        "title":"Kanishka",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":495,
+        "id":1780,
+        "title":"Bindusara",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":496,
+    "difficulty":1,
+    "title":"496. Which Buddhist festival celebrates Buddha's birth, enlightenment and Mahaparinirvana?",
+    "description":"",
+    "hint":"It is observed on a full moon day.",
+    "summary":"Buddha Purnima commemorates major events of Buddha's life.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":496,
+        "id":1781,
+        "title":"Losar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":496,
+        "id":1782,
+        "title":"Buddha Purnima",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":496,
+        "id":1783,
+        "title":"Kathina",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":496,
+        "id":1784,
+        "title":"Vesakha Utsav",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":497,
+    "difficulty":3,
+    "title":"497. Which Buddhist scholar is associated with the Madhyamaka school?",
+    "description":"",
+    "hint":"He propounded the philosophy of Sunyata (Emptiness).",
+    "summary":"Nagarjuna is the most famous philosopher of the Madhyamaka school.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Nagarjuna,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":497,
+        "id":1785,
+        "title":"Ashvaghosha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":497,
+        "id":1786,
+        "title":"Vasubandhu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":497,
+        "id":1787,
+        "title":"Nagarjuna",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":497,
+        "id":1788,
+        "title":"Upali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":498,
+    "difficulty":3,
+    "title":"498. The Buddhist concept of 'Sunyata' means?",
+    "description":"",
+    "hint":"A key Mahayana philosophical concept.",
+    "summary":"Sunyata refers to emptiness or the absence of inherent existence.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Sunyata,Mahayana",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":498,
+        "id":1789,
+        "title":"Meditation",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":498,
+        "id":1790,
+        "title":"Compassion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":498,
+        "id":1791,
+        "title":"Emptiness",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":498,
+        "id":1792,
+        "title":"Liberation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":499,
+    "difficulty":2,
+    "title":"499. Which animal is traditionally associated with Buddha's birth?",
+    "description":"",
+    "hint":"Queen Maya is said to have dreamed of it.",
+    "summary":"A white elephant is associated with the birth of Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Symbols,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":499,
+        "id":1793,
+        "title":"Lion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":499,
+        "id":1794,
+        "title":"White Elephant",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":499,
+        "id":1795,
+        "title":"Horse",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":499,
+        "id":1796,
+        "title":"Bull",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":500,
+    "difficulty":3,
+    "title":"500. Which of the following is NOT one of the major Buddhist pilgrimage sites associated with Buddha's life?",
+    "description":"",
+    "hint":"One option is primarily famous as a university rather than a life event of Buddha.",
+    "summary":"Nalanda is an important Buddhist learning center but not one of the four principal pilgrimage sites directly associated with Buddha's life events.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Pilgrimage Sites,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":500,
+        "id":1797,
+        "title":"Lumbini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":500,
+        "id":1798,
+        "title":"Bodh Gaya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":500,
+        "id":1799,
+        "title":"Nalanda",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":500,
+        "id":1800,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
