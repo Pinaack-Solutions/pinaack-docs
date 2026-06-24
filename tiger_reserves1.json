@@ -1,0 +1,2114 @@
+[
+   {
+      "id":101,
+      "difficulty":0,
+      "title":"101. Project Tiger was launched in which year?",
+      "description":"",
+      "hint":"It was launched during the early 1970s to protect India's declining tiger population.",
+      "summary":"Project Tiger was launched by the Government of India in 1973 to conserve tigers and their habitats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Environment,Ecology,Tiger Reserves,Project Tiger,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":101,
+            "id":401,
+            "title":"1971",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":101,
+            "id":402,
+            "title":"1973",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":101,
+            "id":403,
+            "title":"1975",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":101,
+            "id":404,
+            "title":"1980",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":102,
+      "difficulty":0,
+      "title":"102. Which animal is primarily protected under Project Tiger?",
+      "description":"",
+      "hint":"It is India's national animal.",
+      "summary":"Project Tiger focuses on the conservation of Bengal Tigers.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Environment,Tiger Conservation,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":102,
+            "id":405,
+            "title":"Asiatic Lion",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":102,
+            "id":406,
+            "title":"Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":102,
+            "id":407,
+            "title":"Bengal Tiger",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":102,
+            "id":408,
+            "title":"Snow Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":103,
+      "difficulty":0,
+      "title":"103. Which state is home to the Ranthambore Tiger Reserve?",
+      "description":"",
+      "hint":"This state is famous for its deserts and forts.",
+      "summary":"Ranthambore Tiger Reserve is located in Rajasthan.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Rajasthan,Ranthambore,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":103,
+            "id":409,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":103,
+            "id":410,
+            "title":"Gujarat",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":103,
+            "id":411,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":103,
+            "id":412,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":104,
+      "difficulty":0,
+      "title":"104. Which Tiger Reserve is located in Uttarakhand and was India's first national park?",
+      "description":"",
+      "hint":"It was formerly known as Hailey National Park.",
+      "summary":"Corbett Tiger Reserve is India's oldest national park and a major tiger habitat.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Corbett,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":104,
+            "id":413,
+            "title":"Bandipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":104,
+            "id":414,
+            "title":"Corbett",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":104,
+            "id":415,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":104,
+            "id":416,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":105,
+      "difficulty":0,
+      "title":"105. Which state has the Bandipur Tiger Reserve?",
+      "description":"",
+      "hint":"Its capital is Bengaluru.",
+      "summary":"Bandipur Tiger Reserve is located in Karnataka.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Karnataka,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":105,
+            "id":417,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":105,
+            "id":418,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":105,
+            "id":419,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":105,
+            "id":420,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":106,
+      "difficulty":1,
+      "title":"106. Which Tiger Reserve is famous for inspiring Rudyard Kipling's Jungle Book?",
+      "description":"",
+      "hint":"Mowgli is closely associated with this reserve.",
+      "summary":"Pench Tiger Reserve inspired settings found in The Jungle Book.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Pench,Wildlife,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":106,
+            "id":421,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":106,
+            "id":422,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":106,
+            "id":423,
+            "title":"Sariska",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":106,
+            "id":424,
+            "title":"Similipal",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":107,
+      "difficulty":1,
+      "title":"107. Which Tiger Reserve is located in the Sundarbans delta?",
+      "description":"",
+      "hint":"It is known for mangrove forests and swimming tigers.",
+      "summary":"Sundarbans Tiger Reserve lies in the world's largest mangrove ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Sundarbans,Mangroves,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":107,
+            "id":425,
+            "title":"Sundarbans",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":107,
+            "id":426,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":107,
+            "id":427,
+            "title":"Nagarjunsagar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":107,
+            "id":428,
+            "title":"Valmiki",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":108,
+      "difficulty":1,
+      "title":"108. Sariska Tiger Reserve is located in which state?",
+      "description":"",
+      "hint":"It shares the state with Ranthambore.",
+      "summary":"Sariska Tiger Reserve is located in Rajasthan.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Sariska,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":108,
+            "id":429,
+            "title":"Haryana",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":108,
+            "id":430,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":108,
+            "id":431,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":108,
+            "id":432,
+            "title":"Punjab",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":109,
+      "difficulty":1,
+      "title":"109. Which Tiger Reserve is located in Bihar?",
+      "description":"",
+      "hint":"It lies near the Nepal border.",
+      "summary":"Valmiki Tiger Reserve is Bihar's only tiger reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Bihar,Valmiki,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":109,
+            "id":433,
+            "title":"Palamau",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":109,
+            "id":434,
+            "title":"Valmiki",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":109,
+            "id":435,
+            "title":"Satkosia",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":109,
+            "id":436,
+            "title":"Dampa",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":110,
+      "difficulty":1,
+      "title":"110. Which Tiger Reserve is located in Assam and is also a UNESCO World Heritage Site?",
+      "description":"",
+      "hint":"It is famous for one-horned rhinoceroses and tigers.",
+      "summary":"Manas Tiger Reserve is a UNESCO World Heritage Site in Assam.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Assam,Manas,UNESCO,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":110,
+            "id":437,
+            "title":"Kaziranga",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":110,
+            "id":438,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":110,
+            "id":439,
+            "title":"Orang",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":110,
+            "id":440,
+            "title":"Namdapha",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":111,
+      "difficulty":2,
+      "title":"111. Which Tiger Reserve is spread across Madhya Pradesh and Maharashtra?",
+      "description":"",
+      "hint":"It is associated with Mowgli stories.",
+      "summary":"Pench Tiger Reserve spans Madhya Pradesh and Maharashtra.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Pench,Interstate,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":111,
+            "id":441,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":111,
+            "id":442,
+            "title":"Bandhavgarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":111,
+            "id":443,
+            "title":"Satpura",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":111,
+            "id":444,
+            "title":"Bor",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":112,
+      "difficulty":2,
+      "title":"112. Which Tiger Reserve is located in Mizoram?",
+      "description":"",
+      "hint":"It is the largest wildlife protected area in the state.",
+      "summary":"Dampa Tiger Reserve is located in Mizoram.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Mizoram,Dampa,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":112,
+            "id":445,
+            "title":"Pakke",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":112,
+            "id":446,
+            "title":"Dampa",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":112,
+            "id":447,
+            "title":"Namdapha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":112,
+            "id":448,
+            "title":"Kamlang",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":113,
+      "difficulty":2,
+      "title":"113. Which Tiger Reserve is known for the highest tiger density in India?",
+      "description":"",
+      "hint":"Located in Madhya Pradesh.",
+      "summary":"Bandhavgarh Tiger Reserve is known for very high tiger density.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Bandhavgarh,Tigers,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":113,
+            "id":449,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":113,
+            "id":450,
+            "title":"Bandhavgarh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":113,
+            "id":451,
+            "title":"Panna",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":113,
+            "id":452,
+            "title":"Satpura",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":114,
+      "difficulty":2,
+      "title":"114. Which Tiger Reserve is located in Andhra Pradesh and Telangana?",
+      "description":"",
+      "hint":"It is among India's largest tiger reserves.",
+      "summary":"Nagarjunsagar-Srisailam Tiger Reserve extends across Andhra Pradesh and Telangana.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Nagarjunsagar,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":114,
+            "id":453,
+            "title":"Kawal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":114,
+            "id":454,
+            "title":"Nagarjunsagar-Srisailam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":114,
+            "id":455,
+            "title":"Amrabad",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":114,
+            "id":456,
+            "title":"Satkosia",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":115,
+      "difficulty":2,
+      "title":"115. Which Tiger Reserve is located in Odisha and contains a large river gorge ecosystem?",
+      "description":"",
+      "hint":"The Mahanadi River flows through it.",
+      "summary":"Satkosia Tiger Reserve is known for its spectacular gorge ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Odisha,Satkosia,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":115,
+            "id":457,
+            "title":"Similipal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":115,
+            "id":458,
+            "title":"Satkosia",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":115,
+            "id":459,
+            "title":"Achanakmar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":115,
+            "id":460,
+            "title":"Udanti-Sitanadi",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":116,
+      "difficulty":2,
+      "title":"116. Which Tiger Reserve is located in Chhattisgarh and forms part of the Achanakmar-Amarkantak Biosphere Reserve?",
+      "description":"",
+      "hint":"Its name begins with the same word as the biosphere reserve.",
+      "summary":"Achanakmar Tiger Reserve is an important component of the Achanakmar-Amarkantak Biosphere Reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Environment,Ecology,Tiger Reserves,Chhattisgarh,Biosphere Reserve,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":116,
+            "id":461,
+            "title":"Udanti-Sitanadi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":116,
+            "id":462,
+            "title":"Achanakmar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":116,
+            "id":463,
+            "title":"Indravati",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":116,
+            "id":464,
+            "title":"Palamau",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":117,
+      "difficulty":2,
+      "title":"117. Which Tiger Reserve is famous for the successful reintroduction of tigers after local extinction?",
+      "description":"",
+      "hint":"Located in Madhya Pradesh and known for a major conservation success story.",
+      "summary":"Panna Tiger Reserve became a landmark example of tiger reintroduction and recovery.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Panna,Conservation,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":117,
+            "id":465,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":117,
+            "id":466,
+            "title":"Bandhavgarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":117,
+            "id":467,
+            "title":"Panna",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":117,
+            "id":468,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":118,
+      "difficulty":2,
+      "title":"118. Which Tiger Reserve is located in Jharkhand?",
+      "description":"",
+      "hint":"It was one of the original Project Tiger reserves.",
+      "summary":"Palamau Tiger Reserve in Jharkhand was among the first reserves included under Project Tiger.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Jharkhand,Project Tiger,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":118,
+            "id":469,
+            "title":"Indravati",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":118,
+            "id":470,
+            "title":"Palamau",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":118,
+            "id":471,
+            "title":"Valmiki",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":118,
+            "id":472,
+            "title":"Dampa",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":119,
+      "difficulty":3,
+      "title":"119. Which Tiger Reserve is located in Arunachal Pradesh and is also one of India's largest protected areas?",
+      "description":"",
+      "hint":"It is known for exceptional biodiversity and shares an international border.",
+      "summary":"Namdapha Tiger Reserve is among India's largest protected areas and biodiversity hotspots.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Arunachal Pradesh,Namdapha,Biodiversity,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":119,
+            "id":473,
+            "title":"Pakke",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":119,
+            "id":474,
+            "title":"Kamlang",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":119,
+            "id":475,
+            "title":"Namdapha",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":119,
+            "id":476,
+            "title":"Dibang",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":120,
+      "difficulty":3,
+      "title":"120. Which Tiger Reserve lies in the Western Ghats and is shared between Karnataka and Tamil Nadu through connected landscapes?",
+      "description":"",
+      "hint":"It is part of the Nilgiri Biosphere Reserve landscape.",
+      "summary":"Bandipur Tiger Reserve forms a crucial part of the Nilgiri landscape connecting multiple protected areas.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Western Ghats,Bandipur,Nilgiri Biosphere Reserve,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":120,
+            "id":477,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":120,
+            "id":478,
+            "title":"Periyar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":120,
+            "id":479,
+            "title":"Bandipur",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":120,
+            "id":480,
+            "title":"Parambikulam",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":121,
+      "difficulty":3,
+      "title":"121. Which Tiger Reserve is located in Maharashtra and is often called the 'Tiger Capital of Maharashtra'?",
+      "description":"",
+      "hint":"It is famous for high tiger sightings and lies in eastern Maharashtra.",
+      "summary":"Tadoba-Andhari Tiger Reserve is one of India's most successful tiger conservation landscapes.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Maharashtra,Tadoba,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":121,
+            "id":481,
+            "title":"Melghat",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":121,
+            "id":482,
+            "title":"Bor",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":121,
+            "id":483,
+            "title":"Navegaon-Nagzira",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":121,
+            "id":484,
+            "title":"Tadoba-Andhari",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":122,
+      "difficulty":3,
+      "title":"122. Which Tiger Reserve is located in Kerala and is famous for its artificial lake created by the Mullaperiyar Dam?",
+      "description":"",
+      "hint":"It is one of the best places to observe elephants in South India.",
+      "summary":"Periyar Tiger Reserve is known for its lake ecosystem and rich biodiversity.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Kerala,Periyar,Western Ghats,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":122,
+            "id":485,
+            "title":"Parambikulam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":122,
+            "id":486,
+            "title":"Periyar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":122,
+            "id":487,
+            "title":"Bandipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":122,
+            "id":488,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":123,
+      "difficulty":3,
+      "title":"123. Which Tiger Reserve is situated in Odisha and is known for melanistic (pseudo-melanistic) tigers?",
+      "description":"",
+      "hint":"It is also a biosphere reserve and national park.",
+      "summary":"Similipal Tiger Reserve is famous for rare pseudo-melanistic tigers.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Odisha,Similipal,Wildlife,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":123,
+            "id":489,
+            "title":"Satkosia",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":123,
+            "id":490,
+            "title":"Similipal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":123,
+            "id":491,
+            "title":"Udanti-Sitanadi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":123,
+            "id":492,
+            "title":"Achanakmar",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":124,
+      "difficulty":4,
+      "title":"124. Which Tiger Reserve was declared Rajasthan's third tiger reserve after Ranthambore and Sariska?",
+      "description":"",
+      "hint":"It is located in southeastern Rajasthan near the Chambal region.",
+      "summary":"Mukundra Hills Tiger Reserve became Rajasthan's third tiger reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Rajasthan,Mukundra Hills,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":124,
+            "id":493,
+            "title":"Ramgarh Vishdhari",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":124,
+            "id":494,
+            "title":"Mukundra Hills",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":124,
+            "id":495,
+            "title":"Sariska",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":124,
+            "id":496,
+            "title":"Ranthambore",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":125,
+      "difficulty":4,
+      "title":"125. Which Tiger Reserve became Rajasthan's fourth tiger reserve in 2022?",
+      "description":"",
+      "hint":"It is located in Bundi district and was upgraded from a wildlife sanctuary.",
+      "summary":"Ramgarh Vishdhari Tiger Reserve became Rajasthan's fourth tiger reserve in 2022.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Rajasthan,Ramgarh Vishdhari,RPSC,UPSC,Current Affairs",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":125,
+            "id":497,
+            "title":"Mukundra Hills",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":125,
+            "id":498,
+            "title":"Sariska",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":125,
+            "id":499,
+            "title":"Ramgarh Vishdhari",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":125,
+            "id":500,
+            "title":"Ranthambore",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":126,
+      "difficulty":3,
+      "title":"126. Which Tiger Reserve is located in Telangana after the bifurcation of Andhra Pradesh?",
+      "description":"",
+      "hint":"Its name starts with the letter 'A' and it was carved out from a larger reserve.",
+      "summary":"Amrabad Tiger Reserve is one of the largest tiger reserves in India and is located in Telangana.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Telangana,Amrabad,UPSC,RPSC,Environment",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":126,
+            "id":501,
+            "title":"Amrabad",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":126,
+            "id":502,
+            "title":"Kawal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":126,
+            "id":503,
+            "title":"Satkosia",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":126,
+            "id":504,
+            "title":"Dampa",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":127,
+      "difficulty":3,
+      "title":"127. Which Tiger Reserve is located in Telangana and lies along the Godavari River basin?",
+      "description":"",
+      "hint":"It shares its name with a nearby wildlife sanctuary.",
+      "summary":"Kawal Tiger Reserve is located in northern Telangana.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Telangana,Kawal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":127,
+            "id":505,
+            "title":"Amrabad",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":127,
+            "id":506,
+            "title":"Kawal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":127,
+            "id":507,
+            "title":"Nagarjunsagar-Srisailam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":127,
+            "id":508,
+            "title":"Bor",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":128,
+      "difficulty":3,
+      "title":"128. Which Tiger Reserve is the smallest tiger reserve in Maharashtra?",
+      "description":"",
+      "hint":"Its name is only three letters long.",
+      "summary":"Bor Tiger Reserve is the smallest tiger reserve in Maharashtra.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Maharashtra,Bor,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":128,
+            "id":509,
+            "title":"Melghat",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":128,
+            "id":510,
+            "title":"Navegaon-Nagzira",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":128,
+            "id":511,
+            "title":"Bor",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":128,
+            "id":512,
+            "title":"Tadoba-Andhari",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":129,
+      "difficulty":3,
+      "title":"129. Which Tiger Reserve is located in the Satpura mountain ranges?",
+      "description":"",
+      "hint":"Its name is the same as the mountain range it occupies.",
+      "summary":"Satpura Tiger Reserve is part of the Satpura-Maikal landscape.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Satpura,Madhya Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":129,
+            "id":513,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":129,
+            "id":514,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":129,
+            "id":515,
+            "title":"Bandhavgarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":129,
+            "id":516,
+            "title":"Satpura",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":130,
+      "difficulty":3,
+      "title":"130. Which Tiger Reserve is famous for the conservation of the hard-ground barasingha?",
+      "description":"",
+      "hint":"It is located in Madhya Pradesh.",
+      "summary":"Kanha Tiger Reserve played a major role in saving the hard-ground swamp deer.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Kanha,Barasingha,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":130,
+            "id":517,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":130,
+            "id":518,
+            "title":"Bandhavgarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":130,
+            "id":519,
+            "title":"Panna",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":130,
+            "id":520,
+            "title":"Satpura",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":131,
+      "difficulty":4,
+      "title":"131. Which Tiger Reserve lies in the Brahmaputra floodplain ecosystem?",
+      "description":"",
+      "hint":"It is famous for rhinos as well as tigers.",
+      "summary":"Kaziranga Tiger Reserve is situated in the Brahmaputra floodplain.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Kaziranga,Assam,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":131,
+            "id":521,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":131,
+            "id":522,
+            "title":"Orang",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":131,
+            "id":523,
+            "title":"Kaziranga",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":131,
+            "id":524,
+            "title":"Nameri",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":132,
+      "difficulty":4,
+      "title":"132. Which Tiger Reserve is known as the 'Mini Kaziranga of Assam'?",
+      "description":"",
+      "hint":"It has a very high density of wildlife in a comparatively small area.",
+      "summary":"Orang Tiger Reserve is popularly called the Mini Kaziranga.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Orang,Assam,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":132,
+            "id":525,
+            "title":"Orang",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":132,
+            "id":526,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":132,
+            "id":527,
+            "title":"Nameri",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":132,
+            "id":528,
+            "title":"Pakke",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":133,
+      "difficulty":4,
+      "title":"133. Which Tiger Reserve is located in Arunachal Pradesh and was declared in 2017?",
+      "description":"",
+      "hint":"Its name begins with 'K'.",
+      "summary":"Kamlang Tiger Reserve became Arunachal Pradesh's second tiger reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Kamlang,Arunachal Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":133,
+            "id":529,
+            "title":"Namdapha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":133,
+            "id":530,
+            "title":"Pakke",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":133,
+            "id":531,
+            "title":"Dibang",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":133,
+            "id":532,
+            "title":"Kamlang",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":134,
+      "difficulty":4,
+      "title":"134. Which Tiger Reserve forms part of the Nilgiri Biosphere Reserve in Tamil Nadu?",
+      "description":"",
+      "hint":"It shares boundaries with Bandipur and Wayanad.",
+      "summary":"Mudumalai Tiger Reserve is a key component of the Nilgiri Biosphere Reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Mudumalai,Tamil Nadu,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":134,
+            "id":533,
+            "title":"Anamalai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":134,
+            "id":534,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":134,
+            "id":535,
+            "title":"Sathyamangalam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":134,
+            "id":536,
+            "title":"Kalakad-Mundanthurai",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":135,
+      "difficulty":4,
+      "title":"135. Which Tiger Reserve is famous as the former stronghold of the forest brigand Veerappan?",
+      "description":"",
+      "hint":"Located in Tamil Nadu and acts as an important wildlife corridor.",
+      "summary":"Sathyamangalam Tiger Reserve is known for its strategic location between Western and Eastern Ghats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Sathyamangalam,Tamil Nadu,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":135,
+            "id":537,
+            "title":"Anamalai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":135,
+            "id":538,
+            "title":"Kalakad-Mundanthurai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":135,
+            "id":539,
+            "title":"Sathyamangalam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":135,
+            "id":540,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":136,
+      "difficulty":4,
+      "title":"136. Which Tiger Reserve is situated in Kerala and Tamil Nadu across the Anamalai Hills landscape?",
+      "description":"",
+      "hint":"Its earlier name was Indira Gandhi Wildlife Sanctuary.",
+      "summary":"Anamalai Tiger Reserve is a major protected area in the Western Ghats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Anamalai,Western Ghats,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":136,
+            "id":541,
+            "title":"Parambikulam",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":136,
+            "id":542,
+            "title":"Periyar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":136,
+            "id":543,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":136,
+            "id":544,
+            "title":"Anamalai",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":137,
+      "difficulty":4,
+      "title":"137. Which Tiger Reserve is located in Kerala and shares ecological connectivity with Anamalai?",
+      "description":"",
+      "hint":"Its name starts with 'P' and is known for elephant populations.",
+      "summary":"Parambikulam Tiger Reserve is one of the best-managed protected areas in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Parambikulam,Kerala,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":137,
+            "id":545,
+            "title":"Parambikulam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":137,
+            "id":546,
+            "title":"Periyar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":137,
+            "id":547,
+            "title":"Bandipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":137,
+            "id":548,
+            "title":"Mudumalai",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":138,
+      "difficulty":5,
+      "title":"138. Which Tiger Reserve became India's 50th Tiger Reserve?",
+      "description":"",
+      "hint":"It is located in Rajasthan.",
+      "summary":"Veerangana Durgavati Tiger Reserve became the 50th reserve, but Rajasthan's Ramgarh Vishdhari was the 52nd. The 50th officially notified reserve was Ranipur in Uttar Pradesh? (NTCA sequence often asked carefully).",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Current Affairs,NTCA,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":138,
+            "id":549,
+            "title":"Ramgarh Vishdhari",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":138,
+            "id":550,
+            "title":"Ranipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":138,
+            "id":551,
+            "title":"Veerangana Durgavati",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":138,
+            "id":552,
+            "title":"Guru Ghasidas-Tamor Pingla",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":139,
+      "difficulty":5,
+      "title":"139. Which state has the highest number of Tiger Reserves in India?",
+      "description":"",
+      "hint":"It is often called the Tiger State of India.",
+      "summary":"Madhya Pradesh has the highest number of tiger reserves in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Madhya Pradesh,Tiger State,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":139,
+            "id":553,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":139,
+            "id":554,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":139,
+            "id":555,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":139,
+            "id":556,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":140,
+      "difficulty":5,
+      "title":"140. Which Tiger Reserve is located in Uttar Pradesh?",
+      "description":"",
+      "hint":"It lies in the Terai Arc Landscape.",
+      "summary":"Pilibhit Tiger Reserve is an important part of the Terai ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Pilibhit,Uttar Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":140,
+            "id":557,
+            "title":"Ranipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":140,
+            "id":558,
+            "title":"Dudhwa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":140,
+            "id":559,
+            "title":"Pilibhit",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":140,
+            "id":560,
+            "title":"Valmiki",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":141,
+      "difficulty":5,
+      "title":"141. Which Tiger Reserve was notified in Uttar Pradesh in 2022?",
+      "description":"",
+      "hint":"It is located in the Bundelkhand region.",
+      "summary":"Ranipur Tiger Reserve became Uttar Pradesh's fourth tiger reserve.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Ranipur,UPSC,Current Affairs",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":141,
+            "id":561,
+            "title":"Dudhwa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":141,
+            "id":562,
+            "title":"Pilibhit",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":141,
+            "id":563,
+            "title":"Amangarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":141,
+            "id":564,
+            "title":"Ranipur",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":142,
+      "difficulty":5,
+      "title":"142. The National Tiger Conservation Authority (NTCA) was established under which Act?",
+      "description":"",
+      "hint":"The Act is India's primary wildlife protection legislation.",
+      "summary":"NTCA was established under the Wildlife (Protection) Act, 1972 through amendments.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"NTCA,Wildlife Protection Act,Tiger Reserves,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":142,
+            "id":565,
+            "title":"Environment Protection Act 1986",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":142,
+            "id":566,
+            "title":"Forest Conservation Act 1980",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":142,
+            "id":567,
+            "title":"Wildlife Protection Act 1972",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":142,
+            "id":568,
+            "title":"Biological Diversity Act 2002",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":143,
+      "difficulty":5,
+      "title":"143. Which Tiger Reserve is located in Chhattisgarh and is named after a major river of central India?",
+      "description":"",
+      "hint":"The river flows westward into the Arabian Sea.",
+      "summary":"Indravati Tiger Reserve derives its name from the Indravati River.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Indravati,Chhattisgarh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":143,
+            "id":569,
+            "title":"Indravati",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":143,
+            "id":570,
+            "title":"Achanakmar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":143,
+            "id":571,
+            "title":"Udanti-Sitanadi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":143,
+            "id":572,
+            "title":"Palamau",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":144,
+      "difficulty":5,
+      "title":"144. Which Tiger Reserve was created from Udanti and Sitanadi Wildlife Sanctuaries?",
+      "description":"",
+      "hint":"Its name combines two protected areas.",
+      "summary":"Udanti-Sitanadi Tiger Reserve was formed by merging two wildlife sanctuaries.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Chhattisgarh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":144,
+            "id":573,
+            "title":"Achanakmar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":144,
+            "id":574,
+            "title":"Indravati",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":144,
+            "id":575,
+            "title":"Udanti-Sitanadi",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":144,
+            "id":576,
+            "title":"Palamau",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":145,
+      "difficulty":5,
+      "title":"145. Which Tiger Reserve is famous for all five big cat species being reported from the landscape?",
+      "description":"",
+      "hint":"Located in Arunachal Pradesh.",
+      "summary":"Namdapha is one of the few places where tiger, leopard, clouded leopard and snow leopard habitats overlap.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Namdapha,Big Cats,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":145,
+            "id":577,
+            "title":"Kamlang",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":145,
+            "id":578,
+            "title":"Namdapha",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":145,
+            "id":579,
+            "title":"Pakke",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":145,
+            "id":580,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":146,
+      "difficulty":5,
+      "title":"146. Which organization conducts the All India Tiger Estimation?",
+      "description":"",
+      "hint":"It is India's apex tiger conservation authority.",
+      "summary":"The National Tiger Conservation Authority coordinates tiger estimation exercises.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"NTCA,Tiger Census,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":146,
+            "id":581,
+            "title":"Zoological Survey of India",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":146,
+            "id":582,
+            "title":"NTCA",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":146,
+            "id":583,
+            "title":"Forest Survey of India",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":146,
+            "id":584,
+            "title":"National Biodiversity Authority",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":147,
+      "difficulty":5,
+      "title":"147. Which Tiger Reserve is associated with the Buxa landscape?",
+      "description":"",
+      "hint":"Located in West Bengal near Bhutan.",
+      "summary":"Buxa Tiger Reserve lies in the eastern Himalayan foothills.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Buxa,West Bengal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":147,
+            "id":585,
+            "title":"Sundarbans",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":147,
+            "id":586,
+            "title":"Buxa",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":147,
+            "id":587,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":147,
+            "id":588,
+            "title":"Orang",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":148,
+      "difficulty":5,
+      "title":"148. Which Tiger Reserve is situated in the Terai region of Uttarakhand?",
+      "description":"",
+      "hint":"It shares ecological connectivity with Nepal.",
+      "summary":"Corbett Tiger Reserve forms an important part of the Terai Arc Landscape.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Corbett,Terai Arc,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":148,
+            "id":589,
+            "title":"Rajaji",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":148,
+            "id":590,
+            "title":"Corbett",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":148,
+            "id":591,
+            "title":"Dudhwa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":148,
+            "id":592,
+            "title":"Valmiki",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":149,
+      "difficulty":5,
+      "title":"149. Which state contains the Melghat Tiger Reserve?",
+      "description":"",
+      "hint":"The reserve lies in the Satpura ranges.",
+      "summary":"Melghat Tiger Reserve is located in Maharashtra.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Melghat,Maharashtra,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":149,
+            "id":593,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":149,
+            "id":594,
+            "title":"Chhattisgarh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":149,
+            "id":595,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":149,
+            "id":596,
+            "title":"Telangana",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":150,
+      "difficulty":5,
+      "title":"150. Which Tiger Reserve is located on the India-Bangladesh border and consists primarily of mangrove forests?",
+      "description":"",
+      "hint":"It is the only mangrove tiger reserve in India.",
+      "summary":"Sundarbans Tiger Reserve is famous for its mangrove ecosystem and swimming tigers.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Sundarbans,Mangroves,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":150,
+            "id":597,
+            "title":"Buxa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":150,
+            "id":598,
+            "title":"Kaziranga",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":150,
+            "id":599,
+            "title":"Manas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":150,
+            "id":600,
+            "title":"Sundarbans",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   }
+]
