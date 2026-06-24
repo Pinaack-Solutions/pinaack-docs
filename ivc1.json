@@ -1,0 +1,2102 @@
+[
+  {
+    "id":401,
+    "difficulty":0,
+    "title":"401. The Indus Valley Civilization is also known by which other name?",
+    "description":"",
+    "hint":"It is named after the first site that was discovered.",
+    "summary":"The Indus Valley Civilization is also known as the Harappan Civilization because Harappa was the first site discovered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Ancient History,Indus Valley Civilization,Harappan Civilization,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":401,
+        "id":1401,
+        "title":"Mesopotamian Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":401,
+        "id":1402,
+        "title":"Harappan Civilization",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":401,
+        "id":1403,
+        "title":"Vedic Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":401,
+        "id":1404,
+        "title":"Mauryan Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":402,
+    "difficulty":0,
+    "title":"402. In which present-day country is Harappa located?",
+    "description":"",
+    "hint":"It lies in Punjab province outside India.",
+    "summary":"Harappa is located in present-day Pakistan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus Valley Civilization,Harappa,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":402,
+        "id":1405,
+        "title":"India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":402,
+        "id":1406,
+        "title":"Afghanistan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":402,
+        "id":1407,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":402,
+        "id":1408,
+        "title":"Iran",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":403,
+    "difficulty":0,
+    "title":"403. Who first discovered Harappa in 1921?",
+    "description":"",
+    "hint":"An archaeologist working under ASI.",
+    "summary":"Harappa was discovered by Daya Ram Sahni in 1921.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Harappa,Archaeology,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":403,
+        "id":1409,
+        "title":"R. D. Banerji",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":403,
+        "id":1410,
+        "title":"John Marshall",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":403,
+        "id":1411,
+        "title":"Daya Ram Sahni",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":403,
+        "id":1412,
+        "title":"Mortimer Wheeler",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":404,
+    "difficulty":0,
+    "title":"404. Which river was closely associated with the Indus Valley Civilization?",
+    "description":"",
+    "hint":"The civilization gets its name from this river.",
+    "summary":"The Indus River was the principal river associated with the civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus River,IVC,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":404,
+        "id":1413,
+        "title":"Ganga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":404,
+        "id":1414,
+        "title":"Indus",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":404,
+        "id":1415,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":404,
+        "id":1416,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":405,
+    "difficulty":0,
+    "title":"405. The mature phase of the Indus Valley Civilization is generally dated to which period?",
+    "description":"",
+    "hint":"It falls roughly in the Bronze Age.",
+    "summary":"The mature Harappan phase is generally dated between 2600 BCE and 1900 BCE.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Chronology,Indus Valley Civilization,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":405,
+        "id":1417,
+        "title":"2600 BCE–1900 BCE",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":405,
+        "id":1418,
+        "title":"1500 BCE–1000 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":405,
+        "id":1419,
+        "title":"600 BCE–300 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":405,
+        "id":1420,
+        "title":"3200 BCE–2800 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":406,
+    "difficulty":1,
+    "title":"406. Which metal was NOT known to the Harappans?",
+    "description":"",
+    "hint":"This metal became common much later in India.",
+    "summary":"Iron was not known to the Harappans during the mature phase.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Metals,Harappans,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":406,
+        "id":1421,
+        "title":"Copper",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":406,
+        "id":1422,
+        "title":"Bronze",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":406,
+        "id":1423,
+        "title":"Iron",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":406,
+        "id":1424,
+        "title":"Gold",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":407,
+    "difficulty":1,
+    "title":"407. Which animal appears most frequently on Harappan seals?",
+    "description":"",
+    "hint":"It is often called the unicorn seal.",
+    "summary":"The unicorn motif is the most common figure found on Harappan seals.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Seals,Harappan Art,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":407,
+        "id":1425,
+        "title":"Elephant",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":407,
+        "id":1426,
+        "title":"Unicorn",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":407,
+        "id":1427,
+        "title":"Tiger",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":407,
+        "id":1428,
+        "title":"Horse",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":408,
+    "difficulty":1,
+    "title":"408. Which crop is considered the earliest evidence of cotton cultivation in the world?",
+    "description":"",
+    "hint":"Used extensively in Harappan textiles.",
+    "summary":"The Harappans are credited with some of the earliest known cultivation of cotton.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Agriculture,Cotton,Harappans,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":408,
+        "id":1429,
+        "title":"Jute",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":408,
+        "id":1430,
+        "title":"Cotton",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":408,
+        "id":1431,
+        "title":"Tea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":408,
+        "id":1432,
+        "title":"Coffee",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":409,
+    "difficulty":1,
+    "title":"409. The Harappan civilization is primarily classified as which type of civilization?",
+    "description":"",
+    "hint":"It had well-planned cities and drainage systems.",
+    "summary":"The Harappan civilization was an urban Bronze Age civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Urbanization,IVC,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":409,
+        "id":1433,
+        "title":"Nomadic",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":409,
+        "id":1434,
+        "title":"Pastoral",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":409,
+        "id":1435,
+        "title":"Urban",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":409,
+        "id":1436,
+        "title":"Tribal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":410,
+    "difficulty":1,
+    "title":"410. Which script was used by the Harappans?",
+    "description":"",
+    "hint":"It has not yet been deciphered.",
+    "summary":"The Harappan script remains undeciphered despite extensive research.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Script,Harappan Civilization,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":410,
+        "id":1437,
+        "title":"Brahmi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":410,
+        "id":1438,
+        "title":"Kharosthi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":410,
+        "id":1439,
+        "title":"Harappan Script",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":410,
+        "id":1440,
+        "title":"Devanagari",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":411,
+    "difficulty":2,
+    "title":"411. Harappa is situated on the banks of which river?",
+    "description":"",
+    "hint":"A tributary of the Indus River.",
+    "summary":"Harappa is located on the Ravi River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Harappa,Ravi River,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":411,
+        "id":1441,
+        "title":"Beas",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":411,
+        "id":1442,
+        "title":"Ravi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":411,
+        "id":1443,
+        "title":"Chenab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":411,
+        "id":1444,
+        "title":"Jhelum",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":412,
+    "difficulty":2,
+    "title":"412. Which archaeologist discovered Mohenjo-daro in 1922?",
+    "description":"",
+    "hint":"His initials are R.D.",
+    "summary":"Mohenjo-daro was discovered by R. D. Banerji.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Mohenjo-daro,Archaeology,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":412,
+        "id":1445,
+        "title":"John Marshall",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":412,
+        "id":1446,
+        "title":"Daya Ram Sahni",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":412,
+        "id":1447,
+        "title":"R. D. Banerji",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":412,
+        "id":1448,
+        "title":"Aurel Stein",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":413,
+    "difficulty":2,
+    "title":"413. Which feature is regarded as the most remarkable achievement of Harappan town planning?",
+    "description":"",
+    "hint":"Every house was connected to it.",
+    "summary":"The drainage system was one of the most advanced features of Harappan urban planning.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Town Planning,Drainage System,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":413,
+        "id":1449,
+        "title":"Granaries",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":413,
+        "id":1450,
+        "title":"Drainage System",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":413,
+        "id":1451,
+        "title":"Temples",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":413,
+        "id":1452,
+        "title":"Palaces",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":414,
+    "difficulty":2,
+    "title":"414. Which material was most commonly used in Harappan buildings?",
+    "description":"",
+    "hint":"The bricks were standardized in size.",
+    "summary":"Baked bricks were widely used in Harappan urban construction.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Architecture,Harappans,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":414,
+        "id":1453,
+        "title":"Wood",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":414,
+        "id":1454,
+        "title":"Stone",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":414,
+        "id":1455,
+        "title":"Baked Bricks",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":414,
+        "id":1456,
+        "title":"Marble",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":415,
+    "difficulty":2,
+    "title":"415. Which famous bronze sculpture was discovered at Mohenjo-daro?",
+    "description":"",
+    "hint":"A young female figure.",
+    "summary":"The Dancing Girl is one of the most celebrated bronze sculptures of the Harappan civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Art,Dancing Girl,Mohenjo-daro,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":415,
+        "id":1457,
+        "title":"Priest King",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":415,
+        "id":1458,
+        "title":"Dancing Girl",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":415,
+        "id":1459,
+        "title":"Mother Goddess",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":415,
+        "id":1460,
+        "title":"Bull Figurine",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":416,
+    "difficulty":2,
+    "title":"416. Which stone sculpture discovered at Mohenjo-daro is known for its dignified appearance?",
+    "description":"",
+    "hint":"Often shown wearing a patterned shawl.",
+    "summary":"The Priest-King sculpture is a famous artifact from Mohenjo-daro.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Art,Priest King,Mohenjo-daro,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":416,
+        "id":1461,
+        "title":"Priest-King",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":416,
+        "id":1462,
+        "title":"Dancing Girl",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":416,
+        "id":1463,
+        "title":"Yaksha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":416,
+        "id":1464,
+        "title":"Nataraja",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":417,
+    "difficulty":3,
+    "title":"417. Which animal is notably absent from Harappan seals?",
+    "description":"",
+    "hint":"It became very important in later Vedic culture.",
+    "summary":"The horse is generally absent or extremely rare in Harappan seals.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Seals,Horse,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":417,
+        "id":1465,
+        "title":"Elephant",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":417,
+        "id":1466,
+        "title":"Rhinoceros",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":417,
+        "id":1467,
+        "title":"Horse",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":417,
+        "id":1468,
+        "title":"Buffalo",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":418,
+    "difficulty":3,
+    "title":"418. Standardized weights found in Harappan sites indicate development of what?",
+    "description":"",
+    "hint":"Essential for buying and selling goods.",
+    "summary":"Standardized weights indicate a well-developed trade and commercial system.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Trade,Economy,Harappans,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":418,
+        "id":1469,
+        "title":"Temple Economy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":418,
+        "id":1470,
+        "title":"Trade System",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":418,
+        "id":1471,
+        "title":"Feudalism",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":418,
+        "id":1472,
+        "title":"Monarchy",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":419,
+    "difficulty":3,
+    "title":"419. The Harappans had trade relations with which ancient civilization referred to as 'Meluhha' in Mesopotamian records?",
+    "description":"",
+    "hint":"Historians identify Meluhha with a civilization from South Asia.",
+    "summary":"Mesopotamian records refer to the Harappan region as Meluhha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Trade,Mesopotamia,Meluhha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":419,
+        "id":1473,
+        "title":"Egyptian Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":419,
+        "id":1474,
+        "title":"Indus Valley Civilization",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":419,
+        "id":1475,
+        "title":"Chinese Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":419,
+        "id":1476,
+        "title":"Greek Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":420,
+    "difficulty":3,
+    "title":"420. Which evidence suggests the Harappans practiced long-distance trade?",
+    "description":"",
+    "hint":"Many seals have been found outside the civilization's core area.",
+    "summary":"Harappan seals found in Mesopotamia indicate long-distance trade connections.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Trade,Mesopotamia,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":420,
+        "id":1477,
+        "title":"Rock Paintings",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":420,
+        "id":1478,
+        "title":"Harappan Seals in Mesopotamia",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":420,
+        "id":1479,
+        "title":"Iron Weapons",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":420,
+        "id":1480,
+        "title":"Ashokan Inscriptions",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":421,
+    "difficulty":3,
+    "title":"421. Which site is famous for the Great Bath?",
+    "description":"",
+    "hint":"One of the largest cities of the civilization.",
+    "summary":"The Great Bath was discovered at Mohenjo-daro.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Mohenjo-daro,Great Bath,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":421,
+        "id":1481,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":421,
+        "id":1482,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":421,
+        "id":1483,
+        "title":"Mohenjo-daro",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":421,
+        "id":1484,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":422,
+    "difficulty":3,
+    "title":"422. What was the likely purpose of the Great Bath?",
+    "description":"",
+    "hint":"Most historians associate it with social or religious activity rather than recreation.",
+    "summary":"The Great Bath is believed to have been used for ritual bathing.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Great Bath,Religion,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":422,
+        "id":1485,
+        "title":"Military Training",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":422,
+        "id":1486,
+        "title":"Storage of Grain",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":422,
+        "id":1487,
+        "title":"Ritual Bathing",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":422,
+        "id":1488,
+        "title":"Animal Husbandry",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":423,
+    "difficulty":4,
+    "title":"423. Which feature best reflects the advanced civic planning of the Harappans?",
+    "description":"",
+    "hint":"Cities were built according to a planned layout.",
+    "summary":"The grid-pattern street layout is a hallmark of Harappan urban planning.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Town Planning,Grid Pattern,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":423,
+        "id":1489,
+        "title":"Grid-pattern streets",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":423,
+        "id":1490,
+        "title":"Rock-cut caves",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":423,
+        "id":1491,
+        "title":"Large temples",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":423,
+        "id":1492,
+        "title":"Pyramids",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":424,
+    "difficulty":4,
+    "title":"424. The absence of large palaces and royal tombs suggests what about Harappan society?",
+    "description":"",
+    "hint":"Archaeologists debate the nature of political authority.",
+    "summary":"The lack of monumental royal structures suggests a different political organization compared to Egypt or Mesopotamia.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Political Organization,Harappans,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":424,
+        "id":1493,
+        "title":"Strong evidence of divine kingship",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":424,
+        "id":1494,
+        "title":"Different form of political organization",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":424,
+        "id":1495,
+        "title":"Absence of administration",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":424,
+        "id":1496,
+        "title":"Complete anarchy",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":425,
+    "difficulty":4,
+    "title":"425. Which of the following is considered a characteristic feature of Harappan urban centers?",
+    "description":"",
+    "hint":"It helped maintain hygiene throughout the city.",
+    "summary":"Covered drains connected to houses are among the most distinctive features of Harappan cities.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Urban Planning,Drainage,Harappans,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":425,
+        "id":1497,
+        "title":"Covered drainage system",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":425,
+        "id":1498,
+        "title":"Massive stone temples",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":425,
+        "id":1499,
+        "title":"Iron fortifications",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":425,
+        "id":1500,
+        "title":"Horse-drawn chariots",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":426,
+    "difficulty":2,
+    "title":"426. Which Harappan site is famous for its dockyard?",
+    "description":"",
+    "hint":"Located in present-day Gujarat and associated with maritime trade.",
+    "summary":"Lothal is famous for its dockyard, which indicates overseas trade activities.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus Valley Civilization,Lothal,Dockyard,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":426,
+        "id":1501,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":426,
+        "id":1502,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":426,
+        "id":1503,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":426,
+        "id":1504,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":427,
+    "difficulty":2,
+    "title":"427. In which present-day state is Lothal located?",
+    "description":"",
+    "hint":"The state has the longest coastline in India.",
+    "summary":"Lothal is located in Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Lothal,Gujarat,IVC,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":427,
+        "id":1505,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":427,
+        "id":1506,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":427,
+        "id":1507,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":427,
+        "id":1508,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":428,
+    "difficulty":3,
+    "title":"428. Which Harappan site is known for its sophisticated water conservation system?",
+    "description":"",
+    "hint":"Located in the Rann of Kutch region.",
+    "summary":"Dholavira is renowned for its advanced water management and reservoir system.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Dholavira,Water Management,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":428,
+        "id":1509,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":428,
+        "id":1510,
+        "title":"Ropar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":428,
+        "id":1511,
+        "title":"Chanhudaro",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":428,
+        "id":1512,
+        "title":"Amri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":429,
+    "difficulty":3,
+    "title":"429. Which Harappan site yielded evidence of a large signboard with Indus script symbols?",
+    "description":"",
+    "hint":"It is one of the most important sites in Gujarat.",
+    "summary":"A large signboard with Indus script symbols was discovered at Dholavira.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Dholavira,Indus Script,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":429,
+        "id":1513,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":429,
+        "id":1514,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":429,
+        "id":1515,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":429,
+        "id":1516,
+        "title":"Rakhigarhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":430,
+    "difficulty":3,
+    "title":"430. Which Harappan site is famous for the earliest evidence of a ploughed field?",
+    "description":"",
+    "hint":"Located in present-day Rajasthan.",
+    "summary":"Kalibangan provides evidence of a ploughed agricultural field.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Kalibangan,Agriculture,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":430,
+        "id":1517,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":430,
+        "id":1518,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":430,
+        "id":1519,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":430,
+        "id":1520,
+        "title":"Surkotada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":431,
+    "difficulty":3,
+    "title":"431. Kalibangan is located in which Indian state?",
+    "description":"",
+    "hint":"The state contains the Thar Desert.",
+    "summary":"Kalibangan is located in Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Kalibangan,Rajasthan,RPSC,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":431,
+        "id":1521,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":431,
+        "id":1522,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":431,
+        "id":1523,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":431,
+        "id":1524,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":432,
+    "difficulty":3,
+    "title":"432. Evidence of fire altars has been found prominently at which Harappan site?",
+    "description":"",
+    "hint":"This site is often linked to ritual practices.",
+    "summary":"Kalibangan is famous for evidence of fire altars.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Kalibangan,Fire Altars,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":432,
+        "id":1525,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":432,
+        "id":1526,
+        "title":"Mohenjo-daro",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":432,
+        "id":1527,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":432,
+        "id":1528,
+        "title":"Ropar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":433,
+    "difficulty":3,
+    "title":"433. Which Harappan site is located in Haryana and shows both pre-Harappan and Harappan phases?",
+    "description":"",
+    "hint":"Frequently asked together with Kalibangan.",
+    "summary":"Banawali in Haryana shows both pre-Harappan and Harappan cultural phases.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Banawali,Haryana,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":433,
+        "id":1529,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":433,
+        "id":1530,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":433,
+        "id":1531,
+        "title":"Surkotada",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":433,
+        "id":1532,
+        "title":"Amri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":434,
+    "difficulty":4,
+    "title":"434. Which Harappan site is considered the largest known Indus Valley Civilization site in India?",
+    "description":"",
+    "hint":"Located in Haryana and excavated extensively in recent years.",
+    "summary":"Rakhigarhi is currently considered the largest known Harappan site in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Rakhigarhi,Haryana,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":434,
+        "id":1533,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":434,
+        "id":1534,
+        "title":"Rakhigarhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":434,
+        "id":1535,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":434,
+        "id":1536,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":435,
+    "difficulty":4,
+    "title":"435. Which Harappan site is famous as a bead-making center?",
+    "description":"",
+    "hint":"It lacked a citadel unlike many major Harappan cities.",
+    "summary":"Chanhudaro was an important center of bead manufacturing.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Chanhudaro,Industry,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":435,
+        "id":1537,
+        "title":"Chanhudaro",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":435,
+        "id":1538,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":435,
+        "id":1539,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":435,
+        "id":1540,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":436,
+    "difficulty":4,
+    "title":"436. Which Harappan site is associated with controversial evidence of horse remains?",
+    "description":"",
+    "hint":"Located in Gujarat.",
+    "summary":"Surkotada is known for remains claimed by some archaeologists to belong to horses.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Surkotada,Horse Debate,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":436,
+        "id":1541,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":436,
+        "id":1542,
+        "title":"Surkotada",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":436,
+        "id":1543,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":436,
+        "id":1544,
+        "title":"Ropar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":437,
+    "difficulty":4,
+    "title":"437. Which Harappan site is located in Punjab, India?",
+    "description":"",
+    "hint":"It lies near the Sutlej River.",
+    "summary":"Ropar (Rupnagar) is an important Harappan site in Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Ropar,Punjab,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":437,
+        "id":1545,
+        "title":"Ropar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":437,
+        "id":1546,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":437,
+        "id":1547,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":437,
+        "id":1548,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":438,
+    "difficulty":4,
+    "title":"438. Which site provides evidence of Harappan settlement extending into present-day Uttar Pradesh?",
+    "description":"",
+    "hint":"Located in Baghpat district.",
+    "summary":"Alamgirpur represents the easternmost extent of the Harappan Civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Alamgirpur,Uttar Pradesh,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":438,
+        "id":1549,
+        "title":"Alamgirpur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":438,
+        "id":1550,
+        "title":"Rakhigarhi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":438,
+        "id":1551,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":438,
+        "id":1552,
+        "title":"Amri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":439,
+    "difficulty":4,
+    "title":"439. Which Harappan site is associated with massive reservoirs and a unique city layout of three divisions?",
+    "description":"",
+    "hint":"A UNESCO World Heritage Site in Gujarat.",
+    "summary":"Dholavira had a unique city plan consisting of citadel, middle town and lower town.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Dholavira,UNESCO,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":439,
+        "id":1553,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":439,
+        "id":1554,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":439,
+        "id":1555,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":439,
+        "id":1556,
+        "title":"Chanhudaro",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":440,
+    "difficulty":4,
+    "title":"440. Which Harappan site is often called the 'Manchester of the Indus Civilization' because of bead manufacturing?",
+    "description":"",
+    "hint":"Same site known for specialized craft production.",
+    "summary":"Chanhudaro is often called the Manchester of the Harappan Civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Chanhudaro,Industry,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":440,
+        "id":1557,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":440,
+        "id":1558,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":440,
+        "id":1559,
+        "title":"Chanhudaro",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":440,
+        "id":1560,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":441,
+    "difficulty":5,
+    "title":"441. Which deity-like figure on a Harappan seal is sometimes referred to as Proto-Shiva?",
+    "description":"",
+    "hint":"The figure is shown seated in a yogic posture.",
+    "summary":"The Pashupati Seal depicts a horned figure often interpreted as Proto-Shiva.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Pashupati Seal,Religion,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":441,
+        "id":1561,
+        "title":"Mother Goddess",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":441,
+        "id":1562,
+        "title":"Pashupati Figure",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":441,
+        "id":1563,
+        "title":"Indra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":441,
+        "id":1564,
+        "title":"Varuna",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":442,
+    "difficulty":5,
+    "title":"442. Numerous terracotta female figurines suggest possible worship of whom?",
+    "description":"",
+    "hint":"Associated with fertility.",
+    "summary":"Terracotta female figurines are often interpreted as Mother Goddess representations.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Religion,Mother Goddess,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":442,
+        "id":1565,
+        "title":"Mother Goddess",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":442,
+        "id":1566,
+        "title":"Lakshmi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":442,
+        "id":1567,
+        "title":"Saraswati",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":442,
+        "id":1568,
+        "title":"Durga",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":443,
+    "difficulty":5,
+    "title":"443. Which theory regarding the decline of the Harappan Civilization is no longer widely accepted?",
+    "description":"",
+    "hint":"It was popularized by Mortimer Wheeler.",
+    "summary":"The Aryan invasion theory is no longer widely accepted as the primary cause of Harappan decline.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Decline of Harappans,Aryan Theory,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":443,
+        "id":1569,
+        "title":"Climate Change",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":443,
+        "id":1570,
+        "title":"River Changes",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":443,
+        "id":1571,
+        "title":"Aryan Invasion Theory",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":443,
+        "id":1572,
+        "title":"Ecological Factors",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":444,
+    "difficulty":5,
+    "title":"444. Harappan weights were generally based on which numerical system?",
+    "description":"",
+    "hint":"Powers and multiples of a particular number.",
+    "summary":"Harappan weights followed a binary system with standardized ratios.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Weights and Measures,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":444,
+        "id":1573,
+        "title":"Decimal only",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":444,
+        "id":1574,
+        "title":"Binary System",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":444,
+        "id":1575,
+        "title":"Sexagesimal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":444,
+        "id":1576,
+        "title":"Roman System",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":445,
+    "difficulty":5,
+    "title":"445. Which section of a Harappan city was usually built on a raised platform?",
+    "description":"",
+    "hint":"It often contained public buildings.",
+    "summary":"The citadel was built on an elevated platform and housed important structures.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Citadel,Town Planning,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":445,
+        "id":1577,
+        "title":"Lower Town",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":445,
+        "id":1578,
+        "title":"Citadel",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":445,
+        "id":1579,
+        "title":"Dockyard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":445,
+        "id":1580,
+        "title":"Marketplace",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":446,
+    "difficulty":5,
+    "title":"446. Which Harappan site has yielded evidence of a cemetery known as Cemetery H?",
+    "description":"",
+    "hint":"One of the two major cities of the civilization.",
+    "summary":"Cemetery H was discovered at Harappa and is associated with the Late Harappan phase.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Harappa,Cemetery H,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":446,
+        "id":1581,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":446,
+        "id":1582,
+        "title":"Mohenjo-daro",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":446,
+        "id":1583,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":446,
+        "id":1584,
+        "title":"Dholavira",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":447,
+    "difficulty":5,
+    "title":"447. Which site provides evidence of interaction between Harappan and later cultural phases in Punjab?",
+    "description":"",
+    "hint":"Located on the Sutlej River.",
+    "summary":"Ropar shows a continuous cultural sequence from Harappan to later periods.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Ropar,Cultural Sequence,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":447,
+        "id":1585,
+        "title":"Kalibangan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":447,
+        "id":1586,
+        "title":"Ropar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":447,
+        "id":1587,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":447,
+        "id":1588,
+        "title":"Surkotada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":448,
+    "difficulty":5,
+    "title":"448. Which Harappan site lies closest to the Arabian Sea and played a major role in maritime trade?",
+    "description":"",
+    "hint":"Known for its dockyard.",
+    "summary":"Lothal was one of the most important centers of Harappan maritime trade.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Lothal,Maritime Trade,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":448,
+        "id":1589,
+        "title":"Lothal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":448,
+        "id":1590,
+        "title":"Harappa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":448,
+        "id":1591,
+        "title":"Rakhigarhi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":448,
+        "id":1592,
+        "title":"Banawali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":449,
+    "difficulty":5,
+    "title":"449. Which statement best describes the Harappan economy?",
+    "description":"",
+    "hint":"It was not dependent on a single activity.",
+    "summary":"The Harappan economy was based on agriculture, trade, crafts and animal husbandry.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Economy,Harappans,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":449,
+        "id":1593,
+        "title":"Purely pastoral",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":449,
+        "id":1594,
+        "title":"Agriculture, trade and crafts",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":449,
+        "id":1595,
+        "title":"Only hunting and gathering",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":449,
+        "id":1596,
+        "title":"Entirely temple controlled",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":450,
+    "difficulty":5,
+    "title":"450. Which feature distinguishes the Indus Valley Civilization from contemporary Egypt and Mesopotamia?",
+    "description":"",
+    "hint":"Think about what archaeologists have NOT found.",
+    "summary":"Unlike Egypt and Mesopotamia, the Harappans left no clear evidence of massive royal monuments, palaces or pyramids.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus Valley Civilization,Comparison,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":450,
+        "id":1597,
+        "title":"Use of bronze",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":450,
+        "id":1598,
+        "title":"Urban planning",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":450,
+        "id":1599,
+        "title":"Absence of monumental royal structures",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":450,
+        "id":1600,
+        "title":"Agriculture",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
