@@ -1,0 +1,2102 @@
+[
+   {
+      "id":301,
+      "difficulty":0,
+      "title":"301. Which Indian monument is known as the 'Symbol of Love' and is a UNESCO World Heritage Site?",
+      "description":"",
+      "hint":"It was built by a Mughal emperor for his wife.",
+      "summary":"The Taj Mahal in Agra is one of the most famous UNESCO World Heritage Sites in the world.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,World Heritage Sites,Taj Mahal,History,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":301,
+            "id":1001,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":301,
+            "id":1002,
+            "title":"Taj Mahal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":301,
+            "id":1003,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":301,
+            "id":1004,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":302,
+      "difficulty":0,
+      "title":"302. In which city is the Taj Mahal located?",
+      "description":"",
+      "hint":"The city lies on the banks of the Yamuna River.",
+      "summary":"The Taj Mahal is located in Agra, Uttar Pradesh.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Taj Mahal,Agra,Geography,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":302,
+            "id":1005,
+            "title":"Delhi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":302,
+            "id":1006,
+            "title":"Agra",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":302,
+            "id":1007,
+            "title":"Jaipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":302,
+            "id":1008,
+            "title":"Lucknow",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":303,
+      "difficulty":0,
+      "title":"303. Which UNESCO World Heritage Site in Delhi is the tallest brick minaret in India?",
+      "description":"",
+      "hint":"It was started by Qutb-ud-din Aibak.",
+      "summary":"Qutub Minar is one of Delhi's most famous historical monuments.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Qutub Minar,Delhi,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":303,
+            "id":1009,
+            "title":"Purana Qila",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":303,
+            "id":1010,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":303,
+            "id":1011,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":303,
+            "id":1012,
+            "title":"Jama Masjid",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":304,
+      "difficulty":0,
+      "title":"304. Which UNESCO site in Delhi served as the residence of Mughal emperors?",
+      "description":"",
+      "hint":"It is built from red sandstone.",
+      "summary":"The Red Fort was the principal residence of Mughal emperors.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Red Fort,Mughal Empire,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":304,
+            "id":1013,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":304,
+            "id":1014,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":304,
+            "id":1015,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":304,
+            "id":1016,
+            "title":"Safdarjung Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":305,
+      "difficulty":1,
+      "title":"305. Which UNESCO World Heritage Site is known as the precursor to the Taj Mahal?",
+      "description":"",
+      "hint":"It is the tomb of a Mughal emperor in Delhi.",
+      "summary":"Humayun's Tomb introduced Persian architectural elements later perfected in the Taj Mahal.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Humayun's Tomb,Mughal Architecture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":305,
+            "id":1017,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":305,
+            "id":1018,
+            "title":"Gol Gumbaz",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":305,
+            "id":1019,
+            "title":"Taj Mahal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":305,
+            "id":1020,
+            "title":"Agra Fort",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":306,
+      "difficulty":1,
+      "title":"306. Which UNESCO World Heritage Site is famous for rock-cut Buddhist caves in Maharashtra?",
+      "description":"",
+      "hint":"The caves contain paintings depicting Jataka tales.",
+      "summary":"Ajanta Caves are renowned for ancient Buddhist art and paintings.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ajanta Caves,Buddhism,Art and Culture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":306,
+            "id":1021,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":306,
+            "id":1022,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":306,
+            "id":1023,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":306,
+            "id":1024,
+            "title":"Badami Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":307,
+      "difficulty":1,
+      "title":"307. Which UNESCO site contains Hindu, Buddhist and Jain cave monuments at one location?",
+      "description":"",
+      "hint":"It is located near Aurangabad.",
+      "summary":"Ellora Caves showcase religious harmony through diverse cave temples.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ellora Caves,Religion,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":307,
+            "id":1025,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":307,
+            "id":1026,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":307,
+            "id":1027,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":307,
+            "id":1028,
+            "title":"Udayagiri Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":308,
+      "difficulty":1,
+      "title":"308. The famous Kailasa Temple is located in which UNESCO World Heritage Site?",
+      "description":"",
+      "hint":"It is a monolithic rock-cut temple.",
+      "summary":"The Kailasa Temple is the most famous monument at Ellora Caves.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Kailasa Temple,Ellora,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":308,
+            "id":1029,
+            "title":"Mahabalipuram",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":308,
+            "id":1030,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":308,
+            "id":1031,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":308,
+            "id":1032,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":309,
+      "difficulty":1,
+      "title":"309. Which UNESCO World Heritage Site near Mumbai is dedicated primarily to Lord Shiva?",
+      "description":"",
+      "hint":"Located on an island in Mumbai Harbour.",
+      "summary":"Elephanta Caves are famous for the giant Trimurti sculpture of Shiva.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Elephanta Caves,Lord Shiva,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":309,
+            "id":1033,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":309,
+            "id":1034,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":309,
+            "id":1035,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":309,
+            "id":1036,
+            "title":"Bhaja Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":310,
+      "difficulty":2,
+      "title":"310. Which UNESCO World Heritage Site in Karnataka was the capital of the Vijayanagara Empire?",
+      "description":"",
+      "hint":"It is located on the banks of the Tungabhadra River.",
+      "summary":"Hampi was the capital of the Vijayanagara Empire.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Hampi,Vijayanagara Empire,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":310,
+            "id":1037,
+            "title":"Badami",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":310,
+            "id":1038,
+            "title":"Pattadakal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":310,
+            "id":1039,
+            "title":"Hampi",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":310,
+            "id":1040,
+            "title":"Aihole",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":311,
+      "difficulty":2,
+      "title":"311. Which UNESCO site in Karnataka is known as a 'laboratory of temple architecture'?",
+      "description":"",
+      "hint":"It contains both Nagara and Dravida styles.",
+      "summary":"Pattadakal showcases the evolution of temple architecture.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Pattadakal,Temple Architecture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":311,
+            "id":1041,
+            "title":"Hampi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":311,
+            "id":1042,
+            "title":"Pattadakal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":311,
+            "id":1043,
+            "title":"Belur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":311,
+            "id":1044,
+            "title":"Halebidu",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":312,
+      "difficulty":2,
+      "title":"312. The Group of Monuments at Mahabalipuram is located in which state?",
+      "description":"",
+      "hint":"Its capital is Chennai.",
+      "summary":"Mahabalipuram is famous for Pallava-era rock-cut architecture.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Mahabalipuram,Pallava,Tamil Nadu,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":312,
+            "id":1045,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":312,
+            "id":1046,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":312,
+            "id":1047,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":312,
+            "id":1048,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":313,
+      "difficulty":2,
+      "title":"313. Which dynasty built most monuments at Mahabalipuram?",
+      "description":"",
+      "hint":"Their capital was Kanchipuram.",
+      "summary":"The Pallavas created the famous monuments at Mahabalipuram.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Mahabalipuram,Pallava Dynasty,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":313,
+            "id":1049,
+            "title":"Cholas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":313,
+            "id":1050,
+            "title":"Pallavas",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":313,
+            "id":1051,
+            "title":"Pandyas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":313,
+            "id":1052,
+            "title":"Rashtrakutas",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":314,
+      "difficulty":2,
+      "title":"314. Which UNESCO World Heritage Site is associated with the Chola dynasty?",
+      "description":"",
+      "hint":"It includes Brihadeeswarar Temple.",
+      "summary":"The Great Living Chola Temples are among India's finest examples of Dravidian architecture.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Chola Temples,Brihadeeswarar,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":314,
+            "id":1053,
+            "title":"Great Living Chola Temples",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":314,
+            "id":1054,
+            "title":"Hampi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":314,
+            "id":1055,
+            "title":"Pattadakal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":314,
+            "id":1056,
+            "title":"Mahabalipuram",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":315,
+      "difficulty":3,
+      "title":"315. Brihadeeswarar Temple is located in which city?",
+      "description":"",
+      "hint":"The city was a major Chola capital.",
+      "summary":"Brihadeeswarar Temple is located in Thanjavur, Tamil Nadu.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Brihadeeswarar Temple,Thanjavur,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":315,
+            "id":1057,
+            "title":"Madurai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":315,
+            "id":1058,
+            "title":"Thanjavur",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":315,
+            "id":1059,
+            "title":"Kanchipuram",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":315,
+            "id":1060,
+            "title":"Tiruchirappalli",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":316,
+      "difficulty":3,
+      "title":"316. Which UNESCO World Heritage Site in Odisha is shaped like a giant chariot?",
+      "description":"",
+      "hint":"Dedicated to the Sun God.",
+      "summary":"Konark Sun Temple is one of India's most iconic monuments.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Konark Sun Temple,Odisha,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":316,
+            "id":1061,
+            "title":"Jagannath Temple",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":316,
+            "id":1062,
+            "title":"Lingaraja Temple",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":316,
+            "id":1063,
+            "title":"Konark Sun Temple",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":316,
+            "id":1064,
+            "title":"Mukteshwar Temple",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":317,
+      "difficulty":3,
+      "title":"317. Konark Sun Temple was built by which dynasty?",
+      "description":"",
+      "hint":"The dynasty ruled large parts of Odisha.",
+      "summary":"The Eastern Ganga Dynasty built the Konark Sun Temple.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Konark,Eastern Ganga Dynasty,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":317,
+            "id":1065,
+            "title":"Gajapati Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":317,
+            "id":1066,
+            "title":"Eastern Ganga Dynasty",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":317,
+            "id":1067,
+            "title":"Pala Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":317,
+            "id":1068,
+            "title":"Sena Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":318,
+      "difficulty":3,
+      "title":"318. Which UNESCO World Heritage Site is famous for Buddhist stupas in Madhya Pradesh?",
+      "description":"",
+      "hint":"Emperor Ashoka's wife is believed to have been connected to this place.",
+      "summary":"The Buddhist Monuments at Sanchi are among India's oldest stone structures.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Sanchi,Buddhism,Ashoka,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":318,
+            "id":1069,
+            "title":"Sarnath",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":318,
+            "id":1070,
+            "title":"Sanchi",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":318,
+            "id":1071,
+            "title":"Nalanda",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":318,
+            "id":1072,
+            "title":"Bodh Gaya",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":319,
+      "difficulty":3,
+      "title":"319. Which emperor is most closely associated with the development of Sanchi?",
+      "description":"",
+      "hint":"He embraced Buddhism after the Kalinga War.",
+      "summary":"Emperor Ashoka commissioned the original stupa at Sanchi.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Sanchi,Ashoka,Maurya,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":319,
+            "id":1073,
+            "title":"Samudragupta",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":319,
+            "id":1074,
+            "title":"Ashoka",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":319,
+            "id":1075,
+            "title":"Harsha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":319,
+            "id":1076,
+            "title":"Chandragupta II",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":320,
+      "difficulty":4,
+      "title":"320. Nalanda Mahavihara, a UNESCO World Heritage Site, is located in which state?",
+      "description":"",
+      "hint":"The state capital is Patna.",
+      "summary":"Nalanda was one of the world's earliest residential universities.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Nalanda,Bihar,Education,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":320,
+            "id":1077,
+            "title":"Uttar Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":320,
+            "id":1078,
+            "title":"Jharkhand",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":320,
+            "id":1079,
+            "title":"Bihar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":320,
+            "id":1080,
+            "title":"West Bengal",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":321,
+      "difficulty":4,
+      "title":"321. Which Chinese traveler studied at Nalanda University?",
+      "description":"",
+      "hint":"He visited India during the reign of Harsha.",
+      "summary":"Xuanzang spent several years studying at Nalanda.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Nalanda,Xuanzang,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":321,
+            "id":1081,
+            "title":"Fa-Hien",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":321,
+            "id":1082,
+            "title":"Xuanzang",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":321,
+            "id":1083,
+            "title":"I-Tsing",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":321,
+            "id":1084,
+            "title":"Marco Polo",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":322,
+      "difficulty":4,
+      "title":"322. Which UNESCO World Heritage Site marks the place where Buddha attained enlightenment?",
+      "description":"",
+      "hint":"The Mahabodhi Temple is located here.",
+      "summary":"Bodh Gaya is one of the holiest Buddhist pilgrimage sites.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Bodh Gaya,Buddhism,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":322,
+            "id":1085,
+            "title":"Sarnath",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":322,
+            "id":1086,
+            "title":"Kushinagar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":322,
+            "id":1087,
+            "title":"Bodh Gaya",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":322,
+            "id":1088,
+            "title":"Rajgir",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":323,
+      "difficulty":4,
+      "title":"323. Which UNESCO World Heritage Site in Rajasthan is famous for astronomical instruments?",
+      "description":"",
+      "hint":"Built by Sawai Jai Singh II.",
+      "summary":"Jantar Mantar in Jaipur is an astronomical observatory.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Jantar Mantar,Jaipur,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":323,
+            "id":1089,
+            "title":"Amer Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":323,
+            "id":1090,
+            "title":"Jantar Mantar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":323,
+            "id":1091,
+            "title":"City Palace",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":323,
+            "id":1092,
+            "title":"Nahargarh Fort",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":324,
+      "difficulty":4,
+      "title":"324. Jaipur became a UNESCO World Heritage City in which year?",
+      "description":"",
+      "hint":"The year was after 2018 and before 2020.",
+      "summary":"Jaipur was inscribed as a UNESCO World Heritage City in 2019.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Jaipur,World Heritage City,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":324,
+            "id":1093,
+            "title":"2018",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":324,
+            "id":1094,
+            "title":"2020",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":324,
+            "id":1095,
+            "title":"2019",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":324,
+            "id":1096,
+            "title":"2021",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":325,
+      "difficulty":5,
+      "title":"325. Which UNESCO World Heritage Site is known as the 'Pink City'?",
+      "description":"",
+      "hint":"It is the capital of Rajasthan.",
+      "summary":"Jaipur is popularly known as the Pink City and is a UNESCO World Heritage City.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Jaipur,Pink City,Rajasthan,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":325,
+            "id":1097,
+            "title":"Udaipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":325,
+            "id":1098,
+            "title":"Jodhpur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":325,
+            "id":1099,
+            "title":"Jaipur",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":325,
+            "id":1100,
+            "title":"Bikaner",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":326,
+      "difficulty":2,
+      "title":"326. Kaziranga National Park, a UNESCO World Heritage Site, is located in which state?",
+      "description":"",
+      "hint":"The Brahmaputra River flows through this state.",
+      "summary":"Kaziranga is famous for the world's largest population of one-horned rhinoceroses.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Kaziranga,Assam,Environment,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":326,
+            "id":1101,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":326,
+            "id":1102,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":326,
+            "id":1103,
+            "title":"Meghalaya",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":326,
+            "id":1104,
+            "title":"Nagaland",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":327,
+      "difficulty":2,
+      "title":"327. Kaziranga National Park is best known for conserving which animal?",
+      "description":"",
+      "hint":"It has a single horn.",
+      "summary":"Kaziranga contains the largest population of Indian one-horned rhinoceroses.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Kaziranga,Rhinoceros,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":327,
+            "id":1105,
+            "title":"Asiatic Lion",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":327,
+            "id":1106,
+            "title":"Indian Elephant",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":327,
+            "id":1107,
+            "title":"One-Horned Rhinoceros",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":327,
+            "id":1108,
+            "title":"Snow Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":328,
+      "difficulty":3,
+      "title":"328. Manas Wildlife Sanctuary is situated along the border of India and which country?",
+      "description":"",
+      "hint":"The capital of this country is Thimphu.",
+      "summary":"Manas forms a transboundary conservation landscape with Bhutan.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Manas,Bhutan,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":328,
+            "id":1109,
+            "title":"Nepal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":328,
+            "id":1110,
+            "title":"Bangladesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":328,
+            "id":1111,
+            "title":"Myanmar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":328,
+            "id":1112,
+            "title":"Bhutan",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":329,
+      "difficulty":3,
+      "title":"329. Manas Wildlife Sanctuary is located in which Indian state?",
+      "description":"",
+      "hint":"It is famous for tea gardens and the Brahmaputra Valley.",
+      "summary":"Manas Wildlife Sanctuary is a UNESCO Natural World Heritage Site in Assam.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Manas,Assam,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":329,
+            "id":1113,
+            "title":"West Bengal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":329,
+            "id":1114,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":329,
+            "id":1115,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":329,
+            "id":1116,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":330,
+      "difficulty":2,
+      "title":"330. Keoladeo National Park is located in which Rajasthan city?",
+      "description":"",
+      "hint":"The city was formerly known as Bharatpur.",
+      "summary":"Keoladeo is one of the world's most important bird habitats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Keoladeo,Bharatpur,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":330,
+            "id":1117,
+            "title":"Ajmer",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":330,
+            "id":1118,
+            "title":"Alwar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":330,
+            "id":1119,
+            "title":"Bharatpur",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":330,
+            "id":1120,
+            "title":"Kota",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":331,
+      "difficulty":3,
+      "title":"331. Keoladeo National Park is especially famous for which category of animals?",
+      "description":"",
+      "hint":"Many migratory species visit annually.",
+      "summary":"Keoladeo is internationally recognized as a bird sanctuary.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Keoladeo,Birds,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":331,
+            "id":1121,
+            "title":"Reptiles",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":331,
+            "id":1122,
+            "title":"Birds",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":331,
+            "id":1123,
+            "title":"Big Cats",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":331,
+            "id":1124,
+            "title":"Primates",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":332,
+      "difficulty":3,
+      "title":"332. Valley of Flowers National Park is located in which state?",
+      "description":"",
+      "hint":"The state is known as Devbhoomi.",
+      "summary":"Valley of Flowers is renowned for its alpine meadows and endemic flora.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Valley of Flowers,Uttarakhand,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":332,
+            "id":1125,
+            "title":"Himachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":332,
+            "id":1126,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":332,
+            "id":1127,
+            "title":"Uttarakhand",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":332,
+            "id":1128,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":333,
+      "difficulty":4,
+      "title":"333. Nanda Devi National Park and Valley of Flowers together form which UNESCO property?",
+      "description":"",
+      "hint":"The name includes a famous Himalayan peak.",
+      "summary":"The combined UNESCO site is called Nanda Devi and Valley of Flowers National Parks.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Nanda Devi,Valley of Flowers,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":333,
+            "id":1129,
+            "title":"Great Himalayan Landscape",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":333,
+            "id":1130,
+            "title":"Nanda Devi and Valley of Flowers National Parks",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":333,
+            "id":1131,
+            "title":"Western Himalayan Heritage Site",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":333,
+            "id":1132,
+            "title":"Himalayan Biosphere Complex",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":334,
+      "difficulty":3,
+      "title":"334. Sundarbans National Park is famous for which animal?",
+      "description":"",
+      "hint":"It is the national animal of India.",
+      "summary":"The Sundarbans contain one of the largest populations of Royal Bengal Tigers.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Sundarbans,Tiger,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":334,
+            "id":1133,
+            "title":"Indian Rhinoceros",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":334,
+            "id":1134,
+            "title":"Royal Bengal Tiger",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":334,
+            "id":1135,
+            "title":"Asiatic Lion",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":334,
+            "id":1136,
+            "title":"Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":335,
+      "difficulty":4,
+      "title":"335. Sundarbans is the world's largest ecosystem of which type?",
+      "description":"",
+      "hint":"Trees here can tolerate saline water.",
+      "summary":"The Sundarbans contain the world's largest mangrove forest.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Sundarbans,Mangroves,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":335,
+            "id":1137,
+            "title":"Coral Reef",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":335,
+            "id":1138,
+            "title":"Mangrove Forest",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":335,
+            "id":1139,
+            "title":"Grassland",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":335,
+            "id":1140,
+            "title":"Temperate Forest",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":336,
+      "difficulty":4,
+      "title":"336. Which UNESCO World Heritage Site extends across six Indian states?",
+      "description":"",
+      "hint":"It is one of the world's biodiversity hotspots.",
+      "summary":"The Western Ghats stretch from Gujarat to Kerala and Tamil Nadu.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Western Ghats,Biodiversity,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":336,
+            "id":1141,
+            "title":"Great Himalayan National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":336,
+            "id":1142,
+            "title":"Western Ghats",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":336,
+            "id":1143,
+            "title":"Sundarbans",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":336,
+            "id":1144,
+            "title":"Kaziranga",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":337,
+      "difficulty":4,
+      "title":"337. Great Himalayan National Park is located in which state?",
+      "description":"",
+      "hint":"Shimla is the capital of this state.",
+      "summary":"Great Himalayan National Park became a UNESCO World Heritage Site in 2014.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Great Himalayan National Park,Himachal Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":337,
+            "id":1145,
+            "title":"Uttarakhand",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":337,
+            "id":1146,
+            "title":"Himachal Pradesh",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":337,
+            "id":1147,
+            "title":"Jammu and Kashmir",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":337,
+            "id":1148,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":338,
+      "difficulty":4,
+      "title":"338. Khangchendzonga National Park is located in which state?",
+      "description":"",
+      "hint":"It is home to India's highest mountain peak.",
+      "summary":"Khangchendzonga National Park is India's first Mixed UNESCO World Heritage Site.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Khangchendzonga,Sikkim,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":338,
+            "id":1149,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":338,
+            "id":1150,
+            "title":"Sikkim",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":338,
+            "id":1151,
+            "title":"Uttarakhand",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":338,
+            "id":1152,
+            "title":"Himachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":339,
+      "difficulty":5,
+      "title":"339. Khangchendzonga National Park is India's first UNESCO site in which category?",
+      "description":"",
+      "hint":"It combines natural and cultural significance.",
+      "summary":"Khangchendzonga became India's first Mixed World Heritage Site.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Mixed Heritage,Khangchendzonga,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":339,
+            "id":1153,
+            "title":"Natural",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":339,
+            "id":1154,
+            "title":"Cultural",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":339,
+            "id":1155,
+            "title":"Mixed",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":339,
+            "id":1156,
+            "title":"Geological",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":340,
+      "difficulty":3,
+      "title":"340. The Hill Forts of Rajasthan UNESCO property includes how many forts?",
+      "description":"",
+      "hint":"More than five but less than ten.",
+      "summary":"The Hill Forts of Rajasthan consist of six majestic forts.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Hill Forts,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":340,
+            "id":1157,
+            "title":"5",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":340,
+            "id":1158,
+            "title":"7",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":340,
+            "id":1159,
+            "title":"8",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":340,
+            "id":1160,
+            "title":"6",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":341,
+      "difficulty":4,
+      "title":"341. Which of the following is NOT part of the Hill Forts of Rajasthan UNESCO property?",
+      "description":"",
+      "hint":"This fort is located in Agra.",
+      "summary":"Agra Fort is a UNESCO site but not part of the Hill Forts of Rajasthan.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Hill Forts,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":341,
+            "id":1161,
+            "title":"Chittorgarh Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":341,
+            "id":1162,
+            "title":"Kumbhalgarh Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":341,
+            "id":1163,
+            "title":"Agra Fort",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":341,
+            "id":1164,
+            "title":"Ranthambore Fort",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":342,
+      "difficulty":3,
+      "title":"342. Churches and Convents of Goa primarily reflect the influence of which European power?",
+      "description":"",
+      "hint":"Vasco da Gama reached India under this country's flag.",
+      "summary":"The monuments of Goa reflect Portuguese colonial architecture.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Goa,Portuguese,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":342,
+            "id":1165,
+            "title":"Portuguese",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":342,
+            "id":1166,
+            "title":"French",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":342,
+            "id":1167,
+            "title":"Dutch",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":342,
+            "id":1168,
+            "title":"British",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":343,
+      "difficulty":4,
+      "title":"343. Which saint's remains are preserved in the Basilica of Bom Jesus?",
+      "description":"",
+      "hint":"A famous Jesuit missionary.",
+      "summary":"The Basilica of Bom Jesus houses the mortal remains of St. Francis Xavier.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Goa,St Francis Xavier,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":343,
+            "id":1169,
+            "title":"St. Thomas",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":343,
+            "id":1170,
+            "title":"St. Francis Xavier",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":343,
+            "id":1171,
+            "title":"St. Peter",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":343,
+            "id":1172,
+            "title":"St. Paul",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":344,
+      "difficulty":4,
+      "title":"344. Victorian Gothic and Art Deco Ensembles is a UNESCO site located in which city?",
+      "description":"",
+      "hint":"India's financial capital.",
+      "summary":"The ensemble showcases architectural evolution in Mumbai.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Mumbai,Architecture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":344,
+            "id":1173,
+            "title":"Kolkata",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":344,
+            "id":1174,
+            "title":"Chennai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":344,
+            "id":1175,
+            "title":"Mumbai",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":344,
+            "id":1176,
+            "title":"Delhi",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":345,
+      "difficulty":4,
+      "title":"345. Which city became India's first UNESCO World Heritage City?",
+      "description":"",
+      "hint":"It is the largest city in Gujarat.",
+      "summary":"Ahmedabad became India's first UNESCO World Heritage City in 2017.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ahmedabad,Gujarat,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":345,
+            "id":1177,
+            "title":"Jaipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":345,
+            "id":1178,
+            "title":"Ahmedabad",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":345,
+            "id":1179,
+            "title":"Varanasi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":345,
+            "id":1180,
+            "title":"Surat",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":346,
+      "difficulty":5,
+      "title":"346. Dholavira is associated with which ancient civilization?",
+      "description":"",
+      "hint":"It flourished around 2500 BCE.",
+      "summary":"Dholavira is one of the most remarkable cities of the Indus Valley Civilization.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Dholavira,Indus Valley Civilization,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":346,
+            "id":1181,
+            "title":"Vedic Civilization",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":346,
+            "id":1182,
+            "title":"Indus Valley Civilization",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":346,
+            "id":1183,
+            "title":"Mauryan Civilization",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":346,
+            "id":1184,
+            "title":"Gupta Civilization",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":347,
+      "difficulty":5,
+      "title":"347. Dholavira is located in which Indian state?",
+      "description":"",
+      "hint":"The Rann of Kutch is located here.",
+      "summary":"Dholavira is situated on Khadir Bet in Gujarat.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Dholavira,Gujarat,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":347,
+            "id":1185,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":347,
+            "id":1186,
+            "title":"Punjab",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":347,
+            "id":1187,
+            "title":"Gujarat",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":347,
+            "id":1188,
+            "title":"Haryana",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":348,
+      "difficulty":5,
+      "title":"348. Ramappa Temple is located in which state?",
+      "description":"",
+      "hint":"Its capital is Hyderabad.",
+      "summary":"Ramappa Temple became a UNESCO World Heritage Site in 2021.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ramappa Temple,Telangana,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":348,
+            "id":1189,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":348,
+            "id":1190,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":348,
+            "id":1191,
+            "title":"Telangana",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":348,
+            "id":1192,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":349,
+      "difficulty":5,
+      "title":"349. Ramappa Temple was built during the rule of which dynasty?",
+      "description":"",
+      "hint":"Their capital was Warangal.",
+      "summary":"Ramappa Temple is a masterpiece of Kakatiya architecture.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ramappa Temple,Kakatiya Dynasty,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":349,
+            "id":1193,
+            "title":"Chola Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":349,
+            "id":1194,
+            "title":"Kakatiya Dynasty",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":349,
+            "id":1195,
+            "title":"Satavahana Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":349,
+            "id":1196,
+            "title":"Pallava Dynasty",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":350,
+      "difficulty":5,
+      "title":"350. Which UNESCO World Heritage Site was inscribed in 2024 and is associated with the Ahom dynasty?",
+      "description":"",
+      "hint":"These are royal burial mounds in Assam.",
+      "summary":"The Moidams of Charaideo became India's latest UNESCO World Heritage Site in 2024.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Moidams,Ahom Dynasty,Assam,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":350,
+            "id":1197,
+            "title":"Santiniketan",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":350,
+            "id":1198,
+            "title":"Moidams of Charaideo",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":350,
+            "id":1199,
+            "title":"Dholavira",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":350,
+            "id":1200,
+            "title":"Ramappa Temple",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   }
+]
