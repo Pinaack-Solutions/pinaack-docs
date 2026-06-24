@@ -322,7 +322,8 @@
          },
          {
             "questionId":58,
-            "id":231,"title":"Rajya Sabha",
+            "id":231,
+            "title":"Rajya Sabha",
             "tenantId":4,
             "isAnswer":true
          },
@@ -688,14 +689,14 @@
          {
             "questionId":67,
             "id":265,
-           "title":"President",
+            "title":"President",
             "tenantId":4,
             "isAnswer":false
          },
          {
             "questionId":67,
             "id":266,
-             "title":"Vice President",
+            "title":"Vice President",
             "tenantId":4,
             "isAnswer":true
          },
@@ -880,7 +881,8 @@
          },
          {
             "questionId":71,
-            "id":284,"title":"Habeas Corpus",
+            "id":284,
+            "title":"Habeas Corpus",
             "tenantId":4,
             "isAnswer":true
          }
@@ -1544,7 +1546,7 @@
             "id":345,
             "title":"Seventh Schedule",
             "tenantId":4,
-            "isAnswer":false,
+            "isAnswer":false
          },
          {
             "questionId":87,
