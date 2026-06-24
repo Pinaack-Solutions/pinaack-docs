@@ -1,0 +1,2102 @@
+[
+  {
+    "id":351,
+    "difficulty":0,
+    "title":"351. Which Article of the Indian Constitution guarantees Equality Before Law?",
+    "description":"",
+    "hint":"It is the first article under the Right to Equality.",
+    "summary":"Article 14 guarantees equality before law and equal protection of laws.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Constitutional Articles,Article 14,Fundamental Rights,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":351,
+        "id":1201,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":351,
+        "id":1202,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":351,
+        "id":1203,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":351,
+        "id":1204,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":352,
+    "difficulty":0,
+    "title":"352. Which Article abolishes Untouchability?",
+    "description":"",
+    "hint":"It is part of the Right to Equality.",
+    "summary":"Article 17 abolishes untouchability and forbids its practice in any form.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 17,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":352,
+        "id":1205,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":352,
+        "id":1206,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":352,
+        "id":1207,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":352,
+        "id":1208,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":353,
+    "difficulty":0,
+    "title":"353. Which Article guarantees protection of life and personal liberty?",
+    "description":"",
+    "hint":"It became very important after the Maneka Gandhi case.",
+    "summary":"Article 21 guarantees protection of life and personal liberty.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 21,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":353,
+        "id":1209,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":353,
+        "id":1210,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":353,
+        "id":1211,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":353,
+        "id":1212,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":354,
+    "difficulty":0,
+    "title":"354. Which Article is known as the 'Heart and Soul' of the Constitution according to Dr. B.R. Ambedkar?",
+    "description":"",
+    "hint":"It provides the Right to Constitutional Remedies.",
+    "summary":"Article 32 allows citizens to directly approach the Supreme Court for enforcement of Fundamental Rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 32,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":354,
+        "id":1213,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1214,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1215,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1216,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":355,
+    "difficulty":1,
+    "title":"355. Which Article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "description":"",
+    "hint":"It comes immediately after Article 14.",
+    "summary":"Article 15 prohibits discrimination by the State on specified grounds.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 15,Equality,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":355,
+        "id":1217,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":355,
+        "id":1218,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":355,
+        "id":1219,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":355,
+        "id":1220,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":356,
+    "difficulty":1,
+    "title":"356. Which Article guarantees equality of opportunity in public employment?",
+    "description":"",
+    "hint":"Closely related to government jobs.",
+    "summary":"Article 16 ensures equality of opportunity in matters of public employment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 16,Employment,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":356,
+        "id":1221,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":356,
+        "id":1222,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":356,
+        "id":1223,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":356,
+        "id":1224,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":357,
+    "difficulty":1,
+    "title":"357. Which Article abolishes titles except military and academic distinctions?",
+    "description":"",
+    "hint":"Prevents the State from conferring hereditary titles.",
+    "summary":"Article 18 abolishes titles and promotes equality.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 18,Equality,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":357,
+        "id":1225,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":357,
+        "id":1226,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":357,
+        "id":1227,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":357,
+        "id":1228,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":358,
+    "difficulty":1,
+    "title":"358. Which Article provides six freedoms to citizens of India?",
+    "description":"",
+    "hint":"Freedom of speech is part of it.",
+    "summary":"Article 19 grants freedoms including speech, movement and association.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 19,Fundamental Rights,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":358,
+        "id":1229,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":358,
+        "id":1230,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":358,
+        "id":1231,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":358,
+        "id":1232,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":359,
+    "difficulty":1,
+    "title":"359. Which Article protects against ex-post facto laws, double jeopardy and self-incrimination?",
+    "description":"",
+    "hint":"A key safeguard in criminal law.",
+    "summary":"Article 20 provides protection in respect of conviction for offences.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 20,Criminal Law,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":359,
+        "id":1233,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":359,
+        "id":1234,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":359,
+        "id":1235,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":359,
+        "id":1236,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":360,
+    "difficulty":1,
+    "title":"360. Which Article prohibits human trafficking and forced labour?",
+    "description":"",
+    "hint":"Includes prohibition of begar.",
+    "summary":"Article 23 prohibits trafficking in human beings and forced labour.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 23,Fundamental Rights,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":360,
+        "id":1237,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":360,
+        "id":1238,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":360,
+        "id":1239,
+        "title":"Article 21A",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":360,
+        "id":1240,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":361,
+    "difficulty":1,
+    "title":"361. Which Article prohibits employment of children below 14 years in hazardous occupations?",
+    "description":"",
+    "hint":"Closely linked to child welfare.",
+    "summary":"Article 24 prohibits child labour in hazardous industries.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 24,Child Labour,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":361,
+        "id":1241,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":361,
+        "id":1242,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":361,
+        "id":1243,
+        "title":"Article 39",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":361,
+        "id":1244,
+        "title":"Article 21A",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":362,
+    "difficulty":2,
+    "title":"362. Which Article provides free and compulsory education to children aged 6–14 years?",
+    "description":"",
+    "hint":"Added by the 86th Constitutional Amendment.",
+    "summary":"Article 21A makes education a Fundamental Right.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 21A,Education,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":362,
+        "id":1245,
+        "title":"Article 45",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":362,
+        "id":1246,
+        "title":"Article 21A",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":362,
+        "id":1247,
+        "title":"Article 41",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":362,
+        "id":1248,
+        "title":"Article 51A",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":363,
+    "difficulty":2,
+    "title":"363. Which Article contains Directive Principles of State Policy related to equal justice and free legal aid?",
+    "description":"",
+    "hint":"Inserted by the 42nd Constitutional Amendment.",
+    "summary":"Article 39A promotes equal justice and free legal aid.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 39A,DPSP,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":363,
+        "id":1249,
+        "title":"Article 38",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":363,
+        "id":1250,
+        "title":"Article 39",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":363,
+        "id":1251,
+        "title":"Article 39A",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":363,
+        "id":1252,
+        "title":"Article 40",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":364,
+    "difficulty":2,
+    "title":"364. Which Article directs the State to organize village panchayats?",
+    "description":"",
+    "hint":"A Gandhian principle.",
+    "summary":"Article 40 directs the State to organize village panchayats.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 40,Panchayati Raj,DPSP,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":364,
+        "id":1253,
+        "title":"Article 39",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":364,
+        "id":1254,
+        "title":"Article 43",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":364,
+        "id":1255,
+        "title":"Article 40",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":364,
+        "id":1256,
+        "title":"Article 48",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":365,
+    "difficulty":2,
+    "title":"365. Which Article deals with Uniform Civil Code?",
+    "description":"",
+    "hint":"Frequently discussed in current affairs.",
+    "summary":"Article 44 directs the State to secure a Uniform Civil Code.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 44,UCC,DPSP,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":365,
+        "id":1257,
+        "title":"Article 43",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":365,
+        "id":1258,
+        "title":"Article 44",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":365,
+        "id":1259,
+        "title":"Article 45",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":365,
+        "id":1260,
+        "title":"Article 46",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":366,
+    "difficulty":2,
+    "title":"366. Which Article promotes educational and economic interests of SCs, STs and weaker sections?",
+    "description":"",
+    "hint":"Part of DPSP.",
+    "summary":"Article 46 directs the State to promote the interests of weaker sections.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 46,DPSP,SC,ST,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":366,
+        "id":1261,
+        "title":"Article 45",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":366,
+        "id":1262,
+        "title":"Article 46",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":366,
+        "id":1263,
+        "title":"Article 47",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":366,
+        "id":1264,
+        "title":"Article 48",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":367,
+    "difficulty":2,
+    "title":"367. Which Article directs the State to improve public health and prohibit intoxicating drinks?",
+    "description":"",
+    "hint":"Often cited in prohibition policies.",
+    "summary":"Article 47 deals with nutrition, public health and prohibition.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 47,DPSP,Public Health,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":367,
+        "id":1265,
+        "title":"Article 48",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":367,
+        "id":1266,
+        "title":"Article 47",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":367,
+        "id":1267,
+        "title":"Article 46",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":367,
+        "id":1268,
+        "title":"Article 49",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":368,
+    "difficulty":2,
+    "title":"368. Which Article directs the State to organize agriculture and animal husbandry on modern lines?",
+    "description":"",
+    "hint":"Also associated with cow protection.",
+    "summary":"Article 48 focuses on agriculture, animal husbandry and preservation of cattle.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 48,DPSP,Agriculture,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":368,
+        "id":1269,
+        "title":"Article 47",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":368,
+        "id":1270,
+        "title":"Article 48",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":368,
+        "id":1271,
+        "title":"Article 49",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":368,
+        "id":1272,
+        "title":"Article 50",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":369,
+    "difficulty":3,
+    "title":"369. Which Article directs separation of judiciary from executive?",
+    "description":"",
+    "hint":"Important for judicial independence.",
+    "summary":"Article 50 provides for separation of judiciary from executive.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 50,Judiciary,DPSP,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":369,
+        "id":1273,
+        "title":"Article 49",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":369,
+        "id":1274,
+        "title":"Article 50",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":369,
+        "id":1275,
+        "title":"Article 51",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":369,
+        "id":1276,
+        "title":"Article 52",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":370,
+    "difficulty":3,
+    "title":"370. Which Article contains Fundamental Duties?",
+    "description":"",
+    "hint":"Added by the 42nd Constitutional Amendment.",
+    "summary":"Article 51A enumerates the Fundamental Duties of citizens.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 51A,Fundamental Duties,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":370,
+        "id":1277,
+        "title":"Article 50",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":370,
+        "id":1278,
+        "title":"Article 51",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":370,
+        "id":1279,
+        "title":"Article 51A",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":370,
+        "id":1280,
+        "title":"Article 52",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":371,
+    "difficulty":3,
+    "title":"371. Which Article establishes the office of the President of India?",
+    "description":"",
+    "hint":"The first article under Union Executive.",
+    "summary":"Article 52 states that there shall be a President of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 52,President,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":371,
+        "id":1281,
+        "title":"Article 52",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":371,
+        "id":1282,
+        "title":"Article 53",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":371,
+        "id":1283,
+        "title":"Article 54",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":371,
+        "id":1284,
+        "title":"Article 55",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":372,
+    "difficulty":3,
+    "title":"372. Which Article vests the executive power of the Union in the President?",
+    "description":"",
+    "hint":"Immediately follows Article 52.",
+    "summary":"Article 53 vests executive power of the Union in the President.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 53,President,Executive,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":372,
+        "id":1285,
+        "title":"Article 54",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":372,
+        "id":1286,
+        "title":"Article 53",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":372,
+        "id":1287,
+        "title":"Article 52",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":372,
+        "id":1288,
+        "title":"Article 55",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":373,
+    "difficulty":3,
+    "title":"373. Which Article deals with the election of the President?",
+    "description":"",
+    "hint":"Electoral College is mentioned here.",
+    "summary":"Article 54 provides for election of the President.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 54,President Election,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":373,
+        "id":1289,
+        "title":"Article 53",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":373,
+        "id":1290,
+        "title":"Article 55",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":373,
+        "id":1291,
+        "title":"Article 56",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":373,
+        "id":1292,
+        "title":"Article 54",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":374,
+    "difficulty":4,
+    "title":"374. Which Article establishes the office of the Vice-President of India?",
+    "description":"",
+    "hint":"The number is between 60 and 70.",
+    "summary":"Article 63 states that there shall be a Vice-President of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 63,Vice President,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":374,
+        "id":1293,
+        "title":"Article 61",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":374,
+        "id":1294,
+        "title":"Article 62",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":374,
+        "id":1295,
+        "title":"Article 64",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":374,
+        "id":1296,
+        "title":"Article 63",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":375,
+    "difficulty":4,
+    "title":"375. Which Article states that the Vice-President shall be the ex-officio Chairman of the Rajya Sabha?",
+    "description":"",
+    "hint":"It immediately follows the article creating the office of Vice-President.",
+    "summary":"Article 64 makes the Vice-President the ex-officio Chairman of the Council of States.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 64,Vice President,Rajya Sabha,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":375,
+        "id":1297,
+        "title":"Article 65",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":375,
+        "id":1298,
+        "title":"Article 64",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":375,
+        "id":1299,
+        "title":"Article 63",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":375,
+        "id":1300,
+        "title":"Article 66",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":376,
+    "difficulty":4,
+    "title":"376. Which Article deals with the election of the Vice-President of India?",
+    "description":"",
+    "hint":"It comes immediately after the article making the Vice-President Chairman of the Rajya Sabha.",
+    "summary":"Article 66 provides for the election of the Vice-President by members of both Houses of Parliament.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Constitutional Articles,Article 66,Vice President,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":376,
+        "id":1301,
+        "title":"Article 65",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":376,
+        "id":1302,
+        "title":"Article 67",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":376,
+        "id":1303,
+        "title":"Article 66",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":376,
+        "id":1304,
+        "title":"Article 68",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":377,
+    "difficulty":4,
+    "title":"377. Which Article deals with the Attorney General for India?",
+    "description":"",
+    "hint":"It is the last article in the Union Executive chapter before the Council of Ministers.",
+    "summary":"Article 76 provides for the office of the Attorney General for India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 76,Attorney General,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":377,
+        "id":1305,
+        "title":"Article 74",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":377,
+        "id":1306,
+        "title":"Article 75",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":377,
+        "id":1307,
+        "title":"Article 77",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":377,
+        "id":1308,
+        "title":"Article 76",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":378,
+    "difficulty":3,
+    "title":"378. Which Article provides for a Council of Ministers to aid and advise the President?",
+    "description":"",
+    "hint":"This article became important after the 42nd and 44th Amendments.",
+    "summary":"Article 74 provides for the Council of Ministers headed by the Prime Minister.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 74,Council of Ministers,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":378,
+        "id":1309,
+        "title":"Article 74",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":378,
+        "id":1310,
+        "title":"Article 75",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":378,
+        "id":1311,
+        "title":"Article 76",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":378,
+        "id":1312,
+        "title":"Article 77",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":379,
+    "difficulty":3,
+    "title":"379. Which Article deals with the appointment of the Prime Minister and other Ministers?",
+    "description":"",
+    "hint":"It follows Article 74.",
+    "summary":"Article 75 deals with appointment, tenure and responsibility of ministers.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 75,Prime Minister,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":379,
+        "id":1313,
+        "title":"Article 74",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":379,
+        "id":1314,
+        "title":"Article 76",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":379,
+        "id":1315,
+        "title":"Article 77",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":379,
+        "id":1316,
+        "title":"Article 75",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":380,
+    "difficulty":3,
+    "title":"380. Which Article states that there shall be a Parliament for the Union consisting of the President and two Houses?",
+    "description":"",
+    "hint":"It is the opening article of the Parliament chapter.",
+    "summary":"Article 79 establishes the Parliament of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 79,Parliament,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":380,
+        "id":1317,
+        "title":"Article 78",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":380,
+        "id":1318,
+        "title":"Article 80",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":380,
+        "id":1319,
+        "title":"Article 79",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":380,
+        "id":1320,
+        "title":"Article 81",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":381,
+    "difficulty":3,
+    "title":"381. Which Article deals with the composition of the Rajya Sabha?",
+    "description":"",
+    "hint":"Maximum strength of 250 members is linked to this article.",
+    "summary":"Article 80 provides for the composition of the Council of States.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 80,Rajya Sabha,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":381,
+        "id":1321,
+        "title":"Article 80",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":381,
+        "id":1322,
+        "title":"Article 81",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":381,
+        "id":1323,
+        "title":"Article 82",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":381,
+        "id":1324,
+        "title":"Article 83",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":382,
+    "difficulty":3,
+    "title":"382. Which Article deals with the composition of the Lok Sabha?",
+    "description":"",
+    "hint":"It immediately follows the Rajya Sabha composition article.",
+    "summary":"Article 81 provides for the composition of the House of the People.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 81,Lok Sabha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":382,
+        "id":1325,
+        "title":"Article 82",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":382,
+        "id":1326,
+        "title":"Article 81",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":382,
+        "id":1327,
+        "title":"Article 83",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":382,
+        "id":1328,
+        "title":"Article 84",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":383,
+    "difficulty":4,
+    "title":"383. Which Article deals with the duration of Houses of Parliament?",
+    "description":"",
+    "hint":"Lok Sabha's normal tenure of five years comes from this article.",
+    "summary":"Article 83 specifies the duration of Rajya Sabha and Lok Sabha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 83,Parliament,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":383,
+        "id":1329,
+        "title":"Article 84",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":383,
+        "id":1330,
+        "title":"Article 85",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":383,
+        "id":1331,
+        "title":"Article 83",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":383,
+        "id":1332,
+        "title":"Article 86",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":384,
+    "difficulty":4,
+    "title":"384. Which Article empowers the President to summon and prorogue Parliament?",
+    "description":"",
+    "hint":"It comes after the article dealing with duration.",
+    "summary":"Article 85 deals with sessions, prorogation and dissolution of Parliament.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 85,Parliament,President,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":384,
+        "id":1333,
+        "title":"Article 84",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":384,
+        "id":1334,
+        "title":"Article 86",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":384,
+        "id":1335,
+        "title":"Article 87",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":384,
+        "id":1336,
+        "title":"Article 85",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":385,
+    "difficulty":4,
+    "title":"385. Which Article provides special address by the President at the commencement of the first session after each general election?",
+    "description":"",
+    "hint":"The President addresses both Houses assembled together.",
+    "summary":"Article 87 provides for the President's special address.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 87,President,Parliament,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":385,
+        "id":1337,
+        "title":"Article 87",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":385,
+        "id":1338,
+        "title":"Article 86",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":385,
+        "id":1339,
+        "title":"Article 88",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":385,
+        "id":1340,
+        "title":"Article 89",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":386,
+    "difficulty":4,
+    "title":"386. Which Article deals with the Chairman and Deputy Chairman of the Rajya Sabha?",
+    "description":"",
+    "hint":"The Vice-President is connected with this provision.",
+    "summary":"Article 89 provides for the Chairman and Deputy Chairman of Rajya Sabha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 89,Rajya Sabha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":386,
+        "id":1341,
+        "title":"Article 88",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":386,
+        "id":1342,
+        "title":"Article 90",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":386,
+        "id":1343,
+        "title":"Article 91",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":386,
+        "id":1344,
+        "title":"Article 89",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":387,
+    "difficulty":4,
+    "title":"387. Which Article deals with the Speaker and Deputy Speaker of the Lok Sabha?",
+    "description":"",
+    "hint":"It mirrors Article 89 for the Lower House.",
+    "summary":"Article 93 provides for the Speaker and Deputy Speaker of Lok Sabha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 93,Speaker,Lok Sabha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":387,
+        "id":1345,
+        "title":"Article 92",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":387,
+        "id":1346,
+        "title":"Article 94",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":387,
+        "id":1347,
+        "title":"Article 93",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":387,
+        "id":1348,
+        "title":"Article 95",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":388,
+    "difficulty":4,
+    "title":"388. Which Article deals with salaries and allowances of the Chairman and Speaker?",
+    "description":"",
+    "hint":"It is near Articles 97 and 98.",
+    "summary":"Article 97 deals with salaries and allowances of presiding officers of Parliament.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 97,Parliament,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":388,
+        "id":1349,
+        "title":"Article 96",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":388,
+        "id":1350,
+        "title":"Article 98",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":388,
+        "id":1351,
+        "title":"Article 99",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":388,
+        "id":1352,
+        "title":"Article 97",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":389,
+    "difficulty":5,
+    "title":"389. Which Article grants freedom of speech in Parliament subject to constitutional provisions?",
+    "description":"",
+    "hint":"Parliamentary privileges begin around this article.",
+    "summary":"Article 105 deals with powers, privileges and immunities of Parliament and its members.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 105,Parliamentary Privileges,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":389,
+        "id":1353,
+        "title":"Article 105",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":389,
+        "id":1354,
+        "title":"Article 104",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":389,
+        "id":1355,
+        "title":"Article 106",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":389,
+        "id":1356,
+        "title":"Article 107",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":390,
+    "difficulty":5,
+    "title":"390. Which Article deals with the introduction and passing of ordinary bills in Parliament?",
+    "description":"",
+    "hint":"It starts the legislative procedure chapter.",
+    "summary":"Article 107 deals with provisions as to introduction and passing of bills.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 107,Bills,Parliament,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":390,
+        "id":1357,
+        "title":"Article 106",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":390,
+        "id":1358,
+        "title":"Article 108",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":390,
+        "id":1359,
+        "title":"Article 107",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":390,
+        "id":1360,
+        "title":"Article 109",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":391,
+    "difficulty":5,
+    "title":"391. Which Article provides for a Joint Sitting of both Houses of Parliament?",
+    "description":"",
+    "hint":"Used to resolve deadlocks between the two Houses.",
+    "summary":"Article 108 empowers the President to summon a joint sitting.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 108,Joint Sitting,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":391,
+        "id":1361,
+        "title":"Article 109",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":391,
+        "id":1362,
+        "title":"Article 110",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":391,
+        "id":1363,
+        "title":"Article 111",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":391,
+        "id":1364,
+        "title":"Article 108",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":392,
+    "difficulty":5,
+    "title":"392. Which Article defines a Money Bill?",
+    "description":"",
+    "hint":"The Speaker's certification is crucial under this provision.",
+    "summary":"Article 110 defines a Money Bill under the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 110,Money Bill,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":392,
+        "id":1365,
+        "title":"Article 110",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":392,
+        "id":1366,
+        "title":"Article 109",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":392,
+        "id":1367,
+        "title":"Article 111",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":392,
+        "id":1368,
+        "title":"Article 112",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":393,
+    "difficulty":5,
+    "title":"393. Which Article deals with the Annual Financial Statement (Union Budget)?",
+    "description":"",
+    "hint":"Presented every year in Parliament.",
+    "summary":"Article 112 provides for the Annual Financial Statement.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 112,Budget,UPSC,Banking",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":393,
+        "id":1369,
+        "title":"Article 111",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":393,
+        "id":1370,
+        "title":"Article 113",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":393,
+        "id":1371,
+        "title":"Article 112",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":393,
+        "id":1372,
+        "title":"Article 114",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":394,
+    "difficulty":5,
+    "title":"394. Which Article establishes the Supreme Court of India?",
+    "description":"",
+    "hint":"The Judiciary chapter begins with this article.",
+    "summary":"Article 124 provides for the establishment and constitution of the Supreme Court.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 124,Supreme Court,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":394,
+        "id":1373,
+        "title":"Article 123",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":394,
+        "id":1374,
+        "title":"Article 125",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":394,
+        "id":1375,
+        "title":"Article 126",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":394,
+        "id":1376,
+        "title":"Article 124",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":395,
+    "difficulty":5,
+    "title":"395. Which Article empowers the Supreme Court to issue writs for enforcement of Fundamental Rights?",
+    "description":"",
+    "hint":"This power makes the Court a protector of rights.",
+    "summary":"Article 32 empowers the Supreme Court to issue writs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 32,Writs,Fundamental Rights,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":395,
+        "id":1377,
+        "title":"Article 226",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":395,
+        "id":1378,
+        "title":"Article 33",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":395,
+        "id":1379,
+        "title":"Article 34",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":395,
+        "id":1380,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":396,
+    "difficulty":5,
+    "title":"396. Which Article provides for the Comptroller and Auditor General (CAG) of India?",
+    "description":"",
+    "hint":"The constitutional watchdog of public finances.",
+    "summary":"Article 148 provides for the CAG of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 148,CAG,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":396,
+        "id":1381,
+        "title":"Article 147",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":396,
+        "id":1382,
+        "title":"Article 149",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":396,
+        "id":1383,
+        "title":"Article 148",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":396,
+        "id":1384,
+        "title":"Article 150",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":397,
+    "difficulty":5,
+    "title":"397. Which Article provides for the office of the Governor of a State?",
+    "description":"",
+    "hint":"It begins the chapter on State Executive.",
+    "summary":"Article 153 states that there shall be a Governor for each State.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 153,Governor,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":397,
+        "id":1385,
+        "title":"Article 154",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":397,
+        "id":1386,
+        "title":"Article 155",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":397,
+        "id":1387,
+        "title":"Article 156",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":397,
+        "id":1388,
+        "title":"Article 153",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":398,
+    "difficulty":5,
+    "title":"398. Which Article provides for the Election Commission of India?",
+    "description":"",
+    "hint":"This article is frequently cited during elections.",
+    "summary":"Article 324 vests the superintendence, direction and control of elections in the Election Commission.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 324,Election Commission,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":398,
+        "id":1389,
+        "title":"Article 323",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":398,
+        "id":1390,
+        "title":"Article 325",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":398,
+        "id":1391,
+        "title":"Article 324",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":398,
+        "id":1392,
+        "title":"Article 326",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":399,
+    "difficulty":5,
+    "title":"399. Which Article deals with National Emergency?",
+    "description":"",
+    "hint":"It can be proclaimed on grounds of war, external aggression or armed rebellion.",
+    "summary":"Article 352 provides for proclamation of National Emergency.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 352,Emergency,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":399,
+        "id":1393,
+        "title":"Article 353",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":399,
+        "id":1394,
+        "title":"Article 354",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":399,
+        "id":1395,
+        "title":"Article 352",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":399,
+        "id":1396,
+        "title":"Article 356",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":400,
+    "difficulty":5,
+    "title":"400. Which Article provides for President's Rule in a State?",
+    "description":"",
+    "hint":"Often referred to as State Emergency.",
+    "summary":"Article 356 empowers the President to assume functions of a State government under certain circumstances.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 356,President Rule,Emergency,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":400,
+        "id":1397,
+        "title":"Article 355",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":400,
+        "id":1398,
+        "title":"Article 357",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":400,
+        "id":1399,
+        "title":"Article 358",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":400,
+        "id":1400,
+        "title":"Article 356",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  }
+]
