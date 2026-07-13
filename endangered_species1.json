@@ -1,0 +1,2102 @@
+[
+  {
+    "id":501,
+    "difficulty":0,
+    "title":"501. What does the term 'Endangered Species' mean?",
+    "description":"",
+    "hint":"It refers to species facing a high risk of disappearing from the wild.",
+    "summary":"Endangered species face a very high risk of extinction in the near future.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Endangered Species,IUCN,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":501,
+        "id":1801,
+        "title":"Species found only in forests",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":501,
+        "id":1802,
+        "title":"Species facing a very high risk of extinction",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":501,
+        "id":1803,
+        "title":"Species living in deserts",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":501,
+        "id":1804,
+        "title":"Species found only in India",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":502,
+    "difficulty":0,
+    "title":"502. Which organization publishes the Red List of Threatened Species?",
+    "description":"",
+    "hint":"Its full form begins with International Union...",
+    "summary":"The IUCN maintains the global Red List.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,IUCN,Red List,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":502,
+        "id":1805,
+        "title":"WWF",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":502,
+        "id":1806,
+        "title":"UNESCO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":502,
+        "id":1807,
+        "title":"IUCN",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":502,
+        "id":1808,
+        "title":"UNEP",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":503,
+    "difficulty":0,
+    "title":"503. Which of the following is a Critically Endangered bird of India?",
+    "description":"",
+    "hint":"It is the State Bird of Rajasthan.",
+    "summary":"The Great Indian Bustard is Critically Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Birds,Great Indian Bustard,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":503,
+        "id":1809,
+        "title":"Peacock",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":503,
+        "id":1810,
+        "title":"Sarus Crane",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":503,
+        "id":1811,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":503,
+        "id":1812,
+        "title":"House Sparrow",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":504,
+    "difficulty":0,
+    "title":"504. Which marine mammal is India's National Aquatic Animal?",
+    "description":"",
+    "hint":"It lives in the Ganga river.",
+    "summary":"The Gangetic Dolphin is India's National Aquatic Animal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dolphin,Ganga,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":504,
+        "id":1813,
+        "title":"Blue Whale",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":504,
+        "id":1814,
+        "title":"Gangetic Dolphin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":504,
+        "id":1815,
+        "title":"Orca",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":504,
+        "id":1816,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":505,
+    "difficulty":0,
+    "title":"505. Which big cat is found only in the Gir Forest of India?",
+    "description":"",
+    "hint":"It is not a tiger.",
+    "summary":"The Asiatic Lion survives in Gir National Park.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Asiatic Lion,Gir,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":505,
+        "id":1817,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1818,
+        "title":"Tiger",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1819,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1820,
+        "title":"Asiatic Lion",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":506,
+    "difficulty":1,
+    "title":"506. Which reptile is known for its long, narrow snout and is Critically Endangered?",
+    "description":"",
+    "hint":"It is mainly found in river ecosystems.",
+    "summary":"The Gharial is a Critically Endangered crocodilian.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Gharial,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":506,
+        "id":1821,
+        "title":"Mugger Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":506,
+        "id":1822,
+        "title":"Saltwater Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":506,
+        "id":1823,
+        "title":"Gharial",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":506,
+        "id":1824,
+        "title":"Komodo Dragon",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":507,
+    "difficulty":1,
+    "title":"507. The Red Panda is mainly found in which region of India?",
+    "description":"",
+    "hint":"Look towards the Eastern Himalayas.",
+    "summary":"Red Pandas inhabit Sikkim, Arunachal Pradesh and nearby Himalayan forests.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Red Panda,Himalayas,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":507,
+        "id":1825,
+        "title":"Western Ghats",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":507,
+        "id":1826,
+        "title":"Eastern Himalayas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":507,
+        "id":1827,
+        "title":"Thar Desert",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":507,
+        "id":1828,
+        "title":"Sundarbans",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":508,
+    "difficulty":1,
+    "title":"508. Which convention regulates international trade in endangered species?",
+    "description":"",
+    "hint":"Its abbreviation starts with the letter 'C'.",
+    "summary":"CITES regulates international trade in threatened wildlife and plants.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,CITES,International Agreements,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":508,
+        "id":1829,
+        "title":"CMS",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1830,
+        "title":"Ramsar Convention",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1831,
+        "title":"Convention on Biological Diversity",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1832,
+        "title":"CITES",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":509,
+    "difficulty":1,
+    "title":"509. Which species is protected under Project Tiger?",
+    "description":"",
+    "hint":"It is India's national animal.",
+    "summary":"Project Tiger was launched in 1973 for Bengal Tiger conservation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Tiger,Tiger,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":509,
+        "id":1833,
+        "title":"Bengal Tiger",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":509,
+        "id":1834,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":509,
+        "id":1835,
+        "title":"Clouded Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":509,
+        "id":1836,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":510,
+    "difficulty":1,
+    "title":"510. Which of the following animals is commonly called the 'Sea Cow'?",
+    "description":"",
+    "hint":"It is a marine herbivore found in the Gulf of Mannar.",
+    "summary":"The Dugong is popularly known as the Sea Cow.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dugong,Marine Mammals,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":510,
+        "id":1837,
+        "title":"Sea Lion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":510,
+        "id":1838,
+        "title":"Walrus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":510,
+        "id":1839,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":510,
+        "id":1840,
+        "title":"Seal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":511,
+    "difficulty":1,
+    "title":"511. Which endangered mammal is the only ape found in India?",
+    "description":"",
+    "hint":"It is found mainly in the forests of Northeast India.",
+    "summary":"The Western Hoolock Gibbon is India's only ape and is classified as Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Endangered Species,Hoolock Gibbon,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":511,
+        "id":1841,
+        "title":"Lion-tailed Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":511,
+        "id":1842,
+        "title":"Western Hoolock Gibbon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":511,
+        "id":1843,
+        "title":"Nilgiri Langur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":511,
+        "id":1844,
+        "title":"Rhesus Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":512,
+    "difficulty":2,
+    "title":"512. Which Critically Endangered bird is endemic to the Eastern Ghats of Andhra Pradesh?",
+    "description":"",
+    "hint":"It is one of India's rarest birds and was rediscovered after being thought extinct.",
+    "summary":"Jerdon's Courser is a Critically Endangered bird endemic to Andhra Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Birds,Jerdon's Courser,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":512,
+        "id":1845,
+        "title":"Forest Owlet",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":512,
+        "id":1846,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":512,
+        "id":1847,
+        "title":"Jerdon's Courser",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":512,
+        "id":1848,
+        "title":"Indian Skimmer",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":513,
+    "difficulty":1,
+    "title":"513. Which endangered species is protected under Project Elephant?",
+    "description":"",
+    "hint":"It is the largest land mammal in Asia.",
+    "summary":"Project Elephant was launched in 1992 to conserve Asian Elephants.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Elephant,Asian Elephant,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":513,
+        "id":1849,
+        "title":"Indian Rhinoceros",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":513,
+        "id":1850,
+        "title":"Asian Elephant",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":513,
+        "id":1851,
+        "title":"Wild Buffalo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":513,
+        "id":1852,
+        "title":"Gaur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":514,
+    "difficulty":1,
+    "title":"514. The Nilgiri Tahr is primarily found in which mountain range?",
+    "description":"",
+    "hint":"This mountain range runs parallel to India's western coast.",
+    "summary":"Nilgiri Tahr is endemic to the Western Ghats.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Nilgiri Tahr,Western Ghats,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":514,
+        "id":1853,
+        "title":"Eastern Ghats",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":514,
+        "id":1854,
+        "title":"Western Ghats",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":514,
+        "id":1855,
+        "title":"Aravalli Hills",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":514,
+        "id":1856,
+        "title":"Vindhya Range",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":515,
+    "difficulty":2,
+    "title":"515. Which animal is the mascot of Project Snow Leopard?",
+    "description":"",
+    "hint":"It inhabits the Himalayan alpine region.",
+    "summary":"Project Snow Leopard focuses on conserving the Snow Leopard and its habitat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Snow Leopard,Himalayas,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":515,
+        "id":1857,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":515,
+        "id":1858,
+        "title":"Red Panda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":515,
+        "id":1859,
+        "title":"Himalayan Wolf",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":515,
+        "id":1860,
+        "title":"Musk Deer",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":516,
+    "difficulty":1,
+    "title":"516. Which endangered mammal is known for having a long armored body covered with scales?",
+    "description":"",
+    "hint":"It curls into a ball when threatened.",
+    "summary":"The Indian Pangolin is one of the world's most trafficked mammals.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Indian Pangolin,Wildlife,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":516,
+        "id":1861,
+        "title":"Indian Pangolin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":516,
+        "id":1862,
+        "title":"Armadillo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":516,
+        "id":1863,
+        "title":"Porcupine",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":516,
+        "id":1864,
+        "title":"Hedgehog",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":517,
+    "difficulty":2,
+    "title":"517. Which critically endangered mammal is the world's smallest wild pig?",
+    "description":"",
+    "hint":"It is mainly found in Assam.",
+    "summary":"The Pygmy Hog is endemic to the grasslands of Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Pygmy Hog,Assam,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":517,
+        "id":1865,
+        "title":"Wild Boar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":517,
+        "id":1866,
+        "title":"Pygmy Hog",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":517,
+        "id":1867,
+        "title":"Babirusa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":517,
+        "id":1868,
+        "title":"Warthog",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":518,
+    "difficulty":2,
+    "title":"518. Which vulture species is Critically Endangered due to the veterinary drug Diclofenac?",
+    "description":"",
+    "hint":"It was once the most common scavenger in India.",
+    "summary":"White-rumped Vulture populations crashed because of Diclofenac poisoning.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Vultures,Diclofenac,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":518,
+        "id":1869,
+        "title":"Egyptian Vulture",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":518,
+        "id":1870,
+        "title":"White-rumped Vulture",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":518,
+        "id":1871,
+        "title":"Griffon Vulture",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":518,
+        "id":1872,
+        "title":"Bearded Vulture",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":519,
+    "difficulty":2,
+    "title":"519. Which schedule of the Wildlife (Protection) Act, 1972 provides the highest level of protection to animals?",
+    "description":"",
+    "hint":"Most iconic endangered mammals are listed here.",
+    "summary":"Schedule I provides absolute protection with the highest penalties.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Wildlife Protection Act,UPSC,Law",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":519,
+        "id":1873,
+        "title":"Schedule II",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":519,
+        "id":1874,
+        "title":"Schedule IV",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":519,
+        "id":1875,
+        "title":"Schedule I",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":519,
+        "id":1876,
+        "title":"Schedule VI",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":520,
+    "difficulty":1,
+    "title":"520. Which endangered marine reptile is famous for its mass nesting (Arribada) on the Odisha coast?",
+    "description":"",
+    "hint":"Every year thousands of females come ashore together.",
+    "summary":"Olive Ridley Turtles are known for synchronized mass nesting called Arribada.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Olive Ridley Turtle,Odisha,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":520,
+        "id":1877,
+        "title":"Leatherback Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":520,
+        "id":1878,
+        "title":"Green Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":520,
+        "id":1879,
+        "title":"Olive Ridley Turtle",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":520,
+        "id":1880,
+        "title":"Hawksbill Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":521,
+    "difficulty":1,
+    "title":"521. Which endangered deer is found only in the Kashmir Valley and is also known as the Kashmir Stag?",
+    "description":"",
+    "hint":"Its local name begins with 'H'.",
+    "summary":"The Hangul (Kashmir Stag) is an Endangered species found mainly in Dachigam National Park, Jammu & Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Endangered Species,Hangul,Dachigam National Park,IUCN,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":521,
+        "id":1881,
+        "title":"Barasingha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":521,
+        "id":1882,
+        "title":"Sambar Deer",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":521,
+        "id":1883,
+        "title":"Hangul",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":521,
+        "id":1884,
+        "title":"Chital",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":522,
+    "difficulty":1,
+    "title":"522. Which endangered primate is endemic to the Western Ghats of India?",
+    "description":"",
+    "hint":"It has a distinctive silver-white mane around its face.",
+    "summary":"The Lion-tailed Macaque is an Endangered species endemic to the Western Ghats biodiversity hotspot.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Endangered Species,Lion-tailed Macaque,Western Ghats,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":522,
+        "id":1885,
+        "title":"Nilgiri Langur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":522,
+        "id":1886,
+        "title":"Rhesus Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":522,
+        "id":1887,
+        "title":"Bonnet Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":522,
+        "id":1888,
+        "title":"Lion-tailed Macaque",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":523,
+    "difficulty":2,
+    "title":"523. Which endangered mammal is the only surviving species of the family Dugongidae?",
+    "description":"",
+    "hint":"It is commonly called the 'Sea Cow'.",
+    "summary":"The Dugong is an Endangered marine mammal found in the Gulf of Mannar, Palk Bay and Andaman & Nicobar waters.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dugong,Marine Mammals,IUCN,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":523,
+        "id":1889,
+        "title":"Blue Whale",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":523,
+        "id":1890,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":523,
+        "id":1891,
+        "title":"Sea Lion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":523,
+        "id":1892,
+        "title":"Walrus",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":524,
+    "difficulty":2,
+    "title":"524. Which critically endangered vulture has suffered a drastic population decline mainly due to Diclofenac poisoning?",
+    "description":"",
+    "hint":"Its name refers to the color of its lower back.",
+    "summary":"The White-rumped Vulture is Critically Endangered due to poisoning from veterinary Diclofenac.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Vultures,White-rumped Vulture,IUCN,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":524,
+        "id":1893,
+        "title":"White-rumped Vulture",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":524,
+        "id":1894,
+        "title":"Egyptian Vulture",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":524,
+        "id":1895,
+        "title":"Himalayan Griffon",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":524,
+        "id":1896,
+        "title":"Cinereous Vulture",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":525,
+    "difficulty":1,
+    "title":"525. Which endangered species is the official mascot of the Government of India's 'Project Dolphin'?",
+    "description":"",
+    "hint":"It is India's National Aquatic Animal.",
+    "summary":"Project Dolphin primarily focuses on conserving the Gangetic River Dolphin and its habitat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Dolphin,Gangetic Dolphin,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":525,
+        "id":1897,
+        "title":"Irrawaddy Dolphin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":525,
+        "id":1898,
+        "title":"Gangetic River Dolphin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":525,
+        "id":1899,
+        "title":"Bottlenose Dolphin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":525,
+        "id":1900,
+        "title":"Spinner Dolphin",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":526,
+    "difficulty":2,
+    "title":"526. Which critically endangered bird is endemic to the grasslands of Assam and parts of Nepal?",
+    "description":"",
+    "hint":"Its second name refers to a flowering plant.",
+    "summary":"The Bengal Florican is a Critically Endangered bustard species found in tall grasslands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Bengal Florican,Critically Endangered,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":526,
+        "id":1901,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":526,
+        "id":1902,
+        "title":"Lesser Florican",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":526,
+        "id":1903,
+        "title":"Bengal Florican",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":526,
+        "id":1904,
+        "title":"Sarus Crane",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":527,
+    "difficulty":2,
+    "title":"527. Which endangered freshwater mammal is found in rivers of South and Southeast Asia and is known for using echolocation?",
+    "description":"",
+    "hint":"It is nearly blind.",
+    "summary":"The Gangetic River Dolphin relies on echolocation to navigate and hunt in muddy river waters.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Gangetic Dolphin,Echolocation,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":527,
+        "id":1905,
+        "title":"Gangetic River Dolphin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":527,
+        "id":1906,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":527,
+        "id":1907,
+        "title":"Otter",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":527,
+        "id":1908,
+        "title":"Seal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":528,
+    "difficulty":3,
+    "title":"528. Which critically endangered species is often called the 'umbrella species' of the Himalayan alpine ecosystem?",
+    "description":"",
+    "hint":"It is famous for its long tail and elusive nature.",
+    "summary":"The Snow Leopard is a flagship and umbrella species for Himalayan conservation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Snow Leopard,Himalayas,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":528,
+        "id":1909,
+        "title":"Red Panda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":528,
+        "id":1910,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":528,
+        "id":1911,
+        "title":"Himalayan Tahr",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":528,
+        "id":1912,
+        "title":"Musk Deer",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":529,
+    "difficulty":2,
+    "title":"529. Which endangered species is the world's largest living turtle?",
+    "description":"",
+    "hint":"Unlike most sea turtles, its shell is leathery rather than hard.",
+    "summary":"The Leatherback Sea Turtle is the world's largest living turtle species and is classified as Vulnerable globally, with some regional populations being Critically Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Leatherback Sea Turtle,Marine Species,IUCN,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":529,
+        "id":1913,
+        "title":"Green Sea Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":529,
+        "id":1914,
+        "title":"Leatherback Sea Turtle",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":529,
+        "id":1915,
+        "title":"Olive Ridley Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":529,
+        "id":1916,
+        "title":"Hawksbill Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":530,
+    "difficulty":1,
+    "title":"530. Which of the following is NOT an IUCN Red List threat category?",
+    "description":"",
+    "hint":"One option refers to a type of protected area rather than a conservation status.",
+    "summary":"National Park is a protected area designation, not an IUCN Red List category.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,IUCN Red List,UPSC,RPSC,SSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":530,
+        "id":1917,
+        "title":"Endangered",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":530,
+        "id":1918,
+        "title":"Critically Endangered",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":530,
+        "id":1919,
+        "title":"National Park",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":530,
+        "id":1920,
+        "title":"Vulnerable",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":531,
+    "difficulty":1,
+    "title":"531. Which mammal is known as the 'Sea Cow'?",
+    "description":"",
+    "hint":"Lives in shallow coastal waters.",
+    "summary":"Dugong is an endangered marine mammal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dugong,IUCN,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":531,
+        "id":1921,
+        "title":"Walrus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":531,
+        "id":1922,
+        "title":"Seal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":531,
+        "id":1923,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":531,
+        "id":1924,
+        "title":"Otter",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":532,
+    "difficulty":2,
+    "title":"532. Which bird is called the 'flagship species' of Indian grasslands?",
+    "description":"",
+    "hint":"State bird of Rajasthan.",
+    "summary":"Great Indian Bustard is Critically Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,GIB,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":532,
+        "id":1925,
+        "title":"Sarus Crane",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":532,
+        "id":1926,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":532,
+        "id":1927,
+        "title":"Peacock",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":532,
+        "id":1928,
+        "title":"Florican",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":533,
+    "difficulty":1,
+    "title":"533. Which endangered mammal is found only in Gir Forest?",
+    "description":"",
+    "hint":"It is not a tiger.",
+    "summary":"Gir is the last wild home of this species.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Asiatic Lion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":533,
+        "id":1929,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":533,
+        "id":1930,
+        "title":"Tiger",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":533,
+        "id":1931,
+        "title":"Asiatic Lion",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":533,
+        "id":1932,
+        "title":"Cheetah",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":534,
+    "difficulty":2,
+    "title":"534. Which species is protected under Project Snow Leopard?",
+    "description":"",
+    "hint":"Lives above the tree line.",
+    "summary":"Project launched in Himalayan states.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Snow Leopard",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":534,
+        "id":1933,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":534,
+        "id":1934,
+        "title":"Red Panda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":534,
+        "id":1935,
+        "title":"Yak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":534,
+        "id":1936,
+        "title":"Ibex",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":535,
+    "difficulty":1,
+    "title":"535. Which reptile has the longest snout among crocodilians?",
+    "description":"",
+    "hint":"Found in Chambal River.",
+    "summary":"Gharial is Critically Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Gharial",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":535,
+        "id":1937,
+        "title":"Mugger",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":535,
+        "id":1938,
+        "title":"Saltwater Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":535,
+        "id":1939,
+        "title":"Gharial",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":535,
+        "id":1940,
+        "title":"Caiman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":536,
+    "difficulty":2,
+    "title":"536. Which Indian state has the largest population of one-horned rhinoceroses?",
+    "description":"",
+    "hint":"Kaziranga is located here.",
+    "summary":"Most Indian rhinos live in Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Rhino",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":536,
+        "id":1941,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":536,
+        "id":1942,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":536,
+        "id":1943,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":536,
+        "id":1944,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":537,
+    "difficulty":1,
+    "title":"537. Which endangered deer is called Kashmir Stag?",
+    "description":"",
+    "hint":"Found in Dachigam.",
+    "summary":"Hangul is endemic to Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Hangul",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":537,
+        "id":1945,
+        "title":"Chital",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":537,
+        "id":1946,
+        "title":"Hangul",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":537,
+        "id":1947,
+        "title":"Sambar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":537,
+        "id":1948,
+        "title":"Barasingha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":538,
+    "difficulty":2,
+    "title":"538. Which bird declined rapidly due to Diclofenac poisoning?",
+    "description":"",
+    "hint":"A scavenger bird.",
+    "summary":"Vulture populations crashed after Diclofenac use.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Vulture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":538,
+        "id":1949,
+        "title":"Peacock",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":538,
+        "id":1950,
+        "title":"White-rumped Vulture",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":538,
+        "id":1951,
+        "title":"Hornbill",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":538,
+        "id":1952,
+        "title":"Owl",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":539,
+    "difficulty":1,
+    "title":"539. Which mammal is India's National Aquatic Animal?",
+    "description":"",
+    "hint":"Lives in the Ganga river.",
+    "summary":"Gangetic Dolphin is India's National Aquatic Animal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dolphin",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":539,
+        "id":1953,
+        "title":"Otter",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":539,
+        "id":1954,
+        "title":"Gangetic Dolphin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":539,
+        "id":1955,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":539,
+        "id":1956,
+        "title":"Seal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":540,
+    "difficulty":2,
+    "title":"540. Which endangered primate is endemic to the Western Ghats?",
+    "description":"",
+    "hint":"It has a silver-white mane.",
+    "summary":"Lion-tailed Macaque is endemic to the Western Ghats.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Lion-tailed Macaque",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":540,
+        "id":1957,
+        "title":"Nilgiri Langur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":540,
+        "id":1958,
+        "title":"Bonnet Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":540,
+        "id":1959,
+        "title":"Lion-tailed Macaque",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":540,
+        "id":1960,
+        "title":"Hoolock Gibbon",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":541,
+    "difficulty":1,
+    "title":"541. Which endangered species is known as the 'State Animal of Sikkim'?",
+    "description":"",
+    "hint":"It is a small tree-dwelling mammal.",
+    "summary":"Red Panda is the State Animal of Sikkim.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Red Panda,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":541,
+        "id":1961,
+        "title":"Red Panda",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":541,
+        "id":1962,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":541,
+        "id":1963,
+        "title":"Himalayan Bear",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":541,
+        "id":1964,
+        "title":"Musk Deer",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":542,
+    "difficulty":2,
+    "title":"542. Which bird is India's only endemic ape's closest companion in Northeast forests?",
+    "description":"",
+    "hint":"Think of India's only ape first.",
+    "summary":"Western Hoolock Gibbon inhabits Northeast India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Hoolock Gibbon",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":542,
+        "id":1965,
+        "title":"Nilgiri Langur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":542,
+        "id":1966,
+        "title":"Western Hoolock Gibbon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":542,
+        "id":1967,
+        "title":"Bonnet Macaque",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":542,
+        "id":1968,
+        "title":"Hanuman Langur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":543,
+    "difficulty":1,
+    "title":"543. Which endangered reptile is famous for mass nesting at Gahirmatha?",
+    "description":"",
+    "hint":"Known for Arribada.",
+    "summary":"Olive Ridley turtles nest in Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Olive Ridley",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":543,
+        "id":1969,
+        "title":"Leatherback",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":543,
+        "id":1970,
+        "title":"Green Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":543,
+        "id":1971,
+        "title":"Olive Ridley",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":543,
+        "id":1972,
+        "title":"Hawksbill",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":544,
+    "difficulty":2,
+    "title":"544. Which endangered species is protected under Project Cheetah?",
+    "description":"",
+    "hint":"Reintroduced to Kuno.",
+    "summary":"African Cheetahs were introduced under Project Cheetah.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Cheetah",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":544,
+        "id":1973,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":544,
+        "id":1974,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":544,
+        "id":1975,
+        "title":"African Cheetah",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":544,
+        "id":1976,
+        "title":"Asiatic Lion",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":545,
+    "difficulty":1,
+    "title":"545. Which endangered animal is called the 'Mountain Ghost'?",
+    "description":"",
+    "hint":"Lives in the Himalayas.",
+    "summary":"Snow Leopard is nicknamed Mountain Ghost.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Snow Leopard",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":545,
+        "id":1977,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":545,
+        "id":1978,
+        "title":"Wolf",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":545,
+        "id":1979,
+        "title":"Red Panda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":545,
+        "id":1980,
+        "title":"Ibex",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":546,
+    "difficulty":2,
+    "title":"546. Which endangered mammal is famous for its armored scales?",
+    "description":"",
+    "hint":"Most trafficked mammal.",
+    "summary":"Indian Pangolin is heavily poached.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Pangolin",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":546,
+        "id":1981,
+        "title":"Porcupine",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":546,
+        "id":1982,
+        "title":"Armadillo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":546,
+        "id":1983,
+        "title":"Indian Pangolin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":546,
+        "id":1984,
+        "title":"Hedgehog",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":547,
+    "difficulty":1,
+    "title":"547. Which organization maintains the IUCN Red List?",
+    "description":"",
+    "hint":"International Union...",
+    "summary":"IUCN publishes the Red List.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,IUCN",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":547,
+        "id":1985,
+        "title":"UNESCO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":547,
+        "id":1986,
+        "title":"WWF",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":547,
+        "id":1987,
+        "title":"IUCN",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":547,
+        "id":1988,
+        "title":"UNEP",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":548,
+    "difficulty":2,
+    "title":"548. Which critically endangered bird is found mainly in Rajasthan and Gujarat?",
+    "description":"",
+    "hint":"Largest bustard in India.",
+    "summary":"Great Indian Bustard survives in arid grasslands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Great Indian Bustard",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":548,
+        "id":1989,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":548,
+        "id":1990,
+        "title":"Bengal Florican",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":548,
+        "id":1991,
+        "title":"Sarus Crane",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":548,
+        "id":1992,
+        "title":"Demoiselle Crane",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":549,
+    "difficulty":2,
+    "title":"549. Which protected area is best known for Hangul conservation?",
+    "description":"",
+    "hint":"Located near Srinagar.",
+    "summary":"Dachigam National Park protects Hangul.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dachigam",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":549,
+        "id":1993,
+        "title":"Kaziranga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":549,
+        "id":1994,
+        "title":"Dachigam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":549,
+        "id":1995,
+        "title":"Gir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":549,
+        "id":1996,
+        "title":"Corbett",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":550,
+    "difficulty":1,
+    "title":"550. Which law provides the highest protection to India's endangered wildlife?",
+    "description":"",
+    "hint":"Enacted in 1972.",
+    "summary":"Wildlife (Protection) Act is India's key wildlife law.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Wildlife Protection Act",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":550,
+        "id":1997,
+        "title":"Forest Act",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":550,
+        "id":1998,
+        "title":"Environment Act",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":550,
+        "id":1999,
+        "title":"Wildlife (Protection) Act, 1972",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":550,
+        "id":2000,
+        "title":"Biological Diversity Act",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
