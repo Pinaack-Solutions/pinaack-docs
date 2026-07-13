@@ -1,0 +1,2102 @@
+[
+  {
+    "id":901,
+    "difficulty":0,
+    "title":"901. Bhangra is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is associated with the harvest festival Baisakhi.",
+    "summary":"Bhangra is a traditional folk dance of Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,North India,Harvest Festival",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":901,
+        "id":3401,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":901,
+        "id":3402,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":901,
+        "id":3403,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":901,
+        "id":3404,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":902,
+    "difficulty":0,
+    "title":"902. Garba is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is performed during Navratri.",
+    "summary":"Garba is a traditional folk dance of Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":902,
+        "id":3405,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":902,
+        "id":3406,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":902,
+        "id":3407,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":902,
+        "id":3408,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":903,
+    "difficulty":1,
+    "title":"903. Ghoomar is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is associated with royal traditions of western India.",
+    "summary":"Ghoomar is a traditional folk dance of Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":903,
+        "id":3409,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":903,
+        "id":3410,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":903,
+        "id":3411,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":903,
+        "id":3412,
+        "title":"Uttar Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":904,
+    "difficulty":1,
+    "title":"904. Bihu dance is associated with which state?",
+    "description":"",
+    "hint":"It is performed during a famous spring festival.",
+    "summary":"Bihu dance is a folk dance of Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":904,
+        "id":3413,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":904,
+        "id":3414,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":904,
+        "id":3415,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":904,
+        "id":3416,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":905,
+    "difficulty":1,
+    "title":"905. Lavani is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is performed with traditional musical beats.",
+    "summary":"Lavani is a folk dance of Maharashtra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Music",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":905,
+        "id":3417,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":905,
+        "id":3418,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":905,
+        "id":3419,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":905,
+        "id":3420,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":906,
+    "difficulty":1,
+    "title":"906. Yakshagana is a traditional dance form of which state?",
+    "description":"",
+    "hint":"It combines dance, music and drama.",
+    "summary":"Yakshagana is a traditional performing art of Karnataka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,South India,Theatre",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":906,
+        "id":3421,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":906,
+        "id":3422,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":906,
+        "id":3423,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":906,
+        "id":3424,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":907,
+    "difficulty":1,
+    "title":"907. Dandiya Raas is associated with which festival?",
+    "description":"",
+    "hint":"It is celebrated for nine nights.",
+    "summary":"Dandiya Raas is performed during Navratri celebrations.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Festivals,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":907,
+        "id":3425,
+        "title":"Navratri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":907,
+        "id":3426,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":907,
+        "id":3427,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":907,
+        "id":3428,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":908,
+    "difficulty":1,
+    "title":"908. Kathakali is a traditional dance-drama of which state?",
+    "description":"",
+    "hint":"It is famous for elaborate makeup and costumes.",
+    "summary":"Kathakali originated in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Drama,South India,Classical Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":908,
+        "id":3429,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":908,
+        "id":3430,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":908,
+        "id":3431,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":908,
+        "id":3432,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":909,
+    "difficulty":1,
+    "title":"909. Rouf is a traditional folk dance of which region?",
+    "description":"",
+    "hint":"It is performed by women in the valley region.",
+    "summary":"Rouf is a traditional folk dance of Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,North India,Women Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":909,
+        "id":3433,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":909,
+        "id":3434,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":909,
+        "id":3435,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":909,
+        "id":3436,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":910,
+    "difficulty":1,
+    "title":"910. Chhau dance is mainly associated with which states?",
+    "description":"",
+    "hint":"It is popular in eastern India.",
+    "summary":"Chhau is associated with Odisha, Jharkhand and West Bengal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Eastern India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":910,
+        "id":3437,
+        "title":"Eastern Indian states",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":910,
+        "id":3438,
+        "title":"Southern Indian states",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":910,
+        "id":3439,
+        "title":"Western Indian states",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":910,
+        "id":3440,
+        "title":"Northern Indian states",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":911,
+    "difficulty":1,
+    "title":"911. Giddha is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is traditionally performed by women.",
+    "summary":"Giddha is a folk dance of Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,North India,Women Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":911,
+        "id":3441,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":911,
+        "id":3442,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":911,
+        "id":3443,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":911,
+        "id":3444,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":912,
+    "difficulty":1,
+    "title":"912. Kalbelia dance belongs to which state?",
+    "description":"",
+    "hint":"It is associated with a nomadic community.",
+    "summary":"Kalbelia is a traditional folk dance of Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Rajasthan,Tribal Communities",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":912,
+        "id":3445,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":912,
+        "id":3446,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":912,
+        "id":3447,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":912,
+        "id":3448,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":913,
+    "difficulty":1,
+    "title":"913. The Kalbelia dance is traditionally performed by which community?",
+    "description":"",
+    "hint":"The community is historically associated with snake charming.",
+    "summary":"Kalbelia dance is performed by the Kalbelia community.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Communities,Rajasthan",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":913,
+        "id":3449,
+        "title":"Kalbelia community",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":913,
+        "id":3450,
+        "title":"Bhil community",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":913,
+        "id":3451,
+        "title":"Gond community",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":913,
+        "id":3452,
+        "title":"Toda community",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":914,
+    "difficulty":1,
+    "title":"914. Dalkhai is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is popular in western parts of eastern India.",
+    "summary":"Dalkhai is a folk dance of Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Eastern India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":914,
+        "id":3453,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":914,
+        "id":3454,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":914,
+        "id":3455,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":914,
+        "id":3456,
+        "title":"Jharkhand",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":915,
+    "difficulty":2,
+    "title":"915. Sambalpuri dance is associated with which state?",
+    "description":"",
+    "hint":"It is named after a region famous for textiles.",
+    "summary":"Sambalpuri dance belongs to Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Eastern India,Regional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":915,
+        "id":3457,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":915,
+        "id":3458,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":915,
+        "id":3459,
+        "title":"Chhattisgarh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":915,
+        "id":3460,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":916,
+    "difficulty":1,
+    "title":"916. Panthi dance belongs to which state?",
+    "description":"",
+    "hint":"It is associated with the Satnami community.",
+    "summary":"Panthi is a folk dance of Chhattisgarh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Central India,Tribal Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":916,
+        "id":3461,
+        "title":"Chhattisgarh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":916,
+        "id":3462,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":916,
+        "id":3463,
+        "title":"Jharkhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":916,
+        "id":3464,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":917,
+    "difficulty":1,
+    "title":"917. Karma dance is mainly performed in which region?",
+    "description":"",
+    "hint":"It is associated with tribal communities of central India.",
+    "summary":"Karma dance is popular among tribal communities of Madhya Pradesh, Chhattisgarh and Jharkhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Tribal Traditions,Central India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":917,
+        "id":3465,
+        "title":"Central and Eastern India",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":917,
+        "id":3466,
+        "title":"Western India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":917,
+        "id":3467,
+        "title":"Southern India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":917,
+        "id":3468,
+        "title":"Northern India",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":918,
+    "difficulty":1,
+    "title":"918. Hojagiri dance belongs to which state?",
+    "description":"",
+    "hint":"It is a famous dance of Northeast India.",
+    "summary":"Hojagiri dance belongs to Tripura.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":918,
+        "id":3469,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":918,
+        "id":3470,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":918,
+        "id":3471,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":918,
+        "id":3472,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":919,
+    "difficulty":1,
+    "title":"919. Cheraw dance is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is also known as the bamboo dance.",
+    "summary":"Cheraw is the traditional bamboo dance of Mizoram.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Bamboo Dance",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":919,
+        "id":3473,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":919,
+        "id":3474,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":919,
+        "id":3475,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":919,
+        "id":3476,
+        "title":"Meghalaya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":920,
+    "difficulty":1,
+    "title":"920. Nati dance is a traditional folk dance of which state?",
+    "description":"",
+    "hint":"It is a popular dance of the Himalayan region.",
+    "summary":"Nati is a folk dance of Himachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Himalayan Region,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":920,
+        "id":3477,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":920,
+        "id":3478,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":920,
+        "id":3479,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":920,
+        "id":3480,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":921,
+    "difficulty":1,
+    "title":"921. Gaur Maria dance is associated with which state?",
+    "description":"",
+    "hint":"It is performed by a tribal community of central India.",
+    "summary":"Gaur Maria is a tribal dance of Chhattisgarh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Central India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":921,
+        "id":3481,
+        "title":"Chhattisgarh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":921,
+        "id":3482,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":921,
+        "id":3483,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":921,
+        "id":3484,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":922,
+    "difficulty":1,
+    "title":"922. Bardo Chham is a traditional dance of which state?",
+    "description":"",
+    "hint":"It belongs to the Himalayan state known for monasteries.",
+    "summary":"Bardo Chham is a traditional dance form of Arunachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Himalayan Region,Tribal Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":922,
+        "id":3485,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":922,
+        "id":3486,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":922,
+        "id":3487,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":922,
+        "id":3488,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":923,
+    "difficulty":1,
+    "title":"923. Cheraw dance is performed using which item?",
+    "description":"",
+    "hint":"It gives the dance its popular name.",
+    "summary":"Cheraw is performed using bamboo poles.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Traditional Instruments",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":923,
+        "id":3489,
+        "title":"Bamboo poles",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":923,
+        "id":3490,
+        "title":"Metal plates",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":923,
+        "id":3491,
+        "title":"Swords",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":923,
+        "id":3492,
+        "title":"Masks",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":924,
+    "difficulty":1,
+    "title":"924. Jhumur dance is mainly associated with which region?",
+    "description":"",
+    "hint":"It is popular among tribal communities of eastern India.",
+    "summary":"Jhumur is popular in Jharkhand, West Bengal and Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Eastern India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":924,
+        "id":3493,
+        "title":"Eastern India",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":924,
+        "id":3494,
+        "title":"Western India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":924,
+        "id":3495,
+        "title":"Northern India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":924,
+        "id":3496,
+        "title":"Southern India",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":925,
+    "difficulty":1,
+    "title":"925. Bhangra is traditionally performed with which instrument?",
+    "description":"",
+    "hint":"It is a percussion instrument.",
+    "summary":"Dhol is the traditional drum used in Bhangra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Music Instruments,Punjab",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":925,
+        "id":3497,
+        "title":"Dhol",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":925,
+        "id":3498,
+        "title":"Veena",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":925,
+        "id":3499,
+        "title":"Sitar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":925,
+        "id":3500,
+        "title":"Flute",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":926,
+    "difficulty":1,
+    "title":"926. Dollu Kunitha is a folk dance of which state?",
+    "description":"",
+    "hint":"It is performed with drums.",
+    "summary":"Dollu Kunitha is a traditional dance of Karnataka.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,South India,Drum Dance",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":926,
+        "id":3501,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":926,
+        "id":3502,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":926,
+        "id":3503,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":926,
+        "id":3504,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":927,
+    "difficulty":1,
+    "title":"927. Karagattam is a folk dance of which state?",
+    "description":"",
+    "hint":"It involves balancing a decorated pot.",
+    "summary":"Karagattam is a traditional folk dance of Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,South India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":927,
+        "id":3505,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":927,
+        "id":3506,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":927,
+        "id":3507,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":927,
+        "id":3508,
+        "title":"Telangana",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":928,
+    "difficulty":1,
+    "title":"928. Theyyam is a traditional ritual dance of which state?",
+    "description":"",
+    "hint":"It is famous for colorful makeup and costumes.",
+    "summary":"Theyyam is a ritual dance form of Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,South India,Ritual Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":928,
+        "id":3509,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":928,
+        "id":3510,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":928,
+        "id":3511,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":928,
+        "id":3512,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":929,
+    "difficulty":2,
+    "title":"929. Hikat is a traditional folk dance of which region?",
+    "description":"",
+    "hint":"It belongs to the Himalayan region.",
+    "summary":"Hikat is a traditional dance associated with Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Himalayan Region,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":929,
+        "id":3513,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":929,
+        "id":3514,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":929,
+        "id":3515,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":929,
+        "id":3516,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":930,
+    "difficulty":1,
+    "title":"930. Fugdi is a folk dance mainly associated with which state?",
+    "description":"",
+    "hint":"It is popular among women during festivals.",
+    "summary":"Fugdi is a traditional folk dance of Goa.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western Coast,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":930,
+        "id":3517,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":930,
+        "id":3518,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":930,
+        "id":3519,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":930,
+        "id":3520,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":931,
+    "difficulty":1,
+    "title":"931. Lambadi dance is associated with which state?",
+    "description":"",
+    "hint":"It is performed by the Banjara community.",
+    "summary":"Lambadi is a folk dance associated with Telangana and other regions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Tribal Communities,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":931,
+        "id":3521,
+        "title":"Telangana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":931,
+        "id":3522,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":931,
+        "id":3523,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":931,
+        "id":3524,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":932,
+    "difficulty":1,
+    "title":"932. Perini Shivatandavam is a traditional dance of which state?",
+    "description":"",
+    "hint":"It is an ancient warrior dance of southern India.",
+    "summary":"Perini Shivatandavam originated in Telangana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Forms,South India,Warrior Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":932,
+        "id":3525,
+        "title":"Telangana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":932,
+        "id":3526,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":932,
+        "id":3527,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":932,
+        "id":3528,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":933,
+    "difficulty":1,
+    "title":"933. Gaur dance is mainly associated with which state?",
+    "description":"",
+    "hint":"It is performed by tribal communities of central India.",
+    "summary":"Gaur dance is associated with Madhya Pradesh tribal traditions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Central India,Tribal Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":933,
+        "id":3529,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":933,
+        "id":3530,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":933,
+        "id":3531,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":933,
+        "id":3532,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":934,
+    "difficulty":2,
+    "title":"934. Bidesia is a folk theatre and dance tradition of which state?",
+    "description":"",
+    "hint":"It is associated with Bhojpuri culture.",
+    "summary":"Bidesia originated in Bihar's Bhojpuri region.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Theatre,Eastern India,Bhojpuri Culture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":934,
+        "id":3533,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":934,
+        "id":3534,
+        "title":"Uttar Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":934,
+        "id":3535,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":934,
+        "id":3536,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":935,
+    "difficulty":1,
+    "title":"935. Dhimsa dance belongs to which state?",
+    "description":"",
+    "hint":"It is performed by tribal communities in eastern India.",
+    "summary":"Dhimsa is a tribal dance of Andhra Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Tribal Arts,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":935,
+        "id":3537,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":935,
+        "id":3538,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":935,
+        "id":3539,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":935,
+        "id":3540,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":936,
+    "difficulty":1,
+    "title":"936. Thang-Ta is a traditional martial art dance form of which state?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Thang-Ta originated in Manipur.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Martial Arts,Northeast India,Traditional Forms",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":936,
+        "id":3541,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":936,
+        "id":3542,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":936,
+        "id":3543,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":936,
+        "id":3544,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":937,
+    "difficulty":1,
+    "title":"937. Pung Cholom is a traditional dance form of which state?",
+    "description":"",
+    "hint":"It uses a drum as an important element.",
+    "summary":"Pung Cholom is a traditional dance of Manipur.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Forms,Northeast India,Music",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":937,
+        "id":3545,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":937,
+        "id":3546,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":937,
+        "id":3547,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":937,
+        "id":3548,
+        "title":"Meghalaya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":938,
+    "difficulty":1,
+    "title":"938. Wangala dance belongs to which state?",
+    "description":"",
+    "hint":"It is known as the Hundred Drums Festival dance.",
+    "summary":"Wangala is a traditional dance of Meghalaya.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":938,
+        "id":3549,
+        "title":"Meghalaya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":938,
+        "id":3550,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":938,
+        "id":3551,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":938,
+        "id":3552,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":939,
+    "difficulty":2,
+    "title":"939. Naga warrior dances are associated with which region?",
+    "description":"",
+    "hint":"It belongs to one of the northeastern states.",
+    "summary":"Naga warrior dances are associated with Nagaland.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Tribal Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":939,
+        "id":3553,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":939,
+        "id":3554,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":939,
+        "id":3555,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":939,
+        "id":3556,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":940,
+    "difficulty":1,
+    "title":"940. Tamasha is a traditional folk theatre form of which state?",
+    "description":"",
+    "hint":"It is associated with Marathi culture.",
+    "summary":"Tamasha is a folk theatre tradition of Maharashtra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Theatre,Western India,Performing Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":940,
+        "id":3557,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":940,
+        "id":3558,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":940,
+        "id":3559,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":940,
+        "id":3560,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":941,
+    "difficulty":1,
+    "title":"941. Bhavai is a traditional folk dance of which state?",
+    "description":"",
+    "hint":"It is associated with western India and balancing acts.",
+    "summary":"Bhavai is a folk dance tradition of Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":941,
+        "id":3561,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":941,
+        "id":3562,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":941,
+        "id":3563,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":941,
+        "id":3564,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":942,
+    "difficulty":1,
+    "title":"942. Maach is a traditional folk theatre form of which state?",
+    "description":"",
+    "hint":"It is a famous performing art of central India.",
+    "summary":"Maach is a folk theatre tradition of Madhya Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Theatre,Central India,Performing Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":942,
+        "id":3565,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":942,
+        "id":3566,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":942,
+        "id":3567,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":942,
+        "id":3568,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":943,
+    "difficulty":1,
+    "title":"943. Bidesia folk tradition is associated with which language region?",
+    "description":"",
+    "hint":"It is linked with a popular language of eastern Uttar Pradesh and Bihar.",
+    "summary":"Bidesia is associated with Bhojpuri culture.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Theatre,Regional Arts,Languages",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":943,
+        "id":3569,
+        "title":"Bhojpuri region",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":943,
+        "id":3570,
+        "title":"Tamil region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":943,
+        "id":3571,
+        "title":"Kashmiri region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":943,
+        "id":3572,
+        "title":"Kannada region",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":944,
+    "difficulty":1,
+    "title":"944. Ghumura dance is associated with which state?",
+    "description":"",
+    "hint":"It is a traditional dance from eastern India.",
+    "summary":"Ghumura is a folk dance of Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Eastern India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":944,
+        "id":3573,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":944,
+        "id":3574,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":944,
+        "id":3575,
+        "title":"Jharkhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":944,
+        "id":3576,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":945,
+    "difficulty":2,
+    "title":"945. Gotipua dance is considered a precursor of which classical dance?",
+    "description":"",
+    "hint":"It developed in the temples of eastern India.",
+    "summary":"Gotipua is considered the precursor of Odissi.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Forms,Classical Dance,Temple Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":945,
+        "id":3577,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":945,
+        "id":3578,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":945,
+        "id":3579,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":945,
+        "id":3580,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":946,
+    "difficulty":1,
+    "title":"946. Rouf dance is mainly performed during which occasions?",
+    "description":"",
+    "hint":"It is associated with celebrations in a northern region.",
+    "summary":"Rouf is performed during festivals and celebrations in Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Festivals,North India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":946,
+        "id":3581,
+        "title":"Festivals and celebrations",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":946,
+        "id":3582,
+        "title":"War ceremonies only",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":946,
+        "id":3583,
+        "title":"Temple construction",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":946,
+        "id":3584,
+        "title":"Agricultural trade fairs only",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":947,
+    "difficulty":1,
+    "title":"947. Sattriya dance originated from which state?",
+    "description":"",
+    "hint":"It developed in Vaishnav monasteries of Northeast India.",
+    "summary":"Sattriya originated in Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Forms,Northeast India,Vaishnav Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":947,
+        "id":3585,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":947,
+        "id":3586,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":947,
+        "id":3587,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":947,
+        "id":3588,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":948,
+    "difficulty":1,
+    "title":"948. Chholiya dance is associated with which state?",
+    "description":"",
+    "hint":"It is a sword dance from the Himalayan region.",
+    "summary":"Chholiya is a traditional dance of Uttarakhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Himalayan Region,War Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":948,
+        "id":3589,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":948,
+        "id":3590,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":948,
+        "id":3591,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":948,
+        "id":3592,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":949,
+    "difficulty":2,
+    "title":"949. Which folk dance is associated with the Bhil tribe?",
+    "description":"",
+    "hint":"It is performed by one of India's largest tribal groups.",
+    "summary":"Gavri is a traditional dance-drama of the Bhil tribe.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Tribal Communities,Western India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":949,
+        "id":3593,
+        "title":"Gavri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":949,
+        "id":3594,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":949,
+        "id":3595,
+        "title":"Cheraw",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":949,
+        "id":3596,
+        "title":"Lavani",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":950,
+    "difficulty":1,
+    "title":"950. Which folk dance is associated with Haryana?",
+    "description":"",
+    "hint":"It is a traditional dance of the farming community.",
+    "summary":"Dhamal is a famous folk dance of Haryana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,North India,Regional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":950,
+        "id":3597,
+        "title":"Dhamal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":950,
+        "id":3598,
+        "title":"Garba",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":950,
+        "id":3599,
+        "title":"Ghoomar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":950,
+        "id":3600,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
