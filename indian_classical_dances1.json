@@ -1,0 +1,2102 @@
+[
+  {
+    "id":951,
+    "difficulty":0,
+    "title":"951. How many classical dance forms are officially recognized in India?",
+    "description":"",
+    "hint":"The number is recognized by the Sangeet Natak Akademi.",
+    "summary":"India has eight officially recognized classical dance forms.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Forms,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":951,
+        "id":3601,
+        "title":"8",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":951,
+        "id":3602,
+        "title":"6",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":951,
+        "id":3603,
+        "title":"10",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":951,
+        "id":3604,
+        "title":"12",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":952,
+    "difficulty":0,
+    "title":"952. Bharatanatyam originated in which state?",
+    "description":"",
+    "hint":"It developed from temple traditions of southern India.",
+    "summary":"Bharatanatyam originated in Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,South India,Temple Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":952,
+        "id":3605,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":952,
+        "id":3606,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":952,
+        "id":3607,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":952,
+        "id":3608,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":953,
+    "difficulty":1,
+    "title":"953. Kathak is mainly associated with which region of India?",
+    "description":"",
+    "hint":"It developed in northern India.",
+    "summary":"Kathak is a classical dance form of North India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,North India,Performing Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":953,
+        "id":3609,
+        "title":"North India",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":953,
+        "id":3610,
+        "title":"South India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":953,
+        "id":3611,
+        "title":"East India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":953,
+        "id":3612,
+        "title":"Northeast India",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":954,
+    "difficulty":1,
+    "title":"954. Kuchipudi originated from which state?",
+    "description":"",
+    "hint":"It is named after a village in southern India.",
+    "summary":"Kuchipudi originated in Andhra Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,South India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":954,
+        "id":3613,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":954,
+        "id":3614,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":954,
+        "id":3615,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":954,
+        "id":3616,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":955,
+    "difficulty":1,
+    "title":"955. Odissi is the classical dance form of which state?",
+    "description":"",
+    "hint":"It developed around temple traditions in eastern India.",
+    "summary":"Odissi originated in Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,East India,Temple Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":955,
+        "id":3617,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":955,
+        "id":3618,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":955,
+        "id":3619,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":955,
+        "id":3620,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":956,
+    "difficulty":1,
+    "title":"956. Kathakali originated in which state?",
+    "description":"",
+    "hint":"It is famous for elaborate makeup and costumes.",
+    "summary":"Kathakali originated in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,South India,Theatre Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":956,
+        "id":3621,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":956,
+        "id":3622,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":956,
+        "id":3623,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":956,
+        "id":3624,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":957,
+    "difficulty":1,
+    "title":"957. Manipuri classical dance belongs to which state?",
+    "description":"",
+    "hint":"It comes from Northeast India.",
+    "summary":"Manipuri originated in Manipur.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Northeast India,Vaishnav Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":957,
+        "id":3625,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":957,
+        "id":3626,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":957,
+        "id":3627,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":957,
+        "id":3628,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":958,
+    "difficulty":1,
+    "title":"958. Sattriya classical dance originated in which state?",
+    "description":"",
+    "hint":"It developed in Vaishnav monasteries.",
+    "summary":"Sattriya originated in Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Northeast India,Religious Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":958,
+        "id":3629,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":958,
+        "id":3630,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":958,
+        "id":3631,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":958,
+        "id":3632,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":959,
+    "difficulty":1,
+    "title":"959. Mohiniyattam is a classical dance form of which state?",
+    "description":"",
+    "hint":"The name means the dance of an enchantress.",
+    "summary":"Mohiniyattam originated in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,South India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":959,
+        "id":3633,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":959,
+        "id":3634,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":959,
+        "id":3635,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":959,
+        "id":3636,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":960,
+    "difficulty":2,
+    "title":"960. Which text is considered the foundation of Indian classical dance theory?",
+    "description":"",
+    "hint":"It is an ancient Sanskrit text on performing arts.",
+    "summary":"Natya Shastra by Bharata Muni is the foundation of Indian classical dance theory.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Ancient Texts,Performing Arts,Indian Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":960,
+        "id":3637,
+        "title":"Natya Shastra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":960,
+        "id":3638,
+        "title":"Arthashastra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":960,
+        "id":3639,
+        "title":"Rigveda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":960,
+        "id":3640,
+        "title":"Manusmriti",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":961,
+    "difficulty":1,
+    "title":"961. Which classical dance form is known for its fast footwork and spins?",
+    "description":"",
+    "hint":"It developed in the courts of North India.",
+    "summary":"Kathak is known for fast footwork and spins.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Features,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":961,
+        "id":3641,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":961,
+        "id":3642,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":961,
+        "id":3643,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":961,
+        "id":3644,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":962,
+    "difficulty":1,
+    "title":"962. Which classical dance form uses the tribhanga posture?",
+    "description":"",
+    "hint":"It originated in eastern India.",
+    "summary":"Odissi is known for the tribhanga posture.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Postures,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":962,
+        "id":3645,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":962,
+        "id":3646,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":962,
+        "id":3647,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":962,
+        "id":3648,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":963,
+    "difficulty":1,
+    "title":"963. Which classical dance form is famous for expressive eye movements and facial expressions?",
+    "description":"",
+    "hint":"It is a dance-drama form from Kerala.",
+    "summary":"Kathakali is famous for facial expressions and eye movements.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Expression,Theatre",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":963,
+        "id":3649,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":963,
+        "id":3650,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":963,
+        "id":3651,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":963,
+        "id":3652,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":964,
+    "difficulty":2,
+    "title":"964. Which classical dance form was revived by Rukmini Devi Arundale?",
+    "description":"",
+    "hint":"It is one of the oldest classical dances of India.",
+    "summary":"Rukmini Devi Arundale played an important role in reviving Bharatanatyam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Artists,Revival Movement",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":964,
+        "id":3653,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":964,
+        "id":3654,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":964,
+        "id":3655,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":964,
+        "id":3656,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":965,
+    "difficulty":1,
+    "title":"965. Which musical instrument is commonly associated with Kathak?",
+    "description":"",
+    "hint":"It is a percussion instrument used in Hindustani music.",
+    "summary":"Tabla is commonly associated with Kathak performances.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Music Instruments,Hindustani Music",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":965,
+        "id":3657,
+        "title":"Tabla",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":965,
+        "id":3658,
+        "title":"Mridangam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":965,
+        "id":3659,
+        "title":"Veena",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":965,
+        "id":3660,
+        "title":"Shehnai",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":966,
+    "difficulty":1,
+    "title":"966. Which classical dance form uses the drum called Pung?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Manipuri dance uses the Pung drum.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Music Instruments,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":966,
+        "id":3661,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":966,
+        "id":3662,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":966,
+        "id":3663,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":966,
+        "id":3664,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":967,
+    "difficulty":2,
+    "title":"967. Who is known as the father of Kathak?",
+    "description":"",
+    "hint":"He was a legendary dancer from North India.",
+    "summary":"Pandit Birju Maharaj is considered one of the greatest Kathak dancers.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Dancers,Artists",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":967,
+        "id":3665,
+        "title":"Birju Maharaj",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":967,
+        "id":3666,
+        "title":"Kelucharan Mohapatra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":967,
+        "id":3667,
+        "title":"Rukmini Devi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":967,
+        "id":3668,
+        "title":"Guru Gopinath",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":968,
+    "difficulty":2,
+    "title":"968. Kelucharan Mohapatra was associated with which classical dance?",
+    "description":"",
+    "hint":"He was a legendary guru from eastern India.",
+    "summary":"Kelucharan Mohapatra was a famous Odissi dancer.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Artists,Gurus",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":968,
+        "id":3669,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":968,
+        "id":3670,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":968,
+        "id":3671,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":968,
+        "id":3672,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":969,
+    "difficulty":1,
+    "title":"969. Which classical dance form is known for storytelling through hand gestures called mudras?",
+    "description":"",
+    "hint":"Most Indian classical dances use this technique.",
+    "summary":"Bharatanatyam is especially known for expressive mudras.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Mudras,Expressions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":969,
+        "id":3673,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":969,
+        "id":3674,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":969,
+        "id":3675,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":969,
+        "id":3676,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":970,
+    "difficulty":1,
+    "title":"970. Which classical dance form is traditionally performed by male artists called Chakyars?",
+    "description":"",
+    "hint":"It is a temple art form of Kerala.",
+    "summary":"Koodiyattam is associated with Chakyar performers.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Arts,Kerala,Temple Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":970,
+        "id":3677,
+        "title":"Koodiyattam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":970,
+        "id":3678,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":970,
+        "id":3679,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":970,
+        "id":3680,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":971,
+    "difficulty":1,
+    "title":"971. Which classical dance form uses the costume with a fan-shaped pleated design in front?",
+    "description":"",
+    "hint":"It is a famous dance form from Tamil Nadu.",
+    "summary":"Bharatanatyam costume is known for its fan-shaped pleats.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Costumes,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":971,
+        "id":3681,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":971,
+        "id":3682,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":971,
+        "id":3683,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":971,
+        "id":3684,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":972,
+    "difficulty":1,
+    "title":"972. Which classical dance form is performed with elaborate facial makeup called Aharya Abhinaya?",
+    "description":"",
+    "hint":"It is famous as a dance-drama tradition of Kerala.",
+    "summary":"Kathakali is known for elaborate makeup and costumes.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Costumes,Theatre Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":972,
+        "id":3685,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":972,
+        "id":3686,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":972,
+        "id":3687,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":972,
+        "id":3688,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":973,
+    "difficulty":2,
+    "title":"973. The word 'Kathak' is derived from which Sanskrit word?",
+    "description":"",
+    "hint":"The meaning is related to storytelling.",
+    "summary":"Kathak comes from the Sanskrit word Katha meaning story.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,History,Language",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":973,
+        "id":3689,
+        "title":"Katha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":973,
+        "id":3690,
+        "title":"Natya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":973,
+        "id":3691,
+        "title":"Nritya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":973,
+        "id":3692,
+        "title":"Rasa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":974,
+    "difficulty":2,
+    "title":"974. Which classical dance form has the famous Lucknow and Jaipur gharanas?",
+    "description":"",
+    "hint":"It belongs to northern India.",
+    "summary":"Kathak has famous Lucknow and Jaipur gharanas.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Gharanas,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":974,
+        "id":3693,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":974,
+        "id":3694,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":974,
+        "id":3695,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":974,
+        "id":3696,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":975,
+    "difficulty":1,
+    "title":"975. Which instrument is commonly used in Bharatanatyam performances?",
+    "description":"",
+    "hint":"It is a percussion instrument from South India.",
+    "summary":"Mridangam is commonly used in Bharatanatyam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Music Instruments,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":975,
+        "id":3697,
+        "title":"Mridangam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":975,
+        "id":3698,
+        "title":"Tabla",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":975,
+        "id":3699,
+        "title":"Pung",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":975,
+        "id":3700,
+        "title":"Dhol",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":976,
+    "difficulty":1,
+    "title":"976. Which classical dance form includes the character of Krishna prominently?",
+    "description":"",
+    "hint":"It is associated with Vaishnav traditions.",
+    "summary":"Manipuri dance often depicts stories of Krishna.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Vaishnavism,Themes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":976,
+        "id":3701,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":976,
+        "id":3702,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":976,
+        "id":3703,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":976,
+        "id":3704,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":977,
+    "difficulty":2,
+    "title":"977. Who is known as the father of modern Odissi?",
+    "description":"",
+    "hint":"He was a famous guru from Odisha.",
+    "summary":"Kelucharan Mohapatra is regarded as a major figure in Odissi revival.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Gurus,Artists",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":977,
+        "id":3705,
+        "title":"Kelucharan Mohapatra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":977,
+        "id":3706,
+        "title":"Birju Maharaj",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":977,
+        "id":3707,
+        "title":"Rukmini Devi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":977,
+        "id":3708,
+        "title":"Guru Gopinath",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":978,
+    "difficulty":1,
+    "title":"978. Which classical dance form originated from Andhra Pradesh and combines dance with drama?",
+    "description":"",
+    "hint":"It is named after a village.",
+    "summary":"Kuchipudi combines dance and dramatic performance.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,South India,Drama",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":978,
+        "id":3709,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":978,
+        "id":3710,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":978,
+        "id":3711,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":978,
+        "id":3712,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":979,
+    "difficulty":1,
+    "title":"979. Which classical dance form is performed with graceful and gentle movements?",
+    "description":"",
+    "hint":"It belongs to Kerala and is associated with feminine grace.",
+    "summary":"Mohiniyattam is known for graceful movements.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Features,Kerala Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":979,
+        "id":3713,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":979,
+        "id":3714,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":979,
+        "id":3715,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":979,
+        "id":3716,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":980,
+    "difficulty":2,
+    "title":"980. Which classical dance form was added to the list of recognized classical dances in 2000?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Sattriya was recognized as a classical dance form in 2000.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Recognition,Indian Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":980,
+        "id":3717,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":980,
+        "id":3718,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":980,
+        "id":3719,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":980,
+        "id":3720,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":981,
+    "difficulty":2,
+    "title":"981. Who wrote the ancient treatise on Indian performing arts?",
+    "description":"",
+    "hint":"It is considered the foundation of classical dance theory.",
+    "summary":"Bharata Muni wrote the Natya Shastra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Ancient Texts,Performing Arts,Indian Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":981,
+        "id":3721,
+        "title":"Bharata Muni",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":981,
+        "id":3722,
+        "title":"Kalidasa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":981,
+        "id":3723,
+        "title":"Panini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":981,
+        "id":3724,
+        "title":"Banabhatta",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":982,
+    "difficulty":1,
+    "title":"982. Which classical dance form is based on the stories of Hindu epics and mythology?",
+    "description":"",
+    "hint":"It is a famous dance-drama from Kerala.",
+    "summary":"Kathakali commonly presents stories from epics and mythology.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Mythology,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":982,
+        "id":3725,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":982,
+        "id":3726,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":982,
+        "id":3727,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":982,
+        "id":3728,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":983,
+    "difficulty":2,
+    "title":"983. Rukmini Devi Arundale founded which institution for dance education?",
+    "description":"",
+    "hint":"It is located in Chennai.",
+    "summary":"Rukmini Devi founded Kalakshetra Foundation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance Institutions,Artists,Indian Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":983,
+        "id":3729,
+        "title":"Kalakshetra Foundation",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":983,
+        "id":3730,
+        "title":"Sangeet Natak Akademi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":983,
+        "id":3731,
+        "title":"Lalit Kala Akademi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":983,
+        "id":3732,
+        "title":"Bharatiya Vidya Bhavan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":984,
+    "difficulty":1,
+    "title":"984. Which classical dance form uses the costume called 'Panchakachcham'?",
+    "description":"",
+    "hint":"It is associated with Tamil Nadu.",
+    "summary":"Panchakachcham style costume is associated with Bharatanatyam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Costumes,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":984,
+        "id":3733,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":984,
+        "id":3734,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":984,
+        "id":3735,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":984,
+        "id":3736,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":985,
+    "difficulty":1,
+    "title":"985. Which classical dance form is associated with the Vaishnavite monasteries called Sattras?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Sattriya developed in Assam's Sattras.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Religion,Assam",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":985,
+        "id":3737,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":985,
+        "id":3738,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":985,
+        "id":3739,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":985,
+        "id":3740,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":986,
+    "difficulty":2,
+    "title":"986. Who among the following is a famous exponent of Bharatanatyam?",
+    "description":"",
+    "hint":"She played an important role in revival of the dance form.",
+    "summary":"Rukmini Devi Arundale was a famous Bharatanatyam exponent.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dancers,Classical Dance,Artists",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":986,
+        "id":3741,
+        "title":"Rukmini Devi Arundale",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":986,
+        "id":3742,
+        "title":"Birju Maharaj",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":986,
+        "id":3743,
+        "title":"Kelucharan Mohapatra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":986,
+        "id":3744,
+        "title":"Uday Shankar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":987,
+    "difficulty":2,
+    "title":"987. Which institution is responsible for promoting music, dance and drama in India?",
+    "description":"",
+    "hint":"It is India's national academy for performing arts.",
+    "summary":"Sangeet Natak Akademi promotes performing arts in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Institutions,Performing Arts,Government Bodies",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":987,
+        "id":3745,
+        "title":"Sangeet Natak Akademi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":987,
+        "id":3746,
+        "title":"ASI",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":987,
+        "id":3747,
+        "title":"UPSC",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":987,
+        "id":3748,
+        "title":"NITI Aayog",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":988,
+    "difficulty":1,
+    "title":"988. Which classical dance form uses the Ras Leela theme?",
+    "description":"",
+    "hint":"It is associated with Krishna devotion.",
+    "summary":"Manipuri commonly depicts Ras Leela.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Religious Themes,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":988,
+        "id":3749,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":988,
+        "id":3750,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":988,
+        "id":3751,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":988,
+        "id":3752,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":989,
+    "difficulty":1,
+    "title":"989. Which classical dance form is also called the dance of the enchantress?",
+    "description":"",
+    "hint":"It originated in Kerala.",
+    "summary":"Mohiniyattam means dance of the enchantress.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Kerala,Meaning",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":989,
+        "id":3753,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":989,
+        "id":3754,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":989,
+        "id":3755,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":989,
+        "id":3756,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":990,
+    "difficulty":2,
+    "title":"990. Which classical dance form was influenced by the Vaishnav Bhakti movement in Assam?",
+    "description":"",
+    "hint":"It was developed by Srimanta Sankardeva.",
+    "summary":"Sattriya was developed by Srimanta Sankardeva.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Bhakti Movement,Classical Dance,Assam",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":990,
+        "id":3757,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":990,
+        "id":3758,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":990,
+        "id":3759,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":990,
+        "id":3760,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":991,
+    "difficulty":1,
+    "title":"991. Which classical dance form is performed in the traditional white and gold costume?",
+    "description":"",
+    "hint":"It is associated with Kerala.",
+    "summary":"Mohiniyattam is known for white and gold costumes.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Costumes,Indian Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":991,
+        "id":3761,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":991,
+        "id":3762,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":991,
+        "id":3763,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":991,
+        "id":3764,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":992,
+    "difficulty":2,
+    "title":"992. Which Indian classical dance form has strong influences from temple sculptures?",
+    "description":"",
+    "hint":"It developed in the temples of eastern India.",
+    "summary":"Odissi has strong connections with temple sculptures and traditions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Architecture,Temple Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":992,
+        "id":3765,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":992,
+        "id":3766,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":992,
+        "id":3767,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":992,
+        "id":3768,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":993,
+    "difficulty":1,
+    "title":"993. Which classical dance form is known for the use of circular movements and gentle expressions?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Manipuri is known for graceful circular movements.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Features,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":993,
+        "id":3769,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":993,
+        "id":3770,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":993,
+        "id":3771,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":993,
+        "id":3772,
+        "title":"Kuchipudi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":994,
+    "difficulty":2,
+    "title":"994. Which classical dance form is associated with the Jagannath Temple tradition?",
+    "description":"",
+    "hint":"It originated in Odisha.",
+    "summary":"Odissi developed from traditions linked with Odisha temples.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Temples,Indian Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":994,
+        "id":3773,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":994,
+        "id":3774,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":994,
+        "id":3775,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":994,
+        "id":3776,
+        "title":"Mohiniyattam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":995,
+    "difficulty":2,
+    "title":"995. Which organization recognizes Indian classical dance forms at the national level?",
+    "description":"",
+    "hint":"It is an academy under the Ministry of Culture.",
+    "summary":"Sangeet Natak Akademi recognizes classical dance forms.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Institutions,Government,Performing Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":995,
+        "id":3777,
+        "title":"Sangeet Natak Akademi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":995,
+        "id":3778,
+        "title":"Archaeological Survey of India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":995,
+        "id":3779,
+        "title":"National Museum",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":995,
+        "id":3780,
+        "title":"UNESCO India Office",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":996,
+    "difficulty":2,
+    "title":"996. Which Indian classical dance form was added to UNESCO's Intangible Cultural Heritage list as part of related traditions?",
+    "description":"",
+    "hint":"It is connected with Kerala's traditional theatre.",
+    "summary":"Koodiyattam is recognized by UNESCO as an intangible cultural heritage tradition.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,UNESCO,Heritage,Performing Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":996,
+        "id":3781,
+        "title":"Koodiyattam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":996,
+        "id":3782,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":996,
+        "id":3783,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":996,
+        "id":3784,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":997,
+    "difficulty":1,
+    "title":"997. Which dance form combines martial art movements with performance?",
+    "description":"",
+    "hint":"It is a traditional dance-drama from Kerala.",
+    "summary":"Kathakali includes elements of physical training and martial traditions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dance,Martial Arts,Performance",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":997,
+        "id":3785,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":997,
+        "id":3786,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":997,
+        "id":3787,
+        "title":"Manipuri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":997,
+        "id":3788,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":998,
+    "difficulty":2,
+    "title":"998. Which famous dancer is associated with the revival of Kathakali?",
+    "description":"",
+    "hint":"He was a famous Kerala dancer and guru.",
+    "summary":"Vallathol Narayana Menon contributed greatly to Kathakali revival.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Dancers,Revival,Kerala Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":998,
+        "id":3789,
+        "title":"Vallathol Narayana Menon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":998,
+        "id":3790,
+        "title":"Birju Maharaj",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":998,
+        "id":3791,
+        "title":"Kelucharan Mohapatra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":998,
+        "id":3792,
+        "title":"Uday Shankar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":999,
+    "difficulty":1,
+    "title":"999. Which classical dance form uses the drum instrument called Maddalam?",
+    "description":"",
+    "hint":"It is associated with Kerala.",
+    "summary":"Maddalam is used in Kathakali performances.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Classical Dance,Instruments,Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":999,
+        "id":3793,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":999,
+        "id":3794,
+        "title":"Kathak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":999,
+        "id":3795,
+        "title":"Odissi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":999,
+        "id":3796,
+        "title":"Sattriya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1000,
+    "difficulty":2,
+    "title":"1000. Which ancient concept describes the emotional experience created in Indian performing arts?",
+    "description":"",
+    "hint":"It is one of the key concepts in Natya Shastra.",
+    "summary":"Rasa describes the emotional essence experienced by the audience.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Natya Shastra,Performing Arts,Indian Theory",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1000,
+        "id":3797,
+        "title":"Rasa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1000,
+        "id":3798,
+        "title":"Dharma",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1000,
+        "id":3799,
+        "title":"Yoga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1000,
+        "id":3800,
+        "title":"Varna",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
