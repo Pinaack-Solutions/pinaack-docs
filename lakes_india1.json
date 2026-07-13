@@ -1,0 +1,2102 @@
+[
+  {
+    "id":851,
+    "difficulty":0,
+    "title":"851. Which is the largest lake in India by area?",
+    "description":"",
+    "hint":"It is a brackish water lagoon in Odisha.",
+    "summary":"Chilika Lake is the largest coastal lagoon and largest lake in India by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Chilika Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":851,
+        "id":3201,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":851,
+        "id":3202,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":851,
+        "id":3203,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":851,
+        "id":3204,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":852,
+    "difficulty":1,
+    "title":"852. Wular Lake is located in which state/UT?",
+    "description":"",
+    "hint":"It is located in the Kashmir Valley.",
+    "summary":"Wular Lake is located in Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Wular Lake,Jammu Kashmir",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":852,
+        "id":3205,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":852,
+        "id":3206,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":852,
+        "id":3207,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":852,
+        "id":3208,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":853,
+    "difficulty":1,
+    "title":"853. Which is the largest freshwater lake in India?",
+    "description":"",
+    "hint":"It is located in Jammu and Kashmir.",
+    "summary":"Wular Lake is the largest freshwater lake in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Wular Lake,Freshwater Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":853,
+        "id":3209,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":853,
+        "id":3210,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":853,
+        "id":3211,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":853,
+        "id":3212,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":854,
+    "difficulty":0,
+    "title":"854. Chilika Lake is located in which state?",
+    "description":"",
+    "hint":"It is on the eastern coast of India.",
+    "summary":"Chilika Lake is located in Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Chilika Lake,Odisha",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":854,
+        "id":3213,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":854,
+        "id":3214,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":854,
+        "id":3215,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":854,
+        "id":3216,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":855,
+    "difficulty":1,
+    "title":"855. Which type of lake is Chilika Lake?",
+    "description":"",
+    "hint":"It contains both seawater and freshwater characteristics.",
+    "summary":"Chilika is a brackish water lagoon.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Chilika,Brackish Water",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":855,
+        "id":3217,
+        "title":"Freshwater lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":855,
+        "id":3218,
+        "title":"Brackish water lagoon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":855,
+        "id":3219,
+        "title":"Artificial lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":855,
+        "id":3220,
+        "title":"Glacial lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":856,
+    "difficulty":1,
+    "title":"856. Sambhar Lake is famous for the production of which mineral?",
+    "description":"",
+    "hint":"It is India's largest inland salt lake.",
+    "summary":"Sambhar Lake is famous for salt production.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Sambhar Lake,Salt Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":856,
+        "id":3221,
+        "title":"Iron",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":856,
+        "id":3222,
+        "title":"Salt",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":856,
+        "id":3223,
+        "title":"Coal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":856,
+        "id":3224,
+        "title":"Copper",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":857,
+    "difficulty":1,
+    "title":"857. Sambhar Lake is located in which state?",
+    "description":"",
+    "hint":"It is located near Jaipur.",
+    "summary":"Sambhar Lake is located in Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Sambhar Lake,Rajasthan",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":857,
+        "id":3225,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":857,
+        "id":3226,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":857,
+        "id":3227,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":857,
+        "id":3228,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":858,
+    "difficulty":1,
+    "title":"858. Loktak Lake is located in which state?",
+    "description":"",
+    "hint":"It is famous for floating islands called Phumdis.",
+    "summary":"Loktak Lake is located in Manipur.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Loktak Lake,Manipur",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":858,
+        "id":3229,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":858,
+        "id":3230,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":858,
+        "id":3231,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":858,
+        "id":3232,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":859,
+    "difficulty":2,
+    "title":"859. Keibul Lamjao National Park is located on which lake?",
+    "description":"",
+    "hint":"It is the only floating national park in the world.",
+    "summary":"Keibul Lamjao National Park is located on Loktak Lake.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Loktak Lake,Keibul Lamjao",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":859,
+        "id":3233,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":859,
+        "id":3234,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":859,
+        "id":3235,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":859,
+        "id":3236,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":860,
+    "difficulty":1,
+    "title":"860. Dal Lake is located in which city?",
+    "description":"",
+    "hint":"It is a famous tourist destination in Kashmir.",
+    "summary":"Dal Lake is located in Srinagar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Dal Lake,Srinagar",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":860,
+        "id":3237,
+        "title":"Jammu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":860,
+        "id":3238,
+        "title":"Srinagar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":860,
+        "id":3239,
+        "title":"Leh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":860,
+        "id":3240,
+        "title":"Shimla",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":861,
+    "difficulty":1,
+    "title":"861. Which is the longest lake in India?",
+    "description":"",
+    "hint":"It is located in Kerala.",
+    "summary":"Vembanad Lake is the longest lake in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Vembanad Lake,Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":861,
+        "id":3241,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":861,
+        "id":3242,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":861,
+        "id":3243,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":861,
+        "id":3244,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":862,
+    "difficulty":1,
+    "title":"862. Vembanad Lake is located in which state?",
+    "description":"",
+    "hint":"It is famous for Kerala backwaters.",
+    "summary":"Vembanad Lake is located in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Vembanad Lake,Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":862,
+        "id":3245,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":862,
+        "id":3246,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":862,
+        "id":3247,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":862,
+        "id":3248,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":863,
+    "difficulty":1,
+    "title":"863. Pulicat Lake is located between which two states?",
+    "description":"",
+    "hint":"It lies on the Coromandel Coast.",
+    "summary":"Pulicat Lake lies between Andhra Pradesh and Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Pulicat Lake,Andhra Pradesh Tamil Nadu",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":863,
+        "id":3249,
+        "title":"Kerala and Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":863,
+        "id":3250,
+        "title":"Andhra Pradesh and Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":863,
+        "id":3251,
+        "title":"Odisha and West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":863,
+        "id":3252,
+        "title":"Gujarat and Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":864,
+    "difficulty":1,
+    "title":"864. Which is the second largest brackish water lagoon in India?",
+    "description":"",
+    "hint":"It is located on the Andhra Pradesh-Tamil Nadu border.",
+    "summary":"Pulicat Lake is the second largest brackish water lagoon in India after Chilika.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Pulicat Lake,Lagoon",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":864,
+        "id":3253,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":864,
+        "id":3254,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":864,
+        "id":3255,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":864,
+        "id":3256,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":865,
+    "difficulty":1,
+    "title":"865. Kolleru Lake is located in which state?",
+    "description":"",
+    "hint":"It lies between Krishna and Godavari deltas.",
+    "summary":"Kolleru Lake is located in Andhra Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Kolleru Lake,Andhra Pradesh",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":865,
+        "id":3257,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":865,
+        "id":3258,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":865,
+        "id":3259,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":865,
+        "id":3260,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":866,
+    "difficulty":1,
+    "title":"866. Which is the largest freshwater lake in Kerala?",
+    "description":"",
+    "hint":"It is located near Alappuzha.",
+    "summary":"Vembanad Lake is the largest freshwater lake in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Vembanad Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":866,
+        "id":3261,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":866,
+        "id":3262,
+        "title":"Ashtamudi Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":866,
+        "id":3263,
+        "title":"Sasthamkotta Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":866,
+        "id":3264,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":867,
+    "difficulty":2,
+    "title":"867. Pangong Lake is located in which region of India?",
+    "description":"",
+    "hint":"It is a high-altitude lake in the Himalayas.",
+    "summary":"Pangong Lake is located in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Pangong Lake,Ladakh",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":867,
+        "id":3265,
+        "title":"Ladakh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":867,
+        "id":3266,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":867,
+        "id":3267,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":867,
+        "id":3268,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":868,
+    "difficulty":2,
+    "title":"868. Pangong Lake is shared between India and which country?",
+    "description":"",
+    "hint":"A part of the lake lies beyond Indian territory.",
+    "summary":"Pangong Lake is shared between India and China.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Pangong Lake,China",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":868,
+        "id":3269,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":868,
+        "id":3270,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":868,
+        "id":3271,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":868,
+        "id":3272,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":869,
+    "difficulty":1,
+    "title":"869. Sasthamkotta Lake is located in which state?",
+    "description":"",
+    "hint":"It is the largest freshwater lake of Kerala.",
+    "summary":"Sasthamkotta Lake is located in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Sasthamkotta Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":869,
+        "id":3273,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":869,
+        "id":3274,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":869,
+        "id":3275,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":869,
+        "id":3276,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":870,
+    "difficulty":1,
+    "title":"870. Which lake is famous for houseboats in Srinagar?",
+    "description":"",
+    "hint":"It is located in Jammu and Kashmir.",
+    "summary":"Dal Lake is famous for houseboats and tourism in Srinagar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Dal Lake,Srinagar",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":870,
+        "id":3277,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":870,
+        "id":3278,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":870,
+        "id":3279,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":870,
+        "id":3280,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":871,
+    "difficulty":1,
+    "title":"871. Which lake was the first Ramsar site of India?",
+    "description":"",
+    "hint":"It is a famous bird sanctuary in Odisha.",
+    "summary":"Chilika Lake was the first Indian wetland to be designated as a Ramsar site.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Ramsar Sites,Chilika Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":871,
+        "id":3281,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":871,
+        "id":3282,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":871,
+        "id":3283,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":871,
+        "id":3284,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":872,
+    "difficulty":1,
+    "title":"872. Which lake is famous for migratory birds like flamingos in Odisha?",
+    "description":"",
+    "hint":"It is India's largest coastal lagoon.",
+    "summary":"Chilika Lake attracts large numbers of migratory birds including flamingos.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Chilika Lake,Birds",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":872,
+        "id":3285,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":872,
+        "id":3286,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":872,
+        "id":3287,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":872,
+        "id":3288,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":873,
+    "difficulty":1,
+    "title":"873. Which lake is located near Udaipur and is an artificial lake?",
+    "description":"",
+    "hint":"It is a famous tourist lake of Rajasthan.",
+    "summary":"Lake Pichola is an artificial lake located in Udaipur, Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lake Pichola,Rajasthan",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":873,
+        "id":3289,
+        "title":"Lake Pichola",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":873,
+        "id":3290,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":873,
+        "id":3291,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":873,
+        "id":3292,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":874,
+    "difficulty":1,
+    "title":"874. Which lake is located in Udaipur and is famous for palaces?",
+    "description":"",
+    "hint":"It is near Jag Mandir and Lake Palace.",
+    "summary":"Lake Pichola is famous for Lake Palace and Jag Mandir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lake Pichola,Udaipur",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":874,
+        "id":3293,
+        "title":"Lake Pichola",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":874,
+        "id":3294,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":874,
+        "id":3295,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":874,
+        "id":3296,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":875,
+    "difficulty":2,
+    "title":"875. Which is the highest lake in India?",
+    "description":"",
+    "hint":"It is located in Sikkim at a high altitude.",
+    "summary":"Cholamu Lake (Tso Lhamo) in Sikkim is considered one of the highest lakes in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Cholamu Lake,Sikkim",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":875,
+        "id":3297,
+        "title":"Cholamu Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":875,
+        "id":3298,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":875,
+        "id":3299,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":875,
+        "id":3300,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":876,
+    "difficulty":1,
+    "title":"876. Which lake is located in Manipur and has floating islands?",
+    "description":"",
+    "hint":"The floating islands are called Phumdis.",
+    "summary":"Loktak Lake in Manipur has floating islands called Phumdis.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Loktak Lake,Phumdis",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":876,
+        "id":3301,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":876,
+        "id":3302,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":876,
+        "id":3303,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":876,
+        "id":3304,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":877,
+    "difficulty":1,
+    "title":"877. Which lake is also known as the 'Floating Lake' of India?",
+    "description":"",
+    "hint":"It is located in Manipur.",
+    "summary":"Loktak Lake is known as the Floating Lake of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Loktak Lake,Floating Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":877,
+        "id":3305,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":877,
+        "id":3306,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":877,
+        "id":3307,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":877,
+        "id":3308,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":878,
+    "difficulty":1,
+    "title":"878. Which lake is the largest inland salt lake of India?",
+    "description":"",
+    "hint":"It is located in Rajasthan.",
+    "summary":"Sambhar Lake is the largest inland salt lake of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Sambhar Lake,Salt Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":878,
+        "id":3309,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":878,
+        "id":3310,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":878,
+        "id":3311,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":878,
+        "id":3312,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":879,
+    "difficulty":2,
+    "title":"879. Which lake is formed by the backwaters of Kerala?",
+    "description":"",
+    "hint":"It is the longest lake in India.",
+    "summary":"Vembanad Lake is part of Kerala's famous backwater system.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Vembanad,Backwaters",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":879,
+        "id":3313,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":879,
+        "id":3314,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":879,
+        "id":3315,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":879,
+        "id":3316,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":880,
+    "difficulty":1,
+    "title":"880. Which lake is famous for houseboats and Shikara rides?",
+    "description":"",
+    "hint":"It is located in Srinagar.",
+    "summary":"Dal Lake is famous for houseboats and Shikara rides.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Dal Lake,Kashmir",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":880,
+        "id":3317,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":880,
+        "id":3318,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":880,
+        "id":3319,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":880,
+        "id":3320,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":881,
+    "difficulty":1,
+    "title":"881. Which lake is the largest freshwater lake in Rajasthan?",
+    "description":"",
+    "hint":"It is located near Bharatpur and is an important wetland.",
+    "summary":"Keoladeo Lake region is associated with the Bharatpur wetland ecosystem.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Rajasthan,Freshwater Wetlands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":881,
+        "id":3321,
+        "title":"Jaisamand Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":881,
+        "id":3322,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":881,
+        "id":3323,
+        "title":"Pichola Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":881,
+        "id":3324,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":882,
+    "difficulty":1,
+    "title":"882. Jaisamand Lake is located in which state?",
+    "description":"",
+    "hint":"It is located near Udaipur.",
+    "summary":"Jaisamand Lake is located in Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Rajasthan,Artificial Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":882,
+        "id":3325,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":882,
+        "id":3326,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":882,
+        "id":3327,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":882,
+        "id":3328,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":883,
+    "difficulty":1,
+    "title":"883. Which lake is located in Bengaluru and is a famous urban lake?",
+    "description":"",
+    "hint":"It is one of the largest lakes in Bengaluru.",
+    "summary":"Ulsoor Lake is a famous lake located in Bengaluru.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Karnataka,Urban Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":883,
+        "id":3329,
+        "title":"Ulsoor Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":883,
+        "id":3330,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":883,
+        "id":3331,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":883,
+        "id":3332,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":884,
+    "difficulty":1,
+    "title":"884. Which lake is located in Kerala and is a Ramsar wetland?",
+    "description":"",
+    "hint":"It is a famous backwater lake.",
+    "summary":"Ashtamudi Lake is a Ramsar wetland located in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Kerala,Ramsar Wetlands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":884,
+        "id":3333,
+        "title":"Ashtamudi Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":884,
+        "id":3334,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":884,
+        "id":3335,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":884,
+        "id":3336,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":885,
+    "difficulty":1,
+    "title":"885. Which lake is located in Andhra Pradesh and is an important bird habitat?",
+    "description":"",
+    "hint":"It lies between two major river deltas.",
+    "summary":"Kolleru Lake is an important freshwater lake and bird habitat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Andhra Pradesh,Bird Habitats",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":885,
+        "id":3337,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":885,
+        "id":3338,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":885,
+        "id":3339,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":885,
+        "id":3340,
+        "title":"Sasthamkotta Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":886,
+    "difficulty":2,
+    "title":"886. Which lake is situated at a high altitude in Ladakh?",
+    "description":"",
+    "hint":"It is famous for its blue water and mountain surroundings.",
+    "summary":"Tso Moriri is a high-altitude lake located in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Ladakh,High Altitude Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":886,
+        "id":3341,
+        "title":"Tso Moriri",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":886,
+        "id":3342,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":886,
+        "id":3343,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":886,
+        "id":3344,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":887,
+    "difficulty":2,
+    "title":"887. Which lake is a saltwater lake located in Ladakh?",
+    "description":"",
+    "hint":"It is near the India-China border region.",
+    "summary":"Tso Kar is a saltwater lake located in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Ladakh,Saltwater Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":887,
+        "id":3345,
+        "title":"Tso Kar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":887,
+        "id":3346,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":887,
+        "id":3347,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":887,
+        "id":3348,
+        "title":"Pichola Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":888,
+    "difficulty":1,
+    "title":"888. Which lake is located in Sikkim and is associated with glaciers?",
+    "description":"",
+    "hint":"It is a famous high-altitude lake near the Indo-China border.",
+    "summary":"Tsomgo Lake is a glacial lake in Sikkim.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Sikkim,Glacial Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":888,
+        "id":3349,
+        "title":"Tsomgo Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":888,
+        "id":3350,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":888,
+        "id":3351,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":888,
+        "id":3352,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":889,
+    "difficulty":1,
+    "title":"889. Which lake is located near the city of Srinagar?",
+    "description":"",
+    "hint":"It is famous for Shikara rides.",
+    "summary":"Dal Lake is located near Srinagar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Jammu Kashmir,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":889,
+        "id":3353,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":889,
+        "id":3354,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":889,
+        "id":3355,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":889,
+        "id":3356,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":890,
+    "difficulty":1,
+    "title":"890. Which lake is an important Ramsar site in Punjab?",
+    "description":"",
+    "hint":"It is famous for migratory birds.",
+    "summary":"Harike Wetland is an important Ramsar site in Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Punjab,Ramsar Wetlands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":890,
+        "id":3357,
+        "title":"Harike Wetland",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":890,
+        "id":3358,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":890,
+        "id":3359,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":890,
+        "id":3360,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":891,
+    "difficulty":1,
+    "title":"891. Which lake is the largest artificial lake in India?",
+    "description":"",
+    "hint":"It was created after the construction of a major dam on the Mahanadi River.",
+    "summary":"Hirakud Reservoir is among the largest artificial lakes in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Reservoirs,India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":891,
+        "id":3361,
+        "title":"Hirakud Reservoir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":891,
+        "id":3362,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":891,
+        "id":3363,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":891,
+        "id":3364,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":892,
+    "difficulty":1,
+    "title":"892. Which lake is formed due to the backwaters of the Krishna River?",
+    "description":"",
+    "hint":"It is a freshwater lake in Andhra Pradesh.",
+    "summary":"Kolleru Lake lies between the Krishna and Godavari delta regions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Andhra Pradesh,Freshwater Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":892,
+        "id":3365,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":892,
+        "id":3366,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":892,
+        "id":3367,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":892,
+        "id":3368,
+        "title":"Ashtamudi Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":893,
+    "difficulty":2,
+    "title":"893. Which lake is known as the 'Jewel of Kashmir'?",
+    "description":"",
+    "hint":"It is famous for houseboats and gardens.",
+    "summary":"Dal Lake is popularly known as the Jewel of Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Jammu Kashmir,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":893,
+        "id":3369,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":893,
+        "id":3370,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":893,
+        "id":3371,
+        "title":"Pangong Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":893,
+        "id":3372,
+        "title":"Tso Moriri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":894,
+    "difficulty":1,
+    "title":"894. Which lake is famous for salt production in Rajasthan?",
+    "description":"",
+    "hint":"It is India's largest inland salt lake.",
+    "summary":"Sambhar Lake is famous for salt production.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Rajasthan,Mineral Resources",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":894,
+        "id":3373,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":894,
+        "id":3374,
+        "title":"Jaisamand Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":894,
+        "id":3375,
+        "title":"Pichola Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":894,
+        "id":3376,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":895,
+    "difficulty":2,
+    "title":"895. Which lake is located in the Kumaon region of Uttarakhand?",
+    "description":"",
+    "hint":"It is a famous hill lake near Nainital.",
+    "summary":"Naini Lake is located in Nainital, Uttarakhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Uttarakhand,Hill Lakes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":895,
+        "id":3377,
+        "title":"Naini Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":895,
+        "id":3378,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":895,
+        "id":3379,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":895,
+        "id":3380,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":896,
+    "difficulty":1,
+    "title":"896. Which lake is associated with the city of Nainital?",
+    "description":"",
+    "hint":"It is a natural freshwater lake in Uttarakhand.",
+    "summary":"Naini Lake is located in Nainital.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Uttarakhand,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":896,
+        "id":3381,
+        "title":"Naini Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":896,
+        "id":3382,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":896,
+        "id":3383,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":896,
+        "id":3384,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":897,
+    "difficulty":2,
+    "title":"897. Which lake is connected with the famous Indira Sagar Project?",
+    "description":"",
+    "hint":"It is a reservoir on the Narmada River.",
+    "summary":"Indira Sagar Reservoir is located on the Narmada River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Dams,Energy Projects",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":897,
+        "id":3385,
+        "title":"Indira Sagar Reservoir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":897,
+        "id":3386,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":897,
+        "id":3387,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":897,
+        "id":3388,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":898,
+    "difficulty":1,
+    "title":"898. Which lake is located in Meghalaya and is a natural lake?",
+    "description":"",
+    "hint":"It is located near Shillong.",
+    "summary":"Umiam Lake is located near Shillong, Meghalaya.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Meghalaya,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":898,
+        "id":3389,
+        "title":"Umiam Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":898,
+        "id":3390,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":898,
+        "id":3391,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":898,
+        "id":3392,
+        "title":"Kolleru Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":899,
+    "difficulty":2,
+    "title":"899. Which lake is a famous wetland in Bihar?",
+    "description":"",
+    "hint":"It is an important bird habitat near Begusarai.",
+    "summary":"Kanwar Lake is a famous wetland in Bihar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Bihar,Wetlands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":899,
+        "id":3393,
+        "title":"Kanwar Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":899,
+        "id":3394,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":899,
+        "id":3395,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":899,
+        "id":3396,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":900,
+    "difficulty":1,
+    "title":"900. Which lake is located in Gujarat and is known for migratory birds?",
+    "description":"",
+    "hint":"It is a freshwater lake near Ahmedabad.",
+    "summary":"Nal Sarovar is a famous bird sanctuary and wetland in Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Gujarat,Bird Sanctuaries",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":900,
+        "id":3397,
+        "title":"Nal Sarovar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":900,
+        "id":3398,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":900,
+        "id":3399,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":900,
+        "id":3400,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
