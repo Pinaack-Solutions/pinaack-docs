@@ -1,0 +1,2102 @@
+[
+  {
+    "id":1001,
+    "difficulty":1,
+    "title":"1001. Which festival is known as the festival of lights?",
+    "description":"",
+    "hint":"It is celebrated with lamps and fireworks.",
+    "summary":"Diwali is known as the festival of lights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Indian Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1001,
+        "id":3801,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1001,
+        "id":3802,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1001,
+        "id":3803,
+        "title":"Eid",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1001,
+        "id":3804,
+        "title":"Baisakhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1002,
+    "difficulty":1,
+    "title":"1002. Which festival is known as the festival of colours?",
+    "description":"",
+    "hint":"It is celebrated during spring season.",
+    "summary":"Holi is known as the festival of colours.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Seasons,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1002,
+        "id":3805,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1002,
+        "id":3806,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1002,
+        "id":3807,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1002,
+        "id":3808,
+        "title":"Lohri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1003,
+    "difficulty":1,
+    "title":"1003. Pongal is mainly celebrated in which state?",
+    "description":"",
+    "hint":"It is a major harvest festival of South India.",
+    "summary":"Pongal is mainly celebrated in Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1003,
+        "id":3809,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1003,
+        "id":3810,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1003,
+        "id":3811,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1003,
+        "id":3812,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1004,
+    "difficulty":1,
+    "title":"1004. Onam is the major festival of which state?",
+    "description":"",
+    "hint":"It is associated with the legend of King Mahabali.",
+    "summary":"Onam is celebrated mainly in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,South India,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1004,
+        "id":3813,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1004,
+        "id":3814,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1004,
+        "id":3815,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1004,
+        "id":3816,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1005,
+    "difficulty":1,
+    "title":"1005. Baisakhi is mainly associated with which state?",
+    "description":"",
+    "hint":"It is a harvest festival of northern India.",
+    "summary":"Baisakhi is mainly celebrated in Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Agriculture,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1005,
+        "id":3817,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1005,
+        "id":3818,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1005,
+        "id":3819,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1005,
+        "id":3820,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1006,
+    "difficulty":2,
+    "title":"1006. Which festival marks the beginning of the harvest season in Assam?",
+    "description":"",
+    "hint":"It is one of the three Bihu festivals.",
+    "summary":"Rongali Bihu marks the beginning of the harvest season in Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Northeast India,Harvest",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1006,
+        "id":3821,
+        "title":"Nuakhai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1006,
+        "id":3822,
+        "title":"Rongali Bihu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1006,
+        "id":3823,
+        "title":"Hornbill Festival",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1006,
+        "id":3824,
+        "title":"Losar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1007,
+    "difficulty":1,
+    "title":"1007. Ganesh Chaturthi is mainly associated with which deity?",
+    "description":"",
+    "hint":"The deity has an elephant head.",
+    "summary":"Ganesh Chaturthi celebrates Lord Ganesha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Religion,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1007,
+        "id":3825,
+        "title":"Vishnu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1007,
+        "id":3826,
+        "title":"Shiva",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1007,
+        "id":3827,
+        "title":"Ganesha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1007,
+        "id":3828,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1008,
+    "difficulty":2,
+    "title":"1008. Which festival is celebrated with a boat race in Kerala?",
+    "description":"",
+    "hint":"It is associated with Onam celebrations.",
+    "summary":"Vallam Kali boat races are part of Onam celebrations.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Kerala,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1008,
+        "title":"Ugadi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1008,
+        "id":3830,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1008,
+        "id":3831,
+        "title":"Vishu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1008,
+        "id":3832,
+        "id":3829,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1009,
+    "difficulty":1,
+    "title":"1009. Raksha Bandhan celebrates the bond between whom?",
+    "description":"",
+    "hint":"It is a family relationship festival.",
+    "summary":"Raksha Bandhan celebrates the bond between brothers and sisters.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Relationships,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1009,
+        "id":3833,
+        "title":"Brothers and sisters",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1009,
+        "id":3834,
+        "title":"Parents and children",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1009,
+        "id":3835,
+        "title":"Friends",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1009,
+        "id":3836,
+        "title":"Teachers and students",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1010,
+    "difficulty":1,
+    "title":"1010. Janmashtami celebrates the birth of which deity?",
+    "description":"",
+    "hint":"He is associated with Mathura and Vrindavan.",
+    "summary":"Janmashtami celebrates the birth of Lord Krishna.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Religion,Indian Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1010,
+        "id":3837,
+        "title":"Ganesha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1010,
+        "id":3838,
+        "title":"Rama",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1010,
+        "id":3839,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1010,
+        "id":3840,
+        "title":"Hanuman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1011,
+    "difficulty":1,
+    "title":"1011. Makar Sankranti is mainly associated with which celestial event?",
+    "description":"",
+    "hint":"It marks an important movement of the Sun.",
+    "summary":"Makar Sankranti marks the Sun's transition into Capricorn.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Astronomy,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1011,
+        "id":3841,
+        "title":"Beginning of monsoon",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1011,
+        "id":3842,
+        "title":"Sun's transition into Capricorn",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1011,
+        "id":3843,
+        "title":"Lunar eclipse",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1011,
+        "id":3844,
+        "title":"Spring equinox",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1012,
+    "difficulty":1,
+    "title":"1012. Lohri festival is mainly celebrated in which region of India?",
+    "description":"",
+    "hint":"It is a winter festival of northern India.",
+    "summary":"Lohri is mainly celebrated in Punjab and nearby regions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,North India,Harvest",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1012,
+        "id":3845,
+        "title":"Northeast region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1012,
+        "id":3846,
+        "title":"Western coastal region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1012,
+        "id":3847,
+        "title":"Punjab region",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1012,
+        "id":3848,
+        "title":"Kerala region",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1013,
+    "difficulty":2,
+    "title":"1013. Which festival marks the beginning of the new year in Maharashtra?",
+    "description":"",
+    "hint":"It is celebrated on the first day of Chaitra month.",
+    "summary":"Gudi Padwa marks the New Year in Maharashtra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,New Year,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1013,
+        "id":3849,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1013,
+        "id":3850,
+        "title":"Gudi Padwa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1013,
+        "id":3851,
+        "title":"Ugadi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1013,
+        "id":3852,
+        "title":"Nuakhai",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1014,
+    "difficulty":2,
+    "title":"1014. Ugadi is celebrated as the New Year festival in which region?",
+    "description":"",
+    "hint":"It is celebrated in parts of southern India.",
+    "summary":"Ugadi is celebrated in Karnataka, Andhra Pradesh and Telangana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,South India,New Year",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1014,
+        "id":3853,
+        "title":"Himalayan region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1014,
+        "id":3854,
+        "title":"Deccan region",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1014,
+        "id":3855,
+        "title":"Punjab region",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1014,
+        "id":3856,
+        "title":"Western desert region",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1015,
+    "difficulty":1,
+    "title":"1015. Durga Puja is mainly associated with which state?",
+    "description":"",
+    "hint":"It is one of the biggest festivals of eastern India.",
+    "summary":"Durga Puja is especially famous in West Bengal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,East India,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1015,
+        "id":3857,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1015,
+        "id":3858,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1015,
+        "id":3859,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1015,
+        "id":3860,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1016,
+    "difficulty":1,
+    "title":"1016. Navratri festival is traditionally associated with how many nights?",
+    "description":"",
+    "hint":"The number is mentioned in the name itself.",
+    "summary":"Navratri is celebrated for nine nights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Religious Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1016,
+        "id":3861,
+        "title":"Ten",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1016,
+        "id":3862,
+        "title":"Five",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1016,
+        "id":3863,
+        "title":"Nine",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1016,
+        "id":3864,
+        "title":"Seven",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1017,
+    "difficulty":1,
+    "title":"1017. Which dance form is popularly performed during Navratri celebrations?",
+    "description":"",
+    "hint":"It is a famous folk dance of Gujarat.",
+    "summary":"Garba is popularly performed during Navratri.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Folk Arts,Dance",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1017,
+        "id":3865,
+        "title":"Ghoomar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1017,
+        "id":3866,
+        "title":"Garba",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1017,
+        "id":3867,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1017,
+        "id":3868,
+        "title":"Yakshagana",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1018,
+    "difficulty":2,
+    "title":"1018. Which festival is celebrated after harvest in parts of Odisha and Jharkhand?",
+    "description":"",
+    "hint":"It celebrates newly harvested crops.",
+    "summary":"Nuakhai is a harvest festival celebrated in Odisha and Jharkhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,Tribal Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1018,
+        "id":3869,
+        "title":"Losar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1018,
+        "id":3870,
+        "title":"Vishu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1018,
+        "id":3871,
+        "title":"Nuakhai",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1018,
+        "id":3872,
+        "title":"Lohri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1019,
+    "difficulty":1,
+    "title":"1019. Eid-ul-Fitr marks the end of which month of the Islamic calendar?",
+    "description":"",
+    "hint":"It is the month of fasting.",
+    "summary":"Eid-ul-Fitr marks the end of Ramadan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Calendars,Religious Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1019,
+        "id":3873,
+        "title":"Muharram",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1019,
+        "id":3874,
+        "title":"Ramadan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1019,
+        "id":3875,
+        "title":"Rajab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1019,
+        "id":3876,
+        "title":"Safar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1020,
+    "difficulty":1,
+    "title":"1020. Which festival is known as the major harvest festival of Kerala?",
+    "description":"",
+    "hint":"It is associated with King Mahabali.",
+    "summary":"Onam is the major harvest festival of Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1020,
+        "id":3877,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1020,
+        "id":3878,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1020,
+        "id":3879,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1020,
+        "id":3880,
+        "title":"Baisakhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1021,
+    "difficulty":2,
+    "title":"1021. Hornbill Festival is celebrated in which Indian state?",
+    "description":"",
+    "hint":"It is a famous cultural festival of Northeast India.",
+    "summary":"Hornbill Festival is celebrated in Nagaland.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Northeast India,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1021,
+        "id":3881,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1021,
+        "id":3882,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1021,
+        "id":3883,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1021,
+        "id":3884,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1022,
+    "difficulty":2,
+    "title":"1022. Losar festival is mainly associated with which tradition?",
+    "description":"",
+    "hint":"It is celebrated in Himalayan regions.",
+    "summary":"Losar is associated with Tibetan Buddhist traditions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Communities,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1022,
+        "id":3885,
+        "title":"Tibetan Buddhist traditions",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1022,
+        "id":3886,
+        "title":"Sikh traditions",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1022,
+        "id":3887,
+        "title":"Parsi traditions",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1022,
+        "id":3888,
+        "title":"Jain traditions",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1023,
+    "difficulty":2,
+    "title":"1023. Chapchar Kut festival is celebrated in which state?",
+    "description":"",
+    "hint":"It belongs to Northeast India.",
+    "summary":"Chapchar Kut is celebrated in Mizoram.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Regional Culture,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1023,
+        "id":3889,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1023,
+        "id":3890,
+        "title":"Mizoram",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1023,
+        "id":3891,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1023,
+        "id":3892,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1024,
+    "difficulty":1,
+    "title":"1024. Vasant Panchami is associated with the worship of which deity?",
+    "description":"",
+    "hint":"The deity represents knowledge and learning.",
+    "summary":"Vasant Panchami is associated with Goddess Saraswati.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Beliefs,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1024,
+        "id":3893,
+        "title":"Lakshmi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1024,
+        "id":3894,
+        "title":"Durga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1024,
+        "id":3895,
+        "title":"Saraswati",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1024,
+        "id":3896,
+        "title":"Parvati",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1025,
+    "difficulty":2,
+    "title":"1025. Which festival is celebrated as the traditional New Year of Kashmir?",
+    "description":"",
+    "hint":"It is associated with Kashmiri traditions.",
+    "summary":"Navreh is the traditional New Year festival of Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Regional History,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1025,
+        "id":3897,
+        "title":"Ugadi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1025,
+        "id":3898,
+        "title":"Navreh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1025,
+        "id":3899,
+        "title":"Vishu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1025,
+        "id":3900,
+        "title":"Gudi Padwa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1026,
+    "difficulty":1,
+    "title":"1026. Vishu festival is mainly celebrated in which state?",
+    "description":"",
+    "hint":"It is a major festival of southern India.",
+    "summary":"Vishu is mainly celebrated in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,South India,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1026,
+        "id":3901,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1026,
+        "id":3902,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1026,
+        "id":3903,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1026,
+        "id":3904,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1027,
+    "difficulty":2,
+    "title":"1027. Which festival is celebrated in Goa before the period of Lent?",
+    "description":"",
+    "hint":"It reflects Portuguese cultural influence.",
+    "summary":"Goa Carnival is celebrated before Lent.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Goa,Heritage",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1027,
+        "id":3905,
+        "title":"Surajkund Mela",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1027,
+        "id":3906,
+        "title":"Goa Carnival",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1027,
+        "id":3907,
+        "title":"Rann Utsav",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1027,
+        "id":3908,
+        "title":"Hemis Festival",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1028,
+    "difficulty":2,
+    "title":"1028. Hemis Festival is celebrated in which region?",
+    "description":"",
+    "hint":"It is associated with a Himalayan union territory.",
+    "summary":"Hemis Festival is celebrated in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Buddhist Traditions,Regions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1028,
+        "id":3909,
+        "title":"Ladakh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1028,
+        "id":3910,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1028,
+        "id":3911,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1028,
+        "id":3912,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1029,
+    "difficulty":1,
+    "title":"1029. Raksha Bandhan is celebrated on which lunar day?",
+    "description":"",
+    "hint":"It falls during the full moon phase.",
+    "summary":"Raksha Bandhan is celebrated on Shravana Purnima.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Calendar,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1029,
+        "id":3913,
+        "title":"Amavasya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1029,
+        "id":3914,
+        "title":"Purnima",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1029,
+        "id":3915,
+        "title":"Ashtami",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1029,
+        "id":3916,
+        "title":"Navami",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1030,
+    "difficulty":2,
+    "title":"1030. Rann Utsav is celebrated in which Indian state?",
+    "description":"",
+    "hint":"It is held in a famous salt desert area.",
+    "summary":"Rann Utsav is celebrated in Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Geography,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1030,
+        "id":3917,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1030,
+        "id":3918,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1030,
+        "id":3919,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1030,
+        "id":3920,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1031,
+    "difficulty":2,
+    "title":"1031. Ambubachi Mela is held at which famous temple?",
+    "description":"",
+    "hint":"It is located in Assam.",
+    "summary":"Ambubachi Mela is held annually at Kamakhya Temple.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Temples,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1031,
+        "id":3921,
+        "title":"Jagannath Temple",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1031,
+        "id":3922,
+        "title":"Somnath Temple",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1031,
+        "id":3923,
+        "title":"Kamakhya Temple",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1031,
+        "id":3924,
+        "title":"Meenakshi Temple",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1032,
+    "difficulty":2,
+    "title":"1032. Kumbh Mela is held at a particular location after how many years?",
+    "description":"",
+    "hint":"It follows a 12-year cycle.",
+    "summary":"Each Kumbh Mela venue hosts the festival once every 12 years.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Pilgrimage,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1032,
+        "id":3925,
+        "title":"10 years",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1032,
+        "id":3926,
+        "title":"12 years",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1032,
+        "id":3927,
+        "title":"15 years",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1032,
+        "id":3928,
+        "title":"6 years",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1033,
+    "difficulty":2,
+    "title":"1033. Which festival is regarded as the major harvest festival of Punjab?",
+    "description":"",
+    "hint":"It is celebrated in April.",
+    "summary":"Baisakhi is the major harvest festival of Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Agriculture,North India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1033,
+        "id":3929,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1033,
+        "id":3930,
+        "title":"Lohri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1033,
+        "id":3931,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1033,
+        "id":3932,
+        "title":"Baisakhi",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1034,
+    "difficulty":2,
+    "title":"1034. Gaan-Ngai festival is celebrated by which community?",
+    "description":"",
+    "hint":"It is a tribal festival of Northeast India.",
+    "summary":"Gaan-Ngai is celebrated by the Zeliangrong community.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Communities,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1034,
+        "id":3933,
+        "title":"Bodo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1034,
+        "id":3934,
+        "title":"Zeliangrong",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1034,
+        "id":3935,
+        "title":"Khasi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1034,
+        "id":3936,
+        "title":"Mishing",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1035,
+    "difficulty":1,
+    "title":"1035. Christmas commemorates the birth of whom?",
+    "description":"",
+    "hint":"Celebrated every year on 25 December.",
+    "summary":"Christmas celebrates the birth of Jesus Christ.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Religions,World Culture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1035,
+        "id":3937,
+        "title":"Guru Nanak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1035,
+        "id":3938,
+        "title":"Mahavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1035,
+        "id":3939,
+        "title":"Prophet Muhammad",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1035,
+        "id":3940,
+        "title":"Jesus Christ",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1036,
+    "difficulty":2,
+    "title":"1036. Which festival is known as the harvest festival of Tamil Nadu?",
+    "description":"",
+    "hint":"It is celebrated over four days in January.",
+    "summary":"Pongal is the major harvest festival of Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1036,
+        "id":3941,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1036,
+        "id":3942,
+        "title":"Vishu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1036,
+        "id":3943,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1036,
+        "id":3944,
+        "title":"Ugadi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1037,
+    "difficulty":2,
+    "title":"1037. Chhath Puja is primarily dedicated to the worship of which deity?",
+    "description":"",
+    "hint":"Devotees offer prayers at sunrise and sunset.",
+    "summary":"Chhath Puja is dedicated to the Sun God.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Rituals,North India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1037,
+        "id":3945,
+        "title":"Sun God",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1037,
+        "id":3946,
+        "title":"Lord Shiva",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1037,
+        "id":3947,
+        "title":"Lord Vishnu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1037,
+        "id":3948,
+        "title":"Lord Ganesha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1038,
+    "difficulty":2,
+    "title":"1038. Thrissur Pooram is celebrated in which Indian state?",
+    "description":"",
+    "hint":"It is famous for decorated elephants and temple processions.",
+    "summary":"Thrissur Pooram is one of Kerala's most famous temple festivals.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Temple Traditions,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1038,
+        "id":3949,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1038,
+        "id":3950,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1038,
+        "id":3951,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1038,
+        "id":3952,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1039,
+    "difficulty":2,
+    "title":"1039. Which festival marks the Sikh New Year and commemorates the formation of the Khalsa?",
+    "description":"",
+    "hint":"It is celebrated every April.",
+    "summary":"Baisakhi marks the Sikh New Year and the formation of the Khalsa.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Sikh History,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1039,
+        "id":3953,
+        "title":"Lohri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1039,
+        "id":3954,
+        "title":"Baisakhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1039,
+        "id":3955,
+        "title":"Hola Mohalla",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1039,
+        "id":3956,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1040,
+    "difficulty":2,
+    "title":"1040. Hola Mohalla was started by which Sikh Guru?",
+    "description":"",
+    "hint":"He was the tenth Sikh Guru.",
+    "summary":"Hola Mohalla was introduced by Guru Gobind Singh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Sikh History,Gurus",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1040,
+        "id":3957,
+        "title":"Guru Nanak Dev",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1040,
+        "id":3958,
+        "title":"Guru Gobind Singh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1040,
+        "id":3959,
+        "title":"Guru Arjan Dev",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1040,
+        "id":3960,
+        "title":"Guru Tegh Bahadur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1041,
+    "difficulty":2,
+    "title":"1041. Nuakhai festival is primarily celebrated in which Indian state?",
+    "description":"",
+    "hint":"It is an important harvest festival of western India.",
+    "summary":"Nuakhai is the major harvest festival of western Odisha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,Eastern India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1041,
+        "id":3961,
+        "title":"Jharkhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1041,
+        "id":3962,
+        "title":"Chhattisgarh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1041,
+        "id":3963,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1041,
+        "id":3964,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1042,
+    "difficulty":2,
+    "title":"1042. Which festival celebrates the birth of Lord Krishna?",
+    "description":"",
+    "hint":"It falls on the eighth day of Krishna Paksha in Bhadrapada.",
+    "summary":"Janmashtami celebrates the birth of Lord Krishna.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Hindu Traditions,Religion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1042,
+        "id":3965,
+        "title":"Janmashtami",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1042,
+        "id":3966,
+        "title":"Ram Navami",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1042,
+        "id":3967,
+        "title":"Ganesh Chaturthi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1042,
+        "id":3968,
+        "title":"Maha Shivratri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1043,
+    "difficulty":2,
+    "title":"1043. Wangala festival is celebrated by which tribe?",
+    "description":"",
+    "hint":"The tribe is mainly found in Meghalaya.",
+    "summary":"Wangala is celebrated by the Garo tribe.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Tribes,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1043,
+        "id":3969,
+        "title":"Khasi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1043,
+        "id":3970,
+        "title":"Bodo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1043,
+        "id":3971,
+        "title":"Mizo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1043,
+        "id":3972,
+        "title":"Garo",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1044,
+    "difficulty":2,
+    "title":"1044. Bathukamma festival is mainly celebrated in which state?",
+    "description":"",
+    "hint":"It is a floral festival.",
+    "summary":"Bathukamma is the state festival of Telangana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Flowers,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1044,
+        "id":3973,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1044,
+        "id":3974,
+        "title":"Telangana",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1044,
+        "id":3975,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1044,
+        "id":3976,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1045,
+    "difficulty":2,
+    "title":"1045. Which festival is popularly known as the Festival of Lights?",
+    "description":"",
+    "hint":"It symbolizes the victory of light over darkness.",
+    "summary":"Diwali is known as the Festival of Lights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Traditions,Religion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1045,
+        "id":3977,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1045,
+        "id":3978,
+        "title":"Navratri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1045,
+        "id":3979,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1045,
+        "id":3980,
+        "title":"Dussehra",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1046,
+    "difficulty":2,
+    "title":"1046. Which festival marks the birth of Lord Mahavira?",
+    "description":"",
+    "hint":"It is an important Jain festival.",
+    "summary":"Mahavir Jayanti celebrates the birth of Lord Mahavira.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Jainism,Religion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1046,
+        "id":3981,
+        "title":"Guru Purnima",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1046,
+        "id":3982,
+        "title":"Buddha Purnima",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1046,
+        "id":3983,
+        "title":"Ram Navami",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1046,
+        "id":3984,
+        "title":"Mahavir Jayanti",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1047,
+    "difficulty":2,
+    "title":"1047. Mopin festival is celebrated in which Indian state?",
+    "description":"",
+    "hint":"It is celebrated by the Galo community.",
+    "summary":"Mopin is a major festival of Arunachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Tribal Culture,Northeast India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1047,
+        "id":3985,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1047,
+        "id":3986,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1047,
+        "id":3987,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1047,
+        "id":3988,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1048,
+    "difficulty":2,
+    "title":"1048. Which festival marks the beginning of the Malayalam New Year?",
+    "description":"",
+    "hint":"It is celebrated in April.",
+    "summary":"Vishu marks the Malayalam New Year.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Calendar,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1048,
+        "id":3989,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1048,
+        "id":3990,
+        "title":"Vishu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1048,
+        "id":3991,
+        "title":"Ugadi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1048,
+        "id":3992,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1049,
+    "difficulty":2,
+    "title":"1049. Which festival commemorates the victory of Lord Rama over Ravana?",
+    "description":"",
+    "hint":"It is celebrated at the end of Navratri.",
+    "summary":"Dussehra commemorates the victory of Lord Rama over Ravana.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Epics,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1049,
+        "id":3993,
+        "title":"Navratri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1049,
+        "id":3994,
+        "title":"Ram Navami",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1049,
+        "id":3995,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1049,
+        "id":3996,
+        "title":"Dussehra",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1050,
+    "difficulty":2,
+    "title":"1050. Saga Dawa festival is celebrated mainly by followers of which religion?",
+    "description":"",
+    "hint":"It commemorates the birth, enlightenment and Mahaparinirvana of Gautama Buddha.",
+    "summary":"Saga Dawa is an important Buddhist festival.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Himalayan Culture,Religion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1050,
+        "id":3997,
+        "title":"Jainism",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1050,
+        "id":3998,
+        "title":"Hinduism",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1050,
+        "id":3999,
+        "title":"Buddhism",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1050,
+        "id":4000,
+        "title":"Sikhism",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
