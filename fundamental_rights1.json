@@ -1,0 +1,2103 @@
+[
+  {
+    "id":601,
+    "difficulty":0,
+    "title":"601. Which Part of the Indian Constitution contains the Fundamental Rights?",
+    "description":"",
+    "hint":"It comes after the Directive Principles chapter.",
+    "summary":"Fundamental Rights are contained in Part III of the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Constitution,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":601,
+        "id":2201,
+        "title":"Part II",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":601,
+        "id":2202,
+        "title":"Part III",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":601,
+        "id":2203,
+        "title":"Part IV",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":601,
+        "id":2204,
+        "title":"Part V",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":602,
+    "difficulty":0,
+    "title":"602. Fundamental Rights are provided under Articles:",
+    "description":"",
+    "hint":"Starts with Article 12.",
+    "summary":"Fundamental Rights are covered under Articles 12–35.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Articles,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":602,
+        "id":2205,
+        "title":"12–35",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":602,
+        "id":2206,
+        "title":"14–32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":602,
+        "id":2207,
+        "title":"36–51",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":602,
+        "id":2208,
+        "title":"51A",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":603,
+    "difficulty":1,
+    "title":"603. Which Article guarantees Equality before Law?",
+    "description":"",
+    "hint":"It is the first Article under the Right to Equality.",
+    "summary":"Article 14 guarantees Equality before Law and Equal Protection of Laws.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article14,Equality",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":603,
+        "id":2209,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":603,
+        "id":2210,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":603,
+        "id":2211,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":603,
+        "id":2212,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":604,
+    "difficulty":1,
+    "title":"604. Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+    "description":"",
+    "hint":"It comes immediately after Article 14.",
+    "summary":"Article 15 prohibits discrimination on specified grounds.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article15",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":604,
+        "id":2213,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":604,
+        "id":2214,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":604,
+        "id":2215,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":604,
+        "id":2216,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":605,
+    "difficulty":1,
+    "title":"605. Equality of opportunity in public employment is guaranteed under:",
+    "description":"",
+    "hint":"Think government jobs.",
+    "summary":"Article 16 provides equality of opportunity in public employment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article16",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":605,
+        "id":2217,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":605,
+        "id":2218,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":605,
+        "id":2219,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":605,
+        "id":2220,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":606,
+    "difficulty":0,
+    "title":"606. Which Article abolishes Untouchability?",
+    "description":"",
+    "hint":"It follows Article 16.",
+    "summary":"Article 17 abolishes Untouchability.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article17",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":606,
+        "id":2221,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":606,
+        "id":2222,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":606,
+        "id":2223,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":606,
+        "id":2224,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":607,
+    "difficulty":0,
+    "title":"607. Which Article abolishes titles except military and academic distinctions?",
+    "description":"",
+    "hint":"It is the last Article under the Right to Equality.",
+    "summary":"Article 18 abolishes titles.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article18",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":607,
+        "id":2225,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":607,
+        "id":2226,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":607,
+        "id":2227,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":607,
+        "id":2228,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":608,
+    "difficulty":1,
+    "title":"608. Which Fundamental Right includes freedom of speech and expression?",
+    "description":"",
+    "hint":"It begins with Article 19.",
+    "summary":"Freedom of speech and expression is guaranteed under Article 19(1)(a).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,Freedom",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":608,
+        "id":2229,
+        "title":"Right to Equality",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":608,
+        "id":2230,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":608,
+        "id":2231,
+        "title":"Right to Freedom",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":608,
+        "id":2232,
+        "title":"Cultural and Educational Rights",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":609,
+    "difficulty":2,
+    "title":"609. Which of the following is NOT a freedom guaranteed under Article 19?",
+    "description":"",
+    "hint":"Think about the Right to Property.",
+    "summary":"The Right to Property is a legal right under Article 300A, not a Fundamental Right.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":609,
+        "id":2233,
+        "title":"Freedom of speech",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2234,
+        "title":"Freedom to assemble peacefully",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2235,
+        "title":"Freedom to reside anywhere in India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2236,
+        "title":"Right to Property",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":610,
+    "difficulty":1,
+    "title":"610. Which Fundamental Right was removed by the 44th Constitutional Amendment?",
+    "description":"",
+    "hint":"It is now a legal right under Article 300A.",
+    "summary":"The Right to Property ceased to be a Fundamental Right after the 44th Amendment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,44th Amendment,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":610,
+        "id":2237,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":610,
+        "id":2238,
+        "title":"Right to Property",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":610,
+        "id":2239,
+        "title":"Right to Equality",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":610,
+        "id":2240,
+        "title":"Right to Freedom of Religion",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":611,
+    "difficulty":1,
+    "title":"611. Protection in respect of conviction for offences is guaranteed under which Article?",
+    "description":"",
+    "hint":"It comes immediately after Article 19.",
+    "summary":"Article 20 provides protection against ex post facto laws, double jeopardy and self-incrimination.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Article20,UPSC,SSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"Think about criminal law safeguards.",
+    "options":[
+      {
+        "questionId":611,
+        "id":2241,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":611,
+        "id":2242,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":611,
+        "id":2243,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":611,
+        "id":2244,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":612,
+    "difficulty":1,
+    "title":"612. Article 21 guarantees which Fundamental Right?",
+    "description":"",
+    "summary":"Article 21 guarantees Protection of Life and Personal Liberty.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article21,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It is one of the most widely interpreted Articles.",
+    "options":[
+      {
+        "questionId":612,
+        "id":2245,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":612,
+        "id":2246,
+        "title":"Protection of Life and Personal Liberty",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":612,
+        "id":2247,
+        "title":"Freedom of Religion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":612,
+        "id":2248,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":613,
+    "difficulty":2,
+    "title":"613. Which Article provides the Right to Education for children aged 6–14 years?",
+    "description":"",
+    "summary":"Article 21A makes education a Fundamental Right.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article21A,Education",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"Added by the 86th Constitutional Amendment.",
+    "options":[
+      {
+        "questionId":613,
+        "id":2249,
+        "title":"Article 21A",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":613,
+        "id":2250,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":613,
+        "id":2251,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":613,
+        "id":2252,
+        "title":"Article 30",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":614,
+    "difficulty":1,
+    "title":"614. Which Article protects against arbitrary arrest and detention?",
+    "description":"",
+    "summary":"Article 22 provides safeguards against arrest and detention.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article22",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It follows Article 21A.",
+    "options":[
+      {
+        "questionId":614,
+        "id":2253,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":614,
+        "id":2254,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":614,
+        "id":2255,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":614,
+        "id":2256,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":615,
+    "difficulty":0,
+    "title":"615. Which Article prohibits human trafficking and forced labour?",
+    "description":"",
+    "summary":"Article 23 prohibits trafficking in human beings and forced labour.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article23",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It is part of the Right against Exploitation.",
+    "options":[
+      {
+        "questionId":615,
+        "id":2257,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":615,
+        "id":2258,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":615,
+        "id":2259,
+        "title":"Article 25",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":615,
+        "id":2260,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":616,
+    "difficulty":0,
+    "title":"616. Employment of children below 14 years in hazardous industries is prohibited under:",
+    "description":"",
+    "summary":"Article 24 prohibits child labour in hazardous employment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article24,Child Labour",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"This Article follows the prohibition of trafficking.",
+    "options":[
+      {
+        "questionId":616,
+        "id":2261,
+        "title":"Article 21A",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":616,
+        "id":2262,
+        "title":"Article 24",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":616,
+        "id":2263,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":616,
+        "id":2264,
+        "title":"Article 25",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":617,
+    "difficulty":1,
+    "title":"617. Freedom of conscience and free profession, practice and propagation of religion is guaranteed under:",
+    "description":"",
+    "summary":"Article 25 guarantees freedom of religion.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article25,Religion",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"First Article under Right to Freedom of Religion.",
+    "options":[
+      {
+        "questionId":617,
+        "id":2265,
+        "title":"Article 26",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":617,
+        "id":2266,
+        "title":"Article 27",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":617,
+        "id":2267,
+        "title":"Article 28",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":617,
+        "id":2268,
+        "title":"Article 25",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":618,
+    "difficulty":2,
+    "title":"618. Which Article gives every religious denomination the right to manage its own religious affairs?",
+    "description":"",
+    "summary":"Article 26 grants religious denominations the right to manage their own affairs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article26",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It comes immediately after Article 25.",
+    "options":[
+      {
+        "questionId":618,
+        "id":2269,
+        "title":"Article 26",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":618,
+        "id":2270,
+        "title":"Article 27",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":618,
+        "id":2271,
+        "title":"Article 29",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":618,
+        "id":2272,
+        "title":"Article 30",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":619,
+    "difficulty":1,
+    "title":"619. Which Article states that no person shall be compelled to pay taxes for the promotion of any particular religion?",
+    "description":"",
+    "summary":"Article 27 prohibits taxation for promotion of a particular religion.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article27",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It is related to religious taxation.",
+    "options":[
+      {
+        "questionId":619,
+        "id":2273,
+        "title":"Article 25",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":619,
+        "id":2274,
+        "title":"Article 27",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":619,
+        "id":2275,
+        "title":"Article 26",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":619,
+        "id":2276,
+        "title":"Article 28",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":620,
+    "difficulty":2,
+    "title":"620. Religious instruction cannot be provided in educational institutions wholly maintained by State funds under:",
+    "description":"",
+    "summary":"Article 28 prohibits religious instruction in institutions wholly funded by the State.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article28,Education",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It is the last Article under Freedom of Religion.",
+    "options":[
+      {
+        "questionId":620,
+        "id":2277,
+        "title":"Article 26",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":620,
+        "id":2278,
+        "title":"Article 29",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":620,
+        "id":2279,
+        "title":"Article 28",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":620,
+        "id":2280,
+        "title":"Article 30",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":621,
+    "difficulty":1,
+    "title":"621. Which Article protects the interests of minorities by preserving their language, script and culture?",
+    "description":"",
+    "hint":"It is the first Article under Cultural and Educational Rights.",
+    "summary":"Article 29 protects the language, script and culture of minorities.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Article29,Cultural Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":621,
+        "id":2281,
+        "title":"Article 30",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":621,
+        "id":2282,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":621,
+        "id":2283,
+        "title":"Article 29",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":621,
+        "id":2284,
+        "title":"Article 31",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":622,
+    "difficulty":1,
+    "title":"622. Which Article gives minorities the right to establish and administer educational institutions?",
+    "description":"",
+    "hint":"It follows Article 29.",
+    "summary":"Article 30 grants minorities the right to establish and administer educational institutions.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article30,Minority Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":622,
+        "id":2285,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":622,
+        "id":2286,
+        "title":"Article 30",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":622,
+        "id":2287,
+        "title":"Article 29",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":622,
+        "id":2288,
+        "title":"Article 31",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":623,
+    "difficulty":0,
+    "title":"623. Which Article is known as the 'Heart and Soul of the Constitution'?",
+    "description":"",
+    "hint":"Dr. B.R. Ambedkar gave this description.",
+    "summary":"Article 32 is called the Heart and Soul of the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article32,Ambedkar",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":623,
+        "id":2289,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":623,
+        "id":2290,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":623,
+        "id":2291,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":623,
+        "id":2292,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":624,
+    "difficulty":1,
+    "title":"624. Which Fundamental Right is called the 'Right to Constitutional Remedies'?",
+    "description":"",
+    "hint":"It empowers citizens to move the Supreme Court.",
+    "summary":"Article 32 guarantees the Right to Constitutional Remedies.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article32,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":624,
+        "id":2293,
+        "title":"Right to Equality",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":624,
+        "id":2294,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":624,
+        "id":2295,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":624,
+        "id":2296,
+        "title":"Cultural and Educational Rights",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":625,
+    "difficulty":2,
+    "title":"625. Under Article 32, citizens can directly approach:",
+    "description":"",
+    "hint":"The highest court in India.",
+    "summary":"Article 32 allows citizens to directly approach the Supreme Court.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article32,Supreme Court",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":625,
+        "id":2297,
+        "title":"District Court",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":625,
+        "id":2298,
+        "title":"Supreme Court",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":625,
+        "id":2299,
+        "title":"Lok Sabha",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":625,
+        "id":2300,
+        "title":"State Legislature",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":626,
+    "difficulty":1,
+    "title":"626. Which writ is issued to produce a person who has been illegally detained?",
+    "description":"",
+    "hint":"Literally means 'produce the body'.",
+    "summary":"Habeas Corpus protects personal liberty against unlawful detention.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Writs,Habeas Corpus",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":626,
+        "id":2301,
+        "title":"Mandamus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":626,
+        "id":2302,
+        "title":"Certiorari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":626,
+        "id":2303,
+        "title":"Habeas Corpus",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":626,
+        "id":2304,
+        "title":"Quo Warranto",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":627,
+    "difficulty":2,
+    "title":"627. Which writ commands a public authority to perform its legal duty?",
+    "description":"",
+    "hint":"It means 'We Command'.",
+    "summary":"Mandamus directs a public authority to perform its duty.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Writs,Mandamus",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":627,
+        "id":2305,
+        "title":"Prohibition",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":627,
+        "id":2306,
+        "title":"Mandamus",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":627,
+        "id":2307,
+        "title":"Certiorari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":627,
+        "id":2308,
+        "title":"Quo Warranto",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":628,
+    "difficulty":2,
+    "title":"628. Which writ is issued to prevent a lower court from exceeding its jurisdiction?",
+    "description":"",
+    "hint":"It means 'to forbid'.",
+    "summary":"The writ of Prohibition prevents lower courts from exceeding their jurisdiction.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Writs,Prohibition",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":628,
+        "id":2309,
+        "title":"Prohibition",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":628,
+        "id":2310,
+        "title":"Mandamus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":628,
+        "id":2311,
+        "title":"Certiorari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":628,
+        "id":2312,
+        "title":"Habeas Corpus",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":629,
+    "difficulty":2,
+    "title":"629. Which writ is issued to quash the order of a lower court?",
+    "description":"",
+    "hint":"It also transfers the case for review when appropriate.",
+    "summary":"Certiorari quashes the order of an inferior court or tribunal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Writs,Certiorari",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":629,
+        "id":2313,
+        "title":"Quo Warranto",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":629,
+        "id":2314,
+        "title":"Habeas Corpus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":629,
+        "id":2315,
+        "title":"Mandamus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":629,
+        "id":2316,
+        "title":"Certiorari",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":630,
+    "difficulty":2,
+    "title":"630. Which writ is issued to question the legal authority of a person holding a public office?",
+    "description":"",
+    "hint":"It means 'By what authority?'.",
+    "summary":"Quo Warranto prevents illegal occupation of a public office.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Writs,Quo Warranto",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":630,
+        "id":2317,
+        "title":"Certiorari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":630,
+        "id":2318,
+        "title":"Quo Warranto",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":630,
+        "id":2319,
+        "title":"Prohibition",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":630,
+        "id":2320,
+        "title":"Mandamus",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":631,
+    "difficulty":2,
+    "title":"631. Which court in India can issue writs under Article 32?",
+    "description":"",
+    "hint":"It is the highest constitutional court.",
+    "summary":"Article 32 empowers only the Supreme Court to issue writs for enforcement of Fundamental Rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Article32,Writs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":631,
+        "id":2321,
+        "title":"District Court",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":631,
+        "id":2322,
+        "title":"High Court",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":631,
+        "id":2323,
+        "title":"Supreme Court",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":631,
+        "id":2324,
+        "title":"Sessions Court",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":632,
+    "difficulty":2,
+    "title":"632. Under which Article can High Courts issue writs?",
+    "description":"",
+    "hint":"This Article is in Part VI of the Constitution.",
+    "summary":"Article 226 empowers High Courts to issue writs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article226,High Court,Writs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":632,
+        "id":2325,
+        "title":"Article 227",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":632,
+        "id":2326,
+        "title":"Article 226",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":632,
+        "id":2327,
+        "title":"Article 225",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":632,
+        "id":2328,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":633,
+    "difficulty":2,
+    "title":"633. High Courts can issue writs for:",
+    "description":"",
+    "hint":"Their jurisdiction is wider than that of the Supreme Court under Article 32.",
+    "summary":"High Courts can issue writs for Fundamental Rights as well as other legal rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article226,Writs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":633,
+        "id":2329,
+        "title":"Only Fundamental Rights",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":633,
+        "id":2330,
+        "title":"Only Legal Rights",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":633,
+        "id":2331,
+        "title":"Fundamental Rights and Other Legal Rights",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":633,
+        "id":2332,
+        "title":"Only Constitutional Amendments",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":634,
+    "difficulty":1,
+    "title":"634. Which Fundamental Right is suspended during a National Emergency under Article 359 (subject to constitutional limitations)?",
+    "description":"",
+    "hint":"The President suspends the right to move courts for enforcement of specified rights.",
+    "summary":"The right to move courts for enforcement of specified Fundamental Rights may be suspended under Article 359.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Emergency,Article359",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":634,
+        "id":2333,
+        "title":"Right to Constitutional Remedies (for specified rights)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":634,
+        "id":2334,
+        "title":"Article 20 only",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":634,
+        "id":2335,
+        "title":"Article 21 only",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":634,
+        "id":2336,
+        "title":"Directive Principles",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":635,
+    "difficulty":2,
+    "title":"635. After the 44th Constitutional Amendment, which Articles cannot be suspended even during a National Emergency?",
+    "description":"",
+    "hint":"These Articles deal with criminal protections and personal liberty.",
+    "summary":"Articles 20 and 21 remain enforceable even during a National Emergency.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,44th Amendment,Emergency",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":635,
+        "id":2337,
+        "title":"Articles 14 and 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":635,
+        "id":2338,
+        "title":"Articles 19 and 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":635,
+        "id":2339,
+        "title":"Articles 20 and 21",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":635,
+        "id":2340,
+        "title":"Articles 25 and 26",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":636,
+    "difficulty":1,
+    "title":"636. Which Fundamental Right is automatically suspended during an Emergency declared on the ground of war or external aggression?",
+    "description":"",
+    "hint":"It contains six freedoms.",
+    "summary":"Article 19 is automatically suspended during an Emergency due to war or external aggression under Article 358.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Emergency,Article19,Article358",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":636,
+        "id":2341,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":636,
+        "id":2342,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":636,
+        "id":2343,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":636,
+        "id":2344,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":637,
+    "difficulty":1,
+    "title":"637. Which Fundamental Right is available only to Indian citizens?",
+    "description":"",
+    "hint":"It includes freedom of speech and expression.",
+    "summary":"The freedoms under Article 19 are available only to citizens.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,Citizenship",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":637,
+        "id":2345,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":637,
+        "id":2346,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":637,
+        "id":2347,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":637,
+        "id":2348,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":638,
+    "difficulty":2,
+    "title":"638. Which of the following Fundamental Rights is available to both citizens and foreigners?",
+    "description":"",
+    "hint":"It guarantees equality before law.",
+    "summary":"Article 14 is available to both citizens and foreigners.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article14,Citizenship",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":638,
+        "id":2349,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":638,
+        "id":2350,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":638,
+        "id":2351,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":638,
+        "id":2352,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":639,
+    "difficulty":2,
+    "title":"639. Which of the following Articles is available only to citizens of India?",
+    "description":"",
+    "hint":"It prohibits discrimination on specified grounds.",
+    "summary":"Article 15 applies only to citizens.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article15,Citizenship",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":639,
+        "id":2353,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":639,
+        "id":2354,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":639,
+        "id":2355,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":639,
+        "id":2356,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":640,
+    "difficulty":2,
+    "title":"640. Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+    "description":"",
+    "hint":"It is contained in Part IV of the Constitution.",
+    "summary":"Directive Principles of State Policy are not Fundamental Rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,DPSP",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":640,
+        "id":2357,
+        "title":"Right to Freedom",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":640,
+        "id":2358,
+        "title":"Cultural and Educational Rights",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":640,
+        "id":2359,
+        "title":"Directive Principles of State Policy",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":640,
+        "id":2360,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":641,
+    "difficulty":2,
+    "title":"641. Which Part of the Constitution contains the Directive Principles of State Policy (DPSPs)?",
+    "description":"",
+    "hint":"It comes immediately after Part III.",
+    "summary":"Directive Principles of State Policy are contained in Part IV of the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,DPSP,Constitution,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":641,
+        "id":2361,
+        "title":"Part IV",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":641,
+        "id":2362,
+        "title":"Part III",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":641,
+        "id":2363,
+        "title":"Part IVA",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":641,
+        "id":2364,
+        "title":"Part V",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":642,
+    "difficulty":2,
+    "title":"642. Fundamental Rights in the Indian Constitution were inspired by the Constitution of:",
+    "description":"",
+    "hint":"It begins with 'U'.",
+    "summary":"Fundamental Rights were inspired by the U.S. Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Constitution,History",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":642,
+        "id":2365,
+        "title":"Ireland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":642,
+        "id":2366,
+        "title":"United Kingdom",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":642,
+        "id":2367,
+        "title":"United States",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":642,
+        "id":2368,
+        "title":"Canada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":643,
+    "difficulty":1,
+    "title":"643. The concept of the 'Rule of Law' associated with Article 14 was given by:",
+    "description":"",
+    "hint":"A British constitutional scholar.",
+    "summary":"The concept of Rule of Law was propounded by A.V. Dicey.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article14,Rule of Law",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":643,
+        "id":2369,
+        "title":"A.V. Dicey",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":643,
+        "id":2370,
+        "title":"Montesquieu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":643,
+        "id":2371,
+        "title":"John Locke",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":643,
+        "id":2372,
+        "title":"Harold Laski",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":644,
+    "difficulty":2,
+    "title":"644. Which Fundamental Right has been described by the Supreme Court as the 'heart of fundamental rights' due to its broad interpretation?",
+    "description":"",
+    "hint":"It protects life and personal liberty.",
+    "summary":"Article 21 has received the widest judicial interpretation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article21,Supreme Court",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":644,
+        "id":2373,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":644,
+        "id":2374,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":644,
+        "id":2375,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":644,
+        "id":2376,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":645,
+    "difficulty":2,
+    "title":"645. Which landmark case established the 'Basic Structure Doctrine' of the Constitution?",
+    "description":"",
+    "hint":"It was decided in 1973.",
+    "summary":"Kesavananda Bharati v. State of Kerala established the Basic Structure Doctrine.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Basic Structure,Judiciary",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":645,
+        "id":2377,
+        "title":"Golak Nath Case",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":645,
+        "id":2378,
+        "title":"Kesavananda Bharati Case",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":645,
+        "id":2379,
+        "title":"Maneka Gandhi Case",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":645,
+        "id":2380,
+        "title":"Minerva Mills Case",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":646,
+    "difficulty":2,
+    "title":"646. Which case expanded the scope of Article 21 by establishing that 'procedure established by law' must be fair, just and reasonable?",
+    "description":"",
+    "hint":"It involved the impounding of a passport.",
+    "summary":"The Maneka Gandhi case revolutionized the interpretation of Article 21.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article21,Judiciary",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":646,
+        "id":2381,
+        "title":"Kesavananda Bharati Case",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":646,
+        "id":2382,
+        "title":"Maneka Gandhi Case",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":646,
+        "id":2383,
+        "title":"Shankari Prasad Case",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":646,
+        "id":2384,
+        "title":"Indra Sawhney Case",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":647,
+    "difficulty":1,
+    "title":"647. Which Fundamental Right is available only to citizens of India?",
+    "description":"",
+    "hint":"It guarantees six freedoms.",
+    "summary":"Article 19 is available only to Indian citizens.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,Citizenship",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":647,
+        "id":2385,
+        "title":"Right to Freedom (Article 19)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":647,
+        "id":2386,
+        "title":"Right to Life (Article 21)",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":647,
+        "id":2387,
+        "title":"Right to Equality (Article 14)",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":647,
+        "id":2388,
+        "title":"Protection in Criminal Cases (Article 20)",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":648,
+    "difficulty":2,
+    "title":"648. Which Constitutional Amendment inserted Article 21A (Right to Education)?",
+    "description":"",
+    "hint":"It was passed in 2002.",
+    "summary":"The 86th Constitutional Amendment inserted Article 21A.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,86th Amendment,Education",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":648,
+        "id":2389,
+        "title":"44th Amendment",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":648,
+        "id":2390,
+        "title":"42nd Amendment",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":648,
+        "id":2391,
+        "title":"86th Amendment",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":648,
+        "id":2392,
+        "title":"73rd Amendment",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":649,
+    "difficulty":2,
+    "title":"649. Which Fundamental Right was described by Dr. B.R. Ambedkar as the 'Heart and Soul of the Constitution'?",
+    "description":"",
+    "hint":"It allows citizens to directly approach the Supreme Court.",
+    "summary":"Article 32 was described by Dr. Ambedkar as the Heart and Soul of the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article32,Ambedkar",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":649,
+        "id":2393,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":649,
+        "id":2394,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":649,
+        "id":2395,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":649,
+        "id":2396,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":650,
+    "difficulty":1,
+    "title":"650. Which of the following is NOT a Fundamental Right?",
+    "description":"",
+    "hint":"It was added by the 42nd Constitutional Amendment.",
+    "summary":"Fundamental Duties are contained in Part IVA and are not Fundamental Rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Duties,Constitution",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":650,
+        "id":2397,
+        "title":"Right to Freedom",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":650,
+        "id":2398,
+        "title":"Cultural and Educational Rights",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":650,
+        "id":2399,
+        "title":"Fundamental Duties",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":650,
+        "id":2400,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
