@@ -1,0 +1,2102 @@
+[
+  {
+    "id":1251,
+    "difficulty":2,
+    "title":"1251. What is the capital of the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It is named after a British naval officer.",
+    "summary":"Port Blair is the capital of the Andaman and Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Islands,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1251,
+        "id":4801,
+        "title":"Port Blair",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1251,
+        "id":4802,
+        "title":"Campbell Bay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1251,
+        "id":4803,
+        "title":"Diglipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1251,
+        "id":4804,
+        "title":"Mayabunder",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1252,
+    "difficulty":2,
+    "title":"1252. The Cellular Jail, also known as 'Kala Pani', is located in which city?",
+    "description":"",
+    "hint":"It is the capital of the Union Territory.",
+    "summary":"The Cellular Jail is located in Port Blair.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Freedom Struggle,Historical Monuments,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1252,
+        "id":4805,
+        "title":"Campbell Bay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1252,
+        "id":4806,
+        "title":"Port Blair",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1252,
+        "id":4807,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1252,
+        "id":4808,
+        "title":"Diglipur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1253,
+    "difficulty":2,
+    "title":"1253. Which is the southernmost point of the territory of India?",
+    "description":"",
+    "hint":"It lies in Great Nicobar Island.",
+    "summary":"Indira Point is the southernmost point of the territory of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Extremes,Union Territories,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1253,
+        "id":4809,
+        "title":"Cape Comorin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1253,
+        "id":4810,
+        "title":"Point Calimere",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1253,
+        "id":4811,
+        "title":"Indira Point",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1253,
+        "id":4812,
+        "title":"Rameswaram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1254,
+    "difficulty":2,
+    "title":"1254. Indira Point is located on which island?",
+    "description":"",
+    "hint":"It is the largest island in the Nicobar group.",
+    "summary":"Indira Point is situated on Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Islands,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1254,
+        "id":4813,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1254,
+        "id":4814,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1254,
+        "id":4815,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1254,
+        "id":4816,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1255,
+    "difficulty":2,
+    "title":"1255. The Andaman and Nicobar Islands are separated by which channel?",
+    "description":"",
+    "hint":"The channel is named after a British naval officer.",
+    "summary":"The Ten Degree Channel separates the Andaman and Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Marine Geography,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1255,
+        "id":4817,
+        "title":"Eight Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1255,
+        "id":4818,
+        "title":"Nine Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1255,
+        "id":4819,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1255,
+        "id":4820,
+        "title":"Palk Strait",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1256,
+    "difficulty":2,
+    "title":"1256. Which is the only active volcano in India?",
+    "description":"",
+    "hint":"It is located in the Andaman Sea.",
+    "summary":"Barren Island is home to India's only active volcano.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Volcanoes,Physical Geography,Natural Features",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1256,
+        "id":4821,
+        "title":"Narcondam Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1256,
+        "id":4822,
+        "title":"Barren Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1256,
+        "id":4823,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1256,
+        "id":4824,
+        "title":"Interview Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1257,
+    "difficulty":2,
+    "title":"1257. Narcondam Island is famous for which endangered bird?",
+    "description":"",
+    "hint":"It is found only on this island.",
+    "summary":"Narcondam Island is home to the endemic Narcondam Hornbill.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Biodiversity,Endemic Species,Wildlife",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1257,
+        "id":4825,
+        "title":"Nicobar Megapode",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1257,
+        "id":4826,
+        "title":"Narcondam Hornbill",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1257,
+        "id":4827,
+        "title":"Great Hornbill",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1257,
+        "id":4828,
+        "title":"Andaman Woodpecker",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1258,
+    "difficulty":2,
+    "title":"1258. Which sea surrounds the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It lies east of the Bay of Bengal.",
+    "summary":"The islands are located in the Andaman Sea and the Bay of Bengal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Marine Geography,Oceans,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1258,
+        "id":4829,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1258,
+        "id":4830,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1258,
+        "id":4831,
+        "title":"Laccadive Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1258,
+        "id":4832,
+        "title":"South China Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1259,
+    "difficulty":2,
+    "title":"1259. Which island group is located north of the Ten Degree Channel?",
+    "description":"",
+    "hint":"It shares its name with the Union Territory.",
+    "summary":"The Andaman Islands lie north of the Ten Degree Channel.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Island Geography,Marine Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1259,
+        "id":4833,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1259,
+        "id":4834,
+        "title":"Lakshadweep Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1259,
+        "id":4835,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1259,
+        "id":4836,
+        "title":"Maldive Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1260,
+    "difficulty":2,
+    "title":"1260. Which island group lies south of the Ten Degree Channel?",
+    "description":"",
+    "hint":"It contains Great Nicobar Island.",
+    "summary":"The Nicobar Islands lie south of the Ten Degree Channel.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Island Geography,Marine Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1260,
+        "id":4837,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1260,
+        "id":4838,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1260,
+        "id":4839,
+        "title":"Lakshadweep Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1260,
+        "id":4840,
+        "title":"Minicoy Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1261,
+    "difficulty":2,
+    "title":"1261. Which is the largest island in the Andaman group?",
+    "description":"",
+    "hint":"It is the northernmost major island of the Andaman group.",
+    "summary":"North Andaman Island is the largest island in the Andaman group.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Island Geography,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1261,
+        "id":4841,
+        "title":"Middle Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1261,
+        "id":4842,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1261,
+        "id":4843,
+        "title":"South Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1261,
+        "id":4844,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1262,
+    "difficulty":2,
+    "title":"1262. Saddle Peak, the highest point in the Andaman and Nicobar Islands, is located on which island?",
+    "description":"",
+    "hint":"It is also the largest island in the Andaman group.",
+    "summary":"Saddle Peak is located in North Andaman Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Mountains,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1262,
+        "id":4845,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1262,
+        "id":4846,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1262,
+        "id":4847,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1262,
+        "id":4848,
+        "title":"South Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1263,
+    "difficulty":2,
+    "title":"1263. Which national park is famous for protecting marine ecosystems in the Andaman Islands?",
+    "description":"",
+    "hint":"It is located near Wandoor.",
+    "summary":"Mahatma Gandhi Marine National Park conserves coral reefs and marine biodiversity.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,National Parks,Marine Ecology,Protected Areas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1263,
+        "id":4849,
+        "title":"Mount Harriet National Park",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1263,
+        "id":4850,
+        "title":"Campbell Bay National Park",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1263,
+        "id":4851,
+        "title":"Mahatma Gandhi Marine National Park",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1263,
+        "id":4852,
+        "title":"Galathea National Park",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1264,
+    "difficulty":2,
+    "title":"1264. Which indigenous tribe is known for living on North Sentinel Island?",
+    "description":"",
+    "hint":"The tribe has minimal contact with the outside world.",
+    "summary":"The Sentinelese inhabit North Sentinel Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,Indigenous Communities,Anthropology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1264,
+        "id":4853,
+        "title":"Jarwa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1264,
+        "id":4854,
+        "title":"Sentinelese",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1264,
+        "id":4855,
+        "title":"Onge",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1264,
+        "id":4856,
+        "title":"Nicobarese",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1265,
+    "difficulty":2,
+    "title":"1265. Which tribe mainly inhabits Little Andaman Island?",
+    "description":"",
+    "hint":"They are among the Particularly Vulnerable Tribal Groups (PVTGs).",
+    "summary":"The Onge tribe mainly inhabits Little Andaman Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,PVTG,Anthropology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1265,
+        "id":4857,
+        "title":"Jarwa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1265,
+        "id":4858,
+        "title":"Nicobarese",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1265,
+        "id":4859,
+        "title":"Onge",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1265,
+        "id":4860,
+        "title":"Shompen",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1266,
+    "difficulty":2,
+    "title":"1266. Which tribe primarily lives in the forests of Great Nicobar Island?",
+    "description":"",
+    "hint":"This tribe is a PVTG.",
+    "summary":"The Shompen tribe primarily inhabits Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,PVTG,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1266,
+        "id":4861,
+        "title":"Sentinelese",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1266,
+        "id":4862,
+        "title":"Shompen",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1266,
+        "id":4863,
+        "title":"Jarwa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1266,
+        "id":4864,
+        "title":"Onge",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1267,
+    "difficulty":2,
+    "title":"1267. Which tribe forms the largest indigenous community in the Nicobar Islands?",
+    "description":"",
+    "hint":"They are mainly engaged in coconut cultivation.",
+    "summary":"The Nicobarese are the largest indigenous community in the Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,Demography,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1267,
+        "id":4865,
+        "title":"Shompen",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1267,
+        "id":4866,
+        "title":"Onge",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1267,
+        "id":4867,
+        "title":"Nicobarese",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1267,
+        "id":4868,
+        "title":"Jarwa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1268,
+    "difficulty":2,
+    "title":"1268. Which biosphere reserve is located in the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It includes Campbell Bay and Galathea National Parks.",
+    "summary":"Great Nicobar Biosphere Reserve is a UNESCO-recognized biosphere reserve.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Biosphere Reserves,UNESCO,Protected Areas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1268,
+        "id":4869,
+        "title":"Nilgiri Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1268,
+        "id":4870,
+        "title":"Great Nicobar Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1268,
+        "id":4871,
+        "title":"Sundarbans Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1268,
+        "id":4872,
+        "title":"Gulf of Mannar Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1269,
+    "difficulty":2,
+    "title":"1269. Which strait separates Little Andaman from South Andaman?",
+    "description":"",
+    "hint":"It is named after a British naval officer.",
+    "summary":"Duncan Passage separates Little Andaman from South Andaman.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Marine Geography,Straits,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1269,
+        "id":4873,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1269,
+        "id":4874,
+        "title":"Preparis Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1269,
+        "id":4875,
+        "title":"Duncan Passage",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1269,
+        "id":4876,
+        "title":"Palk Strait",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1270,
+    "difficulty":2,
+    "title":"1270. Which ocean surrounds the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It is the third-largest ocean in the world.",
+    "summary":"The Andaman and Nicobar Islands are located in the Indian Ocean region.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Oceans,Marine Geography,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1270,
+        "id":4877,
+        "title":"Pacific Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1270,
+        "id":4878,
+        "title":"Indian Ocean",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1270,
+        "id":4879,
+        "title":"Atlantic Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1270,
+        "id":4880,
+        "title":"Arctic Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1271,
+    "difficulty":2,
+    "title":"1271. Which island is the headquarters of the Nicobar district?",
+    "description":"",
+    "hint":"It is one of the northernmost islands in the Nicobar group.",
+    "summary":"Car Nicobar is the headquarters of the Nicobar district.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Administration,Island Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1271,
+        "id":4881,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1271,
+        "id":4882,
+        "title":"Katchal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1271,
+        "id":4883,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1271,
+        "id":4884,
+        "title":"Little Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1272,
+    "difficulty":2,
+    "title":"1272. Which is the only inhabited volcanic island in the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It is famous for an endemic hornbill.",
+    "summary":"Narcondam Island is an inhabited volcanic island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Volcanoes,Islands,Biodiversity",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1272,
+        "id":4885,
+        "title":"Barren Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1272,
+        "id":4886,
+        "title":"Interview Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1272,
+        "id":4887,
+        "title":"Narcondam Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1272,
+        "id":4888,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1273,
+    "difficulty":2,
+    "title":"1273. Which national park is located in Great Nicobar Island?",
+    "description":"",
+    "hint":"It shares its name with the southernmost bay of India.",
+    "summary":"Galathea National Park is located on Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,National Parks,Protected Areas,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1273,
+        "id":4889,
+        "title":"Mount Harriet National Park",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1273,
+        "id":4890,
+        "title":"Campbell Bay National Park",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1273,
+        "id":4891,
+        "title":"Galathea National Park",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1273,
+        "id":4892,
+        "title":"Mahatma Gandhi Marine National Park",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1274,
+    "difficulty":2,
+    "title":"1274. Which island is famous for Radhanagar Beach?",
+    "description":"",
+    "hint":"It was renamed after a freedom fighter in 2018.",
+    "summary":"Radhanagar Beach is located on Swaraj Dweep (formerly Havelock Island).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tourism,Beaches,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1274,
+        "id":4893,
+        "title":"Shaheed Dweep",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1274,
+        "id":4894,
+        "title":"Swaraj Dweep",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1274,
+        "id":4895,
+        "title":"Ross Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1274,
+        "id":4896,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1275,
+    "difficulty":2,
+    "title":"1275. Shaheed Dweep was formerly known by which name?",
+    "description":"",
+    "hint":"It was renamed in December 2018.",
+    "summary":"Shaheed Dweep was formerly known as Neil Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Island Geography,Renamed Places,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1275,
+        "id":4897,
+        "title":"Ross Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1275,
+        "id":4898,
+        "title":"Neil Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1275,
+        "id":4899,
+        "title":"Havelock Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1275,
+        "id":4900,
+        "title":"Long Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1276,
+    "difficulty":2,
+    "title":"1276. Swaraj Dweep was formerly known by which name?",
+    "description":"",
+    "hint":"It was renamed in 2018.",
+    "summary":"Swaraj Dweep was formerly known as Havelock Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Island Geography,Renamed Places,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1276,
+        "id":4901,
+        "title":"Ross Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1276,
+        "id":4902,
+        "title":"Neil Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1276,
+        "id":4903,
+        "title":"Havelock Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1276,
+        "id":4904,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1277,
+    "difficulty":2,
+    "title":"1277. Netaji Subhas Chandra Bose Island was formerly known as:",
+    "description":"",
+    "hint":"It served as the British administrative headquarters before Independence.",
+    "summary":"Netaji Subhas Chandra Bose Island was formerly known as Ross Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,History,Renamed Places,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1277,
+        "id":4905,
+        "title":"Ross Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1277,
+        "id":4906,
+        "title":"Neil Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1277,
+        "id":4907,
+        "title":"Long Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1277,
+        "id":4908,
+        "title":"Rutland Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1278,
+    "difficulty":2,
+    "title":"1278. Which tribe is primarily found in the Middle and South Andaman Islands?",
+    "description":"",
+    "hint":"The Andaman Trunk Road passes through parts of their reserve.",
+    "summary":"The Jarwa tribe inhabits parts of Middle and South Andaman Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,Anthropology,PVTG",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1278,
+        "id":4909,
+        "title":"Sentinelese",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1278,
+        "id":4910,
+        "title":"Jarwa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1278,
+        "id":4911,
+        "title":"Shompen",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1278,
+        "id":4912,
+        "title":"Nicobarese",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1279,
+    "difficulty":2,
+    "title":"1279. Which is the largest island in the Nicobar group?",
+    "description":"",
+    "hint":"It contains India's southernmost point.",
+    "summary":"Great Nicobar is the largest island in the Nicobar group.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Island Geography,Union Territories,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1279,
+        "id":4913,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1279,
+        "id":4914,
+        "title":"Little Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1279,
+        "id":4915,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1279,
+        "id":4916,
+        "title":"Katchal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1280,
+    "difficulty":2,
+    "title":"1280. Which island is the location of Campbell Bay?",
+    "description":"",
+    "hint":"It is India's southernmost large island.",
+    "summary":"Campbell Bay is located on Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Ports,Island Geography,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1280,
+        "id":4917,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1280,
+        "id":4918,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1280,
+        "id":4919,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1280,
+        "id":4920,
+        "title":"Middle Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1281,
+    "difficulty":2,
+    "title":"1281. Which Indian Prime Minister officially renamed Havelock Island as Swaraj Dweep in 2018?",
+    "description":"",
+    "hint":"The renaming was announced on the 75th anniversary of Netaji's flag hoisting.",
+    "summary":"Prime Minister Narendra Modi renamed Havelock Island as Swaraj Dweep in 2018.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Modern History,Union Territories,Government",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1281,
+        "id":4921,
+        "title":"Atal Bihari Vajpayee",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1281,
+        "id":4922,
+        "title":"Narendra Modi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1281,
+        "id":4923,
+        "title":"Manmohan Singh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1281,
+        "id":4924,
+        "title":"Rajiv Gandhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1282,
+    "difficulty":2,
+    "title":"1282. Which freedom fighter first hoisted the Indian National Flag in Port Blair during World War II?",
+    "description":"",
+    "hint":"He was the leader of the Azad Hind Government.",
+    "summary":"Netaji Subhas Chandra Bose hoisted the Indian National Flag at Port Blair on 30 December 1943.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Freedom Struggle,History,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1282,
+        "id":4925,
+        "title":"Mahatma Gandhi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1282,
+        "id":4926,
+        "title":"Bhagat Singh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1282,
+        "id":4927,
+        "title":"Subhas Chandra Bose",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1282,
+        "id":4928,
+        "title":"Sardar Patel",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1283,
+    "difficulty":2,
+    "title":"1283. The Andaman and Nicobar Command is India's first:",
+    "description":"",
+    "hint":"It combines the Army, Navy and Air Force under one command.",
+    "summary":"The Andaman and Nicobar Command is India's first tri-service theatre command.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Strategic Affairs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1283,
+        "id":4929,
+        "title":"Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1283,
+        "id":4930,
+        "title":"Air Defence Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1283,
+        "id":4931,
+        "title":"Tri-service Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1283,
+        "id":4932,
+        "title":"Mountain Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1284,
+    "difficulty":2,
+    "title":"1284. The Andaman and Nicobar Islands are separated from Myanmar by which channel?",
+    "description":"",
+    "hint":"It lies north of North Andaman Island.",
+    "summary":"Preparis Channel separates the Andaman Islands from Myanmar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Marine Geography,International Borders,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1284,
+        "id":4933,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1284,
+        "id":4934,
+        "title":"Preparis Channel",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1284,
+        "id":4935,
+        "title":"Palk Strait",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1284,
+        "id":4936,
+        "title":"Duncan Passage",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1285,
+    "difficulty":2,
+    "title":"1285. Which biosphere reserve of India is located entirely on an island?",
+    "description":"",
+    "hint":"It is located in the southernmost Union Territory.",
+    "summary":"Great Nicobar Biosphere Reserve is India's island biosphere reserve.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Biosphere Reserves,Protected Areas,UNESCO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1285,
+        "id":4937,
+        "title":"Nilgiri Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1285,
+        "id":4938,
+        "title":"Nanda Devi Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1285,
+        "id":4939,
+        "title":"Great Nicobar Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1285,
+        "id":4940,
+        "title":"Pachmarhi Biosphere Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1286,
+    "difficulty":2,
+    "title":"1286. Which is the principal language spoken by the Nicobarese tribe?",
+    "description":"",
+    "hint":"It belongs to the Austroasiatic language family.",
+    "summary":"Nicobarese people primarily speak Nicobarese languages.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,Languages,Culture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1286,
+        "id":4941,
+        "title":"Hindi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1286,
+        "id":4942,
+        "title":"Nicobarese",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1286,
+        "id":4943,
+        "title":"Tamil",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1286,
+        "id":4944,
+        "title":"Bengali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1287,
+    "difficulty":2,
+    "title":"1287. Which lighthouse marks the southernmost tip of India?",
+    "description":"",
+    "hint":"It was damaged during the 2004 tsunami.",
+    "summary":"The Indira Point Lighthouse marks India's southernmost point.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lighthouses,Geography,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1287,
+        "id":4945,
+        "title":"Mahabalipuram Lighthouse",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1287,
+        "id":4946,
+        "title":"Indira Point Lighthouse",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1287,
+        "id":4947,
+        "title":"Minicoy Lighthouse",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1287,
+        "id":4948,
+        "title":"Chennai Lighthouse",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1288,
+    "difficulty":2,
+    "title":"1288. Which major natural disaster significantly altered the coastline of the Andaman and Nicobar Islands in 2004?",
+    "description":"",
+    "hint":"It followed one of the strongest earthquakes ever recorded.",
+    "summary":"The 2004 Indian Ocean tsunami significantly altered the islands' coastline.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Disasters,Geography,Environment",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1288,
+        "id":4949,
+        "title":"Cyclone Fani",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1288,
+        "id":4950,
+        "title":"Indian Ocean Tsunami",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1288,
+        "id":4951,
+        "title":"Cyclone Amphan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1288,
+        "id":4952,
+        "title":"Bhuj Earthquake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1289,
+    "difficulty":2,
+    "title":"1289. Which crop is the major plantation crop of the Nicobar Islands?",
+    "description":"",
+    "hint":"It is widely used for producing copra.",
+    "summary":"Coconut is the major plantation crop of the Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Agriculture,Plantation Crops,Economy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1289,
+        "id":4953,
+        "title":"Arecanut",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1289,
+        "id":4954,
+        "title":"Coconut",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1289,
+        "id":4955,
+        "title":"Rubber",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1289,
+        "id":4956,
+        "title":"Tea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1290,
+    "difficulty":2,
+    "title":"1290. The Andaman and Nicobar Islands fall under which High Court?",
+    "description":"",
+    "hint":"Its principal seat is in Kolkata.",
+    "summary":"The Andaman and Nicobar Islands come under the jurisdiction of the Calcutta High Court.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Judiciary,Constitution,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1290,
+        "id":4957,
+        "title":"Madras High Court",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1290,
+        "id":4958,
+        "title":"Calcutta High Court",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1290,
+        "id":4959,
+        "title":"Delhi High Court",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1290,
+        "id":4960,
+        "title":"Andhra Pradesh High Court",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1291,
+    "difficulty":2,
+    "title":"1291. Which island is famous for the natural limestone caves near Baratang?",
+    "description":"",
+    "hint":"It lies between South and North Andaman.",
+    "summary":"The limestone caves are located on Baratang Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Geography,Caves,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1291,
+        "id":4961,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1291,
+        "id":4962,
+        "title":"Havelock Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1291,
+        "id":4963,
+        "title":"Long Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1291,
+        "id":4964,
+        "title":"Baratang Island",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1292,
+    "difficulty":2,
+    "title":"1292. Which active mud volcano of India is located in the Andaman Islands?",
+    "description":"",
+    "hint":"It is a popular tourist attraction.",
+    "summary":"India's only active mud volcanoes are found on Baratang Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Volcanoes,Geography,Natural Features",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1292,
+        "id":4965,
+        "title":"Baratang Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1292,
+        "id":4966,
+        "title":"Narcondam Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1292,
+        "id":4967,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1292,
+        "id":4968,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1293,
+    "difficulty":2,
+    "title":"1293. Which island is known for Elephant Beach?",
+    "description":"",
+    "hint":"It was renamed in 2018.",
+    "summary":"Elephant Beach is located on Swaraj Dweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tourism,Beaches,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1293,
+        "id":4969,
+        "title":"Shaheed Dweep",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1293,
+        "id":4970,
+        "title":"Long Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1293,
+        "id":4971,
+        "title":"Swaraj Dweep",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1293,
+        "id":4972,
+        "title":"Ross Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1294,
+    "difficulty":2,
+    "title":"1294. The Jarwa Tribal Reserve is mainly located in which island group?",
+    "description":"",
+    "hint":"It includes Middle and South Andaman.",
+    "summary":"The Jarwa Tribal Reserve spans Middle and South Andaman Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Tribes,Protected Areas,Anthropology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1294,
+        "id":4973,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1294,
+        "id":4974,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1294,
+        "id":4975,
+        "title":"Lakshadweep Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1294,
+        "id":4976,
+        "title":"Minicoy Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1295,
+    "difficulty":2,
+    "title":"1295. Which sea lies immediately east of the Andaman Islands?",
+    "description":"",
+    "hint":"It shares its name with the island group.",
+    "summary":"The Andaman Sea lies east of the Andaman Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Marine Geography,Oceans,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1295,
+        "id":4977,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1295,
+        "id":4978,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1295,
+        "id":4979,
+        "title":"Laccadive Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1295,
+        "id":4980,
+        "title":"South China Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1296,
+    "difficulty":2,
+    "title":"1296. Which airport serves as the main airport of the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It was renamed after a freedom fighter.",
+    "summary":"Veer Savarkar International Airport is located at Port Blair.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Airports,Transport,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1296,
+        "id":4981,
+        "title":"Campbell Bay Airport",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1296,
+        "id":4982,
+        "title":"Car Nicobar Air Force Station",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1296,
+        "id":4983,
+        "title":"INS Utkrosh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1296,
+        "id":4984,
+        "title":"Veer Savarkar International Airport",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1297,
+    "difficulty":2,
+    "title":"1297. Which island hosts the headquarters of the Andaman and Nicobar Command?",
+    "description":"",
+    "hint":"It is the capital island.",
+    "summary":"The headquarters of the Andaman and Nicobar Command is at Port Blair in South Andaman.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Administration",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1297,
+        "id":4985,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1297,
+        "id":4986,
+        "title":"South Andaman",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1297,
+        "id":4987,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1297,
+        "id":4988,
+        "title":"Middle Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1298,
+    "difficulty":2,
+    "title":"1298. Which marine animal is especially protected in the Mahatma Gandhi Marine National Park?",
+    "description":"",
+    "hint":"It is the state animal of Andaman & Nicobar.",
+    "summary":"The Dugong is an important protected marine mammal found in the park.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Wildlife,Marine Ecology,Protected Areas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1298,
+        "id":4989,
+        "title":"Olive Ridley Turtle",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1298,
+        "id":4990,
+        "title":"Saltwater Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1298,
+        "id":4991,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1298,
+        "id":4992,
+        "title":"Blue Whale",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1299,
+    "difficulty":2,
+    "title":"1299. Which island is home to Campbell Bay National Park?",
+    "description":"",
+    "hint":"It is India's southernmost large island.",
+    "summary":"Campbell Bay National Park is located on Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,National Parks,Protected Areas,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1299,
+        "id":4993,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1299,
+        "id":4994,
+        "title":"South Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1299,
+        "id":4995,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1299,
+        "id":4996,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1300,
+    "difficulty":2,
+    "title":"1300. Which Union Territory of India consists of more than 570 islands?",
+    "description":"",
+    "hint":"It lies in the Bay of Bengal.",
+    "summary":"The Andaman and Nicobar Islands comprise over 570 islands, islets and rocks.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1300,
+        "id":4997,
+        "title":"Andaman and Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1300,
+        "id":4998,
+        "title":"Lakshadweep",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1300,
+        "id":4999,
+        "title":"Puducherry",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1300,
+        "id":5000,
+        "title":"Chandigarh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
