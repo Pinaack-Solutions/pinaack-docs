@@ -1906,7 +1906,7 @@
         "id":4181,
         "title":"Goa",
         "tenantId":4,
-        "isAnswer":true
+        "isAnswer":false
       },
       {
         "questionId":1096,
@@ -1927,7 +1927,7 @@
         "id":4184,
         "title":"Maharashtra",
         "tenantId":4,
-        "isAnswer":false
+        "isAnswer":true
       }
     ]
   },
