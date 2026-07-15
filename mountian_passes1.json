@@ -1,0 +1,1682 @@
+[
+  {
+    "id":1201,
+    "difficulty":2,
+    "title":"1201. Nathu La Pass connects Sikkim with which neighbouring country?",
+    "description":"",
+    "hint":"It shares the world's longest land border with India.",
+    "summary":"Nathu La Pass connects Sikkim with China (Tibet Autonomous Region).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Sikkim",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1201,
+        "id":4601,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1201,
+        "id":4602,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1201,
+        "id":4603,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1201,
+        "id":4604,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1202,
+    "difficulty":2,
+    "title":"1202. Zoji La Pass connects Ladakh with which region?",
+    "description":"",
+    "hint":"It is famous for its beautiful valley.",
+    "summary":"Zoji La Pass connects Ladakh with the Kashmir Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Ladakh",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1202,
+        "id":4605,
+        "title":"Jammu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1202,
+        "id":4606,
+        "title":"Kashmir Valley",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1202,
+        "id":4607,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1202,
+        "id":4608,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1203,
+    "difficulty":2,
+    "title":"1203. Rohtang Pass is located in which Indian state?",
+    "description":"",
+    "hint":"Its capital is Shimla.",
+    "summary":"Rohtang Pass is located in Himachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1203,
+        "id":4609,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1203,
+        "id":4610,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1203,
+        "id":4611,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1203,
+        "id":4612,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1204,
+    "difficulty":2,
+    "title":"1204. Khardung La Pass is located in which Union Territory?",
+    "description":"",
+    "hint":"It is home to Pangong Tso.",
+    "summary":"Khardung La Pass is located in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,High Altitude,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1204,
+        "id":4613,
+        "title":"Ladakh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1204,
+        "id":4614,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1204,
+        "id":4615,
+        "title":"Chandigarh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1204,
+        "id":4616,
+        "title":"Delhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1205,
+    "difficulty":2,
+    "title":"1205. Which mountain pass connects Manali with Leh?",
+    "description":"",
+    "hint":"It lies on the Manali–Leh Highway.",
+    "summary":"Baralacha La is one of the important passes connecting Manali and Leh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1205,
+        "id":4617,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1205,
+        "id":4618,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1205,
+        "id":4619,
+        "title":"Bomdi La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1205,
+        "id":4620,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1206,
+    "difficulty":2,
+    "title":"1206. Jelep La Pass is located on the border of India and which country?",
+    "description":"",
+    "hint":"It is east of Nepal.",
+    "summary":"Jelep La Pass lies on the India–China border.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Sikkim,International Borders",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1206,
+        "id":4621,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1206,
+        "id":4622,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1206,
+        "id":4623,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1206,
+        "id":4624,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1207,
+    "difficulty":2,
+    "title":"1207. Bomdi La Pass is located in which state?",
+    "description":"",
+    "hint":"Its capital is Itanagar.",
+    "summary":"Bomdi La Pass is located in Arunachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,North East,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1207,
+        "id":4625,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1207,
+        "id":4626,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1207,
+        "id":4627,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1207,
+        "id":4628,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1208,
+    "difficulty":2,
+    "title":"1208. Shipki La Pass connects Himachal Pradesh with which neighbouring country?",
+    "description":"",
+    "hint":"It is India's largest neighbouring country.",
+    "summary":"Shipki La Pass connects Himachal Pradesh with China.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Border",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1208,
+        "id":4629,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1208,
+        "id":4630,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1208,
+        "id":4631,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1208,
+        "id":4632,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1209,
+    "difficulty":2,
+    "title":"1209. Which pass is popularly known as the Gateway to Ladakh?",
+    "description":"",
+    "hint":"It connects Srinagar with Leh.",
+    "summary":"Zoji La is known as the Gateway to Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Strategic Routes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1209,
+        "id":4633,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1209,
+        "id":4634,
+        "title":"Zoji La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1209,
+        "id":4635,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1209,
+        "id":4636,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1210,
+    "difficulty":2,
+    "title":"1210. Which mountain pass separates Kashmir Valley from Ladakh?",
+    "description":"",
+    "hint":"It remains snowbound for much of the year.",
+    "summary":"Zoji La separates the Kashmir Valley from Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1210,
+        "id":4637,
+        "title":"Banihal Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1210,
+        "id":4638,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1210,
+        "id":4639,
+        "title":"Zoji La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1210,
+        "id":4640,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1211,
+    "difficulty":2,
+    "title":"1211. Banihal Pass connects the Kashmir Valley with which region?",
+    "description":"",
+    "hint":"It is the southern division of the former state of Jammu and Kashmir.",
+    "summary":"Banihal Pass connects the Kashmir Valley with the Jammu region.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Transport",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1211,
+        "id":4641,
+        "title":"Ladakh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1211,
+        "id":4642,
+        "title":"Jammu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1211,
+        "id":4643,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1211,
+        "id":4644,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1212,
+    "difficulty":2,
+    "title":"1212. Lipulekh Pass lies at the tri-junction of India, Nepal and which country?",
+    "description":"",
+    "hint":"It is located in the Tibet Autonomous Region.",
+    "summary":"Lipulekh Pass lies at the tri-junction of India, Nepal and China.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Borders",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1212,
+        "id":4645,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1212,
+        "id":4646,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1212,
+        "id":4647,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1212,
+        "id":4648,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1213,
+    "difficulty":2,
+    "title":"1213. Mana Pass is located in which Indian state?",
+    "description":"",
+    "hint":"The Char Dham pilgrimage is associated with this state.",
+    "summary":"Mana Pass is located in Uttarakhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Border",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1213,
+        "id":4649,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1213,
+        "id":4650,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1213,
+        "id":4651,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1213,
+        "id":4652,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1214,
+    "difficulty":2,
+    "title":"1214. Which mountain pass is famous for the Kailash Mansarovar Yatra route?",
+    "description":"",
+    "hint":"It lies in Uttarakhand.",
+    "summary":"Lipulekh Pass is one of the traditional routes for the Kailash Mansarovar Yatra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Pilgrimage,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1214,
+        "id":4653,
+        "title":"Mana Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1214,
+        "id":4654,
+        "title":"Lipulekh Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1214,
+        "id":4655,
+        "title":"Niti Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1214,
+        "id":4656,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1215,
+    "difficulty":2,
+    "title":"1215. Niti Pass is located in which state?",
+    "description":"",
+    "hint":"It shares a border with Nepal and China.",
+    "summary":"Niti Pass is located in Uttarakhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Border",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1215,
+        "id":4657,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1215,
+        "id":4658,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1215,
+        "id":4659,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1215,
+        "id":4660,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1216,
+    "difficulty":2,
+    "title":"1216. Which pass connects Chamba Valley with Lahaul Valley?",
+    "description":"",
+    "hint":"It is located in Himachal Pradesh.",
+    "summary":"Sach Pass connects Chamba Valley with the Lahaul region.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1216,
+        "id":4661,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1216,
+        "id":4662,
+        "title":"Sach Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1216,
+        "id":4663,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1216,
+        "id":4664,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1217,
+    "difficulty":2,
+    "title":"1217. Which mountain pass connects Kullu Valley with Lahaul and Spiti?",
+    "description":"",
+    "hint":"It has been bypassed by the Atal Tunnel.",
+    "summary":"Rohtang Pass connects Kullu Valley with Lahaul and Spiti.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Infrastructure",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1217,
+        "id":4665,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1217,
+        "id":4666,
+        "title":"Kunzum Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1217,
+        "id":4667,
+        "title":"Sach Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1217,
+        "id":4668,
+        "title":"Jalori Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1218,
+    "difficulty":2,
+    "title":"1218. Kunzum Pass connects Lahaul Valley with which region?",
+    "description":"",
+    "hint":"It is a cold desert region of Himachal Pradesh.",
+    "summary":"Kunzum Pass connects Lahaul Valley with Spiti Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,High Altitude",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1218,
+        "id":4669,
+        "title":"Kinnaur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1218,
+        "id":4670,
+        "title":"Spiti Valley",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1218,
+        "id":4671,
+        "title":"Kashmir Valley",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1218,
+        "id":4672,
+        "title":"Zanskar Valley",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1219,
+    "difficulty":2,
+    "title":"1219. Which pass connects Kinnaur with Tibet?",
+    "description":"",
+    "hint":"It is located in Himachal Pradesh.",
+    "summary":"Shipki La connects Kinnaur with Tibet.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,International Borders",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1219,
+        "id":4673,
+        "title":"Mana Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1219,
+        "id":4674,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1219,
+        "id":4675,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1219,
+        "id":4676,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1220,
+    "difficulty":2,
+    "title":"1220. Which pass is located between Lahaul and Zanskar ranges?",
+    "description":"",
+    "hint":"It lies on the Manali–Leh Highway.",
+    "summary":"Baralacha La lies between the Lahaul and Zanskar ranges.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Highways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1220,
+        "id":4677,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1220,
+        "id":4678,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1220,
+        "id":4679,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1220,
+        "id":4680,
+        "title":"Tanglang La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1231,
+    "difficulty":2,
+    "title":"1231. Which mountain pass connects Tawang with West Kameng district?",
+    "description":"",
+    "hint":"It is one of the highest motorable passes in Arunachal Pradesh.",
+    "summary":"Sela Pass connects Tawang with West Kameng district in Arunachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Arunachal Pradesh,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1231,
+        "id":4721,
+        "title":"Bomdi La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1231,
+        "id":4722,
+        "title":"Sela Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1231,
+        "id":4723,
+        "title":"Diphu Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1231,
+        "id":4724,
+        "title":"Yonggyap Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1232,
+    "difficulty":2,
+    "title":"1232. Which pass connects Assam with Tawang through Arunachal Pradesh?",
+    "description":"",
+    "hint":"It is lower in altitude than Sela Pass.",
+    "summary":"Bomdi La Pass connects Assam with Tawang via West Kameng.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,NorthEast,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1232,
+        "id":4725,
+        "title":"Diphu Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1232,
+        "id":4726,
+        "title":"Sela Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1232,
+        "id":4727,
+        "title":"Bomdi La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1232,
+        "id":4728,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1233,
+    "difficulty":2,
+    "title":"1233. Diphu Pass lies near the tri-junction of India, China and which country?",
+    "description":"",
+    "hint":"Its capital is Naypyidaw.",
+    "summary":"Diphu Pass lies near the tri-junction of India, China and Myanmar.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,International Borders,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1233,
+        "id":4729,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1233,
+        "id":4730,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1233,
+        "id":4731,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1233,
+        "id":4732,
+        "title":"Bangladesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1234,
+    "difficulty":2,
+    "title":"1234. Which mountain pass is located in the Pir Panjal Range?",
+    "description":"",
+    "hint":"It historically linked Jammu with the Kashmir Valley.",
+    "summary":"Banihal Pass is located in the Pir Panjal Range.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Physical Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1234,
+        "id":4733,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1234,
+        "id":4734,
+        "title":"Banihal Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1234,
+        "id":4735,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1234,
+        "id":4736,
+        "title":"Mana Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1235,
+    "difficulty":2,
+    "title":"1235. Which pass is crossed by the Jawahar Tunnel?",
+    "description":"",
+    "hint":"The tunnel improved year-round connectivity to the Kashmir Valley.",
+    "summary":"The Jawahar Tunnel passes beneath Banihal Pass.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Infrastructure,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1235,
+        "id":4737,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1235,
+        "id":4738,
+        "title":"Banihal Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1235,
+        "id":4739,
+        "title":"Zoji La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1235,
+        "id":4740,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1236,
+    "difficulty":2,
+    "title":"1236. Which mountain pass separates the Kullu Valley from Lahaul Valley?",
+    "description":"",
+    "hint":"The Atal Tunnel now bypasses it.",
+    "summary":"Rohtang Pass separates Kullu Valley from Lahaul Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himachal Pradesh,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1236,
+        "id":4741,
+        "title":"Kunzum Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1236,
+        "id":4742,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1236,
+        "id":4743,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1236,
+        "id":4744,
+        "title":"Sach Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1237,
+    "difficulty":2,
+    "title":"1237. Which pass connects Spiti Valley with Kullu Valley?",
+    "description":"",
+    "hint":"It is famous for the Kunzum Devi Temple.",
+    "summary":"Kunzum Pass connects Spiti Valley with Kullu/Lahaul region.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himachal Pradesh,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1237,
+        "id":4745,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1237,
+        "id":4746,
+        "title":"Sach Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1237,
+        "id":4747,
+        "title":"Kunzum Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1237,
+        "id":4748,
+        "title":"Jalori Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1238,
+    "difficulty":2,
+    "title":"1238. Jalori Pass is situated in which state?",
+    "description":"",
+    "hint":"Its capital is Shimla.",
+    "summary":"Jalori Pass is located in Himachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1238,
+        "id":4749,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1238,
+        "id":4750,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1238,
+        "id":4751,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1238,
+        "id":4752,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1239,
+    "difficulty":2,
+    "title":"1239. Which pass connects the Chamba and Pangi valleys?",
+    "description":"",
+    "hint":"It is one of the most difficult roads in Himachal Pradesh.",
+    "summary":"Sach Pass connects Chamba and Pangi valleys.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himachal Pradesh,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1239,
+        "id":4753,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1239,
+        "id":4754,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1239,
+        "id":4755,
+        "title":"Sach Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1239,
+        "id":4756,
+        "title":"Kunzum Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1240,
+    "difficulty":2,
+    "title":"1240. Which pass is located between Kargil and Zanskar?",
+    "description":"",
+    "hint":"It is considered the gateway to Zanskar Valley.",
+    "summary":"Pensi La connects Kargil with Zanskar Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Ladakh,HighAltitude",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1240,
+        "id":4757,
+        "title":"Namika La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1240,
+        "id":4758,
+        "title":"Pensi La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1240,
+        "id":4759,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1240,
+        "id":4760,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1241,
+    "difficulty":2,
+    "title":"1241. Which mountain pass connects Leh with Pangong Tso Lake?",
+    "description":"",
+    "hint":"It is one of the highest motorable passes in Ladakh.",
+    "summary":"Chang La Pass lies on the route connecting Leh to Pangong Tso.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Ladakh,HighAltitude",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1241,
+        "id":4761,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1241,
+        "id":4762,
+        "title":"Tanglang La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1241,
+        "id":4763,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1241,
+        "id":4764,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1242,
+    "difficulty":2,
+    "title":"1242. Which pass connects Leh with Nubra Valley?",
+    "description":"",
+    "hint":"It was once claimed to be the world's highest motorable road.",
+    "summary":"Khardung La connects Leh with Nubra Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Ladakh,StrategicRoutes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1242,
+        "id":4765,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1242,
+        "id":4766,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1242,
+        "id":4767,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1242,
+        "id":4768,
+        "title":"Pensi La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1243,
+    "difficulty":2,
+    "title":"1243. Which pass is located between Leh and Kargil on the Srinagar–Leh Highway?",
+    "description":"",
+    "hint":"It is the highest point on this highway.",
+    "summary":"Fotu La is the highest pass on the Srinagar–Leh Highway.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Ladakh,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1243,
+        "id":4769,
+        "title":"Namika La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1243,
+        "id":4770,
+        "title":"Zoji La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1243,
+        "id":4771,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1243,
+        "id":4772,
+        "title":"Pensi La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1244,
+    "difficulty":2,
+    "title":"1244. Which mountain pass lies between Drass and Kargil?",
+    "description":"",
+    "hint":"It is crossed while travelling from Srinagar to Leh.",
+    "summary":"Zoji La lies between Sonamarg and Drass, leading toward Kargil.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,StrategicRoutes",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1244,
+        "id":4773,
+        "title":"Banihal Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1244,
+        "id":4774,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1244,
+        "id":4775,
+        "title":"Zoji La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1244,
+        "id":4776,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1245,
+    "difficulty":2,
+    "title":"1245. Which pass links Himachal Pradesh with Ladakh through the Manali–Leh Highway?",
+    "description":"",
+    "hint":"It lies after Rohtang Pass while travelling towards Leh.",
+    "summary":"Baralacha La is an important pass on the Manali–Leh Highway.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Transport",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1245,
+        "id":4777,
+        "title":"Tanglang La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1245,
+        "id":4778,
+        "title":"Rohtang Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1245,
+        "id":4779,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1245,
+        "id":4780,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1246,
+    "difficulty":2,
+    "title":"1246. Which pass is located between Leh and the Indus Valley?",
+    "description":"",
+    "hint":"It is one of the highest passes on the Leh–Manali route.",
+    "summary":"Tanglang La overlooks the upper Indus Valley on the Leh–Manali Highway.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Ladakh,PhysicalGeography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1246,
+        "id":4781,
+        "title":"Tanglang La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1246,
+        "id":4782,
+        "title":"Khardung La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1246,
+        "id":4783,
+        "title":"Chang La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1246,
+        "id":4784,
+        "title":"Fotu La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1247,
+    "difficulty":2,
+    "title":"1247. Which mountain pass is famous for the Sela Lake located nearby?",
+    "description":"",
+    "hint":"It lies on the road to Tawang.",
+    "summary":"Sela Pass is famous for the picturesque Sela Lake.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,ArunachalPradesh,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1247,
+        "id":4785,
+        "title":"Bomdi La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1247,
+        "id":4786,
+        "title":"Diphu Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1247,
+        "id":4787,
+        "title":"Sela Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1247,
+        "id":4788,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1248,
+    "difficulty":2,
+    "title":"1248. Which pass was historically a part of the ancient Silk Route in Sikkim?",
+    "description":"",
+    "hint":"It is currently an important India–China trade route.",
+    "summary":"Nathu La was an important pass on the ancient Silk Route.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,SilkRoute,Trade",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1248,
+        "id":4789,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1248,
+        "id":4790,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1248,
+        "id":4791,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1248,
+        "id":4792,
+        "title":"Lipulekh Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1249,
+    "difficulty":2,
+    "title":"1249. Which pass lies on the border of Sikkim and Tibet but is presently not used for regular trade?",
+    "description":"",
+    "hint":"It is east of Nathu La.",
+    "summary":"Jelep La was historically important but is no longer used for regular trade.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Sikkim,InternationalBorders",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1249,
+        "id":4793,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1249,
+        "id":4794,
+        "title":"Shipki La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1249,
+        "id":4795,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1249,
+        "id":4796,
+        "title":"Mana Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1250,
+    "difficulty":2,
+    "title":"1250. Which mountain pass is located in Uttarakhand near Badrinath?",
+    "description":"",
+    "hint":"It shares its name with India's last village before the China border.",
+    "summary":"Mana Pass is located near Badrinath in Uttarakhand.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Uttarakhand,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1250,
+        "id":4797,
+        "title":"Lipulekh Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1250,
+        "id":4798,
+        "title":"Mana Pass",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1250,
+        "id":4799,
+        "title":"Niti Pass",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1250,
+        "id":4800,
+        "title":"Banihal Pass",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
