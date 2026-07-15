@@ -1,0 +1,2102 @@
+[
+  {
+    "id":1301,
+    "difficulty":2,
+    "title":"1301. Which organization is responsible for the research and development of defence technologies in India?",
+    "description":"",
+    "hint":"It was established in 1958.",
+    "summary":"DRDO is India's premier defence research and development organization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Research,Organizations",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1301,
+        "id":5001,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1301,
+        "id":5002,
+        "title":"Defence Research and Development Organisation (DRDO)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1301,
+        "id":5003,
+        "title":"ISRO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1301,
+        "id":5004,
+        "title":"BEL",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1302,
+    "difficulty":2,
+    "title":"1302. Which is the supreme command authority of the Indian Armed Forces?",
+    "description":"",
+    "hint":"The position is held by the constitutional head of India.",
+    "summary":"The President of India is the Supreme Commander of the Armed Forces.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Constitution,Government",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1302,
+        "id":5005,
+        "title":"Prime Minister",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5006,
+        "title":"Chief of Defence Staff",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5007,
+        "title":"Defence Minister",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5008,
+        "title":"President of India",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1303,
+    "difficulty":2,
+    "title":"1303. Which is the oldest armed force of India?",
+    "description":"",
+    "hint":"Its origins date back to the East India Company.",
+    "summary":"The Indian Army is the oldest of India's armed forces.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,History",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1303,
+        "id":5009,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1303,
+        "id":5010,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1303,
+        "id":5011,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1303,
+        "id":5012,
+        "title":"Indian Coast Guard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1304,
+    "difficulty":2,
+    "title":"1304. The headquarters of the Indian Navy is located in:",
+    "description":"",
+    "hint":"It is India's financial capital.",
+    "summary":"The Naval Headquarters is in New Delhi, while The Indian Western Naval Command in Mumbai.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Headquarters",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1304,
+        "id":5013,
+        "title":"Mumbai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1304,
+        "id":5014,
+        "title":"Kochi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1304,
+        "id":5015,
+        "title":"New Delhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1304,
+        "id":5016,
+        "title":"Visakhapatnam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1305,
+    "difficulty":2,
+    "title":"1305. Which force is primarily responsible for guarding India's international land borders?",
+    "description":"",
+    "hint":"It is one of India's Central Armed Police Forces.",
+    "summary":"The Border Security Force guards most of India's international land borders.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Border Security,Security Forces",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1305,
+        "id":5017,
+        "title":"CRPF",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1305,
+        "id":5018,
+        "title":"Border Security Force (BSF)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1305,
+        "id":5019,
+        "title":"ITBP",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1305,
+        "id":5020,
+        "title":"CISF",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1306,
+    "difficulty":2,
+    "title":"1306. Which Indian defence force celebrates its Raising Day on 15 January?",
+    "description":"",
+    "hint":"Field Marshal K.M. Cariappa became its first Indian Commander-in-Chief on this date.",
+    "summary":"Indian Army Day is celebrated every year on 15 January.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Important Days",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1306,
+        "id":5021,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1306,
+        "id":5022,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1306,
+        "id":5023,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1306,
+        "id":5024,
+        "title":"Indian Coast Guard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1307,
+    "difficulty":2,
+    "title":"1307. Which missile is India's first indigenously developed ballistic missile?",
+    "description":"",
+    "hint":"It is named after a mythological weapon.",
+    "summary":"Prithvi was India's first indigenously developed ballistic missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Technology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1307,
+        "id":5025,
+        "title":"Agni-I",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5026,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5027,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5028,
+        "title":"Prithvi",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1308,
+    "difficulty":2,
+    "title":"1308. Which missile is jointly developed by India and Russia?",
+    "description":"",
+    "hint":"Its name is derived from two rivers.",
+    "summary":"BrahMos is a joint venture between India and Russia.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,International Cooperation",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1308,
+        "id":5029,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1308,
+        "id":5030,
+        "title":"Prithvi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1308,
+        "id":5031,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1308,
+        "id":5032,
+        "title":"Agni-II",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1309,
+    "difficulty":2,
+    "title":"1309. Which organization manufactures the Tejas Light Combat Aircraft?",
+    "description":"",
+    "hint":"It is a public sector aerospace company.",
+    "summary":"Hindustan Aeronautics Limited manufactures the Tejas fighter aircraft.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Aerospace,PSUs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1309,
+        "id":5033,
+        "title":"Hindustan Aeronautics Limited (HAL)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1309,
+        "id":5034,
+        "title":"Bharat Electronics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1309,
+        "id":5035,
+        "title":"BHEL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1309,
+        "id":5036,
+        "title":"Mazagon Dock Shipbuilders",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1310,
+    "difficulty":2,
+    "title":"1310. Which Indian armed force is responsible for safeguarding India's maritime interests?",
+    "description":"",
+    "hint":"Its motto is 'Sham No Varunah'.",
+    "summary":"The Indian Navy protects India's maritime interests and sea lanes.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Maritime Security",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1310,
+        "id":5037,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1310,
+        "id":5038,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1310,
+        "id":5039,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1310,
+        "id":5040,
+        "title":"Border Security Force",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1311,
+    "difficulty":2,
+    "title":"1311. Which was the first indigenously built aircraft carrier of India?",
+    "description":"",
+    "hint":"It was commissioned in 2022.",
+    "summary":"INS Vikrant is India's first indigenously built aircraft carrier.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Warships",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1311,
+        "id":5041,
+        "title":"INS Viraat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1311,
+        "id":5042,
+        "title":"INS Vikramaditya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1311,
+        "id":5043,
+        "title":"INS Vikrant",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1311,
+        "id":5044,
+        "title":"INS Mysore",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1312,
+    "difficulty":2,
+    "title":"1312. Which missile is India's long-range surface-to-air missile developed jointly with Israel?",
+    "description":"",
+    "hint":"It is also deployed by the Indian Navy.",
+    "summary":"Barak-8 is jointly developed by India and Israel.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,International Cooperation",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1312,
+        "id":5045,
+        "title":"Barak-8",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1312,
+        "id":5046,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1312,
+        "id":5047,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1312,
+        "id":5048,
+        "title":"Prithvi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1313,
+    "difficulty":2,
+    "title":"1313. The headquarters of the Integrated Defence Staff (IDS) is located in:",
+    "description":"",
+    "hint":"It is the national capital.",
+    "summary":"The Integrated Defence Staff is headquartered in New Delhi.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Administration",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1313,
+        "id":5049,
+        "title":"Mumbai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1313,
+        "id":5050,
+        "title":"Pune",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1313,
+        "id":5051,
+        "title":"Jaipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1313,
+        "id":5052,
+        "title":"New Delhi",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1314,
+    "difficulty":2,
+    "title":"1314. Which Indian Air Force exercise is conducted jointly with the Royal Air Force (UK)?",
+    "description":"",
+    "hint":"Its name means 'to fly together'.",
+    "summary":"Exercise Indradhanush is conducted between India and the United Kingdom.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Exercises,Air Force",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1314,
+        "id":5053,
+        "title":"Garuda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1314,
+        "id":5054,
+        "title":"Indradhanush",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1314,
+        "id":5055,
+        "title":"Cope India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1314,
+        "id":5056,
+        "title":"Desert Eagle",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1315,
+    "difficulty":2,
+    "title":"1315. Which missile is designed primarily as an anti-tank guided missile (ATGM)?",
+    "description":"",
+    "hint":"It is named after a snake.",
+    "summary":"Nag is India's indigenous third-generation anti-tank guided missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Technology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1315,
+        "id":5057,
+        "title":"Agni-V",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1315,
+        "id":5058,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1315,
+        "id":5059,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1315,
+        "id":5060,
+        "title":"Pralay",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1316,
+    "difficulty":2,
+    "title":"1316. Which organization is responsible for manufacturing India's Arjun Main Battle Tank?",
+    "description":"",
+    "hint":"It is headquartered in Avadi, Chennai.",
+    "summary":"Heavy Vehicles Factory (HVF), Avadi manufactures the Arjun MBT.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Tanks,Manufacturing",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1316,
+        "id":5061,
+        "title":"Heavy Vehicles Factory (HVF)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1316,
+        "id":5062,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1316,
+        "id":5063,
+        "title":"BEL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1316,
+        "id":5064,
+        "title":"Mazagon Dock",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1317,
+    "difficulty":2,
+    "title":"1317. Which Indian missile is capable of carrying both conventional and nuclear warheads?",
+    "description":"",
+    "hint":"It is a family of ballistic missiles.",
+    "summary":"The Agni missile series is capable of carrying conventional and nuclear warheads.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Nuclear",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1317,
+        "id":5065,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1317,
+        "id":5066,
+        "title":"Agni",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1317,
+        "id":5067,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1317,
+        "id":5068,
+        "title":"Pinaka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1318,
+    "difficulty":2,
+    "title":"1318. Which defence PSU is India's leading warship builder on the west coast?",
+    "description":"",
+    "hint":"It is based in Mumbai.",
+    "summary":"Mazagon Dock Shipbuilders Limited builds destroyers, frigates and submarines.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,PSUs,Shipbuilding",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1318,
+        "id":5069,
+        "title":"Garden Reach Shipbuilders",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1318,
+        "id":5070,
+        "title":"Goa Shipyard Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1318,
+        "id":5071,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1318,
+        "id":5072,
+        "title":"Mazagon Dock Shipbuilders Limited",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1319,
+    "difficulty":2,
+    "title":"1319. Which Indian defence exercise is conducted jointly with the United States Army?",
+    "description":"",
+    "hint":"It is an annual bilateral army exercise.",
+    "summary":"Exercise Yudh Abhyas is conducted between the Indian Army and the U.S. Army.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Exercises,Army",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1319,
+        "id":5073,
+        "title":"Yudh Abhyas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1319,
+        "id":5074,
+        "title":"Mitra Shakti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1319,
+        "id":5075,
+        "title":"Nomadic Elephant",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1319,
+        "id":5076,
+        "title":"Hand-in-Hand",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1320,
+    "difficulty":2,
+    "title":"1320. The motto 'Touch the Sky with Glory' is associated with which branch of the Indian Armed Forces?",
+    "description":"",
+    "hint":"It operates fighter aircraft and helicopters.",
+    "summary":"The motto 'Touch the Sky with Glory' belongs to the Indian Air Force.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Air Force,Mottos",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1320,
+        "id":5077,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1320,
+        "id":5078,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1320,
+        "id":5079,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1320,
+        "id":5080,
+        "title":"Indian Coast Guard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1321,
+    "difficulty":2,
+    "title":"1321. Which missile is India's first indigenous beyond-visual-range air-to-air missile (BVRAAM)?",
+    "description":"",
+    "hint":"It has been integrated with the Tejas fighter aircraft.",
+    "summary":"Astra is India's first indigenously developed beyond-visual-range air-to-air missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Air Force",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1321,
+        "id":5081,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1321,
+        "id":5082,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1321,
+        "id":5083,
+        "title":"Pralay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1321,
+        "id":5084,
+        "title":"Astra",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1322,
+    "difficulty":2,
+    "title":"1322. Which defence PSU manufactures the Tejas Light Combat Aircraft?",
+    "description":"",
+    "hint":"It is headquartered in Bengaluru.",
+    "summary":"Hindustan Aeronautics Limited (HAL) manufactures the Tejas Light Combat Aircraft.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Aerospace,PSUs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1322,
+        "id":5085,
+        "title":"Bharat Electronics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1322,
+        "id":5086,
+        "title":"Hindustan Aeronautics Limited (HAL)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1322,
+        "id":5087,
+        "title":"Bharat Dynamics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1322,
+        "id":5088,
+        "title":"Mazagon Dock Shipbuilders",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1323,
+    "difficulty":2,
+    "title":"1323. Which Indian missile system is a surface-to-air missile designed for air defence?",
+    "description":"",
+    "hint":"It is named after the sky.",
+    "summary":"Akash is India's indigenously developed medium-range surface-to-air missile system.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Air Defence",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1323,
+        "id":5089,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1323,
+        "id":5090,
+        "title":"Agni-I",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1323,
+        "id":5091,
+        "title":"K-15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1323,
+        "id":5092,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1324,
+    "difficulty":2,
+    "title":"1324. Exercise 'Malabar' is a multilateral naval exercise involving India and which of the following countries?",
+    "description":"",
+    "hint":"The Quad nations participate in it.",
+    "summary":"Exercise Malabar is conducted by India, the United States, Japan and Australia.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Exercises,Navy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1324,
+        "id":5093,
+        "title":"France, Germany and UK",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1324,
+        "id":5094,
+        "title":"Russia, China and Japan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1324,
+        "id":5095,
+        "title":"United States, Japan and Australia",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1324,
+        "id":5096,
+        "title":"Sri Lanka, Maldives and Indonesia",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1325,
+    "difficulty":2,
+    "title":"1325. Which organization manufactures the Pinaka Multi-Barrel Rocket Launcher (MBRL)?",
+    "description":"",
+    "hint":"It is produced by defence PSUs along with private industry.",
+    "summary":"Pinaka is manufactured by Bharat Earth Movers Limited (BEML), Tata, Larsen & Toubro and others, while its rockets are produced by Bharat Dynamics Limited and other partners.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Artillery,Manufacturing",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1325,
+        "id":5097,
+        "title":"ISRO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1325,
+        "id":5098,
+        "title":"Bharat Earth Movers Limited (BEML)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1325,
+        "id":5099,
+        "title":"Airport Authority of India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1325,
+        "id":5100,
+        "title":"Indian Railways",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1326,
+    "difficulty":2,
+    "title":"1326. Which Indian missile is a submarine-launched ballistic missile (SLBM) with a range of about 750 km?",
+    "description":"",
+    "hint":"It is also known as B-05.",
+    "summary":"K-15 (Sagarika) is India's first operational submarine-launched ballistic missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Navy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1326,
+        "id":5101,
+        "title":"Agni-I",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1326,
+        "id":5102,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1326,
+        "id":5103,
+        "title":"K-15 (Sagarika)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1326,
+        "id":5104,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1327,
+    "difficulty":2,
+    "title":"1327. Which organization develops India's indigenous ballistic missile defence (BMD) programme?",
+    "description":"",
+    "hint":"It is India's premier defence R&D agency.",
+    "summary":"The Ballistic Missile Defence programme is developed by the Defence Research and Development Organisation (DRDO).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missile Defence,Research",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1327,
+        "id":5105,
+        "title":"Defence Research and Development Organisation (DRDO)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1327,
+        "id":5106,
+        "title":"ISRO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1327,
+        "id":5107,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1327,
+        "id":5108,
+        "title":"Bharat Electronics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1328,
+    "difficulty":2,
+    "title":"1328. Exercise 'Varuna' is a bilateral naval exercise between India and:",
+    "description":"",
+    "hint":"It is conducted with a European country.",
+    "summary":"Exercise Varuna is the bilateral naval exercise conducted between the Indian Navy and the French Navy.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Exercises,Navy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1328,
+        "id":5109,
+        "title":"United Kingdom",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1328,
+        "id":5110,
+        "title":"Russia",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1328,
+        "id":5111,
+        "title":"United States",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1328,
+        "id":5112,
+        "title":"France",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1329,
+    "difficulty":2,
+    "title":"1329. Which organization is responsible for producing the BrahMos missile?",
+    "description":"",
+    "hint":"It is an Indo-Russian joint venture.",
+    "summary":"BrahMos Aerospace is the Indo-Russian joint venture responsible for manufacturing the BrahMos missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Joint Ventures",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1329,
+        "id":5113,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1329,
+        "id":5114,
+        "title":"BrahMos Aerospace",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1329,
+        "id":5115,
+        "title":"Bharat Dynamics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1329,
+        "id":5116,
+        "title":"Mazagon Dock Shipbuilders",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1330,
+    "difficulty":2,
+    "title":"1330. Which Indian Navy aircraft is primarily used for long-range maritime reconnaissance and anti-submarine warfare?",
+    "description":"",
+    "hint":"It is based on the Boeing 737 platform.",
+    "summary":"The P-8I Poseidon is India's primary long-range maritime reconnaissance and anti-submarine warfare aircraft.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Aircraft",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1330,
+        "id":5117,
+        "title":"MiG-29K",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1330,
+        "id":5118,
+        "title":"Sea Harrier",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1330,
+        "id":5119,
+        "title":"P-8I Poseidon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1330,
+        "id":5120,
+        "title":"HAL Dhruv",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1331,
+    "difficulty":2,
+    "title":"1331. Which Indian missile is an indigenously developed anti-radiation missile designed to destroy enemy radar systems?",
+    "description":"",
+    "hint":"Its name is derived from the Sanskrit word for 'rudder' or 'guidance'.",
+    "summary":"Rudram-1 is India's first indigenous air-launched anti-radiation missile developed by DRDO.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Air Force",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1331,
+        "id":5121,
+        "title":"Astra Mk-1",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1331,
+        "id":5122,
+        "title":"Rudram-1",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1331,
+        "id":5123,
+        "title":"Nag",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1331,
+        "id":5124,
+        "title":"Akash-NG",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1332,
+    "difficulty":2,
+    "title":"1332. The National Defence Academy (NDA) is located at:",
+    "description":"",
+    "hint":"It is situated near Pune.",
+    "summary":"The National Defence Academy is located at Khadakwasla, Maharashtra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Training,Military Academies",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1332,
+        "id":5125,
+        "title":"Dehradun",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1332,
+        "id":5126,
+        "title":"Wellington",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1332,
+        "id":5127,
+        "title":"Secunderabad",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1332,
+        "id":5128,
+        "title":"Khadakwasla",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1333,
+    "difficulty":2,
+    "title":"1333. Which is the premier training academy for officers of the Indian Air Force?",
+    "description":"",
+    "hint":"It is located in Hyderabad.",
+    "summary":"The Air Force Academy at Dundigal trains officers of the Indian Air Force.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Air Force,Training",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1333,
+        "id":5129,
+        "title":"Air Force Academy, Dundigal",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1333,
+        "id":5130,
+        "title":"Indian Military Academy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1333,
+        "id":5131,
+        "title":"National Defence Academy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1333,
+        "id":5132,
+        "title":"Officers Training Academy",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1334,
+    "difficulty":2,
+    "title":"1334. Which Indian naval command is headquartered at Visakhapatnam?",
+    "description":"",
+    "hint":"It is responsible for operations in the Bay of Bengal.",
+    "summary":"The Eastern Naval Command is headquartered at Visakhapatnam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Commands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1334,
+        "id":5133,
+        "title":"Southern Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1334,
+        "id":5134,
+        "title":"Western Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1334,
+        "id":5135,
+        "title":"Eastern Naval Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1334,
+        "id":5136,
+        "title":"Andaman and Nicobar Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1335,
+    "difficulty":2,
+    "title":"1335. Which Indian defence PSU specializes primarily in the production of guided missiles and underwater weapons?",
+    "description":"",
+    "hint":"Its headquarters is in Hyderabad.",
+    "summary":"Bharat Dynamics Limited (BDL) manufactures guided missiles, torpedoes and related defence equipment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,PSUs,Missiles",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1335,
+        "id":5137,
+        "title":"Hindustan Aeronautics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1335,
+        "id":5138,
+        "title":"Bharat Dynamics Limited",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1335,
+        "id":5139,
+        "title":"Garden Reach Shipbuilders & Engineers",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1335,
+        "id":5140,
+        "title":"Mazagon Dock Shipbuilders",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1336,
+    "difficulty":2,
+    "title":"1336. Which is India's only tri-service command?",
+    "description":"",
+    "hint":"It is headquartered at Port Blair.",
+    "summary":"The Andaman and Nicobar Command is India's first and only tri-service command.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Commands,Tri-Service",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1336,
+        "id":5141,
+        "title":"Northern Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1336,
+        "id":5142,
+        "title":"Strategic Forces Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1336,
+        "id":5143,
+        "title":"Southern Air Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1336,
+        "id":5144,
+        "title":"Andaman and Nicobar Command",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1337,
+    "difficulty":2,
+    "title":"1337. Which missile is an indigenously developed man-portable anti-tank guided missile (ATGM) by DRDO?",
+    "description":"",
+    "hint":"It is the MPATGM project.",
+    "summary":"MPATGM is an indigenous man-portable anti-tank guided missile developed by DRDO.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,DRDO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1337,
+        "id":5145,
+        "title":"MILAN",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1337,
+        "id":5146,
+        "title":"MPATGM",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1337,
+        "id":5147,
+        "title":"Spike",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1337,
+        "id":5148,
+        "title":"Javelin",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1338,
+    "difficulty":2,
+    "title":"1338. The Indian Military Academy (IMA) is located at:",
+    "description":"",
+    "hint":"It is in Uttarakhand.",
+    "summary":"The Indian Military Academy is located in Dehradun.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Training,Army",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1338,
+        "id":5149,
+        "title":"Dehradun",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1338,
+        "id":5150,
+        "title":"Pune",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1338,
+        "id":5151,
+        "title":"Hyderabad",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1338,
+        "id":5152,
+        "title":"Chennai",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1339,
+    "difficulty":2,
+    "title":"1339. Which command of the Indian Navy is headquartered at Kochi?",
+    "description":"",
+    "hint":"It is primarily the Navy's training command.",
+    "summary":"The Southern Naval Command is headquartered at Kochi.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Commands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1339,
+        "id":5153,
+        "title":"Eastern Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1339,
+        "id":5154,
+        "title":"Western Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1339,
+        "id":5155,
+        "title":"Southern Naval Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1339,
+        "id":5156,
+        "title":"Andaman and Nicobar Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1340,
+    "difficulty":2,
+    "title":"1340. Which Indian defence PSU is headquartered in Bengaluru and specializes in military electronics, radars and communication systems?",
+    "description":"",
+    "hint":"It is commonly abbreviated as BEL.",
+    "summary":"Bharat Electronics Limited (BEL) is India's leading defence electronics PSU.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,PSUs,Electronics",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1340,
+        "id":5157,
+        "title":"Bharat Electronics Limited (BEL)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1340,
+        "id":5158,
+        "title":"Bharat Dynamics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1340,
+        "id":5159,
+        "title":"Hindustan Aeronautics Limited",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1340,
+        "id":5160,
+        "title":"Garden Reach Shipbuilders & Engineers",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1341,
+    "difficulty":2,
+    "title":"1341. Which Indian Air Force command is responsible for air operations in the western region of India?",
+    "description":"",
+    "hint":"Its headquarters is located in New Delhi.",
+    "summary":"Western Air Command is one of the major operational commands of the Indian Air Force.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Air Force,Commands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1341,
+        "id":5161,
+        "title":"Central Air Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1341,
+        "id":5162,
+        "title":"Western Air Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1341,
+        "id":5163,
+        "title":"Eastern Air Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1341,
+        "id":5164,
+        "title":"Southern Air Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1342,
+    "difficulty":2,
+    "title":"1342. Which Indian naval ship is the first indigenous aircraft carrier built by Cochin Shipyard Limited?",
+    "description":"",
+    "hint":"It was commissioned into the Indian Navy in 2022.",
+    "summary":"INS Vikrant (IAC-1) is India's first indigenous aircraft carrier.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Aircraft Carrier",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1342,
+        "id":5165,
+        "title":"INS Vikramaditya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1342,
+        "id":5166,
+        "title":"INS Viraat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1342,
+        "id":5167,
+        "title":"INS Chennai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1342,
+        "id":5168,
+        "title":"INS Vikrant",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1343,
+    "difficulty":2,
+    "title":"1343. Who is the Supreme Commander of the Indian Armed Forces according to the Constitution of India?",
+    "description":"",
+    "hint":"It is the highest constitutional office in India.",
+    "summary":"The President of India is the Supreme Commander of the Indian Armed Forces.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Constitution",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1343,
+        "id":5169,
+        "title":"President of India",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1343,
+        "id":5170,
+        "title":"Prime Minister of India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1343,
+        "id":5171,
+        "title":"Defence Minister of India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1343,
+        "id":5172,
+        "title":"Chief of Defence Staff",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1344,
+    "difficulty":2,
+    "title":"1344. Which operation was launched by the Indian Armed Forces during the Kargil War in 1999?",
+    "description":"",
+    "hint":"It was a military operation to evict Pakistani forces from Kargil heights.",
+    "summary":"Operation Vijay was launched during the Kargil conflict of 1999.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Operations,History",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1344,
+        "id":5173,
+        "title":"Operation Vijay",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1344,
+        "id":5174,
+        "title":"Operation Meghdoot",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1344,
+        "id":5175,
+        "title":"Operation Cactus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1344,
+        "id":5176,
+        "title":"Operation Trident",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1345,
+    "difficulty":2,
+    "title":"1345. Which Indian missile is a supersonic cruise missile jointly developed with Russia?",
+    "description":"",
+    "hint":"Its name combines two rivers.",
+    "summary":"BrahMos is a supersonic cruise missile developed through India-Russia cooperation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Joint Development",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1345,
+        "id":5177,
+        "title":"Agni",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1345,
+        "id":5178,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1345,
+        "id":5179,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1345,
+        "id":5180,
+        "title":"Prithvi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1346,
+    "difficulty":2,
+    "title":"1346. Which Indian Army command is responsible for the defence of the northern borders including Ladakh region?",
+    "description":"",
+    "hint":"Its headquarters is located in Udhampur.",
+    "summary":"Northern Command of the Indian Army is headquartered at Udhampur, Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Army,Commands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1346,
+        "id":5181,
+        "title":"Western Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1346,
+        "id":5182,
+        "title":"Eastern Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1346,
+        "id":5183,
+        "title":"Northern Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1346,
+        "id":5184,
+        "title":"Southern Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1347,
+    "difficulty":2,
+    "title":"1347. Which Indian defence research laboratory is associated with missile development?",
+    "description":"",
+    "hint":"It is located in Hyderabad.",
+    "summary":"Research Centre Imarat (RCI) is a DRDO laboratory involved in missile systems development.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,DRDO,Research",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1347,
+        "id":5185,
+        "title":"Research Centre Imarat (RCI)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1347,
+        "id":5186,
+        "title":"National Aerospace Laboratories",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1347,
+        "id":5187,
+        "title":"Physical Research Laboratory",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1347,
+        "id":5188,
+        "title":"Indian Institute of Science",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1348,
+    "difficulty":2,
+    "title":"1348. Which operation of the Indian Army is associated with securing the Siachen Glacier?",
+    "description":"",
+    "hint":"It was launched in 1984.",
+    "summary":"Operation Meghdoot was launched in 1984 to secure the Siachen Glacier.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military Operations,Siachen",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1348,
+        "id":5189,
+        "title":"Operation Vijay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1348,
+        "id":5190,
+        "title":"Operation Cactus",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1348,
+        "id":5191,
+        "title":"Operation Pawan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1348,
+        "id":5192,
+        "title":"Operation Meghdoot",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1349,
+    "difficulty":2,
+    "title":"1349. Which Indian naval command is headquartered in Mumbai?",
+    "description":"",
+    "hint":"It is responsible for India's western maritime region.",
+    "summary":"Western Naval Command is headquartered in Mumbai.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Navy,Commands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1349,
+        "id":5193,
+        "title":"Eastern Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1349,
+        "id":5194,
+        "title":"Western Naval Command",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1349,
+        "id":5195,
+        "title":"Southern Naval Command",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1349,
+        "id":5196,
+        "title":"Andaman and Nicobar Command",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1350,
+    "difficulty":2,
+    "title":"1350. Which Indian fighter aircraft is known as the Light Combat Aircraft (LCA)?",
+    "description":"",
+    "hint":"It was developed by HAL with support from DRDO agencies.",
+    "summary":"Tejas is India's indigenous Light Combat Aircraft.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Aircraft,Air Force",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1350,
+        "id":5197,
+        "title":"Sukhoi Su-30MKI",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1350,
+        "id":5198,
+        "title":"Rafale",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1350,
+        "id":5199,
+        "title":"Tejas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1350,
+        "id":5200,
+        "title":"Mirage 2000",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
