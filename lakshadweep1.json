@@ -1,0 +1,2102 @@
+[
+  {
+    "id":1351,
+    "difficulty":2,
+    "title":"1351. Lakshadweep is a Union Territory of India located in which sea?",
+    "description":"",
+    "hint":"It is located southwest of the Indian mainland.",
+    "summary":"Lakshadweep islands are located in the Arabian Sea.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1351,
+        "id":5201,
+        "title":"Bay of Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1351,
+        "id":5202,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1351,
+        "id":5203,
+        "title":"Indian Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1351,
+        "id":5204,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1352,
+    "difficulty":2,
+    "title":"1352. What is the capital of Lakshadweep Union Territory?",
+    "description":"",
+    "hint":"It is located on Kavaratti Island.",
+    "summary":"Kavaratti is the capital and largest inhabited island of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Polity,Capital",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1352,
+        "id":5205,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5206,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5207,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5208,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1353,
+    "difficulty":2,
+    "title":"1353. Lakshadweep islands are mainly of which geological origin?",
+    "description":"",
+    "hint":"They are associated with coral formations.",
+    "summary":"Lakshadweep islands are coral atolls formed mainly from coral reefs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Coral Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1353,
+        "id":5209,
+        "title":"Coral origin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1353,
+        "id":5210,
+        "title":"Volcanic origin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1353,
+        "id":5211,
+        "title":"River deposition",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1353,
+        "id":5212,
+        "title":"Glacial origin",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1354,
+    "difficulty":2,
+    "title":"1354. Which is the largest island in the Lakshadweep group by area?",
+    "description":"",
+    "hint":"It is located in the southern part of Lakshadweep.",
+    "summary":"Andrott Island is the largest island of Lakshadweep by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1354,
+        "id":5213,
+        "title":"Andrott",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1354,
+        "id":5214,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1354,
+        "id":5215,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1354,
+        "id":5216,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1355,
+    "difficulty":2,
+    "title":"1355. How many islands are there in the Lakshadweep archipelago?",
+    "description":"",
+    "hint":"This is the official number of islands in the Union Territory.",
+    "summary":"Lakshadweep consists of 36 islands, including inhabited and uninhabited islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1355,
+        "id":5217,
+        "title":"24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1355,
+        "id":5218,
+        "title":"36",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1355,
+        "id":5219,
+        "title":"42",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1355,
+        "id":5220,
+        "title":"52",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1356,
+    "difficulty":2,
+    "title":"1356. Which island of Lakshadweep is closest to the Maldives?",
+    "description":"",
+    "hint":"It is the southernmost island of Lakshadweep.",
+    "summary":"Minicoy Island is the southernmost island of Lakshadweep and is geographically close to the Maldives.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1356,
+        "id":5221,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1356,
+        "id":5222,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1356,
+        "id":5223,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1356,
+        "id":5224,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1357,
+    "difficulty":2,
+    "title":"1357. Which language is predominantly spoken by the people of Lakshadweep?",
+    "description":"",
+    "hint":"It is closely related to the language spoken in Kerala.",
+    "summary":"Malayalam is the most widely spoken language in Lakshadweep, while Mahl is spoken in Minicoy.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Culture,Languages",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1357,
+        "id":5225,
+        "title":"Tamil",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1357,
+        "id":5226,
+        "title":"Malayalam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1357,
+        "id":5227,
+        "title":"Kannada",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1357,
+        "id":5228,
+        "title":"Telugu",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1358,
+    "difficulty":2,
+    "title":"1358. Which type of ecosystem is mainly found around Lakshadweep islands?",
+    "description":"",
+    "hint":"It supports marine biodiversity and protects coastlines.",
+    "summary":"Coral reef ecosystems are the dominant marine ecosystems around Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Coral Reefs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1358,
+        "id":5229,
+        "title":"Mangrove ecosystem",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1358,
+        "id":5230,
+        "title":"Desert ecosystem",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1358,
+        "id":5231,
+        "title":"Coral reef ecosystem",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1358,
+        "id":5232,
+        "title":"Alpine ecosystem",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1359,
+    "difficulty":2,
+    "title":"1359. Lakshadweep was formed as a Union Territory in which year?",
+    "description":"",
+    "hint":"It was separated from Madras State.",
+    "summary":"Lakshadweep became a Union Territory in 1956 under the States Reorganisation Act.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,History,Polity",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1359,
+        "id":5233,
+        "title":"1956",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1359,
+        "id":5234,
+        "title":"1962",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1359,
+        "id":5235,
+        "title":"1973",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1359,
+        "id":5236,
+        "title":"1987",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1360,
+    "difficulty":2,
+    "title":"1360. Which is the largest inhabited island of Lakshadweep?",
+    "description":"",
+    "hint":"It is also the administrative capital of Lakshadweep.",
+    "summary":"Kavaratti is the largest inhabited island and administrative headquarters of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1360,
+        "id":5237,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1360,
+        "id":5238,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1360,
+        "id":5239,
+        "title":"Andrott",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1360,
+        "id":5240,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1361,
+    "difficulty":2,
+    "title":"1361. Lakshadweep is the smallest Union Territory of India in terms of:",
+    "description":"",
+    "hint":"Consider geographical size.",
+    "summary":"Lakshadweep is the smallest Union Territory of India by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1361,
+        "id":5241,
+        "title":"Population",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1361,
+        "id":5242,
+        "title":"Area",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1361,
+        "id":5243,
+        "title":"Number of islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1361,
+        "id":5244,
+        "title":"Coastline length",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1362,
+    "difficulty":2,
+    "title":"1362. Which island of Lakshadweep has an airport?",
+    "description":"",
+    "hint":"It serves as the main air gateway to Lakshadweep.",
+    "summary":"Agatti Island has the only airport in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Transport,Airport",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1362,
+        "id":5245,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1362,
+        "id":5246,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1362,
+        "id":5247,
+        "title":"Andrott",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1362,
+        "id":5248,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1363,
+    "difficulty":2,
+    "title":"1363. Which island group of India is famous for coral atolls in the Arabian Sea?",
+    "description":"",
+    "hint":"It is a Union Territory located near Kerala.",
+    "summary":"Lakshadweep is known for coral atolls in the Arabian Sea.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Coral Islands,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1363,
+        "id":5249,
+        "title":"Lakshadweep",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1363,
+        "id":5250,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1363,
+        "id":5251,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1363,
+        "id":5252,
+        "title":"Gulf of Kutch Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1364,
+    "difficulty":2,
+    "title":"1364. Which water body separates Lakshadweep from the Indian mainland?",
+    "description":"",
+    "hint":"The islands lie southwest of Kerala.",
+    "summary":"The Arabian Sea separates Lakshadweep from mainland India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Seas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1364,
+        "id":5253,
+        "title":"Bay of Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1364,
+        "id":5254,
+        "title":"Indian Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1364,
+        "id":5255,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1364,
+        "id":5256,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1365,
+    "difficulty":2,
+    "title":"1365. Which of the following is NOT an inhabited island of Lakshadweep?",
+    "description":"",
+    "hint":"It is a coral island without permanent inhabitants.",
+    "summary":"Kalpeni, Kavaratti, Minicoy and Agatti are inhabited islands; some islands remain uninhabited.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1365,
+        "id":5257,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1365,
+        "id":5258,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1365,
+        "id":5259,
+        "title":"Bangaram",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1365,
+        "id":5260,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1366,
+    "difficulty":2,
+    "title":"1366. Lakshadweep administration comes under which ministry of the Government of India?",
+    "description":"",
+    "hint":"This ministry handles Union Territories.",
+    "summary":"The Ministry of Home Affairs administers Union Territories including Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Polity,Administration",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1366,
+        "id":5261,
+        "title":"Ministry of Defence",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1366,
+        "id":5262,
+        "title":"Ministry of Environment",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1366,
+        "id":5263,
+        "title":"Ministry of Tourism",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1366,
+        "id":5264,
+        "title":"Ministry of Home Affairs",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1367,
+    "difficulty":2,
+    "title":"1367. Which traditional dance form is associated with Lakshadweep?",
+    "description":"",
+    "hint":"It is a folk dance performed by men.",
+    "summary":"Lava dance is a traditional folk dance of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Culture,Dance",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1367,
+        "id":5265,
+        "title":"Kathakali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1367,
+        "id":5266,
+        "title":"Bharatanatyam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1367,
+        "id":5267,
+        "title":"Lava",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1367,
+        "id":5268,
+        "title":"Bihu",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1368,
+    "difficulty":2,
+    "title":"1368. Which island is the administrative headquarters of Lakshadweep?",
+    "description":"",
+    "hint":"It is also the capital of the Union Territory.",
+    "summary":"Kavaratti is the administrative headquarters of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Administration,Capital",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1368,
+        "id":5269,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1368,
+        "id":5270,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1368,
+        "id":5271,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1368,
+        "id":5272,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1369,
+    "difficulty":2,
+    "title":"1369. The Lakshadweep islands are part of which larger island chain?",
+    "description":"",
+    "hint":"They are coral islands of the Indian Ocean region.",
+    "summary":"Lakshadweep forms part of the Laccadive, Minicoy and Amindivi group.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1369,
+        "id":5273,
+        "title":"Andaman-Nicobar chain",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1369,
+        "id":5274,
+        "title":"Laccadive, Minicoy and Amindivi group",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1369,
+        "id":5275,
+        "title":"Maldives archipelago",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1369,
+        "id":5276,
+        "title":"Sunda Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1370,
+    "difficulty":2,
+    "title":"1370. Which marine organism is mainly responsible for the formation of coral reefs in Lakshadweep?",
+    "description":"",
+    "hint":"They are tiny marine animals living in colonies.",
+    "summary":"Coral polyps are responsible for building coral reefs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Coral Reefs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1370,
+        "id":5277,
+        "title":"Algae",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1370,
+        "id":5278,
+        "title":"Molluscs",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1370,
+        "id":5279,
+        "title":"Coral polyps",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1370,
+        "id":5280,
+        "title":"Crustaceans",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1371,
+    "difficulty":2,
+    "title":"1371. Which of the following is a group of coral islands in Lakshadweep?",
+    "description":"",
+    "hint":"It includes Laccadive, Minicoy and Amindivi islands.",
+    "summary":"Lakshadweep is a group of coral islands in the Arabian Sea.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1371,
+        "id":5281,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1371,
+        "id":5282,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1371,
+        "id":5283,
+        "title":"Lakshadweep Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1371,
+        "id":5284,
+        "title":"Rameswaram Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1372,
+    "difficulty":2,
+    "title":"1372. Which island is famous for the Minicoy Lighthouse in Lakshadweep?",
+    "description":"",
+    "hint":"It is the southernmost inhabited island of Lakshadweep.",
+    "summary":"Minicoy Island is famous for its historic lighthouse.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Islands,Lighthouse",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1372,
+        "id":5285,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1372,
+        "id":5286,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1372,
+        "id":5287,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1372,
+        "id":5288,
+        "title":"Kalpeni",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1373,
+    "difficulty":2,
+    "title":"1373. Which type of reef structure is commonly found around Lakshadweep islands?",
+    "description":"",
+    "hint":"It is a ring-shaped coral reef.",
+    "summary":"Atolls are the dominant reef structures found around Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Coral Reefs",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1373,
+        "id":5289,
+        "title":"Barrier reefs",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1373,
+        "id":5290,
+        "title":"Fringing reefs",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1373,
+        "id":5291,
+        "title":"Mangrove reefs",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1373,
+        "id":5292,
+        "title":"Atolls",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1374,
+    "difficulty":2,
+    "title":"1374. Which district structure exists in Lakshadweep Union Territory?",
+    "description":"",
+    "hint":"The entire Union Territory is administered as a single district.",
+    "summary":"Lakshadweep has one district administration.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Administration,Polity",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1374,
+        "id":5293,
+        "title":"Two districts",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1374,
+        "id":5294,
+        "title":"One district",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1374,
+        "id":5295,
+        "title":"Three districts",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1374,
+        "id":5296,
+        "title":"Four districts",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1375,
+    "difficulty":2,
+    "title":"1375. Which island of Lakshadweep is known for tuna fishing?",
+    "description":"",
+    "hint":"It is one of the major inhabited islands.",
+    "summary":"Minicoy and other Lakshadweep islands have a strong tuna fishing tradition.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Fisheries,Economy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1375,
+        "id":5297,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1375,
+        "id":5298,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1375,
+        "id":5299,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1375,
+        "id":5300,
+        "title":"Bangaram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1376,
+    "difficulty":2,
+    "title":"1376. Which sea route connects Lakshadweep with mainland India?",
+    "description":"",
+    "hint":"Ships operate from Kerala ports.",
+    "summary":"Lakshadweep is connected with Kerala ports through Arabian Sea routes.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Transport,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1376,
+        "id":5301,
+        "title":"Kochi-Lakshadweep route",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1376,
+        "id":5302,
+        "title":"Chennai-Lakshadweep route",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1376,
+        "id":5303,
+        "title":"Kolkata-Lakshadweep route",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1376,
+        "id":5304,
+        "title":"Mumbai-Andaman route",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1377,
+    "difficulty":2,
+    "title":"1377. Which of the following is a famous tourist destination in Lakshadweep?",
+    "description":"",
+    "hint":"It is known for lagoons and water sports.",
+    "summary":"Bangaram Island is a popular tourist destination in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1377,
+        "id":5305,
+        "title":"Bangaram",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1377,
+        "id":5306,
+        "title":"Barren Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1377,
+        "id":5307,
+        "title":"Havelock Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1377,
+        "id":5308,
+        "title":"Elephanta Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1378,
+    "difficulty":2,
+    "title":"1378. Which Indian state is geographically closest to Lakshadweep?",
+    "description":"",
+    "hint":"It lies on the southwest coast of India.",
+    "summary":"Kerala is the nearest Indian state to Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1378,
+        "id":5309,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1378,
+        "id":5310,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1378,
+        "id":5311,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1378,
+        "id":5312,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1379,
+    "difficulty":2,
+    "title":"1379. Which oceanic feature surrounds many Lakshadweep islands?",
+    "description":"",
+    "hint":"It is a shallow water body enclosed by coral reefs.",
+    "summary":"Lagoons are common features around Lakshadweep coral islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Lagoons",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1379,
+        "id":5313,
+        "title":"Lagoons",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1379,
+        "id":5314,
+        "title":"Fjords",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1379,
+        "id":5315,
+        "title":"Estuaries",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1379,
+        "id":5316,
+        "title":"Deltas",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1380,
+    "difficulty":2,
+    "title":"1380. Which sector is a major contributor to the economy of Lakshadweep?",
+    "description":"",
+    "hint":"It includes fishing activities.",
+    "summary":"Fishing and tourism are important economic activities in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Economy,Fisheries",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1380,
+        "id":5317,
+        "title":"Fishing",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1380,
+        "id":5318,
+        "title":"Coal mining",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1380,
+        "id":5319,
+        "title":"Heavy industries",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1380,
+        "id":5320,
+        "title":"Automobile manufacturing",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1381,
+    "difficulty":2,
+    "title":"1381. Lakshadweep is separated from the Maldives by which channel?",
+    "description":"",
+    "hint":"It is named after the southernmost island of Lakshadweep.",
+    "summary":"The Eight Degree Channel separates Minicoy Island from the Maldives.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Channels",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1381,
+        "id":5321,
+        "title":"Nine Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1381,
+        "id":5322,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1381,
+        "id":5323,
+        "title":"Duncan Passage",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1381,
+        "id":5324,
+        "title":"Eight Degree Channel",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1382,
+    "difficulty":2,
+    "title":"1382. Which island group forms the northern part of Lakshadweep?",
+    "description":"",
+    "hint":"It includes islands such as Amini and Chetlat.",
+    "summary":"The Amindivi Islands form the northern part of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1382,
+        "id":5325,
+        "title":"Laccadive Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1382,
+        "id":5326,
+        "title":"Amindivi Islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1382,
+        "id":5327,
+        "title":"Nicobar Islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1382,
+        "id":5328,
+        "title":"Andaman Islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1383,
+    "difficulty":2,
+    "title":"1383. Which of the following islands belongs to Lakshadweep?",
+    "description":"",
+    "hint":"It is one of the inhabited islands.",
+    "summary":"Kalpeni is one of the inhabited islands of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1383,
+        "id":5329,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1383,
+        "id":5330,
+        "title":"Havelock",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1383,
+        "id":5331,
+        "title":"Kalpeni",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1383,
+        "id":5332,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1384,
+    "difficulty":2,
+    "title":"1384. What is the official language used for administration in Lakshadweep?",
+    "description":"",
+    "hint":"It is one of the official languages of India.",
+    "summary":"Malayalam is widely used for administration in Lakshadweep, along with English.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Language,Administration",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1384,
+        "id":5333,
+        "title":"Malayalam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1384,
+        "id":5334,
+        "title":"Hindi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1384,
+        "id":5335,
+        "title":"Bengali",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1384,
+        "id":5336,
+        "title":"Gujarati",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1385,
+    "difficulty":2,
+    "title":"1385. Which of the following is a major environmental concern for Lakshadweep?",
+    "description":"",
+    "hint":"It affects coral ecosystems.",
+    "summary":"Coral bleaching due to climate change and rising sea temperatures is a major concern.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Climate Change",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1385,
+        "id":5337,
+        "title":"Desertification",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1385,
+        "id":5338,
+        "title":"Glacial melting",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1385,
+        "id":5339,
+        "title":"River flooding",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1385,
+        "id":5340,
+        "title":"Coral bleaching",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1386,
+    "difficulty":2,
+    "title":"1386. Which island is included in the Laccadive group of Lakshadweep?",
+    "description":"",
+    "hint":"It is one of the major islands near Kavaratti.",
+    "summary":"Agatti is part of the Laccadive group of islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1386,
+        "id":5341,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1386,
+        "id":5342,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1386,
+        "id":5343,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1386,
+        "id":5344,
+        "title":"Havelock",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1387,
+    "difficulty":2,
+    "title":"1387. Which activity attracts tourists to Lakshadweep?",
+    "description":"",
+    "hint":"It is related to marine recreation.",
+    "summary":"Scuba diving and water sports are popular tourism activities in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1387,
+        "id":5345,
+        "title":"Scuba diving",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1387,
+        "id":5346,
+        "title":"Skiing",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1387,
+        "id":5347,
+        "title":"Desert safari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1387,
+        "id":5348,
+        "title":"Mountaineering",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1388,
+    "difficulty":2,
+    "title":"1388. Which constitutional article deals with the administration of Union Territories?",
+    "description":"",
+    "hint":"It is related to Union Territories.",
+    "summary":"Article 239 deals with administration of Union Territories.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Polity,Union Territories,Constitution",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1388,
+        "id":5349,
+        "title":"Article 239",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1388,
+        "id":5350,
+        "title":"Article 280",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1388,
+        "id":5351,
+        "title":"Article 356",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1388,
+        "id":5352,
+        "title":"Article 370",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1389,
+    "difficulty":2,
+    "title":"1389. Which crop is commonly cultivated in Lakshadweep?",
+    "description":"",
+    "hint":"It is widely grown in tropical coastal regions.",
+    "summary":"Coconut is an important crop of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Agriculture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1389,
+        "id":5353,
+        "title":"Wheat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1389,
+        "id":5354,
+        "title":"Rice",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1389,
+        "id":5355,
+        "title":"Cotton",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1389,
+        "id":5356,
+        "title":"Coconut",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1390,
+    "difficulty":2,
+    "title":"1390. Lakshadweep has which type of climate?",
+    "description":"",
+    "hint":"It is influenced by the surrounding sea.",
+    "summary":"Lakshadweep has a tropical maritime climate.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Climate,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1390,
+        "id":5357,
+        "title":"Desert climate",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1390,
+        "id":5358,
+        "title":"Tropical maritime climate",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1390,
+        "id":5359,
+        "title":"Polar climate",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1390,
+        "id":5360,
+        "title":"Mediterranean climate",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1391,
+    "difficulty":2,
+    "title":"1391. Which island of Lakshadweep is known as the gateway to the islands because of its airport?",
+    "description":"",
+    "hint":"It has the only airport in Lakshadweep.",
+    "summary":"Agatti Island is considered the gateway to Lakshadweep due to its airport.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Transport,Airport",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1391,
+        "id":5361,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1391,
+        "id":5362,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1391,
+        "id":5363,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1391,
+        "id":5364,
+        "title":"Kalpeni",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1392,
+    "difficulty":2,
+    "title":"1392. Which group of islands forms the southern part of Lakshadweep?",
+    "description":"",
+    "hint":"It includes Minicoy Island.",
+    "summary":"The Laccadive group and Minicoy form the southern region of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1392,
+        "id":5365,
+        "title":"Minicoy group",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1392,
+        "id":5366,
+        "title":"Nicobar group",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1392,
+        "id":5367,
+        "title":"Andaman group",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1392,
+        "id":5368,
+        "title":"Amindivi group",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1393,
+    "difficulty":2,
+    "title":"1393. Which marine resource is important for the economy of Lakshadweep?",
+    "description":"",
+    "hint":"It is a major fishery product.",
+    "summary":"Tuna fishing is an important economic activity in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Fisheries,Economy",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1393,
+        "id":5369,
+        "title":"Coal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1393,
+        "id":5370,
+        "title":"Iron ore",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1393,
+        "id":5371,
+        "title":"Natural gas",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1393,
+        "id":5372,
+        "title":"Tuna fish",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1394,
+    "difficulty":2,
+    "title":"1394. Lakshadweep has which type of islands?",
+    "description":"",
+    "hint":"They are formed from coral deposits.",
+    "summary":"Lakshadweep consists mainly of coral islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1394,
+        "id":5373,
+        "title":"Volcanic islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1394,
+        "id":5374,
+        "title":"Coral islands",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1394,
+        "id":5375,
+        "title":"River islands",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1394,
+        "id":5376,
+        "title":"Continental islands",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1395,
+    "difficulty":2,
+    "title":"1395. Which city in Kerala is the main entry point for ships going to Lakshadweep?",
+    "description":"",
+    "hint":"It is a major port city of Kerala.",
+    "summary":"Kochi is the main gateway port for Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Transport,Kerala",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1395,
+        "id":5377,
+        "title":"Kozhikode",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1395,
+        "id":5378,
+        "title":"Kannur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1395,
+        "id":5379,
+        "title":"Kochi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1395,
+        "id":5380,
+        "title":"Thiruvananthapuram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1396,
+    "difficulty":2,
+    "title":"1396. Which protected area helps conserve marine biodiversity around Lakshadweep?",
+    "description":"",
+    "hint":"It protects coral reefs and marine life.",
+    "summary":"Marine protected areas in Lakshadweep help conserve coral reef ecosystems.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Marine Conservation",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1396,
+        "id":5381,
+        "title":"Desert National Park",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1396,
+        "id":5382,
+        "title":"Periyar Reserve",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1396,
+        "id":5383,
+        "title":"Marine Protected Areas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1396,
+        "id":5384,
+        "title":"Jim Corbett Park",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1397,
+    "difficulty":2,
+    "title":"1397. Which island is the capital of Lakshadweep Union Territory?",
+    "description":"",
+    "hint":"It is also the administrative headquarters.",
+    "summary":"Kavaratti is the capital of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Capital,Polity",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1397,
+        "id":5385,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1397,
+        "id":5386,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1397,
+        "id":5387,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1397,
+        "id":5388,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1398,
+    "difficulty":2,
+    "title":"1398. Which traditional food ingredient is widely produced in Lakshadweep?",
+    "description":"",
+    "hint":"It comes from coconut trees.",
+    "summary":"Coconut products are important in Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Agriculture,Culture",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1398,
+        "id":5389,
+        "title":"Coconut",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1398,
+        "id":5390,
+        "title":"Tea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1398,
+        "id":5391,
+        "title":"Coffee",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1398,
+        "id":5392,
+        "title":"Rubber",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1399,
+    "difficulty":2,
+    "title":"1399. Which channel separates Kavaratti and Agatti islands in Lakshadweep?",
+    "description":"",
+    "hint":"It is named after the degree of latitude.",
+    "summary":"The Nine Degree Channel separates Kavaratti from Kalpeni and the islands north of it.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Channels",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1399,
+        "id":5393,
+        "title":"Eight Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1399,
+        "id":5394,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1399,
+        "id":5395,
+        "title":"Duncan Passage",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1399,
+        "id":5396,
+        "title":"Nine Degree Channel",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1400,
+    "difficulty":2,
+    "title":"1400. Which factor makes Lakshadweep vulnerable to climate change?",
+    "description":"",
+    "hint":"The islands are very low-lying.",
+    "summary":"Low elevation and sea-level rise pose major risks to Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Environment,Climate Change",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1400,
+        "id":5397,
+        "title":"High mountains",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1400,
+        "id":5398,
+        "title":"Low elevation",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1400,
+        "id":5399,
+        "title":"Heavy snowfall",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1400,
+        "id":5400,
+        "title":"Desert expansion",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  }
+]
