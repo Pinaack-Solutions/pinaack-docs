@@ -1,0 +1,7216 @@
+[
+{
+    "id":1251,
+    "difficulty":2,
+    "title":"1251. What is the capital of the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It is named after a British naval officer.",
+    "summary":"Port Blair is the capital of the Andaman and Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Islands,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1251,
+        "id":4801,
+        "title":"Port Blair",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1251,
+        "id":4802,
+        "title":"Campbell Bay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1251,
+        "id":4803,
+        "title":"Diglipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1251,
+        "id":4804,
+        "title":"Mayabunder",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1252,
+    "difficulty":2,
+    "title":"1252. The Cellular Jail, also known as 'Kala Pani', is located in which city?",
+    "description":"",
+    "hint":"It is the capital of the Union Territory.",
+    "summary":"The Cellular Jail is located in Port Blair.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Freedom Struggle,Historical Monuments,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1252,
+        "id":4805,
+        "title":"Campbell Bay",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1252,
+        "id":4806,
+        "title":"Port Blair",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1252,
+        "id":4807,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1252,
+        "id":4808,
+        "title":"Diglipur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1253,
+    "difficulty":2,
+    "title":"1253. Which is the southernmost point of the territory of India?",
+    "description":"",
+    "hint":"It lies in Great Nicobar Island.",
+    "summary":"Indira Point is the southernmost point of the territory of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Extremes,Union Territories,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1253,
+        "id":4809,
+        "title":"Cape Comorin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1253,
+        "id":4810,
+        "title":"Point Calimere",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1253,
+        "id":4811,
+        "title":"Indira Point",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1253,
+        "id":4812,
+        "title":"Rameswaram",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1254,
+    "difficulty":2,
+    "title":"1254. Indira Point is located on which island?",
+    "description":"",
+    "hint":"It is the largest island in the Nicobar group.",
+    "summary":"Indira Point is situated on Great Nicobar Island.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Islands,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1254,
+        "id":4813,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1254,
+        "id":4814,
+        "title":"Great Nicobar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1254,
+        "id":4815,
+        "title":"North Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1254,
+        "id":4816,
+        "title":"Car Nicobar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1255,
+    "difficulty":2,
+    "title":"1255. The Andaman and Nicobar Islands are separated by which channel?",
+    "description":"",
+    "hint":"The channel is named after a British naval officer.",
+    "summary":"The Ten Degree Channel separates the Andaman and Nicobar Islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Union Territories,Marine Geography,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1255,
+        "id":4817,
+        "title":"Eight Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1255,
+        "id":4818,
+        "title":"Nine Degree Channel",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1255,
+        "id":4819,
+        "title":"Ten Degree Channel",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1255,
+        "id":4820,
+        "title":"Palk Strait",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1256,
+    "difficulty":2,
+    "title":"1256. Which is the only active volcano in India?",
+    "description":"",
+    "hint":"It is located in the Andaman Sea.",
+    "summary":"Barren Island is home to India's only active volcano.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Volcanoes,Physical Geography,Natural Features",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1256,
+        "id":4821,
+        "title":"Narcondam Island",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1256,
+        "id":4822,
+        "title":"Barren Island",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1256,
+        "id":4823,
+        "title":"Little Andaman",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1256,
+        "id":4824,
+        "title":"Interview Island",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1257,
+    "difficulty":2,
+    "title":"1257. Narcondam Island is famous for which endangered bird?",
+    "description":"",
+    "hint":"It is found only on this island.",
+    "summary":"Narcondam Island is home to the endemic Narcondam Hornbill.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Biodiversity,Endemic Species,Wildlife",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1257,
+        "id":4825,
+        "title":"Nicobar Megapode",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1257,
+        "id":4826,
+        "title":"Narcondam Hornbill",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1257,
+        "id":4827,
+        "title":"Great Hornbill",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1257,
+        "id":4828,
+        "title":"Andaman Woodpecker",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1258,
+    "difficulty":2,
+    "title":"1258. Which sea surrounds the Andaman and Nicobar Islands?",
+    "description":"",
+    "hint":"It lies east of the Bay of Bengal.",
+    "summary":"The islands are located in the Andaman Sea and the Bay of Bengal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Marine Geography,Oceans,Union Territories",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1258,
+        "id":4829,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1258,
+        "id":4830,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1258,
+        "id":4831,
+        "title":"Laccadive Sea",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1258,
+        "id":4832,
+        "title":"South China Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":451,
+    "difficulty":0,
+    "title":"451. Who founded Buddhism?",
+    "description":"",
+    "hint":"He was born as Siddhartha Gautama.",
+    "summary":"Buddhism was founded by Gautama Buddha.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Gautama Buddha,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":451,
+        "id":1601,
+        "title":"Mahavira",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":451,
+        "id":1602,
+        "title":"Gautama Buddha",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":451,
+        "id":1603,
+        "title":"Ashoka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":451,
+        "id":1604,
+        "title":"Chandragupta Maurya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":452,
+    "difficulty":0,
+    "title":"452. What was the original name of Buddha before enlightenment?",
+    "description":"",
+    "hint":"He was a prince of the Shakya clan.",
+    "summary":"Buddha was born as Siddhartha Gautama.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Buddha,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":452,
+        "id":1605,
+        "title":"Siddhartha Gautama",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":452,
+        "id":1606,
+        "title":"Rahula",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":452,
+        "id":1607,
+        "title":"Devadatta",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":452,
+        "id":1608,
+        "title":"Mahakassapa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":453,
+    "difficulty":0,
+    "title":"453. At which place was Gautama Buddha born?",
+    "description":"",
+    "hint":"This site is now in Nepal.",
+    "summary":"Buddha was born at Lumbini.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Lumbini,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":453,
+        "id":1609,
+        "title":"Bodh Gaya",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":453,
+        "id":1610,
+        "title":"Kushinagar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":453,
+        "id":1611,
+        "title":"Lumbini",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":453,
+        "id":1612,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":454,
+    "difficulty":0,
+    "title":"454. Under which tree did Buddha attain enlightenment?",
+    "description":"",
+    "hint":"The tree became sacred in Buddhism.",
+    "summary":"Buddha attained enlightenment under the Bodhi Tree.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Bodh Gaya,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":454,
+        "id":1613,
+        "title":"Neem Tree",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":454,
+        "id":1614,
+        "title":"Peepal (Bodhi) Tree",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":454,
+        "id":1615,
+        "title":"Banyan Tree",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":454,
+        "id":1616,
+        "title":"Mango Tree",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":455,
+    "difficulty":0,
+    "title":"455. Where did Buddha attain enlightenment?",
+    "description":"",
+    "hint":"Located in present-day Bihar.",
+    "summary":"Buddha attained enlightenment at Bodh Gaya.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Bodh Gaya,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":455,
+        "id":1617,
+        "title":"Sarnath",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":455,
+        "id":1618,
+        "title":"Rajgir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":455,
+        "id":1619,
+        "title":"Bodh Gaya",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":455,
+        "id":1620,
+        "title":"Vaishali",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":456,
+    "difficulty":0,
+    "title":"456. What is the meaning of the word 'Buddha'?",
+    "description":"",
+    "hint":"It refers to a state of spiritual realization.",
+    "summary":"Buddha means 'The Enlightened One'.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Buddhism,Basic Concepts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":456,
+        "id":1621,
+        "title":"King",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":456,
+        "id":1622,
+        "title":"Teacher",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":456,
+        "id":1623,
+        "title":"The Enlightened One",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":456,
+        "id":1624,
+        "title":"Priest",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":551,
+    "difficulty":0,
+    "title":"551. What is the capital of Rajasthan?",
+    "description":"",
+    "hint":"Known as the Pink City.",
+    "summary":"Jaipur is the capital of Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Cities,Capitals,Rajasthan,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":551,
+        "id":2001,
+        "title":"Jodhpur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":551,
+        "id":2002,
+        "title":"Jaipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":551,
+        "id":2003,
+        "title":"Ajmer",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":551,
+        "id":2004,
+        "title":"Udaipur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":552,
+    "difficulty":0,
+    "title":"552. Which city is the capital of Maharashtra?",
+    "description":"",
+    "hint":"India's financial capital.",
+    "summary":"Mumbai is Maharashtra's capital.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Cities,Capitals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":552,
+        "id":2005,
+        "title":"Nagpur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":552,
+        "id":2006,
+        "title":"Pune",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":552,
+        "id":2007,
+        "title":"Mumbai",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":552,
+        "id":2008,
+        "title":"Nashik",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":553,
+    "difficulty":1,
+    "title":"553. Which city is known as the Silicon Valley of India?",
+    "description":"",
+    "hint":"Capital of Karnataka.",
+    "summary":"Bengaluru is India's IT hub.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Cities,IT,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":553,
+        "id":2009,
+        "title":"Hyderabad",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":553,
+        "id":2010,
+        "title":"Pune",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":553,
+        "id":2011,
+        "title":"Chennai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":553,
+        "id":2012,
+        "title":"Bengaluru",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":554,
+    "difficulty":1,
+    "title":"554. Jaipur is situated on which river?",
+    "description":"",
+    "hint":"A tributary of the Banganga.",
+    "summary":"Jaipur is situated near the Dravyavati River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Cities,Rivers,Rajasthan",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":554,
+        "id":2013,
+        "title":"Luni",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":554,
+        "id":2014,
+        "title":"Chambal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":554,
+        "id":2015,
+        "title":"Dravyavati",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":554,
+        "id":2016,
+        "title":"Banas",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":555,
+    "difficulty":0,
+    "title":"555. Which city is known as the Pink City?",
+    "description":"",
+    "hint":"Capital of Rajasthan.",
+    "summary":"Jaipur is called the Pink City.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Cities,Nicknames",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":555,
+        "id":2017,
+        "title":"Jodhpur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":555,
+        "id":2018,
+        "title":"Jaipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":555,
+        "id":2019,
+        "title":"Bikaner",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":555,
+        "id":2020,
+        "title":"Udaipur",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":556,
+    "difficulty":1,
+    "title":"556. Which city is called the City of Lakes?",
+    "description":"",
+    "hint":"Located in southern Rajasthan.",
+    "summary":"Udaipur is famous as the City of Lakes.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Cities,Nicknames,Rajasthan",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":556,
+        "id":2021,
+        "title":"Nainital",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":556,
+        "id":2022,
+        "title":"Bhopal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":556,
+        "id":2023,
+        "title":"Udaipur",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":556,
+        "id":2024,
+        "title":"Srinagar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":351,
+    "difficulty":0,
+    "title":"351. Which Article of the Indian Constitution guarantees Equality Before Law?",
+    "description":"",
+    "hint":"It is the first article under the Right to Equality.",
+    "summary":"Article 14 guarantees equality before law and equal protection of laws.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Constitutional Articles,Article 14,Fundamental Rights,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":351,
+        "id":1201,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":351,
+        "id":1202,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":351,
+        "id":1203,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":351,
+        "id":1204,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":352,
+    "difficulty":0,
+    "title":"352. Which Article abolishes Untouchability?",
+    "description":"",
+    "hint":"It is part of the Right to Equality.",
+    "summary":"Article 17 abolishes untouchability and forbids its practice in any form.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 17,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":352,
+        "id":1205,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":352,
+        "id":1206,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":352,
+        "id":1207,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":352,
+        "id":1208,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":353,
+    "difficulty":0,
+    "title":"353. Which Article guarantees protection of life and personal liberty?",
+    "description":"",
+    "hint":"It became very important after the Maneka Gandhi case.",
+    "summary":"Article 21 guarantees protection of life and personal liberty.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 21,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":353,
+        "id":1209,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":353,
+        "id":1210,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":353,
+        "id":1211,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":353,
+        "id":1212,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":354,
+    "difficulty":0,
+    "title":"354. Which Article is known as the 'Heart and Soul' of the Constitution according to Dr. B.R. Ambedkar?",
+    "description":"",
+    "hint":"It provides the Right to Constitutional Remedies.",
+    "summary":"Article 32 allows citizens to directly approach the Supreme Court for enforcement of Fundamental Rights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 32,Fundamental Rights,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":354,
+        "id":1213,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1214,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1215,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":354,
+        "id":1216,
+        "title":"Article 32",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":355,
+    "difficulty":1,
+    "title":"355. Which Article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "description":"",
+    "hint":"It comes immediately after Article 14.",
+    "summary":"Article 15 prohibits discrimination by the State on specified grounds.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 15,Equality,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":355,
+        "id":1217,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":355,
+        "id":1218,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":355,
+        "id":1219,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":355,
+        "id":1220,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":356,
+    "difficulty":1,
+    "title":"356. Which Article guarantees equality of opportunity in public employment?",
+    "description":"",
+    "hint":"Closely related to government jobs.",
+    "summary":"Article 16 ensures equality of opportunity in matters of public employment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 16,Employment,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":356,
+        "id":1221,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":356,
+        "id":1222,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":356,
+        "id":1223,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":356,
+        "id":1224,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":357,
+    "difficulty":1,
+    "title":"357. Which Article abolishes titles except military and academic distinctions?",
+    "description":"",
+    "hint":"Prevents the State from conferring hereditary titles.",
+    "summary":"Article 18 abolishes titles and promotes equality.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article 18,Equality,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":357,
+        "id":1225,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":357,
+        "id":1226,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":357,
+        "id":1227,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":357,
+        "id":1228,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1151,
+    "difficulty":2,
+    "title":"1151. On which river is the Bhakra Dam constructed?",
+    "description":"",
+    "hint":"It is one of the five rivers of Punjab.",
+    "summary":"Bhakra Dam is constructed across the Sutlej River in Himachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Rivers,Hydroelectric",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1151,
+        "id":4401,
+        "title":"Beas",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1151,
+        "id":4402,
+        "title":"Sutlej",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1151,
+        "id":4403,
+        "title":"Chenab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1151,
+        "id":4404,
+        "title":"Ravi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1152,
+    "difficulty":2,
+    "title":"1152. Hirakud Dam is built across which river?",
+    "description":"",
+    "hint":"The river flows through Chhattisgarh and Odisha.",
+    "summary":"Hirakud Dam is built across the Mahanadi River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Rivers,Odisha",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1152,
+        "id":4405,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1152,
+        "id":4406,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1152,
+        "id":4407,
+        "title":"Mahanadi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1152,
+        "id":4408,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1153,
+    "difficulty":2,
+    "title":"1153. Nagarjuna Sagar Dam is situated on which river?",
+    "description":"",
+    "hint":"It is the second-longest river in peninsular India.",
+    "summary":"Nagarjuna Sagar Dam is constructed across the Krishna River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Hydroelectric,South India",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1153,
+        "id":4409,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1153,
+        "id":4410,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1153,
+        "id":4411,
+        "title":"Tungabhadra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1153,
+        "id":4412,
+        "title":"Kaveri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1154,
+    "difficulty":2,
+    "title":"1154. Sardar Sarovar Dam is built on which river?",
+    "description":"",
+    "hint":"It flows westward into the Arabian Sea.",
+    "summary":"Sardar Sarovar Dam is constructed across the Narmada River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Rivers,Gujarat",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1154,
+        "id":4413,
+        "title":"Tapti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1154,
+        "id":4414,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1154,
+        "id":4415,
+        "title":"Mahi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1154,
+        "id":4416,
+        "title":"Sabarmati",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1155,
+    "difficulty":2,
+    "title":"1155. Tehri Dam is constructed across which river?",
+    "description":"",
+    "hint":"It is one of the headstreams of the Ganga.",
+    "summary":"Tehri Dam is built across the Bhagirathi River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Himalayan Rivers,Uttarakhand",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1155,
+        "id":4417,
+        "title":"Alaknanda",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1155,
+        "id":4418,
+        "title":"Yamuna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1155,
+        "id":4419,
+        "title":"Bhagirathi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1155,
+        "id":4420,
+        "title":"Mandakini",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1156,
+    "difficulty":2,
+    "title":"1156. Idukki Dam is located in which Indian state?",
+    "description":"",
+    "hint":"Its capital is Thiruvananthapuram.",
+    "summary":"Idukki Dam is located in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Hydroelectric,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1156,
+        "id":4421,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1156,
+        "id":4422,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1156,
+        "id":4423,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1156,
+        "id":4424,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1157,
+    "difficulty":2,
+    "title":"1157. Which dam is built across the Kosi River?",
+    "description":"",
+    "hint":"It is located near the India–Nepal border.",
+    "summary":"The Kosi Barrage is built across the Kosi River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Dams,Rivers,Flood Control",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1157,
+        "id":4425,
+        "title":"Kosi Barrage",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1157,
+        "id":4426,
+        "title":"Gandak Barrage",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1157,
+        "id":4427,
+        "title":"Rihand Dam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1157,
+        "id":4428,
+        "title":"Bansagar Dam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1301,
+    "difficulty":2,
+    "title":"1301. Which organization is responsible for the research and development of defence technologies in India?",
+    "description":"",
+    "hint":"It was established in 1958.",
+    "summary":"DRDO is India's premier defence research and development organization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Research,Organizations",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1301,
+        "id":5001,
+        "title":"HAL",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1301,
+        "id":5002,
+        "title":"Defence Research and Development Organisation (DRDO)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1301,
+        "id":5003,
+        "title":"ISRO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1301,
+        "id":5004,
+        "title":"BEL",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1302,
+    "difficulty":2,
+    "title":"1302. Which is the supreme command authority of the Indian Armed Forces?",
+    "description":"",
+    "hint":"The position is held by the constitutional head of India.",
+    "summary":"The President of India is the Supreme Commander of the Armed Forces.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Constitution,Government",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1302,
+        "id":5005,
+        "title":"Prime Minister",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5006,
+        "title":"Chief of Defence Staff",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5007,
+        "title":"Defence Minister",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1302,
+        "id":5008,
+        "title":"President of India",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1303,
+    "difficulty":2,
+    "title":"1303. Which is the oldest armed force of India?",
+    "description":"",
+    "hint":"Its origins date back to the East India Company.",
+    "summary":"The Indian Army is the oldest of India's armed forces.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,History",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1303,
+        "id":5009,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1303,
+        "id":5010,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1303,
+        "id":5011,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1303,
+        "id":5012,
+        "title":"Indian Coast Guard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1304,
+    "difficulty":2,
+    "title":"1304. The headquarters of the Indian Navy is located in:",
+    "description":"",
+    "hint":"It is India's financial capital.",
+    "summary":"The Naval Headquarters is in New Delhi, while The Indian Western Naval Command in Mumbai.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Headquarters",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1304,
+        "id":5013,
+        "title":"Mumbai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1304,
+        "id":5014,
+        "title":"Kochi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1304,
+        "id":5015,
+        "title":"New Delhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1304,
+        "id":5016,
+        "title":"Visakhapatnam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1305,
+    "difficulty":2,
+    "title":"1305. Which force is primarily responsible for guarding India's international land borders?",
+    "description":"",
+    "hint":"It is one of India's Central Armed Police Forces.",
+    "summary":"The Border Security Force guards most of India's international land borders.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Border Security,Security Forces",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1305,
+        "id":5017,
+        "title":"CRPF",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1305,
+        "id":5018,
+        "title":"Border Security Force (BSF)",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1305,
+        "id":5019,
+        "title":"ITBP",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1305,
+        "id":5020,
+        "title":"CISF",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1306,
+    "difficulty":2,
+    "title":"1306. Which Indian defence force celebrates its Raising Day on 15 January?",
+    "description":"",
+    "hint":"Field Marshal K.M. Cariappa became its first Indian Commander-in-Chief on this date.",
+    "summary":"Indian Army Day is celebrated every year on 15 January.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Military,Important Days",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1306,
+        "id":5021,
+        "title":"Indian Army",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1306,
+        "id":5022,
+        "title":"Indian Navy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1306,
+        "id":5023,
+        "title":"Indian Air Force",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1306,
+        "id":5024,
+        "title":"Indian Coast Guard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1307,
+    "difficulty":2,
+    "title":"1307. Which missile is India's first indigenously developed ballistic missile?",
+    "description":"",
+    "hint":"It is named after a mythological weapon.",
+    "summary":"Prithvi was India's first indigenously developed ballistic missile.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Defence,Missiles,Technology",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1307,
+        "id":5025,
+        "title":"Agni-I",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5026,
+        "title":"Akash",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5027,
+        "title":"BrahMos",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1307,
+        "id":5028,
+        "title":"Prithvi",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+{
+    "id":501,
+    "difficulty":0,
+    "title":"501. What does the term 'Endangered Species' mean?",
+    "description":"",
+    "hint":"It refers to species facing a high risk of disappearing from the wild.",
+    "summary":"Endangered species face a very high risk of extinction in the near future.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Endangered Species,IUCN,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":501,
+        "id":1801,
+        "title":"Species found only in forests",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":501,
+        "id":1802,
+        "title":"Species facing a very high risk of extinction",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":501,
+        "id":1803,
+        "title":"Species living in deserts",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":501,
+        "id":1804,
+        "title":"Species found only in India",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":502,
+    "difficulty":0,
+    "title":"502. Which organization publishes the Red List of Threatened Species?",
+    "description":"",
+    "hint":"Its full form begins with International Union...",
+    "summary":"The IUCN maintains the global Red List.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,IUCN,Red List,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":502,
+        "id":1805,
+        "title":"WWF",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":502,
+        "id":1806,
+        "title":"UNESCO",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":502,
+        "id":1807,
+        "title":"IUCN",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":502,
+        "id":1808,
+        "title":"UNEP",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":503,
+    "difficulty":0,
+    "title":"503. Which of the following is a Critically Endangered bird of India?",
+    "description":"",
+    "hint":"It is the State Bird of Rajasthan.",
+    "summary":"The Great Indian Bustard is Critically Endangered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Birds,Great Indian Bustard,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":503,
+        "id":1809,
+        "title":"Peacock",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":503,
+        "id":1810,
+        "title":"Sarus Crane",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":503,
+        "id":1811,
+        "title":"Great Indian Bustard",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":503,
+        "id":1812,
+        "title":"House Sparrow",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":504,
+    "difficulty":0,
+    "title":"504. Which marine mammal is India's National Aquatic Animal?",
+    "description":"",
+    "hint":"It lives in the Ganga river.",
+    "summary":"The Gangetic Dolphin is India's National Aquatic Animal.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Dolphin,Ganga,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":504,
+        "id":1813,
+        "title":"Blue Whale",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":504,
+        "id":1814,
+        "title":"Gangetic Dolphin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":504,
+        "id":1815,
+        "title":"Orca",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":504,
+        "id":1816,
+        "title":"Dugong",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":505,
+    "difficulty":0,
+    "title":"505. Which big cat is found only in the Gir Forest of India?",
+    "description":"",
+    "hint":"It is not a tiger.",
+    "summary":"The Asiatic Lion survives in Gir National Park.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Asiatic Lion,Gir,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":505,
+        "id":1817,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1818,
+        "title":"Tiger",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1819,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":505,
+        "id":1820,
+        "title":"Asiatic Lion",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":506,
+    "difficulty":1,
+    "title":"506. Which reptile is known for its long, narrow snout and is Critically Endangered?",
+    "description":"",
+    "hint":"It is mainly found in river ecosystems.",
+    "summary":"The Gharial is a Critically Endangered crocodilian.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Gharial,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":506,
+        "id":1821,
+        "title":"Mugger Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":506,
+        "id":1822,
+        "title":"Saltwater Crocodile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":506,
+        "id":1823,
+        "title":"Gharial",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":506,
+        "id":1824,
+        "title":"Komodo Dragon",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":507,
+    "difficulty":1,
+    "title":"507. The Red Panda is mainly found in which region of India?",
+    "description":"",
+    "hint":"Look towards the Eastern Himalayas.",
+    "summary":"Red Pandas inhabit Sikkim, Arunachal Pradesh and nearby Himalayan forests.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Red Panda,Himalayas,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":507,
+        "id":1825,
+        "title":"Western Ghats",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":507,
+        "id":1826,
+        "title":"Eastern Himalayas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":507,
+        "id":1827,
+        "title":"Thar Desert",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":507,
+        "id":1828,
+        "title":"Sundarbans",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":508,
+    "difficulty":1,
+    "title":"508. Which convention regulates international trade in endangered species?",
+    "description":"",
+    "hint":"Its abbreviation starts with the letter 'C'.",
+    "summary":"CITES regulates international trade in threatened wildlife and plants.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,CITES,International Agreements,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":508,
+        "id":1829,
+        "title":"CMS",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1830,
+        "title":"Ramsar Convention",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1831,
+        "title":"Convention on Biological Diversity",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":508,
+        "id":1832,
+        "title":"CITES",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":509,
+    "difficulty":1,
+    "title":"509. Which species is protected under Project Tiger?",
+    "description":"",
+    "hint":"It is India's national animal.",
+    "summary":"Project Tiger was launched in 1973 for Bengal Tiger conservation.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Environment,Project Tiger,Tiger,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":509,
+        "id":1833,
+        "title":"Bengal Tiger",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":509,
+        "id":1834,
+        "title":"Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":509,
+        "id":1835,
+        "title":"Clouded Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":509,
+        "id":1836,
+        "title":"Snow Leopard",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":601,
+    "difficulty":0,
+    "title":"601. Which Part of the Indian Constitution contains the Fundamental Rights?",
+    "description":"",
+    "hint":"It comes after the Directive Principles chapter.",
+    "summary":"Fundamental Rights are contained in Part III of the Constitution.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Constitution,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":601,
+        "id":2201,
+        "title":"Part II",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":601,
+        "id":2202,
+        "title":"Part III",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":601,
+        "id":2203,
+        "title":"Part IV",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":601,
+        "id":2204,
+        "title":"Part V",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":602,
+    "difficulty":0,
+    "title":"602. Fundamental Rights are provided under Articles:",
+    "description":"",
+    "hint":"Starts with Article 12.",
+    "summary":"Fundamental Rights are covered under Articles 12–35.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Articles,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":602,
+        "id":2205,
+        "title":"12–35",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":602,
+        "id":2206,
+        "title":"14–32",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":602,
+        "id":2207,
+        "title":"36–51",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":602,
+        "id":2208,
+        "title":"51A",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":603,
+    "difficulty":1,
+    "title":"603. Which Article guarantees Equality before Law?",
+    "description":"",
+    "hint":"It is the first Article under the Right to Equality.",
+    "summary":"Article 14 guarantees Equality before Law and Equal Protection of Laws.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article14,Equality",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":603,
+        "id":2209,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":603,
+        "id":2210,
+        "title":"Article 14",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":603,
+        "id":2211,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":603,
+        "id":2212,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":604,
+    "difficulty":1,
+    "title":"604. Which Article prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+    "description":"",
+    "hint":"It comes immediately after Article 14.",
+    "summary":"Article 15 prohibits discrimination on specified grounds.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article15",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":604,
+        "id":2213,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":604,
+        "id":2214,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":604,
+        "id":2215,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":604,
+        "id":2216,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":605,
+    "difficulty":1,
+    "title":"605. Equality of opportunity in public employment is guaranteed under:",
+    "description":"",
+    "hint":"Think government jobs.",
+    "summary":"Article 16 provides equality of opportunity in public employment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article16",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":605,
+        "id":2217,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":605,
+        "id":2218,
+        "title":"Article 16",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":605,
+        "id":2219,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":605,
+        "id":2220,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":606,
+    "difficulty":0,
+    "title":"606. Which Article abolishes Untouchability?",
+    "description":"",
+    "hint":"It follows Article 16.",
+    "summary":"Article 17 abolishes Untouchability.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article17",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":606,
+        "id":2221,
+        "title":"Article 15",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":606,
+        "id":2222,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":606,
+        "id":2223,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":606,
+        "id":2224,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":607,
+    "difficulty":0,
+    "title":"607. Which Article abolishes titles except military and academic distinctions?",
+    "description":"",
+    "hint":"It is the last Article under the Right to Equality.",
+    "summary":"Article 18 abolishes titles.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article18",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":607,
+        "id":2225,
+        "title":"Article 18",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":607,
+        "id":2226,
+        "title":"Article 17",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":607,
+        "id":2227,
+        "title":"Article 19",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":607,
+        "id":2228,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":608,
+    "difficulty":1,
+    "title":"608. Which Fundamental Right includes freedom of speech and expression?",
+    "description":"",
+    "hint":"It begins with Article 19.",
+    "summary":"Freedom of speech and expression is guaranteed under Article 19(1)(a).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,Freedom",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":608,
+        "id":2229,
+        "title":"Right to Equality",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":608,
+        "id":2230,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":608,
+        "id":2231,
+        "title":"Right to Freedom",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":608,
+        "id":2232,
+        "title":"Cultural and Educational Rights",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":609,
+    "difficulty":2,
+    "title":"609. Which of the following is NOT a freedom guaranteed under Article 19?",
+    "description":"",
+    "hint":"Think about the Right to Property.",
+    "summary":"The Right to Property is a legal right under Article 300A, not a Fundamental Right.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article19,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":609,
+        "id":2233,
+        "title":"Freedom of speech",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2234,
+        "title":"Freedom to assemble peacefully",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2235,
+        "title":"Freedom to reside anywhere in India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":609,
+        "id":2236,
+        "title":"Right to Property",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":610,
+    "difficulty":1,
+    "title":"610. Which Fundamental Right was removed by the 44th Constitutional Amendment?",
+    "description":"",
+    "hint":"It is now a legal right under Article 300A.",
+    "summary":"The Right to Property ceased to be a Fundamental Right after the 44th Amendment.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,44th Amendment,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":610,
+        "id":2237,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":610,
+        "id":2238,
+        "title":"Right to Property",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":610,
+        "id":2239,
+        "title":"Right to Equality",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":610,
+        "id":2240,
+        "title":"Right to Freedom of Religion",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":611,
+    "difficulty":1,
+    "title":"611. Protection in respect of conviction for offences is guaranteed under which Article?",
+    "description":"",
+    "hint":"It comes immediately after Article 19.",
+    "summary":"Article 20 provides protection against ex post facto laws, double jeopardy and self-incrimination.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Fundamental Rights,Article20,UPSC,SSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"Think about criminal law safeguards.",
+    "options":[
+      {
+        "questionId":611,
+        "id":2241,
+        "title":"Article 21",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":611,
+        "id":2242,
+        "title":"Article 22",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":611,
+        "id":2243,
+        "title":"Article 20",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":611,
+        "id":2244,
+        "title":"Article 23",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":612,
+    "difficulty":1,
+    "title":"612. Article 21 guarantees which Fundamental Right?",
+    "description":"",
+    "summary":"Article 21 guarantees Protection of Life and Personal Liberty.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Polity,Article21,Fundamental Rights",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "hint":"It is one of the most widely interpreted Articles.",
+    "options":[
+      {
+        "questionId":612,
+        "id":2245,
+        "title":"Right to Constitutional Remedies",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":612,
+        "id":2246,
+        "title":"Protection of Life and Personal Liberty",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":612,
+        "id":2247,
+        "title":"Freedom of Religion",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":612,
+        "id":2248,
+        "title":"Right against Exploitation",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+      "id":1,
+      "difficulty":0,
+      "title":"1. Which is the largest continent in the world?",
+      "description":"",
+      "summary":"Asia is the largest continent by both area and population.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,World Geography,Continents,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":1,
+            "id":1,
+            "title":"Europe",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":1,
+            "id":2,
+            "title":"Africa",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":1,
+            "id":3,
+            "title":"Asia",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":1,
+            "id":4,
+            "title":"North America",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":2,
+      "difficulty":0,
+      "title":"2. Which is the longest river in the world?",
+      "description":"",
+      "summary":"The Nile River is traditionally regarded as the longest river in the world.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,Rivers,World Geography,UPSC,SSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":2,
+            "id":5,
+            "title":"Mississippi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":2,
+            "id":6,
+            "title":"Amazon",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":2,
+            "id":7,
+            "title":"Yangtze",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":2,
+            "id":8,
+            "title":"Nile",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":3,
+      "difficulty":0,
+      "title":"3. Which is the largest ocean on Earth?",
+      "description":"",
+      "summary":"The Pacific Ocean covers more area than all other oceans.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,Oceans,World Geography,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":3,
+            "id":9,
+            "title":"Atlantic Ocean",
+            "tenantId":4,
+            "isAnswer":false
+            
+         },
+         {
+            "questionId":3,
+            "id":10,
+            "title":"Pacific Ocean",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":3,
+            "id":11,
+            "title":"Indian Ocean",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":3,
+            "id":12,
+            "title":"Arctic Ocean",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":4,
+      "difficulty":0,
+      "title":"4. Which planet is known as the Red Planet?",
+      "description":"",
+      "summary":"Mars appears reddish due to iron oxide on its surface.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,Earth and Universe,UPSC,SSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":4,
+            "id":13,
+            "title":"Venus",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":4,
+            "id":14,
+            "title":"Mars",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":4,
+            "id":15,
+            "title":"Mercury",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":4,
+            "id":16,
+            "title":"Jupiter",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":5,
+      "difficulty":0,
+      "title":"5. Which is the highest mountain peak in the world?",
+      "description":"",
+      "summary":"Mount Everest is the highest peak above sea level.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,Mountains,World Geography,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":5,
+            "id":17,
+            "title":"Kanchenjunga",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":5,
+            "id":18,
+            "title":"K2",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":5,
+            "id":19,
+            "title":"Mount Everest",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":5,
+            "id":20,
+            "title":"Makalu",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":6,
+      "difficulty":0,
+      "title":"6. Which is the largest desert in the world?",
+      "description":"",
+      "summary":"Antarctica is technically the largest desert due to extremely low precipitation.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,Deserts,Physical Geography,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":6,
+            "id":21,
+            "title":"Antarctica",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":6,
+            "id":22,
+            "title":"Sahara",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":6,
+            "id":23,
+            "title":"Gobi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":6,
+            "id":24,
+            "title":"Kalahari",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":7,
+      "difficulty":0,
+      "title":"7. What is the capital of Australia?",
+      "description":"",
+      "summary":"Canberra was selected as a compromise between Sydney and Melbourne.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Geography,World Capitals,GK,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":7,
+            "id":25,
+            "title":"Melbourne",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":7,
+            "id":26,
+            "title":"Sydney",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":7,
+            "id":27,
+           "title":"Canberra",
+            "tenantId":4,
+            "isAnswer":true 
+         },
+         {
+            "questionId":7,
+            "id":28,
+            "title":"Perth",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+      "id":201,
+      "difficulty":0,
+      "title":"1. Who is known as the 'Father of History'?",
+      "description":"",
+      "summary":"Herodotus, a Greek historian, is often called the 'Father of History' for his systematic collection of historical events.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"History,World History,Basic GK,Exams: UPSC,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":201,
+            "id":501,
+            "title":"Socrates",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":201,
+            "id":502,
+            "title":"Thucydides",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":201,
+            "id":503,
+            "title":"Plato",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":201,
+            "id":504,
+            "title":"Herodotus",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":202,
+      "difficulty":0,
+      "title":"2. The Indus Valley Civilization developed mainly along which river?",
+      "description":"",
+      "summary":"The Indus Valley Civilization flourished along the Indus River and its tributaries.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Ancient India,Indus Valley Civilization,UPSC,RPSC,SSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":202,
+            "id":505,
+            "title":"Yamuna River",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":202,
+            "id":506,
+            "title":"Ganga River",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":202,
+            "id":507,
+            "title":"Indus River",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":202,
+            "id":508,
+            "title":"Brahmaputra River",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":203,
+      "difficulty":0,
+      "title":"3. Who built the Taj Mahal?",
+      "description":"",
+      "summary":"The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Medieval India,Mughal Empire,Art & Culture,UPSC,SSC,RPSC,Bank PO",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":203,
+            "id":509,
+            "title":"Shah Jahan",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":203,
+            "id":510,
+            "title":"Akbar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":203,
+            "id":511,
+            "title":"Aurangzeb",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":203,
+            "id":512,
+            "title":"Humayun",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":204,
+      "difficulty":0,
+      "title":"4. Who was the first Prime Minister of independent India?",
+      "description":"",
+      "summary":"Jawaharlal Nehru became the first Prime Minister of India after independence in 1947.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Modern India,Indian Polity,Freedom Movement,UPSC,SSC,RPSC,Bank PO",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":204,
+            "id":513,
+            "title":"Mahatma Gandhi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":204,
+            "id":514,
+            "title":"Jawaharlal Nehru",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":204,
+            "id":515,
+            "title":"Sardar Patel",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":204,
+            "id":516,
+            "title":"Dr. B.R. Ambedkar",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":205,
+      "difficulty":0,
+      "title":"5. Who founded the Maurya Empire?",
+      "description":"",
+      "summary":"Chandragupta Maurya established the Maurya Empire with the guidance of Chanakya.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Ancient India,Maurya Empire,UPSC,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":205,
+            "id":517,
+            "title":"Ashoka",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":205,
+            "id":518,
+            "title":"Chandragupta Maurya",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":205,
+            "id":519,
+            "title":"Bindusara",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":205,
+            "id":520,
+            "title":"Harsha",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":206,
+      "difficulty":0,
+      "title":"6. Who wrote the Indian National Anthem?",
+      "description":"",
+      "summary":"Rabindranath Tagore wrote 'Jana Gana Mana', the National Anthem of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Modern India,Indian Culture,Freedom Movement,UPSC,SSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":206,
+            "id":521,
+            "title":"Rabindranath Tagore",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":206,
+            "id":522,
+            "title":"Bankim Chandra Chatterjee",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":206,
+            "id":523,
+            "title":"Subramania Bharati",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":206,
+            "id":524,
+            "title":"Mahatma Gandhi",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":207,
+      "difficulty":0,
+      "title":"7. Which script was used in the Ashokan inscriptions?",
+      "description":"",
+      "summary":"Ashokan inscriptions were mainly written in the Brahmi script, the earliest writing system of ancient India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Ancient India,Mauryan Empire,Epigraphy,UPSC,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":207,
+            "id":525,
+            "title":"Brahmi",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":207,
+            "id":526,
+            "title":"Kharosthi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":207,
+            "id":527,
+            "title":"Tamil-Brahmi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":207,
+            "id":528,
+            "title":"Devnagari",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":208,
+      "difficulty":0,
+      "title":"8. Where did Gautama Buddha attain enlightenment?",
+      "description":"",
+      "summary":"Gautama Buddha attained enlightenment at Bodh Gaya under the Bodhi tree.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Ancient India,Buddhism,World Religions,UPSC,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":208,
+            "id":529,
+            "title":"Lumbini",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":208,
+            "id":530,
+            "title":"Sarnath",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":208,
+            "id":531,
+            "title":"Kushinagar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":208,
+            "id":532,
+            "title":"Bodh Gaya",
+            "tenantId":4,
+            "isAnswer":true
+         }
+      ]
+   },
+   {
+      "id":209,
+      "difficulty":0,
+      "title":"9. Who was the last Mughal Emperor of India?",
+      "description":"",
+      "summary":"Bahadur Shah Zafar was the last Mughal Emperor, exiled after the Revolt of 1857.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Modern India,Mughal Empire,1857 Revolt,UPSC,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":209,
+            "id":533,
+            "title":"Bahadur Shah Zafar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":209,
+            "id":534,
+            "title":"Aurangzeb",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":209,
+            "id":535,
+            "title":"Shah Alam II",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":209,
+            "id":536,
+            "title":"Akbar II",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":210,
+      "difficulty":0,
+      "title":"10. Which Indian leader is known as the 'Iron Man of India'?",
+      "description":"",
+      "summary":"Sardar Vallabhbhai Patel is widely known as the 'Iron Man of India' for his role in the political integration of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Modern India,Freedom Movement,Indian Polity,UPSC,Bank PO,SSC,RPSC",
+      "createdDate":"2025-02-19T10:30:00.000Z",
+      "options":[
+         {
+            "questionId":210,
+            "id":537,
+            "title":"Sardar Vallabhbhai Patel",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":210,
+            "id":538,
+            "title":"Jawaharlal Nehru",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":210,
+            "id":539,
+            "title":"Subhash Chandra Bose",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":210,
+            "id":540,
+            "title":"Bhagat Singh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+    "id":1001,
+    "difficulty":1,
+    "title":"1001. Which festival is known as the festival of lights?",
+    "description":"",
+    "hint":"It is celebrated with lamps and fireworks.",
+    "summary":"Diwali is known as the festival of lights.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Indian Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1001,
+        "id":3801,
+        "title":"Diwali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1001,
+        "id":3802,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1001,
+        "id":3803,
+        "title":"Eid",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1001,
+        "id":3804,
+        "title":"Baisakhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1002,
+    "difficulty":1,
+    "title":"1002. Which festival is known as the festival of colours?",
+    "description":"",
+    "hint":"It is celebrated during spring season.",
+    "summary":"Holi is known as the festival of colours.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Seasons,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1002,
+        "id":3805,
+        "title":"Holi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1002,
+        "id":3806,
+        "title":"Onam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1002,
+        "id":3807,
+        "title":"Pongal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1002,
+        "id":3808,
+        "title":"Lohri",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1003,
+    "difficulty":1,
+    "title":"1003. Pongal is mainly celebrated in which state?",
+    "description":"",
+    "hint":"It is a major harvest festival of South India.",
+    "summary":"Pongal is mainly celebrated in Tamil Nadu.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Harvest,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1003,
+        "id":3809,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1003,
+        "id":3810,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1003,
+        "id":3811,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1003,
+        "id":3812,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1004,
+    "difficulty":1,
+    "title":"1004. Onam is the major festival of which state?",
+    "description":"",
+    "hint":"It is associated with the legend of King Mahabali.",
+    "summary":"Onam is celebrated mainly in Kerala.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,South India,Traditions",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1004,
+        "id":3813,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1004,
+        "id":3814,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1004,
+        "id":3815,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1004,
+        "id":3816,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1005,
+    "difficulty":1,
+    "title":"1005. Baisakhi is mainly associated with which state?",
+    "description":"",
+    "hint":"It is a harvest festival of northern India.",
+    "summary":"Baisakhi is mainly celebrated in Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Festivals,Agriculture,States",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1005,
+        "id":3817,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1005,
+        "id":3818,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1005,
+        "id":3819,
+        "title":"Bihar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1005,
+        "id":3820,
+        "title":"Odisha",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":901,
+    "difficulty":0,
+    "title":"901. Bhangra is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is associated with the harvest festival Baisakhi.",
+    "summary":"Bhangra is a traditional folk dance of Punjab.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,North India,Harvest Festival",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":901,
+        "id":3401,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":901,
+        "id":3402,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":901,
+        "id":3403,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":901,
+        "id":3404,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":902,
+    "difficulty":0,
+    "title":"902. Garba is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is performed during Navratri.",
+    "summary":"Garba is a traditional folk dance of Gujarat.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":902,
+        "id":3405,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":902,
+        "id":3406,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":902,
+        "id":3407,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":902,
+        "id":3408,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":903,
+    "difficulty":1,
+    "title":"903. Ghoomar is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is associated with royal traditions of western India.",
+    "summary":"Ghoomar is a traditional folk dance of Rajasthan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Traditional Arts",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":903,
+        "id":3409,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":903,
+        "id":3410,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":903,
+        "id":3411,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":903,
+        "id":3412,
+        "title":"Uttar Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":904,
+    "difficulty":1,
+    "title":"904. Bihu dance is associated with which state?",
+    "description":"",
+    "hint":"It is performed during a famous spring festival.",
+    "summary":"Bihu dance is a folk dance of Assam.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Northeast India,Festivals",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":904,
+        "id":3413,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":904,
+        "id":3414,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":904,
+        "id":3415,
+        "title":"Manipur",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":904,
+        "id":3416,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":905,
+    "difficulty":1,
+    "title":"905. Lavani is a famous folk dance of which state?",
+    "description":"",
+    "hint":"It is performed with traditional musical beats.",
+    "summary":"Lavani is a folk dance of Maharashtra.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Culture,Folk Dance,Western India,Music",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":905,
+        "id":3417,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":905,
+        "id":3418,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":905,
+        "id":3419,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":905,
+        "id":3420,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1401,
+    "difficulty":2,
+    "title":"1401. In which year was the first passenger train in India started?",
+    "description":"",
+    "hint":"It ran between Bombay and Thane.",
+    "summary":"The first passenger train in India started in 1853 between Bombay (Mumbai) and Thane.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Railways,History",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1401,
+        "id":5401,
+        "title":"1853",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1401,
+        "id":5402,
+        "title":"1860",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1401,
+        "id":5403,
+        "title":"1848",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1401,
+        "id":5404,
+        "title":"1875",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1402,
+    "difficulty":2,
+    "title":"1402. The headquarters of Indian Railways is located in which city?",
+    "description":"",
+    "hint":"It is the national capital of India.",
+    "summary":"Railway Board headquarters is located in New Delhi.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Railways,Administration",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1402,
+        "id":5405,
+        "title":"Kolkata",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1402,
+        "id":5406,
+        "title":"New Delhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1402,
+        "id":5407,
+        "title":"Mumbai",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1402,
+        "id":5408,
+        "title":"Chennai",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1403,
+    "difficulty":2,
+    "title":"1403. Which is the largest railway zone of Indian Railways by route length?",
+    "description":"",
+    "hint":"It is headquartered in Jaipur.",
+    "summary":"Northern Railway is among the largest railway zones by route length.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Railways,Zones",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1403,
+        "id":5409,
+        "title":"Northern Railway",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1403,
+        "id":5410,
+        "title":"Southern Railway",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1403,
+        "id":5411,
+        "title":"North Western Railway",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1403,
+        "id":5412,
+        "title":"Eastern Railway",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1404,
+    "difficulty":2,
+    "title":"1404. Which was the first railway zone created after the reorganisation of Indian Railways?",
+    "description":"",
+    "hint":"It was created in 1951.",
+    "summary":"Southern Railway was the first railway zone of independent India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Railways,History,Zones",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1404,
+        "id":5413,
+        "title":"Northern Railway",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1404,
+        "id":5414,
+        "title":"Western Railway",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1404,
+        "id":5415,
+        "title":"Central Railway",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1404,
+        "id":5416,
+        "title":"Southern Railway",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1405,
+    "difficulty":2,
+    "title":"1405. Which Indian railway station is known as the busiest railway station in India?",
+    "description":"",
+    "hint":"It is located in Maharashtra.",
+    "summary":"Chhatrapati Shivaji Maharaj Terminus is one of India's busiest railway stations.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Railways,Stations",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1405,
+        "id":5417,
+        "title":"Howrah Junction",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1405,
+        "id":5418,
+        "title":"New Delhi Railway Station",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1405,
+        "id":5419,
+        "title":"Chhatrapati Shivaji Maharaj Terminus",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1405,
+        "id":5420,
+        "title":"Chennai Central",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":401,
+    "difficulty":0,
+    "title":"401. The Indus Valley Civilization is also known by which other name?",
+    "description":"",
+    "hint":"It is named after the first site that was discovered.",
+    "summary":"The Indus Valley Civilization is also known as the Harappan Civilization because Harappa was the first site discovered.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Ancient History,Indus Valley Civilization,Harappan Civilization,UPSC,RPSC,SSC,Bank PO",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":401,
+        "id":1401,
+        "title":"Mesopotamian Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":401,
+        "id":1402,
+        "title":"Harappan Civilization",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":401,
+        "id":1403,
+        "title":"Vedic Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":401,
+        "id":1404,
+        "title":"Mauryan Civilization",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":402,
+    "difficulty":0,
+    "title":"402. In which present-day country is Harappa located?",
+    "description":"",
+    "hint":"It lies in Punjab province outside India.",
+    "summary":"Harappa is located in present-day Pakistan.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus Valley Civilization,Harappa,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":402,
+        "id":1405,
+        "title":"India",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":402,
+        "id":1406,
+        "title":"Afghanistan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":402,
+        "id":1407,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":402,
+        "id":1408,
+        "title":"Iran",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":403,
+    "difficulty":0,
+    "title":"403. Who first discovered Harappa in 1921?",
+    "description":"",
+    "hint":"An archaeologist working under ASI.",
+    "summary":"Harappa was discovered by Daya Ram Sahni in 1921.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Harappa,Archaeology,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":403,
+        "id":1409,
+        "title":"R. D. Banerji",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":403,
+        "id":1410,
+        "title":"John Marshall",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":403,
+        "id":1411,
+        "title":"Daya Ram Sahni",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":403,
+        "id":1412,
+        "title":"Mortimer Wheeler",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":404,
+    "difficulty":0,
+    "title":"404. Which river was closely associated with the Indus Valley Civilization?",
+    "description":"",
+    "hint":"The civilization gets its name from this river.",
+    "summary":"The Indus River was the principal river associated with the civilization.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Indus River,IVC,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":404,
+        "id":1413,
+        "title":"Ganga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":404,
+        "id":1414,
+        "title":"Indus",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":404,
+        "id":1415,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":404,
+        "id":1416,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":405,
+    "difficulty":0,
+    "title":"405. The mature phase of the Indus Valley Civilization is generally dated to which period?",
+    "description":"",
+    "hint":"It falls roughly in the Bronze Age.",
+    "summary":"The mature Harappan phase is generally dated between 2600 BCE and 1900 BCE.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Chronology,Indus Valley Civilization,UPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":405,
+        "id":1417,
+        "title":"2600 BCE–1900 BCE",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":405,
+        "id":1418,
+        "title":"1500 BCE–1000 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":405,
+        "id":1419,
+        "title":"600 BCE–300 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":405,
+        "id":1420,
+        "title":"3200 BCE–2800 BCE",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":406,
+    "difficulty":1,
+    "title":"406. Which metal was NOT known to the Harappans?",
+    "description":"",
+    "hint":"This metal became common much later in India.",
+    "summary":"Iron was not known to the Harappans during the mature phase.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"History,Metals,Harappans,UPSC,RPSC",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":406,
+        "id":1421,
+        "title":"Copper",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":406,
+        "id":1422,
+        "title":"Bronze",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":406,
+        "id":1423,
+        "title":"Iron",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":406,
+        "id":1424,
+        "title":"Gold",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":851,
+    "difficulty":0,
+    "title":"851. Which is the largest lake in India by area?",
+    "description":"",
+    "hint":"It is a brackish water lagoon in Odisha.",
+    "summary":"Chilika Lake is the largest coastal lagoon and largest lake in India by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Lakes,Chilika Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":851,
+        "id":3201,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":851,
+        "id":3202,
+        "title":"Chilika Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":851,
+        "id":3203,
+        "title":"Sambhar Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":851,
+        "id":3204,
+        "title":"Pulicat Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":852,
+    "difficulty":1,
+    "title":"852. Wular Lake is located in which state/UT?",
+    "description":"",
+    "hint":"It is located in the Kashmir Valley.",
+    "summary":"Wular Lake is located in Jammu and Kashmir.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Wular Lake,Jammu Kashmir",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":852,
+        "id":3205,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":852,
+        "id":3206,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":852,
+        "id":3207,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":852,
+        "id":3208,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":853,
+    "difficulty":1,
+    "title":"853. Which is the largest freshwater lake in India?",
+    "description":"",
+    "hint":"It is located in Jammu and Kashmir.",
+    "summary":"Wular Lake is the largest freshwater lake in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Wular Lake,Freshwater Lake",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":853,
+        "id":3209,
+        "title":"Wular Lake",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":853,
+        "id":3210,
+        "title":"Dal Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":853,
+        "id":3211,
+        "title":"Loktak Lake",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":853,
+        "id":3212,
+        "title":"Vembanad Lake",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1351,
+    "difficulty":2,
+    "title":"1351. Lakshadweep is a Union Territory of India located in which sea?",
+    "description":"",
+    "hint":"It is located southwest of the Indian mainland.",
+    "summary":"Lakshadweep islands are located in the Arabian Sea.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1351,
+        "id":5201,
+        "title":"Bay of Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1351,
+        "id":5202,
+        "title":"Arabian Sea",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1351,
+        "id":5203,
+        "title":"Indian Ocean",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1351,
+        "id":5204,
+        "title":"Andaman Sea",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1352,
+    "difficulty":2,
+    "title":"1352. What is the capital of Lakshadweep Union Territory?",
+    "description":"",
+    "hint":"It is located on Kavaratti Island.",
+    "summary":"Kavaratti is the capital and largest inhabited island of Lakshadweep.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Polity,Capital",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1352,
+        "id":5205,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5206,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5207,
+        "title":"Amini",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1352,
+        "id":5208,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1353,
+    "difficulty":2,
+    "title":"1353. Lakshadweep islands are mainly of which geological origin?",
+    "description":"",
+    "hint":"They are associated with coral formations.",
+    "summary":"Lakshadweep islands are coral atolls formed mainly from coral reefs.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Coral Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1353,
+        "id":5209,
+        "title":"Coral origin",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1353,
+        "id":5210,
+        "title":"Volcanic origin",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1353,
+        "id":5211,
+        "title":"River deposition",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1353,
+        "id":5212,
+        "title":"Glacial origin",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1354,
+    "difficulty":2,
+    "title":"1354. Which is the largest island in the Lakshadweep group by area?",
+    "description":"",
+    "hint":"It is located in the southern part of Lakshadweep.",
+    "summary":"Andrott Island is the largest island of Lakshadweep by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1354,
+        "id":5213,
+        "title":"Andrott",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1354,
+        "id":5214,
+        "title":"Kavaratti",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1354,
+        "id":5215,
+        "title":"Minicoy",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1354,
+        "id":5216,
+        "title":"Agatti",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1355,
+    "difficulty":2,
+    "title":"1355. How many islands are there in the Lakshadweep archipelago?",
+    "description":"",
+    "hint":"This is the official number of islands in the Union Territory.",
+    "summary":"Lakshadweep consists of 36 islands, including inhabited and uninhabited islands.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Lakshadweep,Geography,Islands",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1355,
+        "id":5217,
+        "title":"24",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1355,
+        "id":5218,
+        "title":"36",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1355,
+        "id":5219,
+        "title":"42",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1355,
+        "id":5220,
+        "title":"52",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1201,
+    "difficulty":2,
+    "title":"1201. Nathu La Pass connects Sikkim with which neighbouring country?",
+    "description":"",
+    "hint":"It shares the world's longest land border with India.",
+    "summary":"Nathu La Pass connects Sikkim with China (Tibet Autonomous Region).",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Sikkim",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1201,
+        "id":4601,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1201,
+        "id":4602,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1201,
+        "id":4603,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1201,
+        "id":4604,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1202,
+    "difficulty":2,
+    "title":"1202. Zoji La Pass connects Ladakh with which region?",
+    "description":"",
+    "hint":"It is famous for its beautiful valley.",
+    "summary":"Zoji La Pass connects Ladakh with the Kashmir Valley.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Ladakh",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1202,
+        "id":4605,
+        "title":"Jammu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1202,
+        "id":4606,
+        "title":"Kashmir Valley",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1202,
+        "id":4607,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1202,
+        "id":4608,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1203,
+    "difficulty":2,
+    "title":"1203. Rohtang Pass is located in which Indian state?",
+    "description":"",
+    "hint":"Its capital is Shimla.",
+    "summary":"Rohtang Pass is located in Himachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Tourism",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1203,
+        "id":4609,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1203,
+        "id":4610,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1203,
+        "id":4611,
+        "title":"Himachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1203,
+        "id":4612,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1204,
+    "difficulty":2,
+    "title":"1204. Khardung La Pass is located in which Union Territory?",
+    "description":"",
+    "hint":"It is home to Pangong Tso.",
+    "summary":"Khardung La Pass is located in Ladakh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,High Altitude,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1204,
+        "id":4613,
+        "title":"Ladakh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1204,
+        "id":4614,
+        "title":"Jammu and Kashmir",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1204,
+        "id":4615,
+        "title":"Chandigarh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1204,
+        "id":4616,
+        "title":"Delhi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1205,
+    "difficulty":2,
+    "title":"1205. Which mountain pass connects Manali with Leh?",
+    "description":"",
+    "hint":"It lies on the Manali–Leh Highway.",
+    "summary":"Baralacha La is one of the important passes connecting Manali and Leh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Roadways",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1205,
+        "id":4617,
+        "title":"Nathu La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1205,
+        "id":4618,
+        "title":"Baralacha La",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1205,
+        "id":4619,
+        "title":"Bomdi La",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1205,
+        "id":4620,
+        "title":"Jelep La",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1206,
+    "difficulty":2,
+    "title":"1206. Jelep La Pass is located on the border of India and which country?",
+    "description":"",
+    "hint":"It is east of Nepal.",
+    "summary":"Jelep La Pass lies on the India–China border.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Sikkim,International Borders",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1206,
+        "id":4621,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1206,
+        "id":4622,
+        "title":"Myanmar",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1206,
+        "id":4623,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1206,
+        "id":4624,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1207,
+    "difficulty":2,
+    "title":"1207. Bomdi La Pass is located in which state?",
+    "description":"",
+    "hint":"Its capital is Itanagar.",
+    "summary":"Bomdi La Pass is located in Arunachal Pradesh.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,North East,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1207,
+        "id":4625,
+        "title":"Arunachal Pradesh",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1207,
+        "id":4626,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1207,
+        "id":4627,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1207,
+        "id":4628,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1208,
+    "difficulty":2,
+    "title":"1208. Shipki La Pass connects Himachal Pradesh with which neighbouring country?",
+    "description":"",
+    "hint":"It is India's largest neighbouring country.",
+    "summary":"Shipki La Pass connects Himachal Pradesh with China.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,Mountain Passes,Himalayas,Border",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1208,
+        "id":4629,
+        "title":"China",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1208,
+        "id":4630,
+        "title":"Nepal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1208,
+        "id":4631,
+        "title":"Bhutan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1208,
+        "id":4632,
+        "title":"Pakistan",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":701,
+    "difficulty":0,
+    "title":"701. Which is the oldest mountain range in India?",
+    "description":"",
+    "hint":"It extends from Gujarat to Delhi.",
+    "summary":"The Aravalli Range is the oldest mountain range in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Mountains of India,Aravalli",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":701,
+        "id":2601,
+        "title":"Vindhya Range",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":701,
+        "id":2602,
+        "title":"Aravalli Range",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":701,
+        "id":2603,
+        "title":"Satpura Range",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":701,
+        "id":2604,
+        "title":"Western Ghats",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":702,
+    "difficulty":0,
+    "title":"702. The Aravalli Range extends from Gujarat to which state/UT?",
+    "description":"",
+    "hint":"Its capital is New Delhi.",
+    "summary":"The Aravalli Range stretches from Gujarat to Delhi.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Aravalli",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":702,
+        "id":2605,
+        "title":"Punjab",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":702,
+        "id":2606,
+        "title":"Delhi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":702,
+        "id":2607,
+        "title":"Haryana",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":702,
+        "id":2608,
+        "title":"Uttarakhand",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":703,
+    "difficulty":0,
+    "title":"703. Which is the highest peak of the Aravalli Range?",
+    "description":"",
+    "hint":"It is located near Mount Abu.",
+    "summary":"Guru Shikhar is the highest peak of the Aravalli Range.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Aravalli,Guru Shikhar",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":703,
+        "id":2609,
+        "title":"Guru Shikhar",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":703,
+        "id":2610,
+        "title":"Dodabetta",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":703,
+        "id":2611,
+        "title":"Anamudi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":703,
+        "id":2612,
+        "title":"Kalsubai",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":651,
+    "difficulty":0,
+    "title":"651. Which is the highest mountain peak in the world?",
+    "description":"",
+    "hint":"It lies on the Nepal–China border.",
+    "summary":"Mount Everest is the highest mountain peak in the world at 8,848.86 m.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Mountains,Everest",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":651,
+        "id":2401,
+        "title":"K2",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":651,
+        "id":2402,
+        "title":"Mount Everest",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":651,
+        "id":2403,
+        "title":"Kanchenjunga",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":651,
+        "id":2404,
+        "title":"Lhotse",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":652,
+    "difficulty":0,
+    "title":"652. Mount Everest belongs to which mountain range?",
+    "description":"",
+    "hint":"The world's youngest and highest fold mountains.",
+    "summary":"Mount Everest is part of the Himalayas.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Himalayas",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":652,
+        "id":2405,
+        "title":"Andes",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":652,
+        "id":2406,
+        "title":"Rockies",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":652,
+        "id":2407,
+        "title":"Himalayas",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":652,
+        "id":2408,
+        "title":"Alps",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":653,
+    "difficulty":0,
+    "title":"653. Which is the second-highest mountain in the world?",
+    "description":"",
+    "hint":"It lies in the Karakoram Range.",
+    "summary":"K2 is the world's second-highest peak.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,K2",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":653,
+        "id":2409,
+        "title":"K2",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":653,
+        "id":2410,
+        "title":"Makalu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":653,
+        "id":2411,
+        "title":"Everest",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":653,
+        "id":2412,
+        "title":"Annapurna",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":654,
+    "difficulty":1,
+    "title":"654. K2 is located in which mountain range?",
+    "description":"",
+    "hint":"This range lies northwest of the Himalayas.",
+    "summary":"K2 is located in the Karakoram Range.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Karakoram",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":654,
+        "id":2413,
+        "title":"Karakoram",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":654,
+        "id":2414,
+        "title":"Himalayas",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":654,
+        "id":2415,
+        "title":"Andes",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":654,
+        "id":2416,
+        "title":"Alps",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":655,
+    "difficulty":0,
+    "title":"655. Which is the highest peak in North America?",
+    "description":"",
+    "hint":"It was formerly known as Mount McKinley.",
+    "summary":"Denali is the highest mountain in North America.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Denali",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":655,
+        "id":2417,
+        "title":"Mount Logan",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":655,
+        "id":2418,
+        "title":"Denali",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":655,
+        "id":2419,
+        "title":"Mount Elbert",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":655,
+        "id":2420,
+        "title":"Pico de Orizaba",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+      "id":151,
+      "difficulty":0,
+      "title":"151. Which is the oldest National Park in India?",
+      "description":"",
+      "hint":"It was originally called Hailey National Park.",
+      "summary":"Jim Corbett National Park, established in 1936, is the oldest national park in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Corbett,Uttarakhand,Environment,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":151,
+            "id":601,
+            "title":"Kaziranga National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":151,
+            "id":602,
+            "title":"Jim Corbett National Park",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":151,
+            "id":603,
+            "title":"Kanha National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":151,
+            "id":604,
+            "title":"Gir National Park",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":152,
+      "difficulty":0,
+      "title":"152. Gir National Park is famous for conserving which animal?",
+      "description":"",
+      "hint":"It is the only wild population of this species in Asia.",
+      "summary":"Gir National Park in Gujarat is the last natural habitat of the Asiatic Lion.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Gir,Asiatic Lion,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":152,
+            "id":605,
+            "title":"Bengal Tiger",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":152,
+            "id":606,
+            "title":"Indian Elephant",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":152,
+            "id":607,
+            "title":"Asiatic Lion",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":152,
+            "id":608,
+            "title":"Snow Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":153,
+      "difficulty":0,
+      "title":"153. Kaziranga National Park is located in which state?",
+      "description":"",
+      "hint":"The Brahmaputra River flows through this state.",
+      "summary":"Kaziranga National Park is located in Assam.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Kaziranga,Assam,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":153,
+            "id":609,
+            "title":"Assam",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":153,
+            "id":610,
+            "title":"Meghalaya",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":153,
+            "id":611,
+            "title":"Arunachal Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":153,
+            "id":612,
+            "title":"Nagaland",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":154,
+      "difficulty":0,
+      "title":"154. Which National Park is famous for the one-horned rhinoceros?",
+      "description":"",
+      "hint":"It is a UNESCO World Heritage Site in Assam.",
+      "summary":"Kaziranga National Park is globally known for the Indian one-horned rhinoceros.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Kaziranga,Rhinoceros,UNESCO,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":154,
+            "id":613,
+            "title":"Manas National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":154,
+            "id":614,
+            "title":"Periyar National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":154,
+            "id":615,
+            "title":"Kaziranga National Park",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":154,
+            "id":616,
+            "title":"Sundarbans National Park",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":155,
+      "difficulty":0,
+      "title":"155. Sundarbans National Park is known for which ecosystem?",
+      "description":"",
+      "hint":"Trees here grow in salty coastal water.",
+      "summary":"Sundarbans National Park contains the world's largest mangrove ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Sundarbans,Mangroves,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":155,
+            "id":617,
+            "title":"Coral Reef",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":155,
+            "id":618,
+            "title":"Mangrove Forest",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":155,
+            "id":619,
+            "title":"Temperate Forest",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":155,
+            "id":620,
+            "title":"Grassland",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":156,
+      "difficulty":1,
+      "title":"156. Which National Park is located in Rajasthan and famous for tiger sightings?",
+      "description":"",
+      "hint":"It contains a historic fort within the park.",
+      "summary":"Ranthambore National Park is one of India's most famous tiger reserves and national parks.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Ranthambore,Rajasthan,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":156,
+            "id":621,
+            "title":"Desert National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":156,
+            "id":622,
+            "title":"Keoladeo National Park",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":156,
+            "id":623,
+            "title":"Ranthambore National Park",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":156,
+            "id":624,
+            "title":"Sariska National Park",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":157,
+      "difficulty":1,
+      "title":"157. Keoladeo National Park is especially famous for which group of animals?",
+      "description":"",
+      "hint":"Bird watchers from around the world visit here.",
+      "summary":"Keoladeo National Park is one of the world's most important bird habitats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"National Parks,Keoladeo,Birds,Rajasthan,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":157,
+            "id":625,
+            "title":"Birds",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":157,
+            "id":626,
+            "title":"Tigers",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":157,
+            "id":627,
+            "title":"Lions",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":157,
+            "id":628,
+            "title":"Elephants",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+      "id":51,
+      "difficulty":0,
+      "title":"51. Who is known as the Father of the Indian Constitution?",
+      "description":"",
+      "hint":"He was the Chairman of the Drafting Committee.",
+      "summary":"Dr. B.R. Ambedkar played the leading role in drafting the Constitution of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitution,Making of Constitution,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":51,
+            "id":201,
+            "title":"Dr. B.R. Ambedkar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":51,
+            "id":202,
+            "title":"Jawaharlal Nehru",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":51,
+            "id":203,
+            "title":"Rajendra Prasad",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":51,
+            "id":204,
+            "title":"Sardar Patel",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":52,
+      "difficulty":0,
+      "title":"52. How many Fundamental Rights are currently guaranteed by the Constitution of India?",
+      "description":"",
+      "hint":"Originally there were seven; one was later removed.",
+      "summary":"At present, there are six Fundamental Rights in the Constitution.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":52,
+            "id":205,
+            "title":"5",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":52,
+            "id":206,
+            "title":"6",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":52,
+            "id":207,
+            "title":"7",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":52,
+            "id":208,
+            "title":"8",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":53,
+      "difficulty":0,
+      "title":"53. What is the supreme law of India?",
+      "description":"",
+      "hint":"All laws must conform to it.",
+      "summary":"The Constitution is the highest legal authority in India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Constitution,Basic Concepts",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":53,
+            "id":209,
+            "title":"Constitution of India",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":53,
+            "id":210,
+            "title":"Parliament",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":53,
+            "id":211,
+            "title":"Supreme Court",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":53,
+            "id":212,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":54,
+      "difficulty":0,
+      "title":"54. Who is the constitutional head of the Union Government?",
+      "description":"",
+      "hint":"This office is elected indirectly.",
+      "summary":"The President is the constitutional head of India.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,President,Executive",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":54,
+            "id":213,
+            "title":"Prime Minister",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":54,
+            "id":214,
+            "title":"President",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":54,
+            "id":215,
+            "title":"Vice President",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":54,
+            "id":216,
+            "title":"Chief Justice of India",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":55,
+      "difficulty":0,
+      "title":"55. Which part of the Constitution contains Fundamental Rights?",
+      "description":"",
+      "hint":"It comes immediately before the Directive Principles.",
+      "summary":"Part III of the Constitution contains Fundamental Rights.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Constitution",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":55,
+            "id":217,
+            "title":"Part IV",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":55,
+            "id":218,
+            "title":"Part II",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":55,
+            "id":219,
+            "title":"Part III",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":55,
+            "id":220,
+            "title":"Part V",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":56,
+      "difficulty":1,
+      "title":"56. Which Article abolishes untouchability?",
+      "description":"",
+      "hint":"It is one of the shortest but most important Fundamental Rights articles.",
+      "summary":"Article 17 abolishes untouchability and forbids its practice.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Polity,Fundamental Rights,Article 17,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":56,
+            "id":221,
+            "title":"Article 15",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":56,
+            "id":222,
+            "title":"Article 17",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":56,
+            "id":223,
+            "title":"Article 19",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":56,
+            "id":224,
+            "title":"Article 21",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+    "id":801,
+    "difficulty":0,
+    "title":"801. Which is the longest river in India?",
+    "description":"",
+    "hint":"It flows through northern India and Bangladesh.",
+    "summary":"The Ganga is the longest river flowing entirely within India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Rivers,Ganga",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":801,
+        "id":3001,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":801,
+        "id":3002,
+        "title":"Ganga",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":801,
+        "id":3003,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":801,
+        "id":3004,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":802,
+    "difficulty":1,
+    "title":"802. The source of the Ganga River is which glacier?",
+    "description":"",
+    "hint":"It is located in Uttarakhand.",
+    "summary":"The Ganga originates from the Gangotri Glacier as the Bhagirathi River.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Ganga,Gangotri Glacier",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":802,
+        "id":3005,
+        "title":"Siachen Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":802,
+        "id":3006,
+        "title":"Gangotri Glacier",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":802,
+        "id":3007,
+        "title":"Milam Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":802,
+        "id":3008,
+        "title":"Zemu Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":803,
+    "difficulty":1,
+    "title":"803. The Ganga is formed at Devprayag by the confluence of which two rivers?",
+    "description":"",
+    "hint":"One originates from Gangotri Glacier.",
+    "summary":"The Ganga is formed by the meeting of Bhagirathi and Alaknanda at Devprayag.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Ganga,Devprayag",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":803,
+        "id":3009,
+        "title":"Alaknanda and Bhagirathi",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":803,
+        "id":3010,
+        "title":"Mandakini and Yamuna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":803,
+        "id":3011,
+        "title":"Alaknanda and Yamuna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":803,
+        "id":3012,
+        "title":"Bhagirathi and Kosi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":804,
+    "difficulty":1,
+    "title":"804. Which is the largest tributary of the Ganga River?",
+    "description":"",
+    "hint":"It flows through Delhi and Uttar Pradesh.",
+    "summary":"The Yamuna is the largest tributary of the Ganga.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Yamuna,Ganga Tributaries",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":804,
+        "id":3013,
+        "title":"Yamuna",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":804,
+        "id":3014,
+        "title":"Son",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":804,
+        "id":3015,
+        "title":"Gandak",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":804,
+        "id":3016,
+        "title":"Kosi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":805,
+    "difficulty":1,
+    "title":"805. The Yamuna River originates from which glacier?",
+    "description":"",
+    "hint":"It is located in Uttarakhand.",
+    "summary":"The Yamuna originates from the Yamunotri Glacier.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Yamuna,Yamunotri Glacier",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":805,
+        "id":3017,
+        "title":"Gangotri Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":805,
+        "id":3018,
+        "title":"Yamunotri Glacier",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":805,
+        "id":3019,
+        "title":"Siachen Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":805,
+        "id":3020,
+        "title":"Pindari Glacier",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":806,
+    "difficulty":0,
+    "title":"806. Which river is known as the 'Dakshin Ganga'?",
+    "description":"",
+    "hint":"It is the largest peninsular river of India.",
+    "summary":"The Godavari River is known as Dakshin Ganga or Ganga of the South.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Godavari,Dakshin Ganga",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":806,
+        "id":3021,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":806,
+        "id":3022,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":806,
+        "id":3023,
+        "title":"Kaveri",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":806,
+        "id":3024,
+        "title":"Mahanadi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":807,
+    "difficulty":1,
+    "title":"807. Which is the longest peninsular river of India?",
+    "description":"",
+    "hint":"It flows into the Bay of Bengal.",
+    "summary":"The Godavari is the longest peninsular river in India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Godavari,Peninsular Rivers",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":807,
+        "id":3025,
+        "title":"Krishna",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":807,
+        "id":3026,
+        "title":"Godavari",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":807,
+        "id":3027,
+        "title":"Narmada",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":807,
+        "id":3028,
+        "title":"Tapi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":751,
+    "difficulty":0,
+    "title":"751. Which is the longest river in the world?",
+    "description":"",
+    "hint":"It flows through northeastern Africa.",
+    "summary":"The Nile is generally regarded as the longest river in the world.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Rivers,Nile",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":751,
+        "id":2801,
+        "title":"Amazon",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":751,
+        "id":2802,
+        "title":"Yangtze",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":751,
+        "id":2803,
+        "title":"Nile",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":751,
+        "id":2804,
+        "title":"Mississippi",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":752,
+    "difficulty":0,
+    "title":"752. Which river has the largest drainage basin in the world?",
+    "description":"",
+    "hint":"It flows through Brazil.",
+    "summary":"The Amazon River has the world's largest drainage basin.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Rivers,Amazon",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":752,
+        "id":2805,
+        "title":"Nile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":752,
+        "id":2806,
+        "title":"Amazon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":752,
+        "id":2807,
+        "title":"Congo",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":752,
+        "id":2808,
+        "title":"Yangtze",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":753,
+    "difficulty":0,
+    "title":"753. Which river has the greatest volume of water discharge in the world?",
+    "description":"",
+    "hint":"It empties into the Atlantic Ocean.",
+    "summary":"The Amazon River has the highest water discharge of any river in the world.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Rivers,Amazon",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":753,
+        "id":2809,
+        "title":"Nile",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":753,
+        "id":2810,
+        "title":"Amazon",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":753,
+        "id":2811,
+        "title":"Mississippi",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":753,
+        "id":2812,
+        "title":"Danube",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":754,
+    "difficulty":0,
+    "title":"754. The Amazon River flows through which continent?",
+    "description":"",
+    "hint":"Brazil occupies a major part of this continent.",
+    "summary":"The Amazon River flows through South America.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"Geography,Amazon,South America",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":754,
+        "id":2813,
+        "title":"Africa",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":754,
+        "id":2814,
+        "title":"South America",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":754,
+        "id":2815,
+        "title":"North America",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":754,
+        "id":2816,
+        "title":"Asia",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+    "id":1051,
+    "difficulty":1,
+    "title":"1051. Which is the largest state of India by area?",
+    "description":"",
+    "hint":"It is located in northwestern India.",
+    "summary":"Rajasthan is the largest state in India by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,States,Geography,Area",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1051,
+        "id":4001,
+        "title":"Madhya Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1051,
+        "id":4002,
+        "title":"Rajasthan",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1051,
+        "id":4003,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1051,
+        "id":4004,
+        "title":"Uttar Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1052,
+    "difficulty":1,
+    "title":"1052. Which Indian state has the longest coastline?",
+    "description":"",
+    "hint":"It lies on the western coast.",
+    "summary":"Gujarat has the longest coastline among Indian states.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,States,Coastline,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1052,
+        "id":4005,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1052,
+        "id":4006,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1052,
+        "id":4007,
+        "title":"Maharashtra",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1052,
+        "id":4008,
+        "title":"Gujarat",
+        "tenantId":4,
+        "isAnswer":true
+      }
+    ]
+  },
+  {
+    "id":1053,
+    "difficulty":1,
+    "title":"1053. Which is the smallest state of India by area?",
+    "description":"",
+    "hint":"It is famous for its beaches.",
+    "summary":"Goa is the smallest state in India by area.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,States,Geography,Area",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1053,
+        "id":4009,
+        "title":"Goa",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1053,
+        "id":4010,
+        "title":"Sikkim",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1053,
+        "id":4011,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1053,
+        "id":4012,
+        "title":"Nagaland",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1054,
+    "difficulty":1,
+    "title":"1054. Which state is known as the 'Spice Garden of India'?",
+    "description":"",
+    "hint":"It is located on the Malabar Coast.",
+    "summary":"Kerala is known as the Spice Garden of India.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,States,Agriculture,Nicknames",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1054,
+        "id":4013,
+        "title":"Karnataka",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1054,
+        "id":4014,
+        "title":"Tamil Nadu",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1054,
+        "id":4015,
+        "title":"Kerala",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1054,
+        "id":4016,
+        "title":"Andhra Pradesh",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+  {
+    "id":1055,
+    "difficulty":1,
+    "title":"1055. Which state shares the longest international border with Bangladesh?",
+    "description":"",
+    "hint":"Its capital is Agartala.",
+    "summary":"Tripura shares the longest border with Bangladesh among Indian states.",
+    "tenantId":4,
+    "isVerify":true,
+    "questionTags":"India,States,International Borders,Geography",
+    "createdDate":"2025-02-19T00:38:45.060735",
+    "options":[
+      {
+        "questionId":1055,
+        "id":4017,
+        "title":"Assam",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1055,
+        "id":4018,
+        "title":"Tripura",
+        "tenantId":4,
+        "isAnswer":true
+      },
+      {
+        "questionId":1055,
+        "id":4019,
+        "title":"West Bengal",
+        "tenantId":4,
+        "isAnswer":false
+      },
+      {
+        "questionId":1055,
+        "id":4020,
+        "title":"Meghalaya",
+        "tenantId":4,
+        "isAnswer":false
+      }
+    ]
+  },
+{
+      "id":101,
+      "difficulty":0,
+      "title":"101. Project Tiger was launched in which year?",
+      "description":"",
+      "hint":"It was launched during the early 1970s to protect India's declining tiger population.",
+      "summary":"Project Tiger was launched by the Government of India in 1973 to conserve tigers and their habitats.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Environment,Ecology,Tiger Reserves,Project Tiger,UPSC,RPSC,SSC,Bank PO",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":101,
+            "id":401,
+            "title":"1971",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":101,
+            "id":402,
+            "title":"1973",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":101,
+            "id":403,
+            "title":"1975",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":101,
+            "id":404,
+            "title":"1980",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":102,
+      "difficulty":0,
+      "title":"102. Which animal is primarily protected under Project Tiger?",
+      "description":"",
+      "hint":"It is India's national animal.",
+      "summary":"Project Tiger focuses on the conservation of Bengal Tigers.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Environment,Tiger Conservation,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "errorMessage":null,
+      "options":[
+         {
+            "questionId":102,
+            "id":405,
+            "title":"Asiatic Lion",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":102,
+            "id":406,
+            "title":"Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":102,
+            "id":407,
+            "title":"Bengal Tiger",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":102,
+            "id":408,
+            "title":"Snow Leopard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":103,
+      "difficulty":0,
+      "title":"103. Which state is home to the Ranthambore Tiger Reserve?",
+      "description":"",
+      "hint":"This state is famous for its deserts and forts.",
+      "summary":"Ranthambore Tiger Reserve is located in Rajasthan.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Rajasthan,Ranthambore,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":103,
+            "id":409,
+            "title":"Madhya Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":103,
+            "id":410,
+            "title":"Gujarat",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":103,
+            "id":411,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":103,
+            "id":412,
+            "title":"Maharashtra",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":104,
+      "difficulty":0,
+      "title":"104. Which Tiger Reserve is located in Uttarakhand and was India's first national park?",
+      "description":"",
+      "hint":"It was formerly known as Hailey National Park.",
+      "summary":"Corbett Tiger Reserve is India's oldest national park and a major tiger habitat.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Corbett,Environment,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":104,
+            "id":413,
+            "title":"Bandipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":104,
+            "id":414,
+            "title":"Corbett",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":104,
+            "id":415,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":104,
+            "id":416,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":105,
+      "difficulty":0,
+      "title":"105. Which state has the Bandipur Tiger Reserve?",
+      "description":"",
+      "hint":"Its capital is Bengaluru.",
+      "summary":"Bandipur Tiger Reserve is located in Karnataka.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Karnataka,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":105,
+            "id":417,
+            "title":"Tamil Nadu",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":105,
+            "id":418,
+            "title":"Kerala",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":105,
+            "id":419,
+            "title":"Karnataka",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":105,
+            "id":420,
+            "title":"Andhra Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":106,
+      "difficulty":1,
+      "title":"106. Which Tiger Reserve is famous for inspiring Rudyard Kipling's Jungle Book?",
+      "description":"",
+      "hint":"Mowgli is closely associated with this reserve.",
+      "summary":"Pench Tiger Reserve inspired settings found in The Jungle Book.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Tiger Reserves,Pench,Wildlife,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":106,
+            "id":421,
+            "title":"Kanha",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":106,
+            "id":422,
+            "title":"Pench",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":106,
+            "id":423,
+            "title":"Sariska",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":106,
+            "id":424,
+            "title":"Similipal",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+      "id":301,
+      "difficulty":0,
+      "title":"301. Which Indian monument is known as the 'Symbol of Love' and is a UNESCO World Heritage Site?",
+      "description":"",
+      "hint":"It was built by a Mughal emperor for his wife.",
+      "summary":"The Taj Mahal in Agra is one of the most famous UNESCO World Heritage Sites in the world.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,World Heritage Sites,Taj Mahal,History,UPSC,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":301,
+            "id":1001,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":301,
+            "id":1002,
+            "title":"Taj Mahal",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":301,
+            "id":1003,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":301,
+            "id":1004,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":302,
+      "difficulty":0,
+      "title":"302. In which city is the Taj Mahal located?",
+      "description":"",
+      "hint":"The city lies on the banks of the Yamuna River.",
+      "summary":"The Taj Mahal is located in Agra, Uttar Pradesh.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Taj Mahal,Agra,Geography,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":302,
+            "id":1005,
+            "title":"Delhi",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":302,
+            "id":1006,
+            "title":"Agra",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":302,
+            "id":1007,
+            "title":"Jaipur",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":302,
+            "id":1008,
+            "title":"Lucknow",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":303,
+      "difficulty":0,
+      "title":"303. Which UNESCO World Heritage Site in Delhi is the tallest brick minaret in India?",
+      "description":"",
+      "hint":"It was started by Qutb-ud-din Aibak.",
+      "summary":"Qutub Minar is one of Delhi's most famous historical monuments.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Qutub Minar,Delhi,History,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":303,
+            "id":1009,
+            "title":"Purana Qila",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":303,
+            "id":1010,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":303,
+            "id":1011,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":303,
+            "id":1012,
+            "title":"Jama Masjid",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":304,
+      "difficulty":0,
+      "title":"304. Which UNESCO site in Delhi served as the residence of Mughal emperors?",
+      "description":"",
+      "hint":"It is built from red sandstone.",
+      "summary":"The Red Fort was the principal residence of Mughal emperors.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Red Fort,Mughal Empire,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":304,
+            "id":1013,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":304,
+            "id":1014,
+            "title":"Qutub Minar",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":304,
+            "id":1015,
+            "title":"Red Fort",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":304,
+            "id":1016,
+            "title":"Safdarjung Tomb",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":305,
+      "difficulty":1,
+      "title":"305. Which UNESCO World Heritage Site is known as the precursor to the Taj Mahal?",
+      "description":"",
+      "hint":"It is the tomb of a Mughal emperor in Delhi.",
+      "summary":"Humayun's Tomb introduced Persian architectural elements later perfected in the Taj Mahal.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Humayun's Tomb,Mughal Architecture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":305,
+            "id":1017,
+            "title":"Humayun's Tomb",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":305,
+            "id":1018,
+            "title":"Gol Gumbaz",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":305,
+            "id":1019,
+            "title":"Taj Mahal",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":305,
+            "id":1020,
+            "title":"Agra Fort",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":306,
+      "difficulty":1,
+      "title":"306. Which UNESCO World Heritage Site is famous for rock-cut Buddhist caves in Maharashtra?",
+      "description":"",
+      "hint":"The caves contain paintings depicting Jataka tales.",
+      "summary":"Ajanta Caves are renowned for ancient Buddhist art and paintings.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ajanta Caves,Buddhism,Art and Culture,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":306,
+            "id":1021,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":306,
+            "id":1022,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":306,
+            "id":1023,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":306,
+            "id":1024,
+            "title":"Badami Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":307,
+      "difficulty":1,
+      "title":"307. Which UNESCO site contains Hindu, Buddhist and Jain cave monuments at one location?",
+      "description":"",
+      "hint":"It is located near Aurangabad.",
+      "summary":"Ellora Caves showcase religious harmony through diverse cave temples.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"UNESCO,Ellora Caves,Religion,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":307,
+            "id":1025,
+            "title":"Ajanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":307,
+            "id":1026,
+            "title":"Ellora Caves",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":307,
+            "id":1027,
+            "title":"Elephanta Caves",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":307,
+            "id":1028,
+            "title":"Udayagiri Caves",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+{
+      "id":251,
+      "difficulty":0,
+      "title":"251. Which Wildlife Sanctuary in Rajasthan is famous for blackbucks?",
+      "description":"",
+      "hint":"It is located near Jodhpur.",
+      "summary":"Gajner Wildlife Sanctuary is known for blackbucks and desert wildlife.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Rajasthan,Blackbuck,RPSC,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":251,
+            "id":801,
+            "title":"Gajner Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":251,
+            "id":802,
+            "title":"Kumbhalgarh Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":251,
+            "id":803,
+            "title":"Mount Abu Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":251,
+            "id":804,
+            "title":"Tal Chhapar Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":252,
+      "difficulty":0,
+      "title":"252. Tal Chhapar Wildlife Sanctuary is famous for which animal?",
+      "description":"",
+      "hint":"A graceful antelope found in grasslands.",
+      "summary":"Tal Chhapar Wildlife Sanctuary is renowned for blackbuck conservation.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Tal Chhapar,Blackbuck,Rajasthan,RPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":252,
+            "id":805,
+            "title":"Nilgai",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":252,
+            "id":806,
+            "title":"Blackbuck",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":252,
+            "id":807,
+            "title":"Chinkara",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":252,
+            "id":808,
+            "title":"Wild Ass",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":253,
+      "difficulty":0,
+      "title":"253. Sultanpur Wildlife Sanctuary was upgraded into a National Park in which state?",
+      "description":"",
+      "hint":"The state surrounds Delhi on three sides.",
+      "summary":"Sultanpur is located in Haryana and later became Sultanpur National Park.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Sultanpur,Haryana,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":253,
+            "id":809,
+            "title":"Punjab",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":253,
+            "id":810,
+            "title":"Haryana",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":253,
+            "id":811,
+            "title":"Rajasthan",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":253,
+            "id":812,
+            "title":"Uttar Pradesh",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":254,
+      "difficulty":0,
+      "title":"254. Which Wildlife Sanctuary in Delhi protects part of the Aravalli hills?",
+      "description":"",
+      "hint":"It shares its name with a nearby village.",
+      "summary":"Asola Bhatti Wildlife Sanctuary protects the Northern Aravalli ecosystem.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Delhi,Aravalli,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":254,
+            "id":813,
+            "title":"Okhla Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":254,
+            "id":814,
+            "title":"Asola Bhatti Wildlife Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":254,
+            "id":815,
+            "title":"Najafgarh Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":254,
+            "id":816,
+            "title":"Yamuna Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":255,
+      "difficulty":1,
+      "title":"255. Which Wildlife Sanctuary in Uttar Pradesh is famous for migratory birds?",
+      "description":"",
+      "hint":"Located near Noida.",
+      "summary":"Okhla Bird Sanctuary attracts numerous migratory bird species.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Bird Sanctuary,Uttar Pradesh,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":255,
+            "id":817,
+            "title":"National Chambal Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":255,
+            "id":818,
+            "title":"Okhla Bird Sanctuary",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":255,
+            "id":819,
+            "title":"Kaimur Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":255,
+            "id":820,
+            "title":"Ranipur Sanctuary",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+   {
+      "id":256,
+      "difficulty":1,
+      "title":"256. National Chambal Sanctuary is known for conserving which critically endangered reptile?",
+      "description":"",
+      "hint":"It has a very long narrow snout.",
+      "summary":"National Chambal Sanctuary is India's most important habitat for the gharial.",
+      "tenantId":4,
+      "isVerify":true,
+      "questionTags":"Wildlife Sanctuaries,Gharial,Chambal,UPSC",
+      "createdDate":"2025-02-19T00:38:45.060735",
+      "options":[
+         {
+            "questionId":256,
+            "id":821,
+            "title":"Mugger Crocodile",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":256,
+            "id":822,
+            "title":"Gharial",
+            "tenantId":4,
+            "isAnswer":true
+         },
+         {
+            "questionId":256,
+            "id":823,
+            "title":"Saltwater Crocodile",
+            "tenantId":4,
+            "isAnswer":false
+         },
+         {
+            "questionId":256,
+            "id":824,
+            "title":"Monitor Lizard",
+            "tenantId":4,
+            "isAnswer":false
+         }
+      ]
+   },
+       
+]
