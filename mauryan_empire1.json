@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1451,
+    "difficulty": 1,
+    "title": "1451. Who founded the Mauryan Empire?",
+    "description": "",
+    "hint": "He established the empire with the guidance of Chanakya.",
+    "summary": "Chandragupta Maurya founded the Mauryan Empire around 321 BCE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,History,Ancient India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1451,
+        "id": 5601,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1451,
+        "id": 5602,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1451,
+        "id": 5603,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1451,
+        "id": 5604,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1452,
+    "difficulty": 1,
+    "title": "1452. Who was the famous adviser of Chandragupta Maurya?",
+    "description": "",
+    "hint": "He is also known as Kautilya.",
+    "summary": "Chanakya, also known as Kautilya or Vishnugupta, was the chief adviser of Chandragupta Maurya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chanakya,Kautilya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1452,
+        "id": 5605,
+        "title": "Megasthenes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1452,
+        "id": 5606,
+        "title": "Patanjali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1452,
+        "id": 5607,
+        "title": "Chanakya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1452,
+        "id": 5608,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1453,
+    "difficulty": 1,
+    "title": "1453. What was the capital of the Mauryan Empire?",
+    "description": "",
+    "hint": "It was an ancient city located in present-day Bihar.",
+    "summary": "Pataliputra was the capital of the Mauryan Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Pataliputra,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1453,
+        "id": 5609,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1453,
+        "id": 5610,
+        "title": "Ujjain",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1453,
+        "id": 5611,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1453,
+        "id": 5612,
+        "title": "Mathura",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1454,
+    "difficulty": 1,
+    "title": "1454. Which Greek ruler was defeated by Chandragupta Maurya?",
+    "description": "",
+    "hint": "He was a successor of Alexander the Great.",
+    "summary": "Chandragupta Maurya defeated Seleucus I Nicator and later concluded a treaty with him.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chandragupta Maurya,Seleucus",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1454,
+        "id": 5613,
+        "title": "Seleucus I Nicator",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1454,
+        "id": 5614,
+        "title": "Alexander the Great",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1454,
+        "id": 5615,
+        "title": "Antiochus III",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1454,
+        "id": 5616,
+        "title": "Darius III",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1455,
+    "difficulty": 1,
+    "title": "1455. Which Greek ambassador visited the court of Chandragupta Maurya?",
+    "description": "",
+    "hint": "He wrote an account called Indica.",
+    "summary": "Megasthenes was the Greek ambassador sent by Seleucus I Nicator to Chandragupta Maurya's court.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Megasthenes,Indica",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1455,
+        "id": 5617,
+        "title": "Megasthenes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1455,
+        "id": 5618,
+        "title": "Fa-Hien",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1455,
+        "id": 5619,
+        "title": "Xuanzang",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1455,
+        "id": 5620,
+        "title": "Pliny",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1456,
+    "difficulty": 1,
+    "title": "1456. Who succeeded Chandragupta Maurya?",
+    "description": "",
+    "hint": "He was the father of Ashoka.",
+    "summary": "Bindusara succeeded Chandragupta Maurya as the Mauryan emperor.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Bindusara,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1456,
+        "id": 5621,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1456,
+        "id": 5622,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1456,
+        "id": 5623,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1456,
+        "id": 5624,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1457,
+    "difficulty": 1,
+    "title": "1457. Who was the most famous ruler of the Mauryan Empire?",
+    "description": "",
+    "hint": "He embraced Buddhism after the Kalinga War.",
+    "summary": "Ashoka was the most prominent Mauryan ruler and is renowned for spreading Buddhism and promoting Dhamma.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1457,
+        "id": 5625,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1457,
+        "id": 5626,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1457,
+        "id": 5627,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1457,
+        "id": 5628,
+        "title": "Bimbisara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1458,
+    "difficulty": 1,
+    "title": "1458. Which war had a major influence on Ashoka's later policy?",
+    "description": "",
+    "hint": "It took place in present-day Odisha.",
+    "summary": "The Kalinga War deeply affected Ashoka and influenced his later policy of Dhamma and non-violence.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1458,
+        "id": 5629,
+        "title": "Kalinga War",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1458,
+        "id": 5630,
+        "title": "Battle of Hydaspes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1458,
+        "id": 5631,
+        "title": "Battle of Panipat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1458,
+        "id": 5632,
+        "title": "Battle of Tarain",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1459,
+    "difficulty": 1,
+    "title": "1459. Which ancient text is attributed to Kautilya?",
+    "description": "",
+    "hint": "It deals with statecraft, administration and economics.",
+    "summary": "The Arthashastra is traditionally attributed to Kautilya, also known as Chanakya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Kautilya,Arthashastra",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1459,
+        "id": 5633,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1459,
+        "id": 5634,
+        "title": "Rajatarangini",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1459,
+        "id": 5635,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1459,
+        "id": 5636,
+        "title": "Mudrarakshasa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1460,
+    "difficulty": 1,
+    "title": "1460. What was the main language used in most of Ashoka's inscriptions?",
+    "description": "",
+    "hint": "Many of his inscriptions were written in a Middle Indo-Aryan language.",
+    "summary": "Most of Ashoka's inscriptions were written in Prakrit, generally using the Brahmi script.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1460,
+        "id": 5637,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1460,
+        "id": 5638,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1460,
+        "id": 5639,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1460,
+        "id": 5640,
+        "title": "Pali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1461,
+    "difficulty": 1,
+    "title": "1461. Who succeeded Bindusara as the Mauryan emperor?",
+    "description": "",
+    "hint": "He is famous for his rock and pillar edicts.",
+    "summary": "Ashoka succeeded his father Bindusara and became one of the most famous Mauryan rulers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Bindusara",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1461,
+        "id": 5641,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1461,
+        "id": 5642,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1461,
+        "id": 5643,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1461,
+        "id": 5644,
+        "title": "Pushyamitra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1462,
+    "difficulty": 1,
+    "title": "1462. Which edict of Ashoka describes his remorse after the Kalinga War?",
+    "description": "",
+    "hint": "It is one of the Major Rock Edicts.",
+    "summary": "The 13th Major Rock Edict describes the Kalinga War and Ashoka's remorse over the suffering caused by it.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Edicts,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1462,
+        "id": 5645,
+        "title": "Major Rock Edict I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1462,
+        "id": 5646,
+        "title": "Major Rock Edict V",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1462,
+        "id": 5647,
+        "title": "Major Rock Edict XIII",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1462,
+        "id": 5648,
+        "title": "Major Rock Edict XIV",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1463,
+    "difficulty": 1,
+    "title": "1463. What name did Ashoka commonly use for his policy of ethical conduct?",
+    "description": "",
+    "hint": "It emphasized moral behavior, tolerance and welfare.",
+    "summary": "Ashoka promoted a policy known as Dhamma, emphasizing ethical conduct, tolerance and social harmony.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Dhamma",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1463,
+        "id": 5649,
+        "title": "Dhamma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1463,
+        "id": 5650,
+        "title": "Artha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1463,
+        "id": 5651,
+        "title": "Rajasuya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1463,
+        "id": 5652,
+        "title": "Danda",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1464,
+    "difficulty": 1,
+    "title": "1464. Which site is famous for the Lion Capital associated with Ashoka?",
+    "description": "",
+    "hint": "It is the place where Buddha delivered his first sermon.",
+    "summary": "The Lion Capital at Sarnath is a famous Mauryan sculpture and is the basis of India's State Emblem.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Sarnath,Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1464,
+        "id": 5653,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1464,
+        "id": 5654,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1464,
+        "id": 5655,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1464,
+        "id": 5656,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1465,
+    "difficulty": 1,
+    "title": "1465. Which Mauryan ruler is associated with the construction of the original Sanchi Stupa?",
+    "description": "",
+    "hint": "He promoted Buddhism after the Kalinga War.",
+    "summary": "The original Sanchi Stupa is traditionally attributed to Ashoka, while later rulers enlarged and embellished it.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Sanchi,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1465,
+        "id": 5657,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1465,
+        "id": 5658,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1465,
+        "id": 5659,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1465,
+        "id": 5660,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1466,
+    "difficulty": 1,
+    "title": "1466. Which script was used in most of Ashoka's inscriptions?",
+    "description": "",
+    "hint": "It was an ancient Indian script that later developed into several scripts.",
+    "summary": "Brahmi was the script used in most of Ashoka's inscriptions, while Kharosthi was used mainly in the northwest.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Brahmi,Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1466,
+        "id": 5661,
+        "title": "Brahmi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1466,
+        "id": 5662,
+        "title": "Devanagari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1466,
+        "id": 5663,
+        "title": "Grantha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1466,
+        "id": 5664,
+        "title": "Sharada",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1467,
+    "difficulty": 1,
+    "title": "1467. What was the title used by Ashoka in many of his inscriptions?",
+    "description": "",
+    "hint": "It means roughly 'Beloved of the Gods, He Who Looks with Affection'.",
+    "summary": "Ashoka used the title Devanampiya Piyadasi in many of his inscriptions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1467,
+        "id": 5665,
+        "title": "Vikramaditya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1467,
+        "id": 5666,
+        "title": "Devanampiya Piyadasi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1467,
+        "id": 5667,
+        "title": "Maharajadhiraja",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1467,
+        "id": 5668,
+        "title": "Rajakesari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1468,
+    "difficulty": 1,
+    "title": "1468. Which caves are associated with the Mauryan period and the Ajivika sect?",
+    "description": "",
+    "hint": "They are located in the Barabar hills of Bihar.",
+    "summary": "The Barabar Caves in Bihar were excavated during the Mauryan period and several were dedicated to the Ajivikas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Barabar Caves,Ajivikas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1468,
+        "id": 5669,
+        "title": "Barabar Caves",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1468,
+        "id": 5670,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1468,
+        "id": 5671,
+        "title": "Ellora Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1468,
+        "id": 5672,
+        "title": "Elephanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "difficulty": 1,
+    "title": "1469. Who was the last ruler of the Mauryan dynasty?",
+    "description": "",
+    "hint": "He was killed by Pushyamitra Shunga.",
+    "summary": "Brihadratha was the last Mauryan ruler and was killed by his general Pushyamitra Shunga around 185 BCE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Brihadratha,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1469,
+        "id": 5673,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5674,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5675,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1469,
+        "id": 5676,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1470,
+    "difficulty": 1,
+    "title": "1470. Which dynasty succeeded the Mauryan dynasty in Magadha?",
+    "description": "",
+    "hint": "Its founder was Pushyamitra.",
+    "summary": "The Shunga dynasty succeeded the Mauryan dynasty in Magadha after Pushyamitra Shunga overthrew Brihadratha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Shunga Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1470,
+        "id": 5677,
+        "title": "Gupta Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5678,
+        "title": "Shunga Dynasty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1470,
+        "id": 5679,
+        "title": "Nanda Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5680,
+        "title": "Satavahana Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1471,
+    "difficulty": 1,
+    "title": "1471. Which ancient Greek work provides information about the Mauryan Empire?",
+    "description": "",
+    "hint": "It was written by a Greek ambassador who visited Chandragupta Maurya's court.",
+    "summary": "Indica, written by Megasthenes, provides valuable information about Mauryan India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Megasthenes,Indica",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1471,
+        "id": 5681,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1471,
+        "id": 5682,
+        "title": "Geographia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5683,
+        "title": "Naturalis Historia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5684,
+        "title": "Periplus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1472,
+    "difficulty": 1,
+    "title": "1472. Who wrote the Arthashastra?",
+    "description": "",
+    "hint": "He was also known as Chanakya.",
+    "summary": "The Arthashastra is traditionally attributed to Kautilya, also known as Chanakya or Vishnugupta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Arthashastra,Kautilya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1472,
+        "id": 5685,
+        "title": "Megasthenes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1472,
+        "id": 5686,
+        "title": "Banabhatta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1472,
+        "id": 5687,
+        "title": "Kautilya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1472,
+        "id": 5688,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1473,
+    "difficulty": 1,
+    "title": "1473. Which Mauryan ruler is associated with the Barabar Cave inscriptions?",
+    "description": "",
+    "hint": "He was the grandson of Chandragupta Maurya.",
+    "summary": "Ashoka dedicated several Barabar caves to the Ajivikas, and his inscriptions are found at the site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Barabar Caves,Ajivikas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1473,
+        "id": 5689,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1473,
+        "id": 5690,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1473,
+        "id": 5691,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1473,
+        "id": 5692,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1474,
+    "difficulty": 1,
+    "title": "1474. Which religious group received cave donations from Ashoka and his grandson Dasharatha?",
+    "description": "",
+    "hint": "The group was a contemporary ascetic sect.",
+    "summary": "The Ajivikas received donations of caves during the Mauryan period, particularly at Barabar and Nagarjuni.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ajivikas,Ashoka,Dasharatha",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1474,
+        "id": 5693,
+        "title": "Ajivikas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1474,
+        "id": 5694,
+        "title": "Jains",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1474,
+        "id": 5695,
+        "title": "Shaivas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1474,
+        "id": 5696,
+        "title": "Vaishnavas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1475,
+    "difficulty": 1,
+    "title": "1475. Which Mauryan ruler is traditionally associated with the spread of Buddhism beyond India?",
+    "description": "",
+    "hint": "He sent Buddhist missions to several regions.",
+    "summary": "Ashoka played a major role in the spread of Buddhism through missions and royal patronage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1475,
+        "id": 5697,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1475,
+        "id": 5698,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1475,
+        "id": 5699,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1475,
+        "id": 5700,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1476,
+    "difficulty": 1,
+    "title": "1476. What was the main purpose of Ashoka's edicts?",
+    "description": "",
+    "hint": "They communicated the ruler's policies and moral principles.",
+    "summary": "Ashoka's edicts communicated his Dhamma, administrative instructions, moral principles and messages to his subjects.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Edicts,Dhamma",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1476,
+        "id": 5701,
+        "title": "Recording only military victories",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1476,
+        "id": 5702,
+        "title": "Communicating moral and administrative policies",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1476,
+        "id": 5703,
+        "title": "Describing foreign trade routes only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1476,
+        "id": 5704,
+        "title": "Recording astronomical observations",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1477,
+    "difficulty": 1,
+    "title": "1477. Which Mauryan ruler made a treaty with Seleucus I Nicator?",
+    "description": "",
+    "hint": "He was the founder of the Mauryan dynasty.",
+    "summary": "Chandragupta Maurya concluded a treaty with Seleucus I Nicator after conflict between their realms.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chandragupta Maurya,Seleucus",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1477,
+        "id": 5705,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1477,
+        "id": 5706,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1477,
+        "id": 5707,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1477,
+        "id": 5708,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1478,
+    "difficulty": 1,
+    "title": "1478. Which city served as an important provincial center under the Mauryas and later became associated with Ashoka?",
+    "description": "",
+    "hint": "It was an important ancient city in western India.",
+    "summary": "Ujjain was an important Mauryan provincial center, and Ashoka is traditionally associated with having served there as a prince.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ujjain,Ashoka",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1478,
+        "id": 5709,
+        "title": "Ujjain",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1478,
+        "id": 5710,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1478,
+        "id": 5711,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1478,
+        "id": 5712,
+        "title": "Vengi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1479,
+    "difficulty": 1,
+    "title": "1479. Which Mauryan ruler is traditionally associated with the Third Buddhist Council?",
+    "description": "",
+    "hint": "The council was held at Pataliputra.",
+    "summary": "The Third Buddhist Council is traditionally said to have been held during Ashoka's reign at Pataliputra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Buddhist Council,Pataliputra",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1479,
+        "id": 5713,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1479,
+        "id": 5714,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1479,
+        "id": 5715,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1479,
+        "id": 5716,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1480,
+    "difficulty": 1,
+    "title": "1480. Which Mauryan ruler is mentioned in Greek sources as Amitrochates?",
+    "description": "",
+    "hint": "He was the son of Chandragupta Maurya.",
+    "summary": "Bindusara, the son of Chandragupta Maurya, is identified with Amitrochates in Greek accounts.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Bindusara,Amitrochates",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1480,
+        "id": 5717,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1480,
+        "id": 5718,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1480,
+        "id": 5719,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1480,
+        "id": 5720,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1481,
+    "difficulty": 1,
+    "title": "1481. Which Mauryan ruler is credited with building a large network of roads and promoting public welfare?",
+    "description": "",
+    "hint": "He issued numerous inscriptions across his empire.",
+    "summary": "Ashoka promoted public welfare measures and instructed officials to work for the welfare of people and animals.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Administration,Welfare",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1481,
+        "id": 5721,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1481,
+        "id": 5722,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1481,
+        "id": 5723,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1481,
+        "id": 5724,
+        "title": "Dhanananda",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1482,
+    "difficulty": 1,
+    "title": "1482. Which Mauryan ruler is traditionally associated with the spread of Buddhism to Sri Lanka?",
+    "description": "",
+    "hint": "His son and daughter are traditionally associated with the Buddhist mission to Sri Lanka.",
+    "summary": "Ashoka is traditionally associated with the Buddhist mission to Sri Lanka, led by his son Mahinda and daughter Sanghamitta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Sri Lanka,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1482,
+        "id": 5725,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1482,
+        "id": 5726,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1482,
+        "id": 5727,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1482,
+        "id": 5728,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1483,
+    "difficulty": 1,
+    "title": "1483. Who was Mahinda in the context of Ashoka's reign?",
+    "description": "",
+    "hint": "He is traditionally described as Ashoka's son.",
+    "summary": "Mahinda is traditionally described in Sri Lankan Buddhist sources as Ashoka's son who led a Buddhist mission to Sri Lanka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Mahinda,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1483,
+        "id": 5729,
+        "title": "A Greek ambassador",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1483,
+        "id": 5730,
+        "title": "A Mauryan general",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1483,
+        "id": 5731,
+        "title": "Ashoka's son",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1483,
+        "id": 5732,
+        "title": "A Shunga ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1484,
+    "difficulty": 1,
+    "title": "1484. Which Mauryan ruler is associated with the famous pillar at Sarnath?",
+    "description": "",
+    "hint": "The pillar has four lions standing back to back.",
+    "summary": "Ashoka commissioned the Sarnath pillar, whose Lion Capital became the basis of India's State Emblem.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Sarnath,Lion Capital",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1484,
+        "id": 5733,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1484,
+        "id": 5734,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1484,
+        "id": 5735,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1484,
+        "id": 5736,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1485,
+    "difficulty": 1,
+    "title": "1485. What animal appears at the top of the Ashokan Lion Capital at Sarnath?",
+    "description": "",
+    "hint": "There are four of them facing different directions.",
+    "summary": "The Sarnath Lion Capital has four Asiatic lions standing back to back.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Sarnath,Lion Capital",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1485,
+        "id": 5737,
+        "title": "Elephants",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1485,
+        "id": 5738,
+        "title": "Horses",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1485,
+        "id": 5739,
+        "title": "Lions",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1485,
+        "id": 5740,
+        "title": "Bulls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1486,
+    "difficulty": 1,
+    "title": "1486. Which Mauryan ruler is traditionally said to have embraced Jainism toward the end of his life?",
+    "description": "",
+    "hint": "He was the founder of the Mauryan Empire.",
+    "summary": "According to Jain traditions, Chandragupta Maurya became associated with Jainism and spent his final years at Shravanabelagola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chandragupta Maurya,Jainism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1486,
+        "id": 5741,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1486,
+        "id": 5742,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1486,
+        "id": 5743,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1486,
+        "id": 5744,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1487,
+    "difficulty": 1,
+    "title": "1487. Where is Chandragupta Maurya traditionally believed to have spent his final years?",
+    "description": "",
+    "hint": "It is a famous Jain pilgrimage site in Karnataka.",
+    "summary": "Jain tradition associates Chandragupta Maurya's final years with Shravanabelagola in present-day Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chandragupta Maurya,Shravanabelagola,Jainism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1487,
+        "id": 5745,
+        "title": "Shravanabelagola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1487,
+        "id": 5746,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1487,
+        "id": 5747,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1487,
+        "id": 5748,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1488,
+    "difficulty": 1,
+    "title": "1488. Which Mauryan ruler is known from Greek accounts as Amitraghata or Amitrochates?",
+    "description": "",
+    "hint": "He was the father of Ashoka.",
+    "summary": "Bindusara, the son of Chandragupta Maurya and father of Ashoka, is associated with the name Amitrochates in Greek accounts.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Bindusara,Amitrochates",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1488,
+        "id": 5749,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1488,
+        "id": 5750,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1488,
+        "id": 5751,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1488,
+        "id": 5752,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1489,
+    "difficulty": 1,
+    "title": "1489. Which Mauryan ruler appointed officials known as Dhamma Mahamatras?",
+    "description": "",
+    "hint": "These officials were connected with the promotion of Dhamma.",
+    "summary": "Ashoka appointed Dhamma Mahamatras to promote and administer aspects of his Dhamma policy.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Dhamma Mahamatras,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1489,
+        "id": 5753,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1489,
+        "id": 5754,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1489,
+        "id": 5755,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1489,
+        "id": 5756,
+        "title": "Pushyamitra Shunga",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1490,
+    "difficulty": 1,
+    "title": "1490. Which Mauryan ruler is associated with the construction of the Nagarjuni caves?",
+    "description": "",
+    "hint": "He was the grandson and successor of Ashoka.",
+    "summary": "Dasharatha, a grandson of Ashoka, dedicated the Nagarjuni caves to the Ajivikas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Dasharatha,Nagarjuni Caves,Ajivikas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1490,
+        "id": 5757,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1490,
+        "id": 5758,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1490,
+        "id": 5759,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1490,
+        "id": 5760,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1491,
+    "difficulty": 1,
+    "title": "1491. Which Mauryan ruler fought the Kalinga War?",
+    "description": "",
+    "hint": "His reign is known for numerous rock and pillar edicts.",
+    "summary": "Ashoka fought the Kalinga War, traditionally dated to around 261 BCE, before adopting a stronger policy of Dhamma.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1491,
+        "id": 5761,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1491,
+        "id": 5762,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1491,
+        "id": 5763,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1491,
+        "id": 5764,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1492,
+    "difficulty": 1,
+    "title": "1492. Which ancient kingdom was conquered by Ashoka in the famous Kalinga War?",
+    "description": "",
+    "hint": "It was located largely in present-day Odisha.",
+    "summary": "Kalinga, located largely in present-day Odisha and adjoining areas, was conquered by Ashoka after the Kalinga War.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Kalinga,Odisha",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1492,
+        "id": 5765,
+        "title": "Kalinga",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1492,
+        "id": 5766,
+        "title": "Avanti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1492,
+        "id": 5767,
+        "title": "Kosala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1492,
+        "id": 5768,
+        "title": "Vatsa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1493,
+    "difficulty": 1,
+    "title": "1493. What did Ashoka promote after the Kalinga War?",
+    "description": "",
+    "hint": "It emphasized moral conduct and peaceful coexistence.",
+    "summary": "After the Kalinga War, Ashoka strongly promoted Dhamma, emphasizing moral conduct, tolerance and welfare.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Dhamma,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1493,
+        "id": 5769,
+        "title": "Dhamma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1493,
+        "id": 5770,
+        "title": "Military expansion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1493,
+        "id": 5771,
+        "title": "Horse sacrifice",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1493,
+        "id": 5772,
+        "title": "Naval conquest",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1494,
+    "difficulty": 1,
+    "title": "1494. Which Buddhist council is traditionally associated with the reign of Ashoka?",
+    "description": "",
+    "hint": "It was traditionally held at Pataliputra.",
+    "summary": "According to Buddhist tradition, the Third Buddhist Council was held at Pataliputra during Ashoka's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Buddhist Council,Pataliputra",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1494,
+        "id": 5773,
+        "title": "First Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1494,
+        "id": 5774,
+        "title": "Second Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1494,
+        "id": 5775,
+        "title": "Third Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1494,
+        "id": 5776,
+        "title": "Fourth Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1495,
+    "difficulty": 1,
+    "title": "1495. Who is traditionally regarded as the chief monk associated with the Third Buddhist Council under Ashoka?",
+    "description": "",
+    "hint": "He was a prominent Buddhist monk and scholar.",
+    "summary": "Moggaliputta Tissa is traditionally associated with presiding over the Third Buddhist Council during Ashoka's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Moggaliputta Tissa,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1495,
+        "id": 5777,
+        "title": "Moggaliputta Tissa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1495,
+        "id": 5778,
+        "title": "Nagarjuna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1495,
+        "id": 5779,
+        "title": "Vasubandhu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1495,
+        "id": 5780,
+        "title": "Ashvaghosha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1496,
+    "difficulty": 1,
+    "title": "1496. Which Mauryan ruler is associated with the inscription at Maski that helped identify Devanampiya Piyadasi as Ashoka?",
+    "description": "",
+    "hint": "The inscription contains the ruler's personal name.",
+    "summary": "The Maski inscription is important because it explicitly mentions Ashoka along with the title Devanampiya Piyadasi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Maski,Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1496,
+        "id": 5781,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1496,
+        "id": 5782,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1496,
+        "id": 5783,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1496,
+        "id": 5784,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1497,
+    "difficulty": 1,
+    "title": "1497. Which place is associated with the earliest known major Ashokan rock edict in Karnataka?",
+    "description": "",
+    "hint": "It is located in the Raichur region of Karnataka.",
+    "summary": "The Maski inscription is an important Ashokan inscription located in present-day Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Maski,Karnataka",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1497,
+        "id": 5785,
+        "title": "Maski",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1497,
+        "id": 5786,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1497,
+        "id": 5787,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1497,
+        "id": 5788,
+        "title": "Lumbini",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1498,
+    "difficulty": 1,
+    "title": "1498. Which Mauryan ruler's inscriptions mention his visits and concern for Buddhist sites?",
+    "description": "",
+    "hint": "One important inscription is found at Lumbini.",
+    "summary": "Ashoka's inscriptions include records connected with Buddhist sites such as Lumbini, where he commemorated the birthplace of Buddha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Lumbini,Buddhism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1498,
+        "id": 5789,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1498,
+        "id": 5790,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1498,
+        "id": 5791,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1498,
+        "id": 5792,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1499,
+    "difficulty": 1,
+    "title": "1499. Which Buddhist site did Ashoka visit and mark as the birthplace of Gautama Buddha?",
+    "description": "",
+    "hint": "It is located in present-day Nepal.",
+    "summary": "Ashoka visited Lumbini and erected an inscription marking it as the birthplace of Gautama Buddha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Lumbini,Gautama Buddha",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1499,
+        "id": 5793,
+        "title": "Bodh Gaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1499,
+        "id": 5794,
+        "title": "Lumbini",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1499,
+        "id": 5795,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1499,
+        "id": 5796,
+        "title": "Kushinagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1500,
+    "difficulty": 1,
+    "title": "1500. Which Mauryan ruler is associated with the Nigali Sagar inscription?",
+    "description": "",
+    "hint": "The inscription is connected with a Buddhist stupa.",
+    "summary": "Ashoka's Nigali Sagar inscription records his enlargement of the stupa associated with the previous Buddha Kanakamuni.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Nigali Sagar,Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1500,
+        "id": 5797,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1500,
+        "id": 5798,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1500,
+        "id": 5799,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1500,
+        "id": 5800,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
