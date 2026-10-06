@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 1851,
+    "difficulty": 2,
+    "title": "The Satavahana dynasty mainly ruled which region of ancient India?",
+    "description": "Identify the principal region associated with Satavahana rule.",
+    "hint": "Think of the Deccan region.",
+    "summary": "The Satavahanas were a major dynasty of the Deccan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1851,
+        "id": 7201,
+        "title": "Deccan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1851,
+        "id": 7202,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1851,
+        "id": 7203,
+        "title": "Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1851,
+        "id": 7204,
+        "title": "Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1852,
+    "difficulty": 2,
+    "title": "Which city is generally regarded as an important early capital of the Satavahanas?",
+    "description": "Identify the city associated with the early Satavahana capital.",
+    "hint": "It was located in present-day Maharashtra.",
+    "summary": "Pratishthana, or Paithan, was an important Satavahana capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1852,
+        "id": 7205,
+        "title": "Ujjain",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1852,
+        "id": 7206,
+        "title": "Pratishthana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1852,
+        "id": 7207,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1852,
+        "id": 7208,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1853,
+    "difficulty": 2,
+    "title": "What was Pratishthana known as in later times?",
+    "description": "Identify the modern name of the ancient Satavahana center Pratishthana.",
+    "hint": "It is a historic city in Maharashtra.",
+    "summary": "Pratishthana is identified with modern Paithan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "Maharashtra"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1853,
+        "id": 7209,
+        "title": "Paithan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1853,
+        "id": 7210,
+        "title": "Nasik",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1853,
+        "id": 7211,
+        "title": "Karad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1853,
+        "id": 7212,
+        "title": "Kolhapur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1854,
+    "difficulty": 2,
+    "title": "Which ruler is considered the founder of the Satavahana dynasty?",
+    "description": "Identify the traditional founder of the Satavahana dynasty.",
+    "hint": "His name appears in the Puranic traditions.",
+    "summary": "Simuka is generally regarded as the founder of the Satavahana dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1854,
+        "id": 7213,
+        "title": "Gautamiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1854,
+        "id": 7214,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1854,
+        "id": 7215,
+        "title": "Simuka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1854,
+        "id": 7216,
+        "title": "Yajna Sri Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1855,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is famous for defeating the Western Kshatrapas?",
+    "description": "Identify the prominent Satavahana ruler who expanded the kingdom against the Shakas.",
+    "hint": "His mother's name appears in his famous matronymic.",
+    "summary": "Gautamiputra Satakarni defeated the Western Kshatrapas and expanded Satavahana power.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Gautamiputra Satakarni",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1855,
+        "id": 7217,
+        "title": "Gautamiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1855,
+        "id": 7218,
+        "title": "Simuka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1855,
+        "id": 7219,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1855,
+        "id": 7220,
+        "title": "Pulomavi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1856,
+    "difficulty": 2,
+    "title": "The title 'Dakshinapathapati' is associated with which Satavahana ruler?",
+    "description": "Identify the ruler associated with this title in Satavahana history.",
+    "hint": "He was one of the most powerful Satavahana rulers.",
+    "summary": "Gautamiputra Satakarni is associated with the title Dakshinapathapati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Gautamiputra Satakarni",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1856,
+        "id": 7221,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1856,
+        "id": 7222,
+        "title": "Gautamiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1856,
+        "id": 7223,
+        "title": "Simuka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1856,
+        "id": 7224,
+        "title": "Vashishthiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1857,
+    "difficulty": 2,
+    "title": "Which inscription provides important information about Gautamiputra Satakarni?",
+    "description": "Identify the inscription that records the achievements of Gautamiputra Satakarni.",
+    "hint": "It was issued by his mother.",
+    "summary": "The Nasik inscription of Gautami Balashri is an important source for Gautamiputra Satakarni.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Inscriptions",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1857,
+        "id": 7225,
+        "title": "Junagadh inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1857,
+        "id": 7226,
+        "title": "Hathigumpha inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1857,
+        "id": 7227,
+        "title": "Nasik inscription",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1857,
+        "id": 7228,
+        "title": "Allahabad Pillar inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1858,
+    "difficulty": 2,
+    "title": "Who was Gautami Balashri?",
+    "description": "Identify Gautami Balashri in the context of Satavahana history.",
+    "hint": "She was the mother of a famous Satavahana ruler.",
+    "summary": "Gautami Balashri was the mother of Gautamiputra Satakarni.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Gautami Balashri",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1858,
+        "id": 7229,
+        "title": "Queen of Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1858,
+        "id": 7230,
+        "title": "Wife of Simuka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1858,
+        "id": 7231,
+        "title": "Mother of Gautamiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1858,
+        "id": 7232,
+        "title": "Mother of Yajna Sri Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1859,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is traditionally associated with the Gatha Saptashati?",
+    "description": "Identify the ruler credited with compiling this Prakrit anthology.",
+    "hint": "His name is associated with Prakrit literature.",
+    "summary": "King Hala is traditionally credited with compiling the Gatha Saptashati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Literature",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1859,
+        "id": 7233,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1859,
+        "id": 7234,
+        "title": "Simuka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1859,
+        "id": 7235,
+        "title": "Gautamiputra Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1859,
+        "id": 7236,
+        "title": "Narasimhavarman",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1860,
+    "difficulty": 2,
+    "title": "Gatha Saptashati was composed mainly in which language?",
+    "description": "Identify the language used for this famous Satavahana-period anthology.",
+    "hint": "It was a Middle Indo-Aryan language.",
+    "summary": "Gatha Saptashati is a Prakrit anthology, traditionally associated with Maharashtri Prakrit.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Literature",
+      "Prakrit"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1860,
+        "id": 7237,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1860,
+        "id": 7238,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1860,
+        "id": 7239,
+        "title": "Maharashtri Prakrit",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1860,
+        "id": 7240,
+        "title": "Pali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1861,
+    "difficulty": 2,
+    "title": "Which language was widely used in Satavahana inscriptions?",
+    "description": "Identify the principal language used in many Satavahana inscriptions.",
+    "hint": "It was a Middle Indo-Aryan language.",
+    "summary": "Prakrit was widely used in Satavahana inscriptions.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Inscriptions",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1861,
+        "id": 7241,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1861,
+        "id": 7242,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1861,
+        "id": 7243,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1861,
+        "id": 7244,
+        "title": "Greek",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1862,
+    "difficulty": 2,
+    "title": "Which script was commonly used in Satavahana inscriptions?",
+    "description": "Identify the script used for writing many Satavahana inscriptions.",
+    "hint": "It developed from the ancient Brahmi script.",
+    "summary": "Brahmi script was commonly used in Satavahana inscriptions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Scripts",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1862,
+        "id": 7245,
+        "title": "Brahmi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1862,
+        "id": 7246,
+        "title": "Kharosthi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1862,
+        "id": 7247,
+        "title": "Sharada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1862,
+        "id": 7248,
+        "title": "Grantha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1863,
+    "difficulty": 2,
+    "title": "Which site contains important Satavahana-period cave inscriptions?",
+    "description": "Identify the major western Deccan site associated with Satavahana inscriptions.",
+    "hint": "The site is near Nashik.",
+    "summary": "Nasik Caves contain important inscriptions from the Satavahana period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Nasik Caves",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1863,
+        "id": 7249,
+        "title": "Nasik Caves",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1863,
+        "id": 7250,
+        "title": "Udayagiri Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1863,
+        "id": 7251,
+        "title": "Barabar Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1863,
+        "id": 7252,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1864,
+    "difficulty": 2,
+    "title": "Which caves are particularly associated with Satavahana-period Buddhist architecture?",
+    "description": "Identify the cave complex famous for early Buddhist architecture in the western Deccan.",
+    "hint": "The caves are located in Maharashtra.",
+    "summary": "The Karla Caves are an important example of Buddhist architecture from the Satavahana period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Buddhism",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1864,
+        "id": 7253,
+        "title": "Elephanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1864,
+        "id": 7254,
+        "title": "Karla Caves",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1864,
+        "id": 7255,
+        "title": "Udayagiri Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1864,
+        "id": 7256,
+        "title": "Badami Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1865,
+    "difficulty": 2,
+    "title": "What type of Buddhist structure is especially prominent at Karla?",
+    "description": "Identify the major Buddhist architectural structure represented at Karla.",
+    "hint": "It is a prayer hall containing a stupa.",
+    "summary": "Karla is famous for its large Buddhist chaitya hall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Buddhism",
+      "Karla Caves"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1865,
+        "id": 7257,
+        "title": "Vihara only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1865,
+        "id": 7258,
+        "title": "Stupa mound only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1865,
+        "id": 7259,
+        "title": "Chaitya hall",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1865,
+        "id": 7260,
+        "title": "Temple tower",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1866,
+    "difficulty": 2,
+    "title": "Which Buddhist site in Andhra Pradesh became an important center during the Satavahana period?",
+    "description": "Identify the major Buddhist center associated with Satavahana patronage.",
+    "hint": "It is famous for a large stupa.",
+    "summary": "Amaravati became an important Buddhist center under Satavahana influence.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Buddhism",
+      "Amaravati"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1866,
+        "id": 7261,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1866,
+        "id": 7262,
+        "title": "Bodh Gaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1866,
+        "id": 7263,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1866,
+        "id": 7264,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1867,
+    "difficulty": 2,
+    "title": "The Amaravati school of art is primarily associated with which religion?",
+    "description": "Identify the religious tradition represented prominently in Amaravati sculpture.",
+    "hint": "Think of the major religion that flourished around Amaravati.",
+    "summary": "The Amaravati school is strongly associated with Buddhist art.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Amaravati",
+      "Art"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1867,
+        "id": 7265,
+        "title": "Buddhism",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1867,
+        "id": 7266,
+        "title": "Jainism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1867,
+        "id": 7267,
+        "title": "Zoroastrianism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1867,
+        "id": 7268,
+        "title": "Judaism",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1868,
+    "difficulty": 2,
+    "title": "Which architectural feature is associated with the Buddhist chaitya halls of the Satavahana period?",
+    "description": "Identify the important sacred architectural element generally found inside a chaitya hall.",
+    "hint": "It was an important Buddhist symbol.",
+    "summary": "A stupa was the central sacred element of a Buddhist chaitya hall.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Buddhism",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1868,
+        "id": 7269,
+        "title": "Gopuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1868,
+        "id": 7270,
+        "title": "Garbhagriha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1868,
+        "id": 7271,
+        "title": "Mandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1868,
+        "id": 7272,
+        "title": "Stupa",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1869,
+    "difficulty": 2,
+    "title": "Which dynasty was a major contemporary rival of the Satavahanas in western India?",
+    "description": "Identify the dynasty that frequently competed with the Satavahanas.",
+    "hint": "They were also known as the Shakas of western India.",
+    "summary": "The Western Kshatrapas were major rivals of the Satavahanas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Western Kshatrapas",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1869,
+        "id": 7273,
+        "title": "Western Kshatrapas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1869,
+        "id": 7274,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1869,
+        "id": 7275,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1869,
+        "id": 7276,
+        "title": "Palas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1870,
+    "difficulty": 2,
+    "title": "Which ruler of the Western Kshatrapas was defeated by Gautamiputra Satakarni?",
+    "description": "Identify the Kshatrapa ruler defeated during Gautamiputra's campaigns.",
+    "hint": "His name appears in the Nasik inscription.",
+    "summary": "Nahapana was defeated by Gautamiputra Satakarni.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Nahapana",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1870,
+        "id": 7277,
+        "title": "Rudradaman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1870,
+        "id": 7278,
+        "title": "Nahapana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1870,
+        "id": 7279,
+        "title": "Chashtana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1870,
+        "id": 7280,
+        "title": "Bhumaka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1871,
+    "difficulty": 2,
+    "title": "Who was Rudradaman I?",
+    "description": "Identify Rudradaman I in the context of Satavahana history.",
+    "hint": "He belonged to a rival dynasty.",
+    "summary": "Rudradaman I was a prominent ruler of the Western Kshatrapas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Western Kshatrapas",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1871,
+        "id": 7281,
+        "title": "Satavahana ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1871,
+        "id": 7282,
+        "title": "Pallava ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1871,
+        "id": 7283,
+        "title": "Western Kshatrapa ruler",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1871,
+        "id": 7284,
+        "title": "Chola ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1872,
+    "difficulty": 2,
+    "title": "Which inscription is famous for recording the achievements of Rudradaman I?",
+    "description": "Identify the important inscription associated with Rudradaman I.",
+    "hint": "It is located near Junagadh.",
+    "summary": "The Junagadh inscription of Rudradaman I is a major historical source.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Rudradaman",
+      "Inscriptions"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1872,
+        "id": 7285,
+        "title": "Nasik inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1872,
+        "id": 7286,
+        "title": "Junagadh inscription",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1872,
+        "id": 7287,
+        "title": "Hathigumpha inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1872,
+        "id": 7288,
+        "title": "Aihole inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1873,
+    "difficulty": 2,
+    "title": "What was a distinctive feature of many Satavahana royal names?",
+    "description": "Identify the naming practice seen in names such as Gautamiputra Satakarni.",
+    "hint": "The name often refers to the ruler's mother.",
+    "summary": "Satavahana rulers often used matronymics, such as Gautamiputra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Society",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1873,
+        "id": 7289,
+        "title": "Matronymics",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1873,
+        "id": 7290,
+        "title": "Clan names only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1873,
+        "id": 7291,
+        "title": "Occupational surnames",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1873,
+        "id": 7292,
+        "title": "Place names only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1874,
+    "difficulty": 2,
+    "title": "The name 'Gautamiputra' literally indicates a connection with whom?",
+    "description": "Interpret the matronymic element in Gautamiputra's name.",
+    "hint": "Gautami was his mother's name.",
+    "summary": "Gautamiputra means son of Gautami.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Gautamiputra Satakarni",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1874,
+        "id": 7293,
+        "title": "Father",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1874,
+        "id": 7294,
+        "title": "Mother",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1874,
+        "id": 7295,
+        "title": "Teacher",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1874,
+        "id": 7296,
+        "title": "Minister",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1875,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is associated with the Periplus of the Erythraean Sea period?",
+    "description": "Identify the ruler generally associated chronologically with the flourishing of western Indian maritime trade.",
+    "hint": "Think of the early centuries CE.",
+    "summary": "The Satavahana period overlapped with the flourishing Indo-Roman maritime trade described in the Periplus.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Trade",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1875,
+        "id": 7297,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1875,
+        "id": 7298,
+        "title": "Kanishka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1875,
+        "id": 7299,
+        "title": "Satavahana rulers",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1875,
+        "id": 7300,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1876,
+    "difficulty": 2,
+    "title": "Which type of coins were widely issued by the Satavahanas?",
+    "description": "Identify the metals commonly represented in Satavahana coinage.",
+    "hint": "Lead was especially characteristic of their coinage.",
+    "summary": "Satavahana coinage prominently included lead coins, along with copper and other metals.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Coins",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1876,
+        "id": 7301,
+        "title": "Only gold coins",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1876,
+        "id": 7302,
+        "title": "Lead coins",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1876,
+        "id": 7303,
+        "title": "Only silver coins",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1876,
+        "id": 7304,
+        "title": "Only iron coins",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1877,
+    "difficulty": 2,
+    "title": "Which animal appears frequently on Satavahana coins?",
+    "description": "Identify an important motif found on Satavahana coinage.",
+    "hint": "It is a large Indian animal.",
+    "summary": "The elephant is a common motif on Satavahana coins.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Coins",
+      "Art"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1877,
+        "id": 7305,
+        "title": "Elephant",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1877,
+        "id": 7306,
+        "title": "Penguin",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1877,
+        "id": 7307,
+        "title": "Camel only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1877,
+        "id": 7308,
+        "title": "Polar bear",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1878,
+    "difficulty": 2,
+    "title": "Which symbol is also found on some Satavahana coins?",
+    "description": "Identify a commonly seen religious or cultural symbol in Satavahana coinage.",
+    "hint": "It is a Buddhist symbol and is also called a dharmachakra.",
+    "summary": "The wheel symbol occurs on Satavahana coins.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Coins",
+      "Buddhism"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1878,
+        "id": 7309,
+        "title": "Trident only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1878,
+        "id": 7310,
+        "title": "Crescent only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1878,
+        "id": 7311,
+        "title": "Wheel",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1878,
+        "id": 7312,
+        "title": "Cross",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1879,
+    "difficulty": 2,
+    "title": "Which economic activity was important in the Satavahana period?",
+    "description": "Identify an important source of economic activity in the Satavahana realm.",
+    "hint": "The dynasty controlled routes connecting inland and coastal regions.",
+    "summary": "Trade was an important part of the Satavahana economy.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Economy",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1879,
+        "id": 7313,
+        "title": "Trade",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1879,
+        "id": 7314,
+        "title": "Only hunting",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1879,
+        "id": 7315,
+        "title": "Only fishing",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1879,
+        "id": 7316,
+        "title": "Only mining",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1880,
+    "difficulty": 2,
+    "title": "Which ports were connected with Satavahana-period maritime trade?",
+    "description": "Identify a major western coastal port associated with trade in the Satavahana period.",
+    "hint": "The Periplus mentions an important port on the western coast.",
+    "summary": "Kalyan was one of the important western coastal ports associated with Satavahana-period trade.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Trade",
+      "Ports"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1880,
+        "id": 7317,
+        "title": "Tamralipti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1880,
+        "id": 7318,
+        "title": "Kalyan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1880,
+        "id": 7319,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1880,
+        "id": 7320,
+        "title": "Puhar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1881,
+    "difficulty": 2,
+    "title": "Which foreign power had commercial links with the Satavahana realm?",
+    "description": "Identify the major Mediterranean power involved in long-distance trade with India.",
+    "hint": "Roman coins have been found in parts of the Deccan.",
+    "summary": "The Roman Empire had significant commercial links with the Satavahana realm.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Roman Trade",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1881,
+        "id": 7321,
+        "title": "Roman Empire",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1881,
+        "id": 7322,
+        "title": "Macedonian Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1881,
+        "id": 7323,
+        "title": "Byzantine Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1881,
+        "id": 7324,
+        "title": "Ottoman Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1882,
+    "difficulty": 2,
+    "title": "Which Roman items were imported into India during the early centuries CE?",
+    "description": "Identify a commodity associated with Indo-Roman trade.",
+    "hint": "Think of a luxury item used at Roman tables.",
+    "summary": "Roman wine was among the commodities traded with India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Roman Trade",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1882,
+        "id": 7325,
+        "title": "Roman wine",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1882,
+        "id": 7326,
+        "title": "Gunpowder",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1882,
+        "id": 7327,
+        "title": "Porcelain from China only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1882,
+        "id": 7328,
+        "title": "Tea from Japan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1883,
+    "difficulty": 2,
+    "title": "Which social institution played an important role in the Satavahana economy?",
+    "description": "Identify the organized occupational groups mentioned in inscriptions.",
+    "hint": "These groups were often involved in trade and crafts.",
+    "summary": "Guilds or shrenis played an important role in economic life.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Economy",
+      "Society"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1883,
+        "id": 7329,
+        "title": "Guilds",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1883,
+        "id": 7330,
+        "title": "Feudal courts",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1883,
+        "id": 7331,
+        "title": "Military camps",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1883,
+        "id": 7332,
+        "title": "Royal monasteries only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1884,
+    "difficulty": 2,
+    "title": "What were shrenis in ancient Indian economic life?",
+    "description": "Identify the function of shrenis during the Satavahana period.",
+    "hint": "They organized people with similar occupations.",
+    "summary": "Shrenis were guilds or organized associations of artisans and merchants.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Economy",
+      "Society"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1884,
+        "id": 7333,
+        "title": "Royal armies",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1884,
+        "id": 7334,
+        "title": "Guilds of artisans and merchants",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1884,
+        "id": 7335,
+        "title": "Village temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1884,
+        "id": 7336,
+        "title": "Agricultural fields",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1885,
+    "difficulty": 2,
+    "title": "Which religious traditions received patronage during the Satavahana period?",
+    "description": "Identify the major religious traditions that flourished under Satavahana rule.",
+    "hint": "Both Brahmanical traditions and Buddhism received patronage.",
+    "summary": "Satavahana rulers supported Brahmanical traditions as well as Buddhism.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Religion",
+      "Buddhism"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1885,
+        "id": 7337,
+        "title": "Only Buddhism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1885,
+        "id": 7338,
+        "title": "Only Jainism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1885,
+        "id": 7339,
+        "title": "Only Brahmanism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1885,
+        "id": 7340,
+        "title": "Brahmanical traditions and Buddhism",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1886,
+    "difficulty": 2,
+    "title": "Which Vedic ritual was performed by some Satavahana rulers?",
+    "description": "Identify a major Vedic royal sacrifice mentioned in Satavahana records.",
+    "hint": "It was traditionally associated with royal sovereignty.",
+    "summary": "The Ashvamedha sacrifice is associated with Satavahana royal patronage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Religion",
+      "Vedic Rituals"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1886,
+        "id": 7341,
+        "title": "Ashvamedha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1886,
+        "id": 7342,
+        "title": "Rajasuya only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1886,
+        "id": 7343,
+        "title": "Vajapeya only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1886,
+        "id": 7344,
+        "title": "Agnihotra only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1887,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is associated with performing Vedic sacrifices such as Ashvamedha?",
+    "description": "Identify the early Satavahana ruler associated with major Vedic sacrifices.",
+    "hint": "His name appears in early Satavahana records.",
+    "summary": "Satakarni I is associated with the performance of Vedic sacrifices including Ashvamedha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Satakarni I",
+      "Religion"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1887,
+        "id": 7345,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1887,
+        "id": 7346,
+        "title": "Yajna Sri Satakarni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1887,
+        "id": 7347,
+        "title": "Satakarni I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1887,
+        "id": 7348,
+        "title": "Pulomavi II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1888,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is known as Yajna Sri Satakarni?",
+    "description": "Identify the ruler associated with the revival of Satavahana power in the later period.",
+    "hint": "His name includes a reference to a Vedic sacrifice.",
+    "summary": "Yajna Sri Satakarni was a later and important Satavahana ruler.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Yajna Sri Satakarni",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1888,
+        "id": 7349,
+        "title": "A Satavahana ruler",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1888,
+        "id": 7350,
+        "title": "A Chola ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1888,
+        "id": 7351,
+        "title": "A Pallava ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1888,
+        "id": 7352,
+        "title": "A Gupta ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1889,
+    "difficulty": 2,
+    "title": "Which Satavahana ruler is associated with the later revival of maritime activity?",
+    "description": "Identify the ruler whose coins and reign indicate continued western coastal activity.",
+    "hint": "He was one of the later Satavahana rulers.",
+    "summary": "Yajna Sri Satakarni is associated with the later phase of Satavahana power and maritime trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Yajna Sri Satakarni",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1889,
+        "id": 7353,
+        "title": "Yajna Sri Satakarni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1889,
+        "id": 7354,
+        "title": "Simuka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1889,
+        "id": 7355,
+        "title": "Satakarni I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1889,
+        "id": 7356,
+        "title": "Hala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1890,
+    "difficulty": 2,
+    "title": "Which dynasty succeeded the Satavahanas in parts of the Deccan?",
+    "description": "Identify a major dynasty that emerged in the Deccan after the decline of Satavahana power.",
+    "hint": "They ruled parts of the western Deccan in the early centuries CE.",
+    "summary": "The Abhiras and other regional powers emerged after the decline of the Satavahanas; the Ikshvakus also succeeded them in the eastern Deccan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Deccan",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1890,
+        "id": 7357,
+        "title": "Ikshvakus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1890,
+        "id": 7358,
+        "title": "Mughals",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1890,
+        "id": 7359,
+        "title": "Pallavas only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1890,
+        "id": 7360,
+        "title": "Cholas only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1891,
+    "difficulty": 2,
+    "title": "Which dynasty succeeded the Satavahanas in the lower Krishna-Guntur region?",
+    "description": "Identify the dynasty that rose to power in the eastern Deccan after the Satavahanas.",
+    "hint": "Their capital was associated with Vijayapuri.",
+    "summary": "The Ikshvakus succeeded the Satavahanas in parts of the lower Krishna region.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ikshvakus",
+      "Deccan"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1891,
+        "id": 7361,
+        "title": "Ikshvakus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1891,
+        "id": 7362,
+        "title": "Guptas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1891,
+        "id": 7363,
+        "title": "Chalukyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1891,
+        "id": 7364,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1892,
+    "difficulty": 2,
+    "title": "Which place became an important Buddhist center under the Ikshvakus after the Satavahanas?",
+    "description": "Identify the archaeological site associated with the Ikshvaku period.",
+    "hint": "It is located in present-day Andhra Pradesh.",
+    "summary": "Nagarjunakonda became an important Buddhist center under the Ikshvakus.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ikshvakus",
+      "Buddhism"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1892,
+        "id": 7365,
+        "title": "Nagarjunakonda",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1892,
+        "id": 7366,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1892,
+        "id": 7367,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1892,
+        "id": 7368,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1893,
+    "difficulty": 2,
+    "title": "Which site is particularly important for understanding Satavahana-period Buddhist art?",
+    "description": "Identify the famous Buddhist site associated with the Amaravati school.",
+    "hint": "It is located on the Krishna River.",
+    "summary": "Amaravati is an important site for studying Satavahana-period Buddhist art.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Amaravati",
+      "Buddhist Art"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1893,
+        "id": 7369,
+        "title": "Ajanta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1893,
+        "id": 7370,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1893,
+        "id": 7371,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1893,
+        "id": 7372,
+        "title": "Bharhut",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1894,
+    "difficulty": 2,
+    "title": "The Satavahana economy benefited significantly from control of which geographical routes?",
+    "description": "Identify the major routes that supported Satavahana trade.",
+    "hint": "These routes connected the interior with coastal ports.",
+    "summary": "The Satavahanas benefited from inland and maritime trade routes across the Deccan.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Trade",
+      "Economy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1894,
+        "id": 7373,
+        "title": "Only Himalayan routes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1894,
+        "id": 7374,
+        "title": "Only desert routes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1894,
+        "id": 7375,
+        "title": "Deccan inland and coastal routes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1894,
+        "id": 7376,
+        "title": "Only northwestern routes",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1895,
+    "difficulty": 2,
+    "title": "Which river valley was particularly important in the eastern Satavahana sphere?",
+    "description": "Identify the major river associated with eastern Deccan settlements and trade.",
+    "hint": "It flows through present-day Telangana and Andhra Pradesh.",
+    "summary": "The Krishna River valley was important in the eastern Deccan during the Satavahana period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Geography",
+      "Deccan"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1895,
+        "id": 7377,
+        "title": "Krishna River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1895,
+        "id": 7378,
+        "title": "Sutlej River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1895,
+        "id": 7379,
+        "title": "Ganga River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1895,
+        "id": 7380,
+        "title": "Chenab River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1896,
+    "difficulty": 2,
+    "title": "Which river valley was important to the Satavahana heartland around Pratishthana?",
+    "description": "Identify the major river associated with Paithan and the western Deccan.",
+    "hint": "Paithan is located on this river.",
+    "summary": "The Godavari River was important to the Satavahana heartland around Pratishthana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Geography",
+      "Deccan"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1896,
+        "id": 7381,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1896,
+        "id": 7382,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1896,
+        "id": 7383,
+        "title": "Yamuna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1896,
+        "id": 7384,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1897,
+    "difficulty": 2,
+    "title": "Which source gives valuable information about Satavahana political history through its dynastic accounts?",
+    "description": "Identify the ancient Indian texts that preserve lists of Satavahana rulers.",
+    "hint": "They are ancient religious-historical texts.",
+    "summary": "The Puranas provide important dynastic information about the Satavahanas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Sources",
+      "Ancient India"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1897,
+        "id": 7385,
+        "title": "Puranas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1897,
+        "id": 7386,
+        "title": "Arthashastra only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1897,
+        "id": 7387,
+        "title": "Vedas only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1897,
+        "id": 7388,
+        "title": "Sangam poems only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1898,
+    "difficulty": 2,
+    "title": "Which foreign account is useful for understanding trade in the western Indian Ocean during the Satavahana period?",
+    "description": "Identify the Greco-Roman maritime trade text.",
+    "hint": "Its title means a guide to the Red Sea.",
+    "summary": "The Periplus of the Erythraean Sea provides information about Indian Ocean trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Periplus",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1898,
+        "id": 7389,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1898,
+        "id": 7390,
+        "title": "Periplus of the Erythraean Sea",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1898,
+        "id": 7391,
+        "title": "Geographia of Ptolemy only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1898,
+        "id": 7392,
+        "title": "Megasthenes' Indica only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1899,
+    "difficulty": 2,
+    "title": "Which feature best describes Satavahana religious policy?",
+    "description": "Identify the broader religious pattern visible in Satavahana-period evidence.",
+    "hint": "Evidence exists for both Brahmanical and Buddhist patronage.",
+    "summary": "Satavahana rulers and elites supported multiple religious traditions.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Religion",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1899,
+        "id": 7393,
+        "title": "Exclusive support for Buddhism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1899,
+        "id": 7394,
+        "title": "Exclusive support for Jainism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1899,
+        "id": 7395,
+        "title": "Patronage of multiple religious traditions",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1899,
+        "id": 7396,
+        "title": "Complete rejection of religious institutions",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1900,
+    "difficulty": 2,
+    "title": "Why are the Satavahanas important in ancient Indian history?",
+    "description": "Identify the major historical significance of the Satavahana dynasty.",
+    "hint": "Consider their role in the Deccan, trade, religion, and culture.",
+    "summary": "The Satavahanas played a major role in Deccan political history and supported trade, Buddhism, Brahmanical traditions, art, and literature.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1900,
+        "id": 7397,
+        "title": "They ruled only northern India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1900,
+        "id": 7398,
+        "title": "They had no connection with trade",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1900,
+        "id": 7399,
+        "title": "They existed only as a small local kingdom",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1900,
+        "id": 7400,
+        "title": "They were a major Deccan power with important cultural and commercial links",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
