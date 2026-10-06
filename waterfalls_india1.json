@@ -1,0 +1,2302 @@
+[
+  {
+    "id": 1951,
+    "difficulty": 2,
+    "title": "Which is generally recognized as the highest waterfall in India by total height?",
+    "description": "Choose the correct answer.",
+    "hint": "Consider the waterfall associated with the Varahi River.",
+    "summary": "The correct answer is Kunchikal Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1951,
+        "id": 7601,
+        "title": "Nohkalikai Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1951,
+        "id": 7602,
+        "title": "Jog Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1951,
+        "id": 7603,
+        "title": "Kunchikal Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1951,
+        "id": 7604,
+        "title": "Dudhsagar Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1952,
+    "difficulty": 2,
+    "title": "Kunchikal Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in the Western Ghats.",
+    "summary": "The correct answer is Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1952,
+        "id": 7605,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1952,
+        "id": 7606,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1952,
+        "id": 7607,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1952,
+        "id": 7608,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1953,
+    "difficulty": 2,
+    "title": "Kunchikal Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river originates in Karnataka's Western Ghats.",
+    "summary": "The correct answer is Varahi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1953,
+        "id": 7609,
+        "title": "Sharavathi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7610,
+        "title": "Mandovi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7611,
+        "title": "Indravati River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7612,
+        "title": "Varahi River",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1954,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located near Sohra.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1954,
+        "id": 7613,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1954,
+        "id": 7614,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1954,
+        "id": 7615,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1954,
+        "id": 7616,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1955,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is best known as India's highest what type of waterfall?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a single-drop waterfall.",
+    "summary": "The correct answer is Plunge waterfall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1955,
+        "id": 7617,
+        "title": "Plunge waterfall",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1955,
+        "id": 7618,
+        "title": "Tiered waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1955,
+        "id": 7619,
+        "title": "Cataract waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1955,
+        "id": 7620,
+        "title": "Segmented waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1956,
+    "difficulty": 2,
+    "title": "Jog Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "This famous Karnataka waterfall is on a west-flowing river.",
+    "summary": "The correct answer is Sharavathi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1956,
+        "id": 7621,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1956,
+        "id": 7622,
+        "title": "Sharavathi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1956,
+        "id": 7623,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1956,
+        "id": 7624,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1957,
+    "difficulty": 2,
+    "title": "Jog Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in Shivamogga district.",
+    "summary": "The correct answer is Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1957,
+        "id": 7625,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1957,
+        "id": 7626,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1957,
+        "id": 7627,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1957,
+        "id": 7628,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1958,
+    "difficulty": 2,
+    "title": "Which four named cascades make up Jog Falls?",
+    "description": "Choose the correct answer.",
+    "hint": "Remember the four traditional names of Jog Falls.",
+    "summary": "The correct answer is Raja, Rani, Roarer and Rocket.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1958,
+        "id": 7629,
+        "title": "Raja, Queen, Tiger and Lion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1958,
+        "id": 7630,
+        "title": "Rani, Rocket, Horse and King",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1958,
+        "id": 7631,
+        "title": "Raja, Roarer, Tiger and Queen",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1958,
+        "id": 7632,
+        "title": "Raja, Rani, Roarer and Rocket",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1959,
+    "difficulty": 2,
+    "title": "Dudhsagar Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "The falls are in the Western Ghats of Goa.",
+    "summary": "The correct answer is Goa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1959,
+        "id": 7633,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1959,
+        "id": 7634,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1959,
+        "id": 7635,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1959,
+        "id": 7636,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1960,
+    "difficulty": 2,
+    "title": "Dudhsagar Falls is associated with which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river is also known as the Mahadayi.",
+    "summary": "The correct answer is Mahadayi (Mandovi) River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1960,
+        "id": 7637,
+        "title": "Mahadayi (Mandovi) River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1960,
+        "id": 7638,
+        "title": "Sharavathi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1960,
+        "id": 7639,
+        "title": "Krishna River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1960,
+        "id": 7640,
+        "title": "Tungabhadra River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1961,
+    "difficulty": 2,
+    "title": "The name 'Dudhsagar' literally refers to a 'Sea of' what?",
+    "description": "Choose the correct answer.",
+    "hint": "The name is associated with the white appearance of the falling water.",
+    "summary": "The correct answer is Milk.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1961,
+        "id": 7641,
+        "title": "Milk",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1961,
+        "id": 7642,
+        "title": "Clouds",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1961,
+        "id": 7643,
+        "title": "Gold",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1961,
+        "id": 7644,
+        "title": "Foam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1962,
+    "difficulty": 2,
+    "title": "Dudhsagar Falls lies in the Western Ghats near which state boundary?",
+    "description": "Choose the correct answer.",
+    "hint": "The falls are associated with Goa and neighboring Karnataka.",
+    "summary": "The correct answer is Goa–Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1962,
+        "id": 7645,
+        "title": "Goa–Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1962,
+        "id": 7646,
+        "title": "Goa–Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1962,
+        "id": 7647,
+        "title": "Kerala–Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1962,
+        "id": 7648,
+        "title": "Karnataka–Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1963,
+    "difficulty": 2,
+    "title": "Barehipani Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a major waterfall of eastern India.",
+    "summary": "The correct answer is Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1963,
+        "id": 7649,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1963,
+        "id": 7650,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1963,
+        "id": 7651,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1963,
+        "id": 7652,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1964,
+    "difficulty": 2,
+    "title": "Barehipani Falls is located in which national park?",
+    "description": "Choose the correct answer.",
+    "hint": "The park is famous for its forests and wildlife in Mayurbhanj.",
+    "summary": "The correct answer is Similipal National Park.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1964,
+        "id": 7653,
+        "title": "Similipal National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1964,
+        "id": 7654,
+        "title": "Kanha National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1964,
+        "id": 7655,
+        "title": "Satpura National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1964,
+        "id": 7656,
+        "title": "Bandhavgarh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1965,
+    "difficulty": 2,
+    "title": "Barehipani Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river flows through Odisha's Mayurbhanj region.",
+    "summary": "The correct answer is Budhabalanga River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1965,
+        "id": 7657,
+        "title": "Subarnarekha River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1965,
+        "id": 7658,
+        "title": "Mahanadi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1965,
+        "id": 7659,
+        "title": "Brahmani River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1965,
+        "id": 7660,
+        "title": "Budhabalanga River",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1966,
+    "difficulty": 2,
+    "title": "Chitrakote Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a famous waterfall of central India.",
+    "summary": "The correct answer is Chhattisgarh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1966,
+        "id": 7661,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1966,
+        "id": 7662,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1966,
+        "id": 7663,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1966,
+        "id": 7664,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1967,
+    "difficulty": 2,
+    "title": "Chitrakote Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river is an important tributary of the Godavari.",
+    "summary": "The correct answer is Indravati River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1967,
+        "id": 7665,
+        "title": "Narmada River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1967,
+        "id": 7666,
+        "title": "Indravati River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1967,
+        "id": 7667,
+        "title": "Mahanadi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1967,
+        "id": 7668,
+        "title": "Son River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1968,
+    "difficulty": 2,
+    "title": "Which waterfall is popularly called the 'Niagara Falls of India'?",
+    "description": "Choose the correct answer.",
+    "hint": "It is known for its very wide horseshoe-shaped appearance.",
+    "summary": "The correct answer is Chitrakote Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1968,
+        "id": 7669,
+        "title": "Hogenakkal Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1968,
+        "id": 7670,
+        "title": "Dhuandhar Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1968,
+        "id": 7671,
+        "title": "Athirappilly Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1968,
+        "id": 7672,
+        "title": "Chitrakote Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1969,
+    "difficulty": 2,
+    "title": "Hogenakkal Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "This river is also known as Cauvery.",
+    "summary": "The correct answer is Kaveri (Cauvery) River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1969,
+        "id": 7673,
+        "title": "Kaveri (Cauvery) River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1969,
+        "id": 7674,
+        "title": "Vaigai River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1969,
+        "id": 7675,
+        "title": "Krishna River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1969,
+        "id": 7676,
+        "title": "Palar River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1970,
+    "difficulty": 2,
+    "title": "Hogenakkal Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in the Dharmapuri region.",
+    "summary": "The correct answer is Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1970,
+        "id": 7677,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1970,
+        "id": 7678,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1970,
+        "id": 7679,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1970,
+        "id": 7680,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1971,
+    "difficulty": 2,
+    "title": "Athirappilly Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a major waterfall of southern India.",
+    "summary": "The correct answer is Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1971,
+        "id": 7681,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1971,
+        "id": 7682,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1971,
+        "id": 7683,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1971,
+        "id": 7684,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1972,
+    "difficulty": 2,
+    "title": "Athirappilly Falls is associated with which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river flows through Kerala's Thrissur region.",
+    "summary": "The correct answer is Chalakudy River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1972,
+        "id": 7685,
+        "title": "Periyar River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1972,
+        "id": 7686,
+        "title": "Bharathapuzha River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1972,
+        "id": 7687,
+        "title": "Pamba River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1972,
+        "id": 7688,
+        "title": "Chalakudy River",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1973,
+    "difficulty": 2,
+    "title": "Shivanasamudra Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "It is one of the major waterfalls of the Cauvery basin.",
+    "summary": "The correct answer is Kaveri River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1973,
+        "id": 7689,
+        "title": "Kaveri River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1973,
+        "id": 7690,
+        "title": "Tungabhadra River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1973,
+        "id": 7691,
+        "title": "Krishna River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1973,
+        "id": 7692,
+        "title": "Godavari River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1974,
+    "difficulty": 2,
+    "title": "Shivanasamudra Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is in southern Karnataka.",
+    "summary": "The correct answer is Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1974,
+        "id": 7693,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1974,
+        "id": 7694,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1974,
+        "id": 7695,
+        "title": "Telangana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1974,
+        "id": 7696,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1975,
+    "difficulty": 2,
+    "title": "Which waterfall is associated with the famous hydroelectric power station at Shivanasamudra?",
+    "description": "Choose the correct answer.",
+    "hint": "The waterfall shares its name with the hydroelectric project.",
+    "summary": "The correct answer is Shivanasamudra Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1975,
+        "id": 7697,
+        "title": "Shivanasamudra Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1975,
+        "id": 7698,
+        "title": "Jog Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1975,
+        "id": 7699,
+        "title": "Dudhsagar Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1975,
+        "id": 7700,
+        "title": "Gokak Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1976,
+    "difficulty": 2,
+    "title": "Dhuandhar Falls is located on which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river flows through Madhya Pradesh and Gujarat.",
+    "summary": "The correct answer is Narmada River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1976,
+        "id": 7701,
+        "title": "Narmada River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1976,
+        "id": 7702,
+        "title": "Tapti River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1976,
+        "id": 7703,
+        "title": "Chambal River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1976,
+        "id": 7704,
+        "title": "Betwa River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1977,
+    "difficulty": 2,
+    "title": "Dhuandhar Falls is located near which famous marble-rock gorge?",
+    "description": "Choose the correct answer.",
+    "hint": "The gorge is a well-known tourist attraction near Jabalpur.",
+    "summary": "The correct answer is Bhedaghat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1977,
+        "id": 7705,
+        "title": "Bhedaghat",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1977,
+        "id": 7706,
+        "title": "Pachmarhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1977,
+        "id": 7707,
+        "title": "Amarkantak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1977,
+        "id": 7708,
+        "title": "Mandu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1978,
+    "difficulty": 2,
+    "title": "Dhuandhar Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located near Jabalpur.",
+    "summary": "The correct answer is Madhya Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1978,
+        "id": 7709,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1978,
+        "id": 7710,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1978,
+        "id": 7711,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1978,
+        "id": 7712,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1979,
+    "difficulty": 2,
+    "title": "Nohsngithiang Falls is also popularly known by which name?",
+    "description": "Choose the correct answer.",
+    "hint": "It is named after the number of prominent cascades.",
+    "summary": "The correct answer is Seven Sisters Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1979,
+        "id": 7713,
+        "title": "Seven Sisters Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1979,
+        "id": 7714,
+        "title": "Rainbow Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1979,
+        "id": 7715,
+        "title": "Three Sisters Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1979,
+        "id": 7716,
+        "title": "Twin Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1980,
+    "difficulty": 2,
+    "title": "Nohsngithiang Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is another famous waterfall of the Khasi Hills.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1980,
+        "id": 7717,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1980,
+        "id": 7718,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1980,
+        "id": 7719,
+        "title": "Tripura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1980,
+        "id": 7720,
+        "title": "Manipur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1981,
+    "difficulty": 2,
+    "title": "Kynrem Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is one of the notable waterfalls of the Khasi Hills.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1981,
+        "id": 7721,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1981,
+        "id": 7722,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1981,
+        "id": 7723,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1981,
+        "id": 7724,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1982,
+    "difficulty": 2,
+    "title": "Kynrem Falls is situated in which district of Meghalaya?",
+    "description": "Choose the correct answer.",
+    "hint": "The district also contains Cherrapunji/Sohra.",
+    "summary": "The correct answer is East Khasi Hills.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1982,
+        "id": 7725,
+        "title": "West Garo Hills",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1982,
+        "id": 7726,
+        "title": "East Khasi Hills",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1982,
+        "id": 7727,
+        "title": "Jaintia Hills",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1982,
+        "id": 7728,
+        "title": "Ri-Bhoi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1983,
+    "difficulty": 2,
+    "title": "Meenmutty Falls, one of the major waterfalls of Kerala, is located in which district?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a major waterfall in northern Kerala.",
+    "summary": "The correct answer is Wayanad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1983,
+        "id": 7729,
+        "title": "Idukki",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1983,
+        "id": 7730,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1983,
+        "id": 7731,
+        "title": "Wayanad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1983,
+        "id": 7732,
+        "title": "Kozhikode",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1984,
+    "difficulty": 2,
+    "title": "Meenmutty Falls in Wayanad is associated with which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The waterfall is associated with the Chaliyar river system.",
+    "summary": "The correct answer is Chaliyar River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1984,
+        "id": 7733,
+        "title": "Chaliyar River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1984,
+        "id": 7734,
+        "title": "Kabini River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1984,
+        "id": 7735,
+        "title": "Periyar River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1984,
+        "id": 7736,
+        "title": "Pamba River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1985,
+    "difficulty": 2,
+    "title": "Thalaiyar Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a major waterfall in the Palani Hills region.",
+    "summary": "The correct answer is Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1985,
+        "id": 7737,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1985,
+        "id": 7738,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1985,
+        "id": 7739,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1985,
+        "id": 7740,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1986,
+    "difficulty": 2,
+    "title": "Thalaiyar Falls is also popularly known by which name?",
+    "description": "Choose the correct answer.",
+    "hint": "Its shape is compared with a long, narrow tail.",
+    "summary": "The correct answer is Rat Tail Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1986,
+        "id": 7741,
+        "title": "Silver Cascade",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1986,
+        "id": 7742,
+        "title": "Rat Tail Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1986,
+        "id": 7743,
+        "title": "Bear Shola Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1986,
+        "id": 7744,
+        "title": "White Horse Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1987,
+    "difficulty": 2,
+    "title": "Gokak Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river is an important tributary of the Krishna.",
+    "summary": "The correct answer is Ghataprabha River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1987,
+        "id": 7745,
+        "title": "Malaprabha River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1987,
+        "id": 7746,
+        "title": "Tungabhadra River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1987,
+        "id": 7747,
+        "title": "Ghataprabha River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1987,
+        "id": 7748,
+        "title": "Bhima River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1988,
+    "difficulty": 2,
+    "title": "Gokak Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is in northern Karnataka.",
+    "summary": "The correct answer is Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1988,
+        "id": 7749,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1988,
+        "id": 7750,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1988,
+        "id": 7751,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1988,
+        "id": 7752,
+        "title": "Telangana",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1989,
+    "difficulty": 2,
+    "title": "Kunchikal Falls is associated with which major mountain system?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located along the western escarpment of peninsular India.",
+    "summary": "The correct answer is Western Ghats.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1989,
+        "id": 7753,
+        "title": "Eastern Ghats",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1989,
+        "id": 7754,
+        "title": "Aravalli Range",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1989,
+        "id": 7755,
+        "title": "Vindhya Range",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1989,
+        "id": 7756,
+        "title": "Western Ghats",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1990,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is near which well-known town/region?",
+    "description": "Choose the correct answer.",
+    "hint": "The place is famous for exceptionally heavy rainfall.",
+    "summary": "The correct answer is Sohra (Cherrapunji).",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1990,
+        "id": 7757,
+        "title": "Tawang",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1990,
+        "id": 7758,
+        "title": "Sohra (Cherrapunji)",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1990,
+        "id": 7759,
+        "title": "Gangtok",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1990,
+        "id": 7760,
+        "title": "Aizawl",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1991,
+    "difficulty": 2,
+    "title": "Langshiang Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is one of Meghalaya's notable high waterfalls.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1991,
+        "id": 7761,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1991,
+        "id": 7762,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1991,
+        "id": 7763,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1991,
+        "id": 7764,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1992,
+    "difficulty": 2,
+    "title": "Vajrai Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a famous waterfall of the Western Ghats.",
+    "summary": "The correct answer is Maharashtra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1992,
+        "id": 7765,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1992,
+        "id": 7766,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1992,
+        "id": 7767,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1992,
+        "id": 7768,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1993,
+    "difficulty": 2,
+    "title": "Vajrai Falls is associated with which district?",
+    "description": "Choose the correct answer.",
+    "hint": "The district is famous for hill stations and forts in western Maharashtra.",
+    "summary": "The correct answer is Satara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1993,
+        "id": 7769,
+        "title": "Nashik",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7770,
+        "title": "Pune",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7771,
+        "title": "Kolhapur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7772,
+        "title": "Satara",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1994,
+    "difficulty": 2,
+    "title": "Soochipara Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in Wayanad.",
+    "summary": "The correct answer is Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1994,
+        "id": 7773,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1994,
+        "id": 7774,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1994,
+        "id": 7775,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1994,
+        "id": 7776,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1995,
+    "difficulty": 2,
+    "title": "Soochipara Falls is also known by which name?",
+    "description": "Choose the correct answer.",
+    "hint": "The alternative name refers to a prominent rock formation.",
+    "summary": "The correct answer is Sentinel Rock Waterfalls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1995,
+        "id": 7777,
+        "title": "Silver Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1995,
+        "id": 7778,
+        "title": "White Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1995,
+        "id": 7779,
+        "title": "Sentinel Rock Waterfalls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1995,
+        "id": 7780,
+        "title": "Tiger Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1996,
+    "difficulty": 2,
+    "title": "Hundru Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river flows through Jharkhand.",
+    "summary": "The correct answer is Subarnarekha River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1996,
+        "id": 7781,
+        "title": "Subarnarekha River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1996,
+        "id": 7782,
+        "title": "Damodar River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1996,
+        "id": 7783,
+        "title": "Koel River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1996,
+        "id": 7784,
+        "title": "Mahanadi River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1997,
+    "difficulty": 2,
+    "title": "Hundru Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is near Ranchi.",
+    "summary": "The correct answer is Jharkhand.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1997,
+        "id": 7785,
+        "title": "Bihar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1997,
+        "id": 7786,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1997,
+        "id": 7787,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1997,
+        "id": 7788,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1998,
+    "difficulty": 2,
+    "title": "Dassam Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river is a tributary of the Subarnarekha.",
+    "summary": "The correct answer is Kanchi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1998,
+        "id": 7789,
+        "title": "Kharkai River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1998,
+        "id": 7790,
+        "title": "Kanchi River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1998,
+        "id": 7791,
+        "title": "Barakar River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1998,
+        "id": 7792,
+        "title": "Mayurakshi River",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1999,
+    "difficulty": 2,
+    "title": "Dassam Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is another famous waterfall near Ranchi.",
+    "summary": "The correct answer is Jharkhand.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1999,
+        "id": 7793,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1999,
+        "id": 7794,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1999,
+        "id": 7795,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1999,
+        "id": 7796,
+        "title": "Bihar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2000,
+    "difficulty": 2,
+    "title": "Nuranang Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in the Tawang region of the Northeast.",
+    "summary": "The correct answer is Arunachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2000,
+        "id": 7797,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2000,
+        "id": 7798,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2000,
+        "id": 7799,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2000,
+        "id": 7800,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
