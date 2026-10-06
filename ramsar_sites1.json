@@ -1,0 +1,2303 @@
+[
+  {
+    "id": 1901,
+    "difficulty": 2,
+    "title": "What is a Ramsar Site?",
+    "description": "Identify the meaning of a Ramsar Site.",
+    "hint": "It relates to internationally important wetlands.",
+    "summary": "A Ramsar Site is a wetland designated as internationally important under the Convention on Wetlands.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Wetlands",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1901,
+        "id": 7401,
+        "title": "An internationally important wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1901,
+        "id": 7402,
+        "title": "A UNESCO archaeological site",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1901,
+        "id": 7403,
+        "title": "A tiger reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1901,
+        "id": 7404,
+        "title": "A biosphere reserve only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1902,
+    "difficulty": 2,
+    "title": "The Ramsar Convention is primarily concerned with the conservation of what?",
+    "description": "Identify the main subject of the Ramsar Convention.",
+    "hint": "Think of lakes, marshes and other water ecosystems.",
+    "summary": "The Ramsar Convention focuses on wetlands and their conservation and wise use.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Convention",
+      "Wetlands",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1902,
+        "id": 7405,
+        "title": "Forests",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1902,
+        "id": 7406,
+        "title": "Wetlands",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1902,
+        "id": 7407,
+        "title": "Deserts",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1902,
+        "id": 7408,
+        "title": "Mountain glaciers only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1903,
+    "difficulty": 2,
+    "title": "Where was the Ramsar Convention adopted?",
+    "description": "Identify the place associated with the adoption of the Convention on Wetlands.",
+    "hint": "It is a city in Iran.",
+    "summary": "The Ramsar Convention was adopted in Ramsar, Iran, in 1971.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Convention",
+      "Environment",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1903,
+        "id": 7409,
+        "title": "Geneva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1903,
+        "id": 7410,
+        "title": "Nairobi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1903,
+        "id": 7411,
+        "title": "Ramsar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1903,
+        "id": 7412,
+        "title": "Paris",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1904,
+    "difficulty": 2,
+    "title": "In which year was the Ramsar Convention adopted?",
+    "description": "Identify the year in which the Convention on Wetlands was adopted.",
+    "hint": "It was adopted in the early 1970s.",
+    "summary": "The Ramsar Convention was adopted in 1971.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Convention",
+      "Environment",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1904,
+        "id": 7413,
+        "title": "1965",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1904,
+        "id": 7414,
+        "title": "1975",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1904,
+        "id": 7415,
+        "title": "1982",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1904,
+        "id": 7416,
+        "title": "1971",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1905,
+    "difficulty": 2,
+    "title": "When did the Ramsar Convention enter into force?",
+    "description": "Identify the year when the Ramsar Convention became legally effective.",
+    "hint": "It was a few years after adoption.",
+    "summary": "The Ramsar Convention entered into force in 1975.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Convention",
+      "Environment"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1905,
+        "id": 7417,
+        "title": "1975",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1905,
+        "id": 7418,
+        "title": "1971",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1905,
+        "id": 7419,
+        "title": "1982",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1905,
+        "id": 7420,
+        "title": "1992",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1906,
+    "difficulty": 2,
+    "title": "When did India become a party to the Ramsar Convention?",
+    "description": "Identify the year India joined the Convention on Wetlands.",
+    "hint": "It was in the early 1980s.",
+    "summary": "India became a contracting party to the Ramsar Convention on 1 February 1982.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1906,
+        "id": 7421,
+        "title": "1975",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1906,
+        "id": 7422,
+        "title": "1982",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1906,
+        "id": 7423,
+        "title": "1992",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1906,
+        "id": 7424,
+        "title": "2002",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1907,
+    "difficulty": 2,
+    "title": "Which were India's first two Ramsar Sites?",
+    "description": "Identify the first wetlands from India added to the Ramsar List.",
+    "hint": "One is a lake in Rajasthan and the other is a national park in Rajasthan.",
+    "summary": "Keoladeo National Park and Chilika Lake were among India's first Ramsar Sites, designated in 1981.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1907,
+        "id": 7425,
+        "title": "Wular Lake and Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1907,
+        "id": 7426,
+        "title": "Sambhar Lake and Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1907,
+        "id": 7427,
+        "title": "Chilika Lake and Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1907,
+        "id": 7428,
+        "title": "Deepor Beel and Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1908,
+    "difficulty": 2,
+    "title": "Which Indian Ramsar Site is located in Odisha?",
+    "description": "Identify the famous coastal lagoon designated as a Ramsar Site.",
+    "hint": "It is famous for migratory birds and Irrawaddy dolphins.",
+    "summary": "Chilika Lake is a Ramsar Site in Odisha.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Odisha",
+      "Chilika Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1908,
+        "id": 7429,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1908,
+        "id": 7430,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1908,
+        "id": 7431,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1908,
+        "id": 7432,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1909,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is India's largest coastal lagoon?",
+    "description": "Identify the major lagoon on India's eastern coast.",
+    "hint": "It is located in Odisha.",
+    "summary": "Chilika Lake is a major brackish-water lagoon on India's eastern coast.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Chilika Lake",
+      "Odisha"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1909,
+        "id": 7433,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1909,
+        "id": 7434,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1909,
+        "id": 7435,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1909,
+        "id": 7436,
+        "title": "Sasthamkotta Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1910,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is famous for the endangered Sangai deer?",
+    "description": "Identify the wetland associated with Manipur's Sangai deer.",
+    "hint": "It is famous for floating phumdis.",
+    "summary": "Loktak Lake in Manipur supports the Sangai deer in its surrounding habitat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Loktak Lake",
+      "Manipur"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1910,
+        "id": 7437,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1910,
+        "id": 7438,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1910,
+        "id": 7439,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1910,
+        "id": 7440,
+        "title": "Thol Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1911,
+    "difficulty": 2,
+    "title": "What are phumdis associated with?",
+    "description": "Identify the floating vegetation masses characteristic of a famous northeastern lake.",
+    "hint": "They are especially associated with Loktak Lake.",
+    "summary": "Phumdis are floating masses of vegetation, soil and organic matter found prominently in Loktak Lake.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Loktak Lake",
+      "Wetlands"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1911,
+        "id": 7441,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1911,
+        "id": 7442,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1911,
+        "id": 7443,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1911,
+        "id": 7444,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1912,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Assam?",
+    "description": "Identify Assam's well-known Ramsar wetland.",
+    "hint": "It is near Guwahati.",
+    "summary": "Deepor Beel is a Ramsar Site in Assam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Assam",
+      "Deepor Beel"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1912,
+        "id": 7445,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1912,
+        "id": 7446,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1912,
+        "id": 7447,
+        "title": "Ashtamudi Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1912,
+        "id": 7448,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1913,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located near Guwahati?",
+    "description": "Identify the wetland situated close to Assam's largest city.",
+    "hint": "It is an important bird habitat.",
+    "summary": "Deepor Beel is located near Guwahati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Assam",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1913,
+        "id": 7449,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1913,
+        "id": 7450,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1913,
+        "id": 7451,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1913,
+        "id": 7452,
+        "title": "Kanjli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1914,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Andhra Pradesh?",
+    "description": "Identify the major lake designated under the Ramsar Convention in Andhra Pradesh.",
+    "hint": "It is a large freshwater lake near the Krishna-Godavari region.",
+    "summary": "Kolleru Lake is a Ramsar Site in Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Andhra Pradesh",
+      "Kolleru Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1914,
+        "id": 7453,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1914,
+        "id": 7454,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1914,
+        "id": 7455,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1914,
+        "id": 7456,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1915,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Rajasthan and is India's largest inland salt lake?",
+    "description": "Identify the famous saline wetland in Rajasthan.",
+    "hint": "It is an important habitat for flamingos and other waterbirds.",
+    "summary": "Sambhar Lake is India's largest inland salt lake and a Ramsar Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Sambhar Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1915,
+        "id": 7457,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1915,
+        "id": 7458,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1915,
+        "id": 7459,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1915,
+        "id": 7460,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1916,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Bharatpur, Rajasthan?",
+    "description": "Identify the famous wetland and bird sanctuary of Bharatpur.",
+    "hint": "It is also a national park.",
+    "summary": "Keoladeo National Park is a Ramsar Site in Rajasthan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Keoladeo"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1916,
+        "id": 7461,
+        "title": "Sultanpur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1916,
+        "id": 7462,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1916,
+        "id": 7463,
+        "title": "Kuno National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1916,
+        "id": 7464,
+        "title": "Ranthambore National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1917,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is associated with Sariska Tiger Reserve?",
+    "description": "Identify the Rajasthan wetland designated in 2025 that lies in the Sariska landscape.",
+    "hint": "It is a human-made lake near Alwar.",
+    "summary": "Siliserh Lake is a Ramsar Site associated with the buffer zone of Sariska Tiger Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Siliserh Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1917,
+        "id": 7465,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1917,
+        "id": 7466,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1917,
+        "id": 7467,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1917,
+        "id": 7468,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1918,
+    "difficulty": 2,
+    "title": "Which Ramsar Site became India's 101st Ramsar Site in 2026?",
+    "description": "Identify the wetland designated in August 2026.",
+    "hint": "It is a freshwater lake in Arunachal Pradesh.",
+    "summary": "Glaw Lake became India's 101st Ramsar Site in August 2026.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "Arunachal Pradesh",
+      "Current Affairs"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1918,
+        "id": 7469,
+        "title": "Patna Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7470,
+        "title": "Chhari Dhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7471,
+        "title": "Glaw Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1918,
+        "id": 7472,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1919,
+    "difficulty": 2,
+    "title": "In which state is Glaw Lake located?",
+    "description": "Identify the state containing India's 101st Ramsar Site.",
+    "hint": "It is in the northeastern Himalayan region.",
+    "summary": "Glaw Lake is located in Arunachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Arunachal Pradesh",
+      "Glaw Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1919,
+        "id": 7473,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7474,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1919,
+        "id": 7475,
+        "title": "Manipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7476,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1920,
+    "difficulty": 2,
+    "title": "Glaw Lake is located within which protected landscape?",
+    "description": "Identify the protected area associated with Glaw Lake.",
+    "hint": "It is a tiger reserve in Arunachal Pradesh.",
+    "summary": "Glaw Lake lies within the Kamlang Tiger Reserve and Wildlife Sanctuary.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Glaw Lake",
+      "Arunachal Pradesh"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1920,
+        "id": 7477,
+        "title": "Namdapha Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7478,
+        "title": "Pakke Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7479,
+        "title": "Dampa Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7480,
+        "title": "Kamlang Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1921,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Gujarat and is famous for migratory birds?",
+    "description": "Identify the large wetland in Gujarat designated as a Ramsar Site.",
+    "hint": "It is near Ahmedabad.",
+    "summary": "Nalsarovar is a major Ramsar Site in Gujarat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Gujarat",
+      "Nalsarovar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1921,
+        "id": 7481,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1921,
+        "id": 7482,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1921,
+        "id": 7483,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1921,
+        "id": 7484,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1922,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Goa?",
+    "description": "Identify Goa's Ramsar Site.",
+    "hint": "It is a small freshwater wetland.",
+    "summary": "Nanda Lake is Goa's Ramsar Site.",
+    "tenantId": 4,
+    "isAnswer": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Goa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1922,
+        "id": 7485,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1922,
+        "id": 7486,
+        "title": "Thol Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1922,
+        "id": 7487,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1922,
+        "id": 7488,
+        "title": "Kanjli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1923,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Kerala and is a freshwater lake?",
+    "description": "Identify the Kerala Ramsar Site known as the largest freshwater lake in the state.",
+    "hint": "It is located in Kollam district.",
+    "summary": "Sasthamkotta Lake is a Ramsar Site and important freshwater lake in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Kerala",
+      "Sasthamkotta"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1923,
+        "id": 7489,
+        "title": "Vembanad-Kol Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1923,
+        "id": 7490,
+        "title": "Ashtamudi Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1923,
+        "id": 7491,
+        "title": "Sasthamkotta Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1923,
+        "id": 7492,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1924,
+    "difficulty": 2,
+    "title": "Which is the largest Ramsar Site in Kerala by area?",
+    "description": "Identify the extensive wetland system of Kerala.",
+    "hint": "It is a large backwater system.",
+    "summary": "Vembanad-Kol Wetland is the largest Ramsar Site in Kerala by area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Kerala",
+      "Vembanad-Kol"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1924,
+        "id": 7493,
+        "title": "Vembanad-Kol Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1924,
+        "id": 7494,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1924,
+        "id": 7495,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1924,
+        "id": 7496,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1925,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is associated with the Ashtamudi backwaters?",
+    "description": "Identify the Ramsar wetland in Kerala.",
+    "hint": "Its name begins with 'Ashta'.",
+    "summary": "Ashtamudi Wetland is a Ramsar Site in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Kerala",
+      "Ashtamudi"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1925,
+        "id": 7497,
+        "title": "Ashtamudi Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1925,
+        "id": 7498,
+        "title": "Sasthamkotta Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1925,
+        "id": 7499,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1925,
+        "id": 7500,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1926,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Jammu and Kashmir and is one of India's largest freshwater lakes?",
+    "description": "Identify the famous lake in the Kashmir Valley.",
+    "hint": "It is connected with the Jhelum river system.",
+    "summary": "Wular Lake is a major Ramsar Site in Jammu and Kashmir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Jammu and Kashmir",
+      "Wular Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1926,
+        "id": 7501,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1926,
+        "id": 7502,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1926,
+        "id": 7503,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1926,
+        "id": 7504,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1927,
+    "difficulty": 2,
+    "title": "Which Ramsar Site consists of two interconnected lakes in Jammu?",
+    "description": "Identify the Ramsar Site comprising the Surinsar and Mansar lakes.",
+    "hint": "Its name combines the names of both lakes.",
+    "summary": "Surinsar-Mansar Lakes form a Ramsar Site in Jammu and Kashmir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Jammu and Kashmir",
+      "Wetlands"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1927,
+        "id": 7505,
+        "title": "Hokera Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1927,
+        "id": 7506,
+        "title": "Surinsar-Mansar Lakes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1927,
+        "id": 7507,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1927,
+        "id": 7508,
+        "title": "Shallbugh Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1928,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Himachal Pradesh and is a major reservoir?",
+    "description": "Identify the Ramsar Site formed by the reservoir of a major dam.",
+    "hint": "It is associated with the Beas River.",
+    "summary": "Pong Dam Lake is a Ramsar Site in Himachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Himachal Pradesh",
+      "Pong Dam"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1928,
+        "id": 7509,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1928,
+        "id": 7510,
+        "title": "Pong Dam Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1928,
+        "id": 7511,
+        "title": "Chandertal Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1928,
+        "id": 7512,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1929,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is a high-altitude wetland in Himachal Pradesh?",
+    "description": "Identify the high-altitude lake designated as a Ramsar Site.",
+    "hint": "It is also known as Chandratal.",
+    "summary": "Chandertal Wetland is a high-altitude Ramsar Site in Himachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Himachal Pradesh",
+      "Wetlands"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1929,
+        "id": 7513,
+        "title": "Chandertal Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1929,
+        "id": 7514,
+        "title": "Pong Dam Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1929,
+        "id": 7515,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1929,
+        "id": 7516,
+        "title": "Thol Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1930,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Punjab and is associated with the Sutlej-Beas wetland system?",
+    "description": "Identify the wetland formed at the confluence region of major rivers.",
+    "hint": "Its name is also the name of a village near the Sutlej.",
+    "summary": "Harike Wetland is a Ramsar Site in Punjab.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Punjab",
+      "Harike"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1930,
+        "id": 7517,
+        "title": "Harike Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1930,
+        "id": 7518,
+        "title": "Kanjli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1930,
+        "id": 7519,
+        "title": "Ropar Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1930,
+        "id": 7520,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1931,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Haryana and is a national park?",
+    "description": "Identify the Ramsar Site famous for migratory birds near Delhi.",
+    "hint": "It is located in Gurugram district.",
+    "summary": "Sultanpur National Park is a Ramsar Site in Haryana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Haryana",
+      "Sultanpur"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1931,
+        "id": 7521,
+        "title": "Sultanpur National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1931,
+        "id": 7522,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1931,
+        "id": 7523,
+        "title": "Kalesar National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1931,
+        "id": 7524,
+        "title": "Ranthambore National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1932,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Madhya Pradesh and consists of two lakes?",
+    "description": "Identify the famous wetland of Bhopal.",
+    "hint": "It consists of Upper Lake and Lower Lake.",
+    "summary": "Bhoj Wetland in Bhopal is a Ramsar Site consisting of two lakes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Madhya Pradesh",
+      "Bhoj Wetland"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1932,
+        "id": 7525,
+        "title": "Sirpur Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1932,
+        "id": 7526,
+        "title": "Bhoj Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1932,
+        "id": 7527,
+        "title": "Yashwant Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1932,
+        "id": 7528,
+        "title": "Sakhya Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1933,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is famous for a meteorite-impact lake?",
+    "description": "Identify the Maharashtra Ramsar Site formed in a meteorite impact crater.",
+    "hint": "The lake has unusually saline and alkaline water.",
+    "summary": "Lonar Lake in Maharashtra is a Ramsar Site formed by a meteorite impact.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Maharashtra",
+      "Lonar Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1933,
+        "id": 7529,
+        "title": "Lonar Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1933,
+        "id": 7530,
+        "title": "Vembanad Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1933,
+        "id": 7531,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1933,
+        "id": 7532,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1934,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Karnataka and is famous for waterbirds?",
+    "description": "Identify the well-known bird sanctuary designated as a Ramsar Site.",
+    "hint": "It is located near Mysuru.",
+    "summary": "Ranganathittu Bird Sanctuary is a Ramsar Site in Karnataka.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Karnataka",
+      "Ranganathittu"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1934,
+        "id": 7533,
+        "title": "Ranganathittu Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1934,
+        "id": 7534,
+        "title": "Koonthankulam Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1934,
+        "id": 7535,
+        "title": "Sultanpur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1934,
+        "id": 7536,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1935,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Tamil Nadu and is one of India's important bird sanctuaries?",
+    "description": "Identify the wetland sanctuary in Tamil Nadu.",
+    "hint": "It is near Tirunelveli district.",
+    "summary": "Koonthankulam Bird Sanctuary is a Ramsar Site in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Tamil Nadu",
+      "Koonthankulam"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1935,
+        "id": 7537,
+        "title": "Koonthankulam Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1935,
+        "id": 7538,
+        "title": "Ranganathittu Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1935,
+        "id": 7539,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1935,
+        "id": 7540,
+        "title": "Sultanpur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1936,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Uttarakhand?",
+    "description": "Identify the Ramsar Site associated with the western Himalayan foothills.",
+    "hint": "It is an important bird habitat near Dehradun.",
+    "summary": "Asan Conservation Reserve is a Ramsar Site in Uttarakhand.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Uttarakhand",
+      "Asan Conservation Reserve"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1936,
+        "id": 7541,
+        "title": "Asan Conservation Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1936,
+        "id": 7542,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1936,
+        "id": 7543,
+        "title": "Pong Dam Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1936,
+        "id": 7544,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1937,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is associated with the Ganga River in Uttar Pradesh?",
+    "description": "Identify the Ramsar Site consisting of a stretch of the Upper Ganga.",
+    "hint": "It is a river wetland rather than a single lake.",
+    "summary": "The Upper Ganga River is a Ramsar Site in Uttar Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Uttar Pradesh",
+      "Ganga"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1937,
+        "id": 7545,
+        "title": "Upper Ganga River",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1937,
+        "id": 7546,
+        "title": "Kanjli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1937,
+        "id": 7547,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1937,
+        "id": 7548,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1938,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Bihar and was India's first Ramsar Site in the state?",
+    "description": "Identify Bihar's first designated Ramsar wetland.",
+    "hint": "It is a large oxbow wetland.",
+    "summary": "Kabartal Wetland was Bihar's first Ramsar Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Bihar",
+      "Kabartal"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1938,
+        "id": 7549,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1938,
+        "id": 7550,
+        "title": "Kabartal Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1938,
+        "id": 7551,
+        "title": "Gogabil Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1938,
+        "id": 7552,
+        "title": "Udaipur Jheel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1939,
+    "difficulty": 2,
+    "title": "Which state has Nagi Bird Sanctuary and Nakti Bird Sanctuary as Ramsar Sites?",
+    "description": "Identify the state containing these two bird sanctuaries.",
+    "hint": "Both are in eastern India.",
+    "summary": "Nagi and Nakti Bird Sanctuaries are Ramsar Sites in Bihar.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Bihar",
+      "Bird Sanctuaries"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1939,
+        "id": 7553,
+        "title": "Bihar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1939,
+        "id": 7554,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1939,
+        "id": 7555,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1939,
+        "id": 7556,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1940,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Chhattisgarh?",
+    "description": "Identify the Ramsar Site designated in Chhattisgarh in 2025.",
+    "hint": "Its name contains the word 'Jalashay'.",
+    "summary": "Kopra Jalashay is a Ramsar Site in Chhattisgarh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Chhattisgarh",
+      "Kopra Jalashay"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1940,
+        "id": 7557,
+        "title": "Kopra Jalashay",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1940,
+        "id": 7558,
+        "title": "Gokul Jalashay",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1940,
+        "id": 7559,
+        "title": "Udaipur Jheel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1940,
+        "id": 7560,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1941,
+    "difficulty": 2,
+    "title": "Which Ramsar Site was designated in Gujarat in 2026?",
+    "description": "Identify the wetland added to the Ramsar List in January 2026.",
+    "hint": "It is located in Kachchh.",
+    "summary": "Chhari Dhand was designated as a Ramsar Site in Gujarat in January 2026.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Gujarat",
+      "Current Affairs"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1941,
+        "id": 7561,
+        "title": "Chhari Dhand",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1941,
+        "id": 7562,
+        "title": "Thol Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1941,
+        "id": 7563,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1941,
+        "id": 7564,
+        "title": "Wadhvana Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1942,
+    "difficulty": 2,
+    "title": "Chhari Dhand is located in which part of Gujarat?",
+    "description": "Identify the region associated with the newly designated Ramsar Site.",
+    "hint": "It is in the Kachchh region.",
+    "summary": "Chhari Dhand is located in the Kachchh region of Gujarat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Gujarat",
+      "Chhari Dhand"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1942,
+        "id": 7565,
+        "title": "Saurashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1942,
+        "id": 7566,
+        "title": "Kachchh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1942,
+        "id": 7567,
+        "title": "South Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1942,
+        "id": 7568,
+        "title": "Dangs",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1943,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Ladakh and is a high-altitude wetland complex?",
+    "description": "Identify the Ramsar Site consisting of a high-altitude lake and associated wetlands.",
+    "hint": "Its name contains the word 'Kar'.",
+    "summary": "Tso Kar Wetland Complex is a Ramsar Site in Ladakh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Ladakh",
+      "Tso Kar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1943,
+        "id": 7569,
+        "title": "Tso Kar Wetland Complex",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1943,
+        "id": 7570,
+        "title": "Chandertal Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1943,
+        "id": 7571,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1943,
+        "id": 7572,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1944,
+    "difficulty": 2,
+    "title": "Which Ramsar Site in Ladakh is famous for its high-altitude saline lake?",
+    "description": "Identify the high-altitude Ramsar Site in Ladakh.",
+    "hint": "Its name begins with 'Tso'.",
+    "summary": "Tsomoriri is a Ramsar Site in Ladakh.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Ladakh",
+      "Tsomoriri"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1944,
+        "id": 7573,
+        "title": "Tsomoriri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1944,
+        "id": 7574,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1944,
+        "id": 7575,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1944,
+        "id": 7576,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1945,
+    "difficulty": 2,
+    "title": "Which Ramsar Site in Maharashtra is associated with the Godavari River basin?",
+    "description": "Identify the wetland designated in Maharashtra in the Godavari basin.",
+    "hint": "Its name contains the word Madhameshwar.",
+    "summary": "Nandur Madhameshwar is a Ramsar Site in Maharashtra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Maharashtra",
+      "Nandur Madhameshwar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1945,
+        "id": 7577,
+        "title": "Nandur Madhameshwar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1945,
+        "id": 7578,
+        "title": "Lonar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1945,
+        "id": 7579,
+        "title": "Thane Creek",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1945,
+        "id": 7580,
+        "title": "Karla Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1946,
+    "difficulty": 2,
+    "title": "Which Ramsar Site in Maharashtra is famous for flamingos?",
+    "description": "Identify the wetland near Mumbai that is important for flamingos.",
+    "hint": "It is a tidal mudflat and creek ecosystem.",
+    "summary": "Thane Creek is a Ramsar Site known for its important flamingo habitat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Maharashtra",
+      "Thane Creek",
+      "Flamingos"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1946,
+        "id": 7581,
+        "title": "Thane Creek",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1946,
+        "id": 7582,
+        "title": "Lonar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1946,
+        "id": 7583,
+        "title": "Nandur Madhameshwar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1946,
+        "id": 7584,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1947,
+    "difficulty": 2,
+    "title": "Which Ramsar Site in Tamil Nadu is associated with Point Calimere?",
+    "description": "Identify the coastal wetland in Tamil Nadu.",
+    "hint": "It is also known as Kodikkarai.",
+    "summary": "Point Calimere Wildlife and Bird Sanctuary is a Ramsar Site in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Tamil Nadu",
+      "Point Calimere"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1947,
+        "id": 7585,
+        "title": "Point Calimere Wildlife and Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1947,
+        "id": 7586,
+        "title": "Koonthankulam Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1947,
+        "id": 7587,
+        "title": "Ranganathittu Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1947,
+        "id": 7588,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1948,
+    "difficulty": 2,
+    "title": "Which Ramsar Site in Odisha is known for its mangroves and coastal wetland ecosystem?",
+    "description": "Identify the Odisha Ramsar Site associated with a major coastal ecosystem.",
+    "hint": "It is a large deltaic wetland.",
+    "summary": "Bhitarkanika Mangroves are an important Ramsar Site in Odisha.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Odisha",
+      "Bhitarkanika"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1948,
+        "id": 7589,
+        "title": "Bhitarkanika Mangroves",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1948,
+        "id": 7590,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1948,
+        "id": 7591,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1948,
+        "id": 7592,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1949,
+    "difficulty": 2,
+    "title": "Which Indian Ramsar Site is associated with the Sundarbans?",
+    "description": "Identify the Ramsar Site covering the wetland ecosystem of the Sundarbans.",
+    "hint": "It is located in West Bengal.",
+    "summary": "Sundarban Wetland is a Ramsar Site in West Bengal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "West Bengal",
+      "Sundarbans"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1949,
+        "id": 7593,
+        "title": "Sundarban Wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1949,
+        "id": 7594,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1949,
+        "id": 7595,
+        "title": "Bhoj Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1949,
+        "id": 7596,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1950,
+    "difficulty": 2,
+    "title": "Which statement best describes the importance of Ramsar Sites?",
+    "description": "Identify the main ecological and conservation significance of Ramsar Sites.",
+    "hint": "Think about biodiversity, water systems and sustainable wetland use.",
+    "summary": "Ramsar Sites help conserve internationally important wetlands and promote their wise use.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Wetlands",
+      "Environment",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1950,
+        "id": 7597,
+        "title": "They protect only forests",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1950,
+        "id": 7598,
+        "title": "They are exclusively tourist destinations",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1950,
+        "id": 7599,
+        "title": "They recognize internationally important wetlands and promote their wise use",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1950,
+        "id": 7600,
+        "title": "They are only sites for archaeological conservation",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
