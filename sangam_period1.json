@@ -1,0 +1,2303 @@
+[
+  {
+    "id": 1701,
+    "difficulty": 2,
+    "title": "What does the term Sangam refer to?",
+    "description": "In ancient Tamil history, what does the term Sangam traditionally refer to?",
+    "hint": "It refers to assemblies of Tamil poets and scholars.",
+    "summary": "Sangam refers to traditional assemblies of Tamil poets and scholars.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tamil History",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1701,
+        "id": 6601,
+        "title": "Assemblies of Tamil poets and scholars",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1701,
+        "id": 6602,
+        "title": "Military councils of the Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1701,
+        "id": 6603,
+        "title": "Buddhist monasteries",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1701,
+        "id": 6604,
+        "title": "Trade guilds of merchants",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1702,
+    "difficulty": 2,
+    "title": "Which language dominates Sangam literature?",
+    "description": "Which language was the principal language of Sangam literature?",
+    "hint": "It is a major Dravidian language of South India.",
+    "summary": "Tamil is the principal language of Sangam literature.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tamil",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1702,
+        "id": 6605,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1702,
+        "id": 6606,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1702,
+        "id": 6607,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1702,
+        "id": 6608,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1703,
+    "difficulty": 2,
+    "title": "Which three dynasties dominated the Sangam age?",
+    "description": "Which three Tamil dynasties are traditionally associated with the Sangam period?",
+    "hint": "They were major powers of ancient Tamilakam.",
+    "summary": "The Cheras, Cholas and Pandyas were the three major dynasties of the Sangam age.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Cholas",
+      "Pandyas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1703,
+        "id": 6609,
+        "title": "Cheras, Cholas and Pandyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1703,
+        "id": 6610,
+        "title": "Pallavas, Chalukyas and Rashtrakutas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1703,
+        "id": 6611,
+        "title": "Mauryas, Guptas and Kushanas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1703,
+        "id": 6612,
+        "title": "Satavahanas, Vakatakas and Kadambas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1704,
+    "difficulty": 2,
+    "title": "What was the ancient Tamil region called?",
+    "description": "What name is commonly used for the ancient Tamil-speaking region during the Sangam period?",
+    "hint": "The term literally refers to the Tamil country.",
+    "summary": "Tamilakam refers to the ancient Tamil country.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tamilakam",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1704,
+        "id": 6613,
+        "title": "Aryavarta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1704,
+        "id": 6614,
+        "title": "Tamilakam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1704,
+        "id": 6615,
+        "title": "Dakshinapatha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1704,
+        "id": 6616,
+        "title": "Magadha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1705,
+    "difficulty": 2,
+    "title": "Which dynasty ruled the western part of ancient Tamilakam?",
+    "description": "Which Sangam dynasty was mainly associated with the western part of Tamilakam?",
+    "hint": "Its rulers were associated with the region around present-day Kerala.",
+    "summary": "The Cheras were mainly associated with the western part of ancient Tamilakam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1705,
+        "id": 6617,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1705,
+        "id": 6618,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1705,
+        "id": 6619,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1705,
+        "id": 6620,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1706,
+    "difficulty": 2,
+    "title": "What was the emblem of the Cheras?",
+    "description": "Which symbol is traditionally associated with the Chera dynasty?",
+    "hint": "It is an animal associated with strength.",
+    "summary": "The bow and arrow were important symbols associated with the Cheras.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Symbols"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1706,
+        "id": 6621,
+        "title": "Fish",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1706,
+        "id": 6622,
+        "title": "Bow and arrow",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1706,
+        "id": 6623,
+        "title": "Tiger",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1706,
+        "id": 6624,
+        "title": "Lion",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1707,
+    "difficulty": 2,
+    "title": "Which dynasty was associated with the Kaveri delta?",
+    "description": "Which Sangam dynasty controlled the fertile Kaveri delta region?",
+    "hint": "Its emblem was the tiger.",
+    "summary": "The Cholas were associated with the Kaveri delta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cholas",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1707,
+        "id": 6625,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1707,
+        "id": 6626,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1707,
+        "id": 6627,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1707,
+        "id": 6628,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1708,
+    "difficulty": 2,
+    "title": "What was the emblem of the Cholas?",
+    "description": "Which animal was the traditional emblem of the Chola dynasty?",
+    "hint": "It is a large carnivorous animal.",
+    "summary": "The tiger was the emblem of the Cholas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cholas",
+      "Symbols"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1708,
+        "id": 6629,
+        "title": "Elephant",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1708,
+        "id": 6630,
+        "title": "Tiger",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1708,
+        "id": 6631,
+        "title": "Fish",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1708,
+        "id": 6632,
+        "title": "Bow",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1709,
+    "difficulty": 2,
+    "title": "What was the emblem of the Pandyas?",
+    "description": "Which symbol was associated with the Pandya dynasty?",
+    "hint": "It is an aquatic animal.",
+    "summary": "The fish was the emblem of the Pandyas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pandyas",
+      "Symbols"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1709,
+        "id": 6633,
+        "title": "Tiger",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1709,
+        "id": 6634,
+        "title": "Bow",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1709,
+        "id": 6635,
+        "title": "Fish",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1709,
+        "id": 6636,
+        "title": "Elephant",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1710,
+    "difficulty": 2,
+    "title": "Which city was an important Pandya capital?",
+    "description": "Which city served as the principal capital of the Pandyas during the Sangam age?",
+    "hint": "It is one of the oldest cities in Tamil Nadu.",
+    "summary": "Madurai was the principal Pandya capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pandyas",
+      "Madurai"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1710,
+        "id": 6637,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1710,
+        "id": 6638,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1710,
+        "id": 6639,
+        "title": "Vanji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1710,
+        "id": 6640,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1711,
+    "difficulty": 2,
+    "title": "Which city was an important early Chola center?",
+    "description": "Which city was an important early Chola capital during the Sangam period?",
+    "hint": "It was located in the Kaveri region.",
+    "summary": "Uraiyur was an important early Chola center.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cholas",
+      "Uraiyur"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1711,
+        "id": 6641,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1711,
+        "id": 6642,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1711,
+        "id": 6643,
+        "title": "Vanji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1711,
+        "id": 6644,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1712,
+    "difficulty": 2,
+    "title": "Which port was associated with the early Cholas?",
+    "description": "Which important port city was associated with the Cholas during the Sangam period?",
+    "hint": "It was located near the mouth of the Kaveri.",
+    "summary": "Kaveripattinam, also called Puhar, was an important Chola port.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cholas",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1712,
+        "id": 6645,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1712,
+        "id": 6646,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1712,
+        "id": 6647,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1712,
+        "id": 6648,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1713,
+    "difficulty": 2,
+    "title": "Which port was associated with the Pandyas?",
+    "description": "Which ancient port was an important center of Pandya trade?",
+    "hint": "It was located in the southern part of Tamil Nadu.",
+    "summary": "Korkai was an important Pandya port and a center of pearl fishing.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pandyas",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1713,
+        "id": 6649,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1713,
+        "id": 6650,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1713,
+        "id": 6651,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1713,
+        "id": 6652,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1714,
+    "difficulty": 2,
+    "title": "Which port was an important Chera trade center?",
+    "description": "Which ancient port is strongly associated with Chera trade and Roman commerce?",
+    "hint": "It is identified with a site near the Periyar region.",
+    "summary": "Muziris was an important Chera trade center associated with Roman commerce.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1714,
+        "id": 6653,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1714,
+        "id": 6654,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1714,
+        "id": 6655,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1714,
+        "id": 6656,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1715,
+    "difficulty": 2,
+    "title": "Which Roman work mentions Muziris?",
+    "description": "Which ancient Greco-Roman geographical work provides information about ports such as Muziris?",
+    "hint": "It was a first-century work describing navigation and trade routes.",
+    "summary": "The Periplus of the Erythraean Sea mentions Muziris.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Muziris",
+      "Roman Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1715,
+        "id": 6657,
+        "title": "Periplus of the Erythraean Sea",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1715,
+        "id": 6658,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1715,
+        "id": 6659,
+        "title": "Geographia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1715,
+        "id": 6660,
+        "title": "Natural History",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1716,
+    "difficulty": 2,
+    "title": "What was Korkai famous for?",
+    "description": "What economic activity was Korkai especially famous for during the Sangam period?",
+    "hint": "The Gulf of Mannar was famous for this marine resource.",
+    "summary": "Korkai was famous for pearl fishing and the pearl trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Korkai",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1716,
+        "id": 6661,
+        "title": "Iron mining",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1716,
+        "id": 6662,
+        "title": "Pearl fishing",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1716,
+        "id": 6663,
+        "title": "Horse breeding",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1716,
+        "id": 6664,
+        "title": "Silk production",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1717,
+    "difficulty": 2,
+    "title": "Which foreign traders had extensive contact with Sangam Tamilakam?",
+    "description": "Which Mediterranean people were important trading partners of the Tamil kingdoms?",
+    "hint": "Their coins have been found in South India.",
+    "summary": "Roman traders had extensive commercial contact with Sangam Tamilakam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Roman Trade",
+      "Economy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1717,
+        "id": 6665,
+        "title": "Romans",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1717,
+        "id": 6666,
+        "title": "Mongols",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1717,
+        "id": 6667,
+        "title": "Vikings",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1717,
+        "id": 6668,
+        "title": "Ottomans",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1718,
+    "difficulty": 2,
+    "title": "Which Roman coins have been found in Tamil Nadu?",
+    "description": "Archaeological discoveries in Tamil Nadu provide evidence of trade with Rome through the presence of which objects?",
+    "hint": "They were used as currency in the Roman world.",
+    "summary": "Roman gold and silver coins have been found in parts of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Roman Trade",
+      "Archaeology"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1718,
+        "id": 6669,
+        "title": "Roman coins",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1718,
+        "id": 6670,
+        "title": "Chinese paper money",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1718,
+        "id": 6671,
+        "title": "Persian banknotes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1718,
+        "id": 6672,
+        "title": "Mughal coins",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1719,
+    "difficulty": 2,
+    "title": "Which text is an important source for Sangam history?",
+    "description": "Which collection of ancient Tamil poems is an important source for reconstructing Sangam society?",
+    "hint": "Its name means 'Eight Anthologies'.",
+    "summary": "Ettuthokai, or the Eight Anthologies, is a major source of Sangam literature.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Ettuthokai",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1719,
+        "id": 6673,
+        "title": "Ettuthokai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1719,
+        "id": 6674,
+        "title": "Rajatarangini",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1719,
+        "id": 6675,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1719,
+        "id": 6676,
+        "title": "Harshacharita",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1720,
+    "difficulty": 2,
+    "title": "What does Pattuppattu mean?",
+    "description": "What does the Tamil literary collection Pattuppattu literally mean?",
+    "hint": "The name refers to a number of poems.",
+    "summary": "Pattuppattu means the Ten Idylls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pattuppattu",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1720,
+        "id": 6677,
+        "title": "Ten Idylls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1720,
+        "id": 6678,
+        "title": "Five Epics",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1720,
+        "id": 6679,
+        "title": "Eight Anthologies",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1720,
+        "id": 6680,
+        "title": "Four Vedas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1721,
+    "difficulty": 2,
+    "title": "Which work is considered the earliest extant Tamil grammatical text?",
+    "description": "Which ancient Tamil work deals extensively with grammar and poetics?",
+    "hint": "Its name begins with 'Tolk'.",
+    "summary": "Tolkappiyam is the earliest extant Tamil grammatical text.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tolkappiyam",
+      "Tamil Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1721,
+        "id": 6681,
+        "title": "Silappadikaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1721,
+        "id": 6682,
+        "title": "Tolkappiyam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1721,
+        "id": 6683,
+        "title": "Manimekalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1721,
+        "id": 6684,
+        "title": "Purananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1722,
+    "difficulty": 2,
+    "title": "Which text describes the ancient Tamil landscape system?",
+    "description": "Which Sangam literary tradition classified landscapes into categories such as Kurinji and Mullai?",
+    "hint": "It is closely connected with the study of Tamil grammar and poetics.",
+    "summary": "Tolkappiyam describes the classification of landscapes in Tamil literary tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tolkappiyam",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1722,
+        "id": 6685,
+        "title": "Tolkappiyam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1722,
+        "id": 6686,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1722,
+        "id": 6687,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1722,
+        "id": 6688,
+        "title": "Mahavamsa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1723,
+    "difficulty": 2,
+    "title": "Which Sangam landscape represented the mountains?",
+    "description": "In the traditional Sangam classification of landscapes, which landscape represented mountainous regions?",
+    "hint": "Its name is associated with hills and mountain areas.",
+    "summary": "Kurinji represented the mountainous landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Kurinji",
+      "Culture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1723,
+        "id": 6689,
+        "title": "Marutham",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1723,
+        "id": 6690,
+        "title": "Kurinji",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1723,
+        "id": 6691,
+        "title": "Neythal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1723,
+        "id": 6692,
+        "title": "Palai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1724,
+    "difficulty": 2,
+    "title": "Which Sangam landscape represented the pastoral region?",
+    "description": "Which landscape represented forests and pastoral areas in Sangam literature?",
+    "hint": "It is associated with pastoral life and cattle herding.",
+    "summary": "Mullai represented the pastoral and forest landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Mullai",
+      "Culture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1724,
+        "id": 6693,
+        "title": "Mullai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1724,
+        "id": 6694,
+        "title": "Kurinji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1724,
+        "id": 6695,
+        "title": "Marutham",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1724,
+        "id": 6696,
+        "title": "Neythal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1725,
+    "difficulty": 2,
+    "title": "Which Sangam landscape represented agricultural plains?",
+    "description": "Which landscape represented fertile agricultural and riverine plains?",
+    "hint": "It was associated with farming and settled villages.",
+    "summary": "Marutham represented the agricultural plains.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Marutham",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1725,
+        "id": 6697,
+        "title": "Palai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1725,
+        "id": 6698,
+        "title": "Neythal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1725,
+        "id": 6699,
+        "title": "Marutham",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1725,
+        "id": 6700,
+        "title": "Mullai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1726,
+    "difficulty": 2,
+    "title": "Which Sangam landscape represented the seashore?",
+    "description": "Which landscape was associated with the coast and maritime activities?",
+    "hint": "Its people were traditionally connected with fishing and the sea.",
+    "summary": "Neythal represented the seashore and coastal landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Neythal",
+      "Maritime Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1726,
+        "id": 6701,
+        "title": "Neythal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1726,
+        "id": 6702,
+        "title": "Kurinji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1726,
+        "id": 6703,
+        "title": "Mullai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1726,
+        "id": 6704,
+        "title": "Marutham",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1727,
+    "difficulty": 2,
+    "title": "Which Sangam landscape represented arid terrain?",
+    "description": "Which landscape represented dry or arid conditions in Sangam literary classification?",
+    "hint": "It is associated with hardship and journeys.",
+    "summary": "Palai represented the arid or dry landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Palai",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1727,
+        "id": 6705,
+        "title": "Palai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1727,
+        "id": 6706,
+        "title": "Kurinji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1727,
+        "id": 6707,
+        "title": "Marutham",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1727,
+        "id": 6708,
+        "title": "Mullai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1728,
+    "difficulty": 2,
+    "title": "Which Sangam work is part of the Eight Anthologies?",
+    "description": "Which of the following works belongs to Ettuthokai?",
+    "hint": "It is one of the famous anthologies of Sangam poetry.",
+    "summary": "Purananuru is one of the works included in Ettuthokai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Ettuthokai",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1728,
+        "id": 6709,
+        "title": "Purananuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1728,
+        "id": 6710,
+        "title": "Silappadikaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1728,
+        "id": 6711,
+        "title": "Manimekalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1728,
+        "id": 6712,
+        "title": "Tirukkural",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1729,
+    "difficulty": 2,
+    "title": "Which Sangam work focuses heavily on love poetry?",
+    "description": "Which anthology is particularly associated with poems dealing with themes of love?",
+    "hint": "Its name refers to internal or subjective themes.",
+    "summary": "Akananuru focuses primarily on love and inner-life themes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Akananuru",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1729,
+        "id": 6713,
+        "title": "Akananuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1729,
+        "id": 6714,
+        "title": "Purananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1729,
+        "id": 6715,
+        "title": "Pathitrupathu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1729,
+        "id": 6716,
+        "title": "Pattinappalai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1730,
+    "difficulty": 2,
+    "title": "Which Sangam work focuses on public life and warfare?",
+    "description": "Which anthology mainly contains poems dealing with kings, warfare, generosity and public life?",
+    "hint": "Its name contrasts with Akananuru.",
+    "summary": "Purananuru deals extensively with public life, warfare and kingship.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Purananuru",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1730,
+        "id": 6717,
+        "title": "Purananuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1730,
+        "id": 6718,
+        "title": "Akananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1730,
+        "id": 6719,
+        "title": "Kuruntokai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1730,
+        "id": 6720,
+        "title": "Ainkurunuru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1731,
+    "difficulty": 2,
+    "title": "Who was Senguttuvan?",
+    "description": "Senguttuvan was a famous ruler of which Sangam dynasty?",
+    "hint": "He is associated with the Chera kingdom.",
+    "summary": "Senguttuvan was a famous Chera ruler.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Senguttuvan"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1731,
+        "id": 6721,
+        "title": "Chera dynasty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1731,
+        "id": 6722,
+        "title": "Chola dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1731,
+        "id": 6723,
+        "title": "Pandya dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1731,
+        "id": 6724,
+        "title": "Pallava dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1732,
+    "difficulty": 2,
+    "title": "Which epic is associated with Senguttuvan?",
+    "description": "Which Tamil epic describes the story connected with the Chera ruler Senguttuvan?",
+    "hint": "The epic is associated with Kannagi.",
+    "summary": "Silappadikaram is associated with Senguttuvan and the story of Kannagi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Silappadikaram",
+      "Cheras"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1732,
+        "id": 6725,
+        "title": "Manimekalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1732,
+        "id": 6726,
+        "title": "Silappadikaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1732,
+        "id": 6727,
+        "title": "Tirukkural",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1732,
+        "id": 6728,
+        "title": "Pattinappalai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1733,
+    "difficulty": 2,
+    "title": "Who wrote Silappadikaram?",
+    "description": "Who is traditionally credited with composing the Tamil epic Silappadikaram?",
+    "hint": "He is traditionally described as a Jain prince or ascetic.",
+    "summary": "Ilango Adigal is traditionally credited with Silappadikaram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Silappadikaram",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1733,
+        "id": 6729,
+        "title": "Ilango Adigal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1733,
+        "id": 6730,
+        "title": "Sattanar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1733,
+        "id": 6731,
+        "title": "Kapilar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1733,
+        "id": 6732,
+        "title": "Avvaiyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1734,
+    "difficulty": 2,
+    "title": "Who wrote Manimekalai?",
+    "description": "Which author is traditionally credited with the Tamil epic Manimekalai?",
+    "hint": "He is also known as Chithalai Chathanar.",
+    "summary": "Sattanar is traditionally credited with Manimekalai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Manimekalai",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1734,
+        "id": 6733,
+        "title": "Sattanar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1734,
+        "id": 6734,
+        "title": "Ilango Adigal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1734,
+        "id": 6735,
+        "title": "Kapilar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1734,
+        "id": 6736,
+        "title": "Nakkirar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1735,
+    "difficulty": 2,
+    "title": "Which text gives information about the port city of Puhar?",
+    "description": "Which Sangam poem provides a detailed description of the Chola port city of Puhar?",
+    "hint": "The title contains the word 'Pattin'.",
+    "summary": "Pattinappalai provides information about Puhar and Chola trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pattinappalai",
+      "Cholas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1735,
+        "id": 6737,
+        "title": "Pattinappalai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1735,
+        "id": 6738,
+        "title": "Akananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1735,
+        "id": 6739,
+        "title": "Purananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1735,
+        "id": 6740,
+        "title": "Kuruntokai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1736,
+    "difficulty": 2,
+    "title": "Which Sangam ruler is associated with the Battle of Venni?",
+    "description": "Which early Chola ruler is famous for his victory at the Battle of Venni?",
+    "hint": "He is one of the most celebrated early Chola rulers.",
+    "summary": "Karikala Chola is associated with the Battle of Venni.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Karikala Chola",
+      "Cholas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1736,
+        "id": 6741,
+        "title": "Karikala Chola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1736,
+        "id": 6742,
+        "title": "Senguttuvan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1736,
+        "id": 6743,
+        "title": "Nedunchezhiyan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1736,
+        "id": 6744,
+        "title": "Nedunjeliyan II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1737,
+    "difficulty": 2,
+    "title": "Which major irrigation work is traditionally attributed to Karikala Chola?",
+    "description": "Which ancient structure on the Kaveri is traditionally attributed to Karikala Chola?",
+    "hint": "It is one of the oldest water-regulation structures in India.",
+    "summary": "The Kallanai, or Grand Anicut, is traditionally attributed to Karikala Chola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Karikala Chola",
+      "Irrigation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1737,
+        "id": 6745,
+        "title": "Kallanai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1737,
+        "id": 6746,
+        "title": "Sudarshana Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1737,
+        "id": 6747,
+        "title": "Sanchi Stupa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1737,
+        "id": 6748,
+        "title": "Nagarjuna Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1738,
+    "difficulty": 2,
+    "title": "What was an important occupation in Sangam society?",
+    "description": "Which occupation formed an important part of the economy of the Sangam period?",
+    "hint": "The fertile plains supported this activity.",
+    "summary": "Agriculture was an important occupation in Sangam society.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Economy",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1738,
+        "id": 6749,
+        "title": "Agriculture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1738,
+        "id": 6750,
+        "title": "Coal mining",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1738,
+        "id": 6751,
+        "title": "Petroleum refining",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1738,
+        "id": 6752,
+        "title": "Modern factory production",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1739,
+    "difficulty": 2,
+    "title": "Which crop was especially important in the Sangam economy?",
+    "description": "Which crop was an important agricultural product in the fertile regions of ancient Tamilakam?",
+    "hint": "It is a major staple food crop.",
+    "summary": "Rice was an important agricultural crop in Sangam Tamilakam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Agriculture",
+      "Economy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1739,
+        "id": 6753,
+        "title": "Rice",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1739,
+        "id": 6754,
+        "title": "Tea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1739,
+        "id": 6755,
+        "title": "Coffee",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1739,
+        "id": 6756,
+        "title": "Rubber",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1740,
+    "difficulty": 2,
+    "title": "Which animal product was important in Sangam trade?",
+    "description": "Which valuable animal-derived product was associated with the pearl and maritime trade of ancient Tamilakam?",
+    "hint": "It was obtained from the sea rather than land animals.",
+    "summary": "Pearls were an important valuable commodity in Sangam trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Trade",
+      "Pearls"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1740,
+        "id": 6757,
+        "title": "Pearls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1740,
+        "id": 6758,
+        "title": "Silk",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1740,
+        "id": 6759,
+        "title": "Wool",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1740,
+        "id": 6760,
+        "title": "Leather",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1741,
+    "difficulty": 2,
+    "title": "Which Roman product was imported into Sangam Tamilakam?",
+    "description": "Which type of Roman goods is mentioned in evidence relating to trade with ancient Tamilakam?",
+    "hint": "They were luxury items associated with Roman commerce.",
+    "summary": "Roman wine was an important imported commodity in Indo-Roman trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Roman Trade",
+      "Imports"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1741,
+        "id": 6761,
+        "title": "Roman wine",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1741,
+        "id": 6762,
+        "title": "Tea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1741,
+        "id": 6763,
+        "title": "Potatoes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1741,
+        "id": 6764,
+        "title": "Tobacco",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1742,
+    "difficulty": 2,
+    "title": "Which occupation was associated with the Neythal landscape?",
+    "description": "Which activity was particularly associated with the coastal Neythal landscape?",
+    "hint": "The landscape is connected with the sea.",
+    "summary": "Fishing was an important occupation associated with the Neythal landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Neythal",
+      "Occupations"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1742,
+        "id": 6765,
+        "title": "Fishing",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1742,
+        "id": 6766,
+        "title": "Pastoralism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1742,
+        "id": 6767,
+        "title": "Mountain hunting",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1742,
+        "id": 6768,
+        "title": "Plough agriculture",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1743,
+    "difficulty": 2,
+    "title": "Which occupation was associated with the Kurinji landscape?",
+    "description": "Which activity was traditionally associated with the mountainous Kurinji landscape?",
+    "hint": "Think of forest and hill communities.",
+    "summary": "Hunting was an important activity associated with the Kurinji landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Kurinji",
+      "Occupations"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1743,
+        "id": 6769,
+        "title": "Hunting",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1743,
+        "id": 6770,
+        "title": "Sea fishing",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1743,
+        "id": 6771,
+        "title": "Large-scale paddy farming",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1743,
+        "id": 6772,
+        "title": "Saltwater pearl diving",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1744,
+    "difficulty": 2,
+    "title": "Which occupation was associated with the Mullai landscape?",
+    "description": "Which economic activity was traditionally associated with the Mullai landscape?",
+    "hint": "It involved herding cattle.",
+    "summary": "Cattle herding and pastoralism were associated with the Mullai landscape.",
+    "tenantId": 4,
+    "isAnswer": false,
+    "questionTags": [
+      "Sangam Period",
+      "Mullai",
+      "Occupations"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1744,
+        "id": 6773,
+        "title": "Pastoralism and cattle herding",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1744,
+        "id": 6774,
+        "title": "Maritime trade",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1744,
+        "id": 6775,
+        "title": "Pearl diving",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1744,
+        "id": 6776,
+        "title": "Mountain mining",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1745,
+    "difficulty": 2,
+    "title": "Which occupation was associated with the Marutham landscape?",
+    "description": "Which economic activity was especially associated with the fertile Marutham plains?",
+    "hint": "The landscape had fertile agricultural fields.",
+    "summary": "Agriculture, especially wet-rice cultivation, was associated with Marutham.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Marutham",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1745,
+        "id": 6777,
+        "title": "Agriculture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1745,
+        "id": 6778,
+        "title": "Sea fishing",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1745,
+        "id": 6779,
+        "title": "Forest hunting",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1745,
+        "id": 6780,
+        "title": "Long-distance camel trade",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1746,
+    "difficulty": 2,
+    "title": "Which ancient Tamil text contains moral teachings?",
+    "description": "Which famous Tamil work contains concise couplets on ethics, wealth and love?",
+    "hint": "It is attributed to Tiruvalluvar.",
+    "summary": "Tirukkural, attributed to Tiruvalluvar, contains teachings on ethics, wealth and love.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tirukkural",
+      "Tamil Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1746,
+        "id": 6781,
+        "title": "Tirukkural",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1746,
+        "id": 6782,
+        "title": "Silappadikaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1746,
+        "id": 6783,
+        "title": "Pattinappalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1746,
+        "id": 6784,
+        "title": "Akananuru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1747,
+    "difficulty": 2,
+    "title": "Who is traditionally credited with Tirukkural?",
+    "description": "Who is traditionally regarded as the author of the Tirukkural?",
+    "hint": "He is one of the most celebrated Tamil ethical poets.",
+    "summary": "Tiruvalluvar is traditionally credited with composing the Tirukkural.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tiruvalluvar",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1747,
+        "id": 6785,
+        "title": "Tiruvalluvar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1747,
+        "id": 6786,
+        "title": "Ilango Adigal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1747,
+        "id": 6787,
+        "title": "Sattanar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1747,
+        "id": 6788,
+        "title": "Kapilar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1748,
+    "difficulty": 2,
+    "title": "What was an important feature of Sangam society?",
+    "description": "Which statement best describes an important feature of Sangam-age society?",
+    "hint": "Literature provides information about different social groups and occupations.",
+    "summary": "Sangam literature provides evidence of a society with diverse occupations, social groups and economic activities.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Society",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1748,
+        "id": 6789,
+        "title": "A completely urban industrial society",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1748,
+        "id": 6790,
+        "title": "A society with diverse occupations and social groups",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1748,
+        "id": 6791,
+        "title": "A society without agriculture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1748,
+        "id": 6792,
+        "title": "A society based only on hunting",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1749,
+    "difficulty": 2,
+    "title": "Which source provides evidence of Indo-Roman trade in South India?",
+    "description": "Which archaeological site in Tamil Nadu provides evidence of Roman trade and Mediterranean contacts?",
+    "hint": "It is an ancient settlement near present-day Puducherry.",
+    "summary": "Arikamedu provides important archaeological evidence of Indo-Roman trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Arikamedu",
+      "Roman Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1749,
+        "id": 6793,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1749,
+        "id": 6794,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1749,
+        "id": 6795,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1749,
+        "id": 6796,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1750,
+    "difficulty": 2,
+    "title": "Which statement best describes Sangam literature?",
+    "description": "What makes Sangam literature especially valuable for historians?",
+    "hint": "It provides information about ancient Tamil society.",
+    "summary": "Sangam literature provides valuable information about the political, social, economic and cultural life of ancient Tamilakam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Literature",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1750,
+        "id": 6797,
+        "title": "It only contains religious myths",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1750,
+        "id": 6798,
+        "title": "It only describes foreign countries",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1750,
+        "id": 6799,
+        "title": "It provides information about ancient Tamil political, social and economic life",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1750,
+        "id": 6800,
+        "title": "It was written entirely during the Mughal period",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
