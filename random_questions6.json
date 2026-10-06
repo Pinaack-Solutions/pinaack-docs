@@ -1,0 +1,2215 @@
+[
+  {
+    "id": 478,
+    "difficulty": 1,
+    "title": "478. Where was the Second Buddhist Council held?",
+    "description": "",
+    "hint": "This ancient republic was important in Buddhist history.",
+    "summary": "The Second Buddhist Council was held at Vaishali.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Vaishali,Councils,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 478,
+        "id": 1709,
+        "title": "Rajgir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 478,
+        "id": 1710,
+        "title": "Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 478,
+        "id": 1711,
+        "title": "Vaishali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 478,
+        "id": 1712,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 479,
+    "difficulty": 2,
+    "title": "479. Which emperor patronized the Third Buddhist Council?",
+    "description": "",
+    "hint": "He embraced Buddhism after the Kalinga War.",
+    "summary": "The Third Buddhist Council was held under Emperor Ashoka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Ashoka,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 479,
+        "id": 1713,
+        "title": "Bimbisara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 479,
+        "id": 1714,
+        "title": "Kanishka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 479,
+        "id": 1715,
+        "title": "Ajatashatru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 479,
+        "id": 1716,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "difficulty": 2,
+    "title": "480. The Third Buddhist Council was held at?",
+    "description": "",
+    "hint": "It later became the Mauryan capital.",
+    "summary": "The Third Buddhist Council was held at Pataliputra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Pataliputra,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 480,
+        "id": 1717,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 480,
+        "id": 1718,
+        "title": "Rajgir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 480,
+        "id": 1719,
+        "title": "Vaishali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 480,
+        "id": 1720,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "difficulty": 2,
+    "title": "481. Which Buddhist Council was held under Kanishka?",
+    "description": "",
+    "hint": "It is associated with the rise of Mahayana Buddhism.",
+    "summary": "The Fourth Buddhist Council was held under Kanishka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Kanishka,Councils,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 481,
+        "id": 1721,
+        "title": "Second Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 481,
+        "id": 1722,
+        "title": "Fourth Council",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 481,
+        "id": 1723,
+        "title": "First Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 481,
+        "id": 1724,
+        "title": "Third Council",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 643,
+    "difficulty": 1,
+    "title": "643. The concept of the 'Rule of Law' associated with Article 14 was given by:",
+    "description": "",
+    "hint": "A British constitutional scholar.",
+    "summary": "The concept of Rule of Law was propounded by A.V. Dicey.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Article14,Rule of Law",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 643,
+        "id": 2369,
+        "title": "A.V. Dicey",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 643,
+        "id": 2370,
+        "title": "Montesquieu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 643,
+        "id": 2371,
+        "title": "John Locke",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 643,
+        "id": 2372,
+        "title": "Harold Laski",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 644,
+    "difficulty": 2,
+    "title": "644. Which Fundamental Right has been described by the Supreme Court as the 'heart of fundamental rights' due to its broad interpretation?",
+    "description": "",
+    "hint": "It protects life and personal liberty.",
+    "summary": "Article 21 has received the widest judicial interpretation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Article21,Supreme Court",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 644,
+        "id": 2373,
+        "title": "Article 32",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 644,
+        "id": 2374,
+        "title": "Article 19",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 644,
+        "id": 2375,
+        "title": "Article 21",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 644,
+        "id": 2376,
+        "title": "Article 14",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 645,
+    "difficulty": 2,
+    "title": "645. Which landmark case established the 'Basic Structure Doctrine' of the Constitution?",
+    "description": "",
+    "hint": "It was decided in 1973.",
+    "summary": "Kesavananda Bharati v. State of Kerala established the Basic Structure Doctrine.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Basic Structure,Judiciary",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 645,
+        "id": 2377,
+        "title": "Golak Nath Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 645,
+        "id": 2378,
+        "title": "Kesavananda Bharati Case",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 645,
+        "id": 2379,
+        "title": "Maneka Gandhi Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 645,
+        "id": 2380,
+        "title": "Minerva Mills Case",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1175,
+    "difficulty": 2,
+    "title": "1175. Which is the longest dam in India?",
+    "description": "",
+    "hint": "It is located in Odisha.",
+    "summary": "Hirakud Dam is the longest major dam in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Engineering,Records",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1175,
+        "id": 4497,
+        "title": "Nagarjuna Sagar Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1175,
+        "id": 4498,
+        "title": "Hirakud Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1175,
+        "id": 4499,
+        "title": "Bhakra Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1175,
+        "id": 4500,
+        "title": "Tehri Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1176,
+    "difficulty": 2,
+    "title": "1176. Which dam is known as the 'Lifeline of Gujarat'?",
+    "description": "",
+    "hint": "It is built across a west-flowing river.",
+    "summary": "Sardar Sarovar Dam is popularly known as the Lifeline of Gujarat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Water Resources,Western India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1176,
+        "id": 4501,
+        "title": "Ukai Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1176,
+        "id": 4502,
+        "title": "Kadana Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1176,
+        "id": 4503,
+        "title": "Sardar Sarovar Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1176,
+        "id": 4504,
+        "title": "Dharoi Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1177,
+    "difficulty": 2,
+    "title": "1177. Which reservoir is formed by the Sardar Sarovar Dam?",
+    "description": "",
+    "hint": "It has the same name as the dam.",
+    "summary": "Sardar Sarovar Dam forms the Sardar Sarovar Reservoir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Reservoirs,Hydroelectric,Western India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1177,
+        "id": 4505,
+        "title": "Indira Sagar Reservoir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1177,
+        "id": 4506,
+        "title": "Sardar Sarovar Reservoir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1177,
+        "id": 4507,
+        "title": "Ukai Reservoir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1177,
+        "id": 4508,
+        "title": "Gobind Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1178,
+    "difficulty": 2,
+    "title": "1178. Bhavanisagar Dam is constructed across which river?",
+    "description": "",
+    "hint": "It is a tributary of the Kaveri.",
+    "summary": "Bhavanisagar Dam is built across the Bhavani River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,South India,Irrigation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1178,
+        "id": 4509,
+        "title": "Noyyal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1178,
+        "id": 4510,
+        "title": "Bhavani",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1178,
+        "id": 4511,
+        "title": "Amaravathi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1178,
+        "id": 4512,
+        "title": "Kabini",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1617,
+    "difficulty": 2,
+    "title": "What was Kondhana later called?",
+    "description": "The fort of Kondhana was renamed by Shivaji in memory of Tanaji Malusare.",
+    "hint": "It is located near Pune.",
+    "summary": "Kondhana was renamed Sinhagad after Tanaji's death.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Fort"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1617,
+        "id": 6265,
+        "title": "Raigad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1617,
+        "id": 6266,
+        "title": "Sinhagad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1617,
+        "id": 6267,
+        "title": "Torna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1617,
+        "id": 6268,
+        "title": "Panhala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1618,
+    "difficulty": 2,
+    "title": "What was Shivaji's naval force called?",
+    "description": "Which branch of Shivaji's military was developed to protect the western coastline?",
+    "hint": "It consisted of ships and sailors.",
+    "summary": "Shivaji developed a naval force to protect the Konkan coast.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Navy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1618,
+        "id": 6269,
+        "title": "Maratha Navy",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1618,
+        "id": 6270,
+        "title": "Rajput Navy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1618,
+        "id": 6271,
+        "title": "Mughal Navy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1618,
+        "id": 6272,
+        "title": "Deccan Fleet",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1491,
+    "difficulty": 1,
+    "title": "1491. Which Mauryan ruler fought the Kalinga War?",
+    "description": "",
+    "hint": "His reign is known for numerous rock and pillar edicts.",
+    "summary": "Ashoka fought the Kalinga War, traditionally dated to around 261 BCE, before adopting a stronger policy of Dhamma.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1491,
+        "id": 5761,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1491,
+        "id": 5762,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1491,
+        "id": 5763,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1491,
+        "id": 5764,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1492,
+    "difficulty": 1,
+    "title": "1492. Which ancient kingdom was conquered by Ashoka in the famous Kalinga War?",
+    "description": "",
+    "hint": "It was located largely in present-day Odisha.",
+    "summary": "Kalinga, located largely in present-day Odisha and adjoining areas, was conquered by Ashoka after the Kalinga War.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Kalinga,Odisha",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1492,
+        "id": 5765,
+        "title": "Kalinga",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1492,
+        "id": 5766,
+        "title": "Avanti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1492,
+        "id": 5767,
+        "title": "Kosala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1492,
+        "id": 5768,
+        "title": "Vatsa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1493,
+    "difficulty": 1,
+    "title": "1493. What did Ashoka promote after the Kalinga War?",
+    "description": "",
+    "hint": "It emphasized moral conduct and peaceful coexistence.",
+    "summary": "After the Kalinga War, Ashoka strongly promoted Dhamma, emphasizing moral conduct, tolerance and welfare.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Dhamma,Kalinga War",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1493,
+        "id": 5769,
+        "title": "Dhamma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1493,
+        "id": 5770,
+        "title": "Military expansion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1493,
+        "id": 5771,
+        "title": "Horse sacrifice",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1493,
+        "id": 5772,
+        "title": "Naval conquest",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1494,
+    "difficulty": 1,
+    "title": "1494. Which Buddhist council is traditionally associated with the reign of Ashoka?",
+    "description": "",
+    "hint": "It was traditionally held at Pataliputra.",
+    "summary": "According to Buddhist tradition, the Third Buddhist Council was held at Pataliputra during Ashoka's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Buddhist Council,Pataliputra",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1494,
+        "id": 5773,
+        "title": "First Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1494,
+        "id": 5774,
+        "title": "Second Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1494,
+        "id": 5775,
+        "title": "Third Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1494,
+        "id": 5776,
+        "title": "Fourth Buddhist Council",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1383,
+    "difficulty": 2,
+    "title": "1383. Which of the following islands belongs to Lakshadweep?",
+    "description": "",
+    "hint": "It is one of the inhabited islands.",
+    "summary": "Kalpeni is one of the inhabited islands of Lakshadweep.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Islands",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1383,
+        "id": 5329,
+        "title": "Car Nicobar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1383,
+        "id": 5330,
+        "title": "Havelock",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1383,
+        "id": 5331,
+        "title": "Kalpeni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1383,
+        "id": 5332,
+        "title": "Little Andaman",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1384,
+    "difficulty": 2,
+    "title": "1384. What is the official language used for administration in Lakshadweep?",
+    "description": "",
+    "hint": "It is one of the official languages of India.",
+    "summary": "Malayalam is widely used for administration in Lakshadweep, along with English.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Language,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1384,
+        "id": 5333,
+        "title": "Malayalam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1384,
+        "id": 5334,
+        "title": "Hindi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1384,
+        "id": 5335,
+        "title": "Bengali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1384,
+        "id": 5336,
+        "title": "Gujarati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1385,
+    "difficulty": 2,
+    "title": "1385. Which of the following is a major environmental concern for Lakshadweep?",
+    "description": "",
+    "hint": "It affects coral ecosystems.",
+    "summary": "Coral bleaching due to climate change and rising sea temperatures is a major concern.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Environment,Climate Change",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1385,
+        "id": 5337,
+        "title": "Desertification",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1385,
+        "id": 5338,
+        "title": "Glacial melting",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1385,
+        "id": 5339,
+        "title": "River flooding",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1385,
+        "id": 5340,
+        "title": "Coral bleaching",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "difficulty": 2,
+    "title": "24. The 'Din-i Ilahi' was a religious doctrine propounded by which Mughal emperor?",
+    "description": "",
+    "summary": "Akbar introduced Din-i Ilahi to promote religious harmony among diverse faiths in the empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,Mughal Empire,Religious Movements,UPSC,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      {
+        "questionId": 224,
+        "id": 593,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 224,
+        "id": 594,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 224,
+        "id": 595,
+        "title": "Humayun",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 224,
+        "id": 596,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "difficulty": 2,
+    "title": "25. Which act introduced the system of Dyarchy in Indian provinces?",
+    "description": "",
+    "summary": "The Government of India Act, 1919 introduced Dyarchy, dividing provincial subjects into Reserved and Transferred lists.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modern India,Constitutional History,British Acts,UPSC,Bank PO,RPSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      {
+        "questionId": 225,
+        "id": 597,
+        "title": "Government of India Act 1919",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 225,
+        "id": 598,
+        "title": "Indian Councils Act 1909",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 225,
+        "id": 599,
+        "title": "Government of India Act 1935",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 225,
+        "id": 600,
+        "title": "Regulating Act 1773",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "difficulty": 2,
+    "title": "26. The capital of the Cholas was located at which place?",
+    "description": "",
+    "summary": "The Chola capital was at Thanjavur, later moved to Gangaikonda Cholapuram by Rajendra Chola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Medieval India,South Indian History,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T10:30:00.000Z",
+    "options": [
+      {
+        "questionId": 226,
+        "id": 601,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 226,
+        "id": 602,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 226,
+        "id": 603,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 226,
+        "id": 604,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1771,
+    "difficulty": 2,
+    "title": "Which architectural style is strongly associated with Chola temples?",
+    "description": "Identify the broad South Indian temple architectural tradition represented by major Chola temples.",
+    "hint": "It developed prominently in the Tamil region.",
+    "summary": "Chola temples are major examples of the Dravidian architectural tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1771,
+        "id": 6881,
+        "title": "Nagara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1771,
+        "id": 6882,
+        "title": "Vesara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1771,
+        "id": 6883,
+        "title": "Dravidian style",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1771,
+        "id": 6884,
+        "title": "Indo-Islamic style",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1772,
+    "difficulty": 2,
+    "title": "Which Chola temple is located at Gangaikondacholapuram?",
+    "description": "Identify the major temple built by Rajendra Chola I at his new capital.",
+    "hint": "It is also known as the temple of Gangaikondacholisvaram.",
+    "summary": "The Brihadisvara Temple at Gangaikondacholapuram was built by Rajendra Chola I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1772,
+        "id": 6885,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1772,
+        "id": 6886,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1772,
+        "id": 6887,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1772,
+        "id": 6888,
+        "title": "Airavatesvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1773,
+    "difficulty": 2,
+    "title": "Which Chola temple is located at Darasuram?",
+    "description": "Identify the famous Chola temple situated at Darasuram near Kumbakonam.",
+    "hint": "It is associated with Rajaraja II.",
+    "summary": "The Airavatesvara Temple at Darasuram was built during the reign of Rajaraja II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture",
+      "UNESCO"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1773,
+        "id": 6889,
+        "title": "Airavatesvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1773,
+        "id": 6890,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1773,
+        "id": 6891,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1773,
+        "id": 6892,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "difficulty": 3,
+    "title": "266. Which Wildlife Sanctuary in Assam is famous for golden langurs?",
+    "description": "",
+    "hint": "It shares a border with Bhutan.",
+    "summary": "Chakrashila Wildlife Sanctuary is famous for the endangered golden langur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Wildlife Sanctuaries,Golden Langur,Assam,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 266,
+        "id": 861,
+        "title": "Pobitora Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 266,
+        "id": 862,
+        "title": "Chakrashila Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 266,
+        "id": 863,
+        "title": "Bornadi Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 266,
+        "id": 864,
+        "title": "Laokhowa Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "difficulty": 3,
+    "title": "267. Pobitora Wildlife Sanctuary is famous for which animal?",
+    "description": "",
+    "hint": "It has one of the highest densities of this species in India.",
+    "summary": "Pobitora Wildlife Sanctuary is famous for the one-horned rhinoceros.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Wildlife Sanctuaries,Rhinoceros,Assam,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 267,
+        "id": 865,
+        "title": "Wild Buffalo",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 267,
+        "id": 866,
+        "title": "One-horned Rhinoceros",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 267,
+        "id": 867,
+        "title": "Golden Langur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 267,
+        "id": 868,
+        "title": "Hoolock Gibbon",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "difficulty": 4,
+    "title": "268. Which Wildlife Sanctuary in Odisha is famous for saltwater crocodiles?",
+    "description": "",
+    "hint": "Located near a mangrove ecosystem.",
+    "summary": "Bhitarkanika Wildlife Sanctuary is known for estuarine crocodiles.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Wildlife Sanctuaries,Bhitarkanika,Crocodiles,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 268,
+        "id": 869,
+        "title": "Satkosia Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 268,
+        "id": 870,
+        "title": "Bhitarkanika Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 268,
+        "id": 871,
+        "title": "Debrigarh Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 268,
+        "id": 872,
+        "title": "Hadgarh Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "difficulty": 4,
+    "title": "269. Which Wildlife Sanctuary in Maharashtra is famous for giant squirrels?",
+    "description": "",
+    "hint": "Named after a Maratha ruler.",
+    "summary": "Bhimashankar Wildlife Sanctuary is known for the Indian giant squirrel.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Wildlife Sanctuaries,Giant Squirrel,Maharashtra,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 269,
+        "id": 873,
+        "title": "Radhanagari Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 269,
+        "id": 874,
+        "title": "Bhimashankar Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 269,
+        "id": 875,
+        "title": "Koyna Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 269,
+        "id": 876,
+        "title": "Tansa Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 773,
+    "difficulty": 1,
+    "title": "773. Which river crosses the Equator twice?",
+    "description": "",
+    "hint": "It is located in Central Africa.",
+    "summary": "The Congo River crosses the Equator twice during its course.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Congo River,Equator",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 773,
+        "id": 2889,
+        "title": "Nile",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 773,
+        "id": 2890,
+        "title": "Congo",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 773,
+        "id": 2891,
+        "title": "Amazon",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 773,
+        "id": 2892,
+        "title": "Niger",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 774,
+    "difficulty": 0,
+    "title": "774. Which is the longest river in Africa?",
+    "description": "",
+    "hint": "It flows through Egypt and Sudan.",
+    "summary": "The Nile River is the longest river in Africa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Nile,Africa",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 774,
+        "id": 2893,
+        "title": "Congo",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 774,
+        "id": 2894,
+        "title": "Niger",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 774,
+        "id": 2895,
+        "title": "Nile",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 774,
+        "id": 2896,
+        "title": "Zambezi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 775,
+    "difficulty": 1,
+    "title": "775. The Niger River flows through which continent?",
+    "description": "",
+    "hint": "It flows through countries like Mali and Nigeria.",
+    "summary": "The Niger River is located in West Africa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Niger River,Africa",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 775,
+        "id": 2897,
+        "title": "Asia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 775,
+        "id": 2898,
+        "title": "Africa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 775,
+        "id": 2899,
+        "title": "Europe",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 775,
+        "id": 2900,
+        "title": "South America",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 776,
+    "difficulty": 1,
+    "title": "776. Victoria Falls is located on which river?",
+    "description": "",
+    "hint": "It is one of the largest waterfalls in the world.",
+    "summary": "Victoria Falls is located on the Zambezi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Victoria Falls,Zambezi",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 776,
+        "id": 2901,
+        "title": "Congo",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 776,
+        "id": 2902,
+        "title": "Nile",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 776,
+        "id": 2903,
+        "title": "Zambezi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 776,
+        "id": 2904,
+        "title": "Niger",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "difficulty": 3,
+    "title": "433. Which Harappan site is located in Haryana and shows both pre-Harappan and Harappan phases?",
+    "description": "",
+    "hint": "Frequently asked together with Kalibangan.",
+    "summary": "Banawali in Haryana shows both pre-Harappan and Harappan cultural phases.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Banawali,Haryana,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 433,
+        "id": 1529,
+        "title": "Banawali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 433,
+        "id": 1530,
+        "title": "Lothal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 433,
+        "id": 1531,
+        "title": "Surkotada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 433,
+        "id": 1532,
+        "title": "Amri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 434,
+    "difficulty": 4,
+    "title": "434. Which Harappan site is considered the largest known Indus Valley Civilization site in India?",
+    "description": "",
+    "hint": "Located in Haryana and excavated extensively in recent years.",
+    "summary": "Rakhigarhi is currently considered the largest known Harappan site in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Rakhigarhi,Haryana,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 434,
+        "id": 1533,
+        "title": "Dholavira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 434,
+        "id": 1534,
+        "title": "Rakhigarhi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 434,
+        "id": 1535,
+        "title": "Lothal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 434,
+        "id": 1536,
+        "title": "Banawali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1311,
+    "difficulty": 2,
+    "title": "1311. Which was the first indigenously built aircraft carrier of India?",
+    "description": "",
+    "hint": "It was commissioned in 2022.",
+    "summary": "INS Vikrant is India's first indigenously built aircraft carrier.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Defence,Navy,Warships",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1311,
+        "id": 5041,
+        "title": "INS Viraat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1311,
+        "id": 5042,
+        "title": "INS Vikramaditya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1311,
+        "id": 5043,
+        "title": "INS Vikrant",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1311,
+        "id": 5044,
+        "title": "INS Mysore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1312,
+    "difficulty": 2,
+    "title": "1312. Which missile is India's long-range surface-to-air missile developed jointly with Israel?",
+    "description": "",
+    "hint": "It is also deployed by the Indian Navy.",
+    "summary": "Barak-8 is jointly developed by India and Israel.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Defence,Missiles,International Cooperation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1312,
+        "id": 5045,
+        "title": "Barak-8",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1312,
+        "id": 5046,
+        "title": "Nag",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1312,
+        "id": 5047,
+        "title": "Akash",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1312,
+        "id": 5048,
+        "title": "Prithvi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1313,
+    "difficulty": 2,
+    "title": "1313. The headquarters of the Integrated Defence Staff (IDS) is located in:",
+    "description": "",
+    "hint": "It is the national capital.",
+    "summary": "The Integrated Defence Staff is headquartered in New Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Defence,Military,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1313,
+        "id": 5049,
+        "title": "Mumbai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1313,
+        "id": 5050,
+        "title": "Pune",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1313,
+        "id": 5051,
+        "title": "Jaipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1313,
+        "id": 5052,
+        "title": "New Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1314,
+    "difficulty": 2,
+    "title": "1314. Which Indian Air Force exercise is conducted jointly with the Royal Air Force (UK)?",
+    "description": "",
+    "hint": "Its name means 'to fly together'.",
+    "summary": "Exercise Indradhanush is conducted between India and the United Kingdom.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Defence,Military Exercises,Air Force",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1314,
+        "id": 5053,
+        "title": "Garuda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1314,
+        "id": 5054,
+        "title": "Indradhanush",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1314,
+        "id": 5055,
+        "title": "Cope India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1314,
+        "id": 5056,
+        "title": "Desert Eagle",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1315,
+    "difficulty": 2,
+    "title": "1315. Which missile is designed primarily as an anti-tank guided missile (ATGM)?",
+    "description": "",
+    "hint": "It is named after a snake.",
+    "summary": "Nag is India's indigenous third-generation anti-tank guided missile.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Defence,Missiles,Technology",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1315,
+        "id": 5057,
+        "title": "Agni-V",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1315,
+        "id": 5058,
+        "title": "Akash",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1315,
+        "id": 5059,
+        "title": "Nag",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1315,
+        "id": 5060,
+        "title": "Pralay",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1918,
+    "difficulty": 2,
+    "title": "Which Ramsar Site became India's 101st Ramsar Site in 2026?",
+    "description": "Identify the wetland designated in August 2026.",
+    "hint": "It is a freshwater lake in Arunachal Pradesh.",
+    "summary": "Glaw Lake became India's 101st Ramsar Site in August 2026.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "Arunachal Pradesh",
+      "Current Affairs"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1918,
+        "id": 7469,
+        "title": "Patna Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7470,
+        "title": "Chhari Dhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7471,
+        "title": "Glaw Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1918,
+        "id": 7472,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1919,
+    "difficulty": 2,
+    "title": "In which state is Glaw Lake located?",
+    "description": "Identify the state containing India's 101st Ramsar Site.",
+    "hint": "It is in the northeastern Himalayan region.",
+    "summary": "Glaw Lake is located in Arunachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Arunachal Pradesh",
+      "Glaw Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1919,
+        "id": 7473,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7474,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1919,
+        "id": 7475,
+        "title": "Manipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7476,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1920,
+    "difficulty": 2,
+    "title": "Glaw Lake is located within which protected landscape?",
+    "description": "Identify the protected area associated with Glaw Lake.",
+    "hint": "It is a tiger reserve in Arunachal Pradesh.",
+    "summary": "Glaw Lake lies within the Kamlang Tiger Reserve and Wildlife Sanctuary.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Glaw Lake",
+      "Arunachal Pradesh"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1920,
+        "id": 7477,
+        "title": "Namdapha Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7478,
+        "title": "Pakke Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7479,
+        "title": "Dampa Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1920,
+        "id": 7480,
+        "title": "Kamlang Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "difficulty": 0,
+    "title": "668. The Alps are primarily located in which continent?",
+    "description": "",
+    "hint": "They include Switzerland and Austria.",
+    "summary": "The Alps are located in Europe.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Alps,Europe",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 668,
+        "id": 2469,
+        "title": "Asia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 668,
+        "id": 2470,
+        "title": "Europe",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 668,
+        "id": 2471,
+        "title": "Africa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 668,
+        "id": 2472,
+        "title": "South America",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "difficulty": 1,
+    "title": "669. Which is the highest peak of the Alps?",
+    "description": "",
+    "hint": "It lies on the France–Italy border.",
+    "summary": "Mont Blanc is the highest peak in the Alps.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Alps,Mont Blanc",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 669,
+        "id": 2473,
+        "title": "Matterhorn",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 669,
+        "id": 2474,
+        "title": "Mont Blanc",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 669,
+        "id": 2475,
+        "title": "Mount Elbrus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 669,
+        "id": 2476,
+        "title": "Dufourspitze",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 670,
+    "difficulty": 1,
+    "title": "670. Which mountain range separates Europe and Asia?",
+    "description": "",
+    "hint": "It runs north-south through western Russia.",
+    "summary": "The Ural Mountains traditionally form the boundary between Europe and Asia.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Ural Mountains",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 670,
+        "id": 2477,
+        "title": "Caucasus Mountains",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 670,
+        "id": 2478,
+        "title": "Alps",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 670,
+        "id": 2479,
+        "title": "Ural Mountains",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 671,
+        "id": 2480,
+        "title": "Carpathian Mountains",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1246,
+    "difficulty": 2,
+    "title": "1246. Which pass is located between Leh and the Indus Valley?",
+    "description": "",
+    "hint": "It is one of the highest passes on the Leh–Manali route.",
+    "summary": "Tanglang La overlooks the upper Indus Valley on the Leh–Manali Highway.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Ladakh,PhysicalGeography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1246,
+        "id": 4781,
+        "title": "Tanglang La",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1246,
+        "id": 4782,
+        "title": "Khardung La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1246,
+        "id": 4783,
+        "title": "Chang La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1246,
+        "id": 4784,
+        "title": "Fotu La",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1247,
+    "difficulty": 2,
+    "title": "1247. Which mountain pass is famous for the Sela Lake located nearby?",
+    "description": "",
+    "hint": "It lies on the road to Tawang.",
+    "summary": "Sela Pass is famous for the picturesque Sela Lake.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,ArunachalPradesh,Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1247,
+        "id": 4785,
+        "title": "Bomdi La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1247,
+        "id": 4786,
+        "title": "Diphu Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1247,
+        "id": 4787,
+        "title": "Sela Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1247,
+        "id": 4788,
+        "title": "Jelep La",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1248,
+    "difficulty": 2,
+    "title": "1248. Which pass was historically a part of the ancient Silk Route in Sikkim?",
+    "description": "",
+    "hint": "It is currently an important India–China trade route.",
+    "summary": "Nathu La was an important pass on the ancient Silk Route.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,SilkRoute,Trade",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1248,
+        "id": 4789,
+        "title": "Jelep La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1248,
+        "id": 4790,
+        "title": "Nathu La",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1248,
+        "id": 4791,
+        "title": "Shipki La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1248,
+        "id": 4792,
+        "title": "Lipulekh Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1249,
+    "difficulty": 2,
+    "title": "1249. Which pass lies on the border of Sikkim and Tibet but is presently not used for regular trade?",
+    "description": "",
+    "hint": "It is east of Nathu La.",
+    "summary": "Jelep La was historically important but is no longer used for regular trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Sikkim,InternationalBorders",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1249,
+        "id": 4793,
+        "title": "Nathu La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1249,
+        "id": 4794,
+        "title": "Shipki La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1249,
+        "id": 4795,
+        "title": "Jelep La",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1249,
+        "id": 4796,
+        "title": "Mana Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1250,
+    "difficulty": 2,
+    "title": "1250. Which mountain pass is located in Uttarakhand near Badrinath?",
+    "description": "",
+    "hint": "It shares its name with India's last village before the China border.",
+    "summary": "Mana Pass is located near Badrinath in Uttarakhand.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Uttarakhand,Himalayas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1250,
+        "id": 4797,
+        "title": "Lipulekh Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1250,
+        "id": 4798,
+        "title": "Mana Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1250,
+        "id": 4799,
+        "title": "Niti Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1250,
+        "id": 4800,
+        "title": "Banihal Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
