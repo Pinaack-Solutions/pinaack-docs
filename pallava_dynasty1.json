@@ -1,0 +1,2283 @@
+[
+  {
+    "id": 1801,
+    "difficulty": 2,
+    "title": "Which dynasty ruled an important part of northern Tamil Nadu before the rise of the Imperial Cholas?",
+    "description": "Identify the dynasty associated with Kanchipuram and major developments in South Indian temple architecture.",
+    "hint": "Their capital was Kanchipuram.",
+    "summary": "The Pallavas ruled a major part of northern Tamil Nadu and were centered at Kanchipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1801,
+        "id": 7001,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1801,
+        "id": 7002,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1801,
+        "id": 7003,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1801,
+        "id": 7004,
+        "title": "Satavahanas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1802,
+    "difficulty": 2,
+    "title": "What was the capital of the Pallavas?",
+    "description": "Identify the principal political and cultural center of the Pallava kingdom.",
+    "hint": "It is an important historic city in present-day Tamil Nadu.",
+    "summary": "Kanchipuram was the principal capital of the Pallavas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1802,
+        "id": 7005,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1802,
+        "id": 7006,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1802,
+        "id": 7007,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1802,
+        "id": 7008,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1803,
+    "difficulty": 2,
+    "title": "Which Pallava ruler is regarded as one of the earliest important rulers of the dynasty?",
+    "description": "Identify the ruler associated with the early consolidation of Pallava power.",
+    "hint": "His name appears frequently in discussions of early Pallava history.",
+    "summary": "Simhavishnu was an important early Pallava ruler who expanded Pallava influence southward.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1803,
+        "id": 7009,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1803,
+        "id": 7010,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1803,
+        "id": 7011,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1803,
+        "id": 7012,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1804,
+    "difficulty": 2,
+    "title": "Who succeeded Simhavishnu as an important Pallava ruler?",
+    "description": "Identify the Pallava ruler who was known for his patronage of architecture and literature.",
+    "hint": "He was the father of Narasimhavarman I.",
+    "summary": "Mahendravarman I succeeded Simhavishnu and became an important Pallava ruler.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Mahendravarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1804,
+        "id": 7013,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1804,
+        "id": 7014,
+        "title": "Nandivarman III",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1804,
+        "id": 7015,
+        "title": "Paramesvaravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1804,
+        "id": 7016,
+        "title": "Dantivarman",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1805,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was known by the title Gunabhara?",
+    "description": "Identify the Pallava ruler associated with this title.",
+    "hint": "He was an important patron of art and literature.",
+    "summary": "Mahendravarman I was known by several titles, including Gunabhara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Mahendravarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1805,
+        "id": 7017,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1805,
+        "id": 7018,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1805,
+        "id": 7019,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1805,
+        "id": 7020,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1806,
+    "difficulty": 2,
+    "title": "Which Pallava ruler fought the Chalukya king Pulakeshin II?",
+    "description": "Identify the Pallava ruler who faced the Chalukya invasion led by Pulakeshin II.",
+    "hint": "He was the father of Narasimhavarman I.",
+    "summary": "Mahendravarman I fought against the Chalukya ruler Pulakeshin II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas",
+      "Wars"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1806,
+        "id": 7021,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1806,
+        "id": 7022,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1806,
+        "id": 7023,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1806,
+        "id": 7024,
+        "title": "Paramesvaravarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1807,
+    "difficulty": 2,
+    "title": "Who defeated the Chalukya ruler Pulakeshin II?",
+    "description": "Identify the Pallava ruler who defeated Pulakeshin II and later captured Vatapi.",
+    "hint": "He was known as Vatapikonda.",
+    "summary": "Narasimhavarman I defeated Pulakeshin II and captured Vatapi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas",
+      "Narasimhavarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1807,
+        "id": 7025,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1807,
+        "id": 7026,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1807,
+        "id": 7027,
+        "title": "Mahendravarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1807,
+        "id": 7028,
+        "title": "Nandivarman III",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1808,
+    "difficulty": 2,
+    "title": "What title did Narasimhavarman I adopt after capturing Vatapi?",
+    "description": "Identify the title associated with his victory over the Chalukyas.",
+    "hint": "The title literally refers to the conqueror of Vatapi.",
+    "summary": "Narasimhavarman I adopted the title Vatapikonda after capturing Vatapi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Narasimhavarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1808,
+        "id": 7029,
+        "title": "Gangaikonda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1808,
+        "id": 7030,
+        "title": "Rajakesari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1808,
+        "id": 7031,
+        "title": "Mummudi Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1808,
+        "id": 7032,
+        "title": "Vatapikonda",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1809,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was also known as Mamalla?",
+    "description": "Identify the Pallava ruler whose title gave Mahabalipuram its historical name Mamallapuram.",
+    "hint": "He succeeded Mahendravarman I.",
+    "summary": "Narasimhavarman I was known as Mamalla, meaning great wrestler.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Narasimhavarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1809,
+        "id": 7033,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1809,
+        "id": 7034,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1809,
+        "id": 7035,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1809,
+        "id": 7036,
+        "title": "Dantivarman",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1810,
+    "difficulty": 2,
+    "title": "What is the present-day name of Mamallapuram?",
+    "description": "Identify the modern name of the Pallava-era port and artistic center.",
+    "hint": "It is famous for its Shore Temple and rock-cut monuments.",
+    "summary": "Mamallapuram is commonly known today as Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "Tamil Nadu"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1810,
+        "id": 7037,
+        "title": "Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1810,
+        "id": 7038,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1810,
+        "id": 7039,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1810,
+        "id": 7040,
+        "title": "Chidambaram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1811,
+    "difficulty": 2,
+    "title": "Which Pallava ruler built many structural temples at Kanchipuram?",
+    "description": "Identify the Pallava ruler associated with the mature structural temple tradition.",
+    "hint": "He was also known as Rajasimha.",
+    "summary": "Narasimhavarman II, also known as Rajasimha, was a major patron of structural temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1811,
+        "id": 7041,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1811,
+        "id": 7042,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1811,
+        "id": 7043,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1811,
+        "id": 7044,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1812,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was also called Rajasimha?",
+    "description": "Identify the Pallava ruler associated with the title Rajasimha.",
+    "hint": "He was famous for temple construction.",
+    "summary": "Narasimhavarman II was also known as Rajasimha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Narasimhavarman II"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1812,
+        "id": 7045,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1812,
+        "id": 7046,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1812,
+        "id": 7047,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1812,
+        "id": 7048,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1813,
+    "difficulty": 2,
+    "title": "Which temple is an important Pallava structural temple at Kanchipuram?",
+    "description": "Identify the famous temple associated with Narasimhavarman II.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Kailasanatha Temple at Kanchipuram was built under Narasimhavarman II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "Kanchipuram"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1813,
+        "id": 7049,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1813,
+        "id": 7050,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1813,
+        "id": 7051,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1813,
+        "id": 7052,
+        "title": "Airavatesvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1814,
+    "difficulty": 2,
+    "title": "Which deity is worshipped in the Kailasanatha Temple at Kanchipuram?",
+    "description": "Identify the principal deity of this famous Pallava temple.",
+    "hint": "The temple is a major Shaiva monument.",
+    "summary": "The Kailasanatha Temple is dedicated to Shiva.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Religion",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1814,
+        "id": 7053,
+        "title": "Vishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1814,
+        "id": 7054,
+        "title": "Brahma",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1814,
+        "id": 7055,
+        "title": "Shiva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1814,
+        "id": 7056,
+        "title": "Indra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1815,
+    "difficulty": 2,
+    "title": "Which famous Pallava monument stands on the shore at Mahabalipuram?",
+    "description": "Identify the temple that became an iconic monument of Pallava architecture.",
+    "hint": "Its name reflects its location beside the sea.",
+    "summary": "The Shore Temple is one of the most famous Pallava monuments at Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "UNESCO"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1815,
+        "id": 7057,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1815,
+        "id": 7058,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1815,
+        "id": 7059,
+        "title": "Vaikuntha Perumal Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1815,
+        "id": 7060,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1816,
+    "difficulty": 2,
+    "title": "The Shore Temple at Mahabalipuram is mainly associated with which dynasty?",
+    "description": "Identify the dynasty responsible for this famous coastal monument.",
+    "hint": "The dynasty was centered at Kanchipuram.",
+    "summary": "The Shore Temple is a major monument of the Pallava dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1816,
+        "id": 7061,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1816,
+        "id": 7062,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1816,
+        "id": 7063,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1816,
+        "id": 7064,
+        "title": "Hoysalas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1817,
+    "difficulty": 2,
+    "title": "Which group of monuments at Mahabalipuram is famous for monolithic rathas?",
+    "description": "Identify the Pallava monuments carved from single rocks.",
+    "hint": "They are named after the five Pandava brothers.",
+    "summary": "The Pancha Rathas are famous monolithic rock-cut monuments at Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1817,
+        "id": 7065,
+        "title": "Pancha Rathas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1817,
+        "id": 7066,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1817,
+        "id": 7067,
+        "title": "Ellora Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1817,
+        "id": 7068,
+        "title": "Udayagiri Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1818,
+    "difficulty": 2,
+    "title": "The Pancha Rathas are located at which place?",
+    "description": "Identify the famous Pallava artistic center where the Pancha Rathas are located.",
+    "hint": "It is also called Mamallapuram.",
+    "summary": "The Pancha Rathas are located at Mahabalipuram in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "Tamil Nadu"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1818,
+        "id": 7069,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1818,
+        "id": 7070,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1818,
+        "id": 7071,
+        "title": "Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1818,
+        "id": 7072,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1819,
+    "difficulty": 2,
+    "title": "Which Pallava ruler is associated with the Pancha Rathas?",
+    "description": "Identify the ruler under whose reign the monolithic rathas were developed.",
+    "hint": "He was known by the title Mamalla.",
+    "summary": "The Pancha Rathas are generally associated with the reign of Narasimhavarman I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Narasimhavarman I",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1819,
+        "id": 7073,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1819,
+        "id": 7074,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1819,
+        "id": 7075,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1819,
+        "id": 7076,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1820,
+    "difficulty": 2,
+    "title": "Which famous relief is found at Mahabalipuram?",
+    "description": "Identify the monumental rock relief also known as Arjuna's Penance.",
+    "hint": "It depicts numerous figures, including celestial beings and animals.",
+    "summary": "The Descent of the Ganges, popularly called Arjuna's Penance, is a famous Mahabalipuram relief.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "Art"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1820,
+        "id": 7077,
+        "title": "Descent of the Ganges",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1820,
+        "id": 7078,
+        "title": "Lion Capital",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1820,
+        "id": 7079,
+        "title": "Yaksha Panel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1820,
+        "id": 7080,
+        "title": "Elephanta Relief",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1821,
+    "difficulty": 2,
+    "title": "What type of architecture was pioneered prominently by the Pallavas at Mahabalipuram?",
+    "description": "Identify the architectural technique represented by the early Pallava monuments.",
+    "hint": "Several monuments were carved directly into natural rock.",
+    "summary": "Rock-cut architecture developed prominently under the Pallavas at Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1821,
+        "id": 7081,
+        "title": "Rock-cut architecture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1821,
+        "id": 7082,
+        "title": "Indo-Islamic architecture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1821,
+        "id": 7083,
+        "title": "Mughal architecture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1821,
+        "id": 7084,
+        "title": "Colonial architecture",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1822,
+    "difficulty": 2,
+    "title": "Which Pallava ruler is associated with the transition from rock-cut to structural temples?",
+    "description": "Identify the ruler whose reign witnessed important developments in Pallava temple architecture.",
+    "hint": "His successor Narasimhavarman I was known as Mamalla.",
+    "summary": "Mahendravarman I is associated with early rock-cut temples, while later Pallavas developed structural temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1822,
+        "id": 7085,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1822,
+        "id": 7086,
+        "title": "Nandivarman III",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1822,
+        "id": 7087,
+        "title": "Dantivarman",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1822,
+        "id": 7088,
+        "title": "Paramesvaravarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1823,
+    "difficulty": 2,
+    "title": "Which Pallava ruler authored the Sanskrit work Mattavilasa Prahasana?",
+    "description": "Identify the ruler who was also known for his literary abilities.",
+    "hint": "He was a patron of art and literature.",
+    "summary": "Mahendravarman I is traditionally credited with composing Mattavilasa Prahasana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Literature",
+      "Mahendravarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1823,
+        "id": 7089,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1823,
+        "id": 7090,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1823,
+        "id": 7091,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1823,
+        "id": 7092,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1824,
+    "difficulty": 2,
+    "title": "Mattavilasa Prahasana is written in which language?",
+    "description": "Identify the classical language in which Mahendravarman I's play was composed.",
+    "hint": "It was widely used in royal and scholarly writings in ancient India.",
+    "summary": "Mattavilasa Prahasana was composed in Sanskrit.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1824,
+        "id": 7093,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1824,
+        "id": 7094,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1824,
+        "id": 7095,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1824,
+        "id": 7096,
+        "title": "Pali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1825,
+    "difficulty": 2,
+    "title": "Which Chinese traveler visited the Pallava kingdom during the reign of Narasimhavarman II?",
+    "description": "Identify the famous Chinese Buddhist pilgrim who visited South India.",
+    "hint": "He traveled to India during the 7th century.",
+    "summary": "The Chinese traveler Xuanzang visited the Pallava kingdom during the 7th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Xuanzang",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1825,
+        "id": 7097,
+        "title": "Faxian",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1825,
+        "id": 7098,
+        "title": "Yijing",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1825,
+        "id": 7099,
+        "title": "Xuanzang",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1825,
+        "id": 7100,
+        "title": "Zheng He",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1826,
+    "difficulty": 2,
+    "title": "Which religion received significant patronage from some Pallava rulers?",
+    "description": "Identify the religious tradition strongly represented in Pallava monuments and literature.",
+    "hint": "The Kailasanatha and Shore temples are dedicated to Shiva.",
+    "summary": "Shaivism received significant patronage under several Pallava rulers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Religion"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1826,
+        "id": 7101,
+        "title": "Shaivism",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1826,
+        "id": 7102,
+        "title": "Zoroastrianism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1826,
+        "id": 7103,
+        "title": "Judaism",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1826,
+        "id": 7104,
+        "title": "Islam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1827,
+    "difficulty": 2,
+    "title": "Which Bhakti saints were associated with Shaivism in the Pallava period?",
+    "description": "Identify the Tamil Shaiva devotional saints who flourished during this period.",
+    "hint": "They are known as the Nayanars.",
+    "summary": "The Nayanars were Tamil Shaiva Bhakti saints associated with the Pallava and later periods.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Bhakti Movement",
+      "Nayanars"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1827,
+        "id": 7105,
+        "title": "Nayanars",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1827,
+        "id": 7106,
+        "title": "Alvars",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1827,
+        "id": 7107,
+        "title": "Siddhas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1827,
+        "id": 7108,
+        "title": "Charvakas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1828,
+    "difficulty": 2,
+    "title": "Which Bhakti saints were associated with Vaishnavism in the Pallava period?",
+    "description": "Identify the Tamil Vaishnava devotional saints.",
+    "hint": "Their hymns are collected in the Divya Prabandham.",
+    "summary": "The Alvars were Tamil Vaishnava Bhakti saints.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Bhakti Movement",
+      "Alvars"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1828,
+        "id": 7109,
+        "title": "Nayanars",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1828,
+        "id": 7110,
+        "title": "Alvars",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1828,
+        "id": 7111,
+        "title": "Ajivikas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1828,
+        "id": 7112,
+        "title": "Charvakas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1829,
+    "difficulty": 2,
+    "title": "Which Pallava temple is dedicated to Vishnu and located in Kanchipuram?",
+    "description": "Identify the famous Vaishnava temple built during the Pallava period.",
+    "hint": "Its name refers to Vishnu as Vaikuntha.",
+    "summary": "The Vaikuntha Perumal Temple at Kanchipuram is an important Pallava temple dedicated to Vishnu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Vaishnavism",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1829,
+        "id": 7113,
+        "title": "Vaikuntha Perumal Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1829,
+        "id": 7114,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1829,
+        "id": 7115,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1829,
+        "id": 7116,
+        "title": "Pancha Rathas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1830,
+    "difficulty": 2,
+    "title": "Which architectural style is most closely associated with the Pallava temples?",
+    "description": "Identify the broad South Indian architectural tradition represented by Pallava temples.",
+    "hint": "It is the major temple style of southern India.",
+    "summary": "Pallava temples are important early examples of the Dravidian architectural tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1830,
+        "id": 7117,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1830,
+        "id": 7118,
+        "title": "Dravidian",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1830,
+        "id": 7119,
+        "title": "Indo-Islamic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1830,
+        "id": 7120,
+        "title": "Gandhara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1831,
+    "difficulty": 2,
+    "title": "Which script developed significantly in South India under Pallava influence?",
+    "description": "Identify the script that became influential in Southeast Asia through South Indian cultural contacts.",
+    "hint": "It influenced several Southeast Asian scripts.",
+    "summary": "The Pallava script influenced the development of several scripts in Southeast Asia.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Scripts",
+      "Culture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1831,
+        "id": 7121,
+        "title": "Pallava script",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1831,
+        "id": 7122,
+        "title": "Kharosthi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1831,
+        "id": 7123,
+        "title": "Sharada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1831,
+        "id": 7124,
+        "title": "Persian script",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1832,
+    "difficulty": 2,
+    "title": "Pallava script had a major cultural influence on which region?",
+    "description": "Identify the region where scripts derived from or influenced by Pallava writing became important.",
+    "hint": "Think of maritime Southeast Asia.",
+    "summary": "Pallava script influenced writing systems in Southeast Asia.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Culture",
+      "Southeast Asia"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1832,
+        "id": 7125,
+        "title": "Southeast Asia",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1832,
+        "id": 7126,
+        "title": "Western Europe",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1832,
+        "id": 7127,
+        "title": "North Africa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1832,
+        "id": 7128,
+        "title": "Central America",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1833,
+    "difficulty": 2,
+    "title": "Which dynasty was a major rival of the Pallavas in the Deccan?",
+    "description": "Identify the dynasty whose rulers repeatedly fought the Pallavas.",
+    "hint": "Pulakeshin II belonged to this dynasty.",
+    "summary": "The Chalukyas of Badami were major rivals of the Pallavas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas",
+      "Wars"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1833,
+        "id": 7129,
+        "title": "Chalukyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1833,
+        "id": 7130,
+        "title": "Palas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1833,
+        "id": 7131,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1833,
+        "id": 7132,
+        "title": "Gurjara-Pratiharas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1834,
+    "difficulty": 2,
+    "title": "What was the capital of the Chalukyas who fought the Pallavas?",
+    "description": "Identify the capital of the Chalukyas of Badami.",
+    "hint": "It is a historic town in present-day Karnataka.",
+    "summary": "Badami, ancient Vatapi, was the capital of the Chalukyas who fought the Pallavas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1834,
+        "id": 7133,
+        "title": "Badami",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1834,
+        "id": 7134,
+        "title": "Kalyani",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1834,
+        "id": 7135,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1834,
+        "id": 7136,
+        "title": "Vengi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1835,
+    "difficulty": 2,
+    "title": "What was the ancient name of Badami?",
+    "description": "Identify the ancient name of the Chalukya capital captured by Narasimhavarman I.",
+    "hint": "Narasimhavarman I adopted a title connected with its conquest.",
+    "summary": "Badami was known in ancient times as Vatapi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1835,
+        "id": 7137,
+        "title": "Vatapi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1835,
+        "id": 7138,
+        "title": "Vanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1835,
+        "id": 7139,
+        "title": "Puhar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1835,
+        "id": 7140,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1836,
+    "difficulty": 2,
+    "title": "Which famous Chinese traveler described Kanchipuram?",
+    "description": "Identify the Chinese Buddhist pilgrim whose account provides information about South India.",
+    "hint": "He visited India in the 7th century.",
+    "summary": "Xuanzang visited Kanchipuram and described the Pallava kingdom.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Xuanzang",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1836,
+        "id": 7141,
+        "title": "Xuanzang",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1836,
+        "id": 7142,
+        "title": "Faxian",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1836,
+        "id": 7143,
+        "title": "Al-Biruni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1836,
+        "id": 7144,
+        "title": "Marco Polo",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1837,
+    "difficulty": 2,
+    "title": "Which Pallava monument is an example of a monolithic temple?",
+    "description": "Identify one of the famous temples carved from a single mass of rock.",
+    "hint": "It is one of the Pancha Rathas.",
+    "summary": "The Dharmaraja Ratha is one of the monolithic Pancha Rathas at Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1837,
+        "id": 7145,
+        "title": "Dharmaraja Ratha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1837,
+        "id": 7146,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1837,
+        "id": 7147,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1837,
+        "id": 7148,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1838,
+    "difficulty": 2,
+    "title": "Which animal motif is especially prominent in Pallava architecture?",
+    "description": "Identify an animal motif frequently represented in Pallava monuments.",
+    "hint": "It is associated with strength and royal symbolism.",
+    "summary": "The lion is a prominent motif in Pallava art and architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Art",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1838,
+        "id": 7149,
+        "title": "Elephant",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1838,
+        "id": 7150,
+        "title": "Horse",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1838,
+        "id": 7151,
+        "title": "Lion",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1838,
+        "id": 7152,
+        "title": "Camel",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1839,
+    "difficulty": 2,
+    "title": "Which temple is one of the earliest examples of a free-standing structural stone temple in South India?",
+    "description": "Identify the Pallava temple associated with the early development of structural temple architecture.",
+    "hint": "It is located in Kanchipuram.",
+    "summary": "The Kailasanatha Temple at Kanchipuram is an important early structural stone temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1839,
+        "id": 7153,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1839,
+        "id": 7154,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1839,
+        "id": 7155,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1839,
+        "id": 7156,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1840,
+    "difficulty": 2,
+    "title": "Which Pallava ruler is associated with the construction of the Shore Temple?",
+    "description": "Identify the ruler whose reign is generally associated with the Shore Temple at Mahabalipuram.",
+    "hint": "He was also known as Rajasimha.",
+    "summary": "The Shore Temple is generally associated with Narasimhavarman II, also known as Rajasimha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "Narasimhavarman II"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1840,
+        "id": 7157,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1840,
+        "id": 7158,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1840,
+        "id": 7159,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1840,
+        "id": 7160,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1841,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was a contemporary of the Chalukya king Pulakeshin II?",
+    "description": "Identify the Pallava ruler who faced the Chalukya invasion.",
+    "hint": "He was succeeded by Narasimhavarman I.",
+    "summary": "Mahendravarman I was a contemporary and rival of Pulakeshin II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Chalukyas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1841,
+        "id": 7161,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1841,
+        "id": 7162,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1841,
+        "id": 7163,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1841,
+        "id": 7164,
+        "title": "Dantivarman",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1842,
+    "difficulty": 2,
+    "title": "Who was the famous general of Narasimhavarman I who captured Vatapi?",
+    "description": "Identify the Pallava military commander associated with the defeat of the Chalukyas.",
+    "hint": "He is also known as Paranjothi.",
+    "summary": "Paranjothi, also known as Siruthondar, was a famous general under Narasimhavarman I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Military",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1842,
+        "id": 7165,
+        "title": "Paranjothi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1842,
+        "id": 7166,
+        "title": "Brahmagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1842,
+        "id": 7167,
+        "title": "Banabhatta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1842,
+        "id": 7168,
+        "title": "Harishena",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1843,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was known for his interest in Jainism before supporting Shaivism?",
+    "description": "Identify the ruler traditionally associated with a religious transformation.",
+    "hint": "He was the father of Narasimhavarman I.",
+    "summary": "Mahendravarman I is traditionally described as having moved from Jainism toward Shaivism.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Religion",
+      "Mahendravarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1843,
+        "id": 7169,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1843,
+        "id": 7170,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1843,
+        "id": 7171,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1843,
+        "id": 7172,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1844,
+    "difficulty": 2,
+    "title": "Which saint is traditionally associated with the conversion of Mahendravarman I to Shaivism?",
+    "description": "Identify the famous Shaiva saint connected with this traditional account.",
+    "hint": "He was one of the major Nayanar saints.",
+    "summary": "Appar, also known as Tirunavukkarasar, is traditionally associated with Mahendravarman I's conversion to Shaivism.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Nayanars",
+      "Bhakti"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1844,
+        "id": 7173,
+        "title": "Sambandar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1844,
+        "id": 7174,
+        "title": "Sundarar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1844,
+        "id": 7175,
+        "title": "Appar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1844,
+        "id": 7176,
+        "title": "Manikkavacakar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1845,
+    "difficulty": 2,
+    "title": "Which Pallava ruler founded or developed the city of Mamallapuram as a major artistic center?",
+    "description": "Identify the ruler whose title gave the city its name.",
+    "hint": "His title was Mamalla.",
+    "summary": "Narasimhavarman I, known as Mamalla, played a major role in developing Mamallapuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Narasimhavarman I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1845,
+        "id": 7177,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1845,
+        "id": 7178,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1845,
+        "id": 7179,
+        "title": "Narasimhavarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1845,
+        "id": 7180,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1846,
+    "difficulty": 2,
+    "title": "Which Pallava temple is associated with Vaishnavism?",
+    "description": "Identify the temple dedicated to Vishnu at Kanchipuram.",
+    "hint": "The temple's name refers to Vishnu's heavenly abode.",
+    "summary": "The Vaikuntha Perumal Temple is an important Pallava Vaishnava temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Vaishnavism"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1846,
+        "id": 7181,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1846,
+        "id": 7182,
+        "title": "Vaikuntha Perumal Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1846,
+        "id": 7183,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1846,
+        "id": 7184,
+        "title": "Pancha Rathas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1847,
+    "difficulty": 2,
+    "title": "Which Pallava ruler was associated with the later phase of the dynasty and the famous Vaikuntha Perumal Temple?",
+    "description": "Identify the ruler associated with the construction of the Vaikuntha Perumal Temple.",
+    "hint": "He belonged to the Nandivarman line.",
+    "summary": "Nandivarman II Pallavamalla is traditionally associated with the Vaikuntha Perumal Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Nandivarman II",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1847,
+        "id": 7185,
+        "title": "Nandivarman II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1847,
+        "id": 7186,
+        "title": "Simhavishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1847,
+        "id": 7187,
+        "title": "Mahendravarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1847,
+        "id": 7188,
+        "title": "Narasimhavarman I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1848,
+    "difficulty": 2,
+    "title": "Which dynasty eventually replaced Pallava political dominance in much of Tamil Nadu?",
+    "description": "Identify the dynasty that rose to prominence after the decline of Pallava power.",
+    "hint": "Its early imperial ruler was Vijayalaya.",
+    "summary": "The Cholas eventually replaced the Pallavas as the dominant power in much of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Cholas",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1848,
+        "id": 7189,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1848,
+        "id": 7190,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1848,
+        "id": 7191,
+        "title": "Satavahanas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1848,
+        "id": 7192,
+        "title": "Kushanas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1849,
+    "difficulty": 2,
+    "title": "The monuments at Mahabalipuram are recognized by UNESCO under which category?",
+    "description": "Identify the UNESCO designation associated with the Pallava monuments.",
+    "hint": "They are recognized for their outstanding cultural value.",
+    "summary": "The Group of Monuments at Mahabalipuram is a UNESCO World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "UNESCO",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1849,
+        "id": 7193,
+        "title": "UNESCO World Heritage Site",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1849,
+        "id": 7194,
+        "title": "UNESCO Biosphere Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1849,
+        "id": 7195,
+        "title": "UNESCO Global Geopark",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1849,
+        "id": 7196,
+        "title": "UNESCO Creative City",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1850,
+    "difficulty": 2,
+    "title": "What is the major historical significance of the Pallavas?",
+    "description": "Identify the contribution for which the Pallavas are especially remembered in South Indian history.",
+    "hint": "Think of temples, sculpture and the development of South Indian architecture.",
+    "summary": "The Pallavas played a major role in the development of South Indian temple architecture, sculpture and the spread of cultural influences.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Pallava Dynasty",
+      "Architecture",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1850,
+        "id": 7197,
+        "title": "Development of South Indian temple architecture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1850,
+        "id": 7198,
+        "title": "Introduction of Mughal architecture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1850,
+        "id": 7199,
+        "title": "Foundation of the Mauryan Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1850,
+        "id": 7200,
+        "title": "Development of Indo-Islamic architecture",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
