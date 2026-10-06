@@ -1,0 +1,2303 @@
+[
+  {
+    "id": 1601,
+    "difficulty": 2,
+    "title": "Who founded the Maratha Empire?",
+    "description": "Who is regarded as the founder of the Maratha Empire?",
+    "hint": "He established an independent Maratha kingdom in western India.",
+    "summary": "Shivaji Maharaj is regarded as the founder of the Maratha Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1601,
+        "id": 6201,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1601,
+        "id": 6202,
+        "title": "Shivaji Maharaj",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1601,
+        "id": 6203,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1601,
+        "id": 6204,
+        "title": "Shahu I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1602,
+    "difficulty": 2,
+    "title": "Where was Shivaji Maharaj born?",
+    "description": "Identify the birthplace of Shivaji Maharaj.",
+    "hint": "The fort is located in present-day Pune district.",
+    "summary": "Shivaji Maharaj was born at Shivneri Fort.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1602,
+        "id": 6205,
+        "title": "Shivneri Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1602,
+        "id": 6206,
+        "title": "Raigad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1602,
+        "id": 6207,
+        "title": "Pratapgad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1602,
+        "id": 6208,
+        "title": "Sinhagad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1603,
+    "difficulty": 2,
+    "title": "Who was Shivaji's mother?",
+    "description": "Who was the mother of Shivaji Maharaj?",
+    "hint": "She was the wife of Shahaji Bhonsle.",
+    "summary": "Jijabai was the mother of Shivaji Maharaj.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1603,
+        "id": 6209,
+        "title": "Tarabai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1603,
+        "id": 6210,
+        "title": "Soyarabai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1603,
+        "id": 6211,
+        "title": "Jijabai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1603,
+        "id": 6212,
+        "title": "Saibai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1604,
+    "difficulty": 2,
+    "title": "Who was Shivaji's father?",
+    "description": "Identify the father of Shivaji Maharaj.",
+    "hint": "He served various Deccan powers, including the Ahmadnagar and Bijapur states.",
+    "summary": "Shahaji Bhonsle was the father of Shivaji Maharaj.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1604,
+        "id": 6213,
+        "title": "Shahaji Bhonsle",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1604,
+        "id": 6214,
+        "title": "Sambhaji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1604,
+        "id": 6215,
+        "title": "Malhar Rao Holkar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1604,
+        "id": 6216,
+        "title": "Tanaji Malusare",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1605,
+    "difficulty": 2,
+    "title": "Which fort did Shivaji capture in 1646?",
+    "description": "Which fort was captured by Shivaji in 1646, marking an early step in his territorial expansion?",
+    "hint": "The fort was earlier known as Murumbdev.",
+    "summary": "Shivaji captured Torna Fort in 1646.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Fort"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1605,
+        "id": 6217,
+        "title": "Raigad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1605,
+        "id": 6218,
+        "title": "Torna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1605,
+        "id": 6219,
+        "title": "Pratapgad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1605,
+        "id": 6220,
+        "title": "Panhala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1606,
+    "difficulty": 2,
+    "title": "Which fort became the capital of Shivaji's kingdom?",
+    "description": "Which fort served as the principal capital of Shivaji Maharaj's kingdom?",
+    "hint": "It was formerly known as Rairi.",
+    "summary": "Raigad Fort became the capital of Shivaji's kingdom.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Raigad"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1606,
+        "id": 6221,
+        "title": "Raigad Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1606,
+        "id": 6222,
+        "title": "Torna Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1606,
+        "id": 6223,
+        "title": "Purandar Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1606,
+        "id": 6224,
+        "title": "Lohagad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1607,
+    "difficulty": 2,
+    "title": "When was Shivaji crowned?",
+    "description": "In which year was Shivaji Maharaj formally crowned at Raigad?",
+    "hint": "The coronation took place in the 17th century.",
+    "summary": "Shivaji Maharaj was crowned in 1674.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1607,
+        "id": 6225,
+        "title": "1674",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1607,
+        "id": 6226,
+        "title": "1665",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1607,
+        "id": 6227,
+        "title": "1680",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1607,
+        "id": 6228,
+        "title": "1659",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1608,
+    "difficulty": 2,
+    "title": "Who performed Shivaji's coronation ceremony?",
+    "description": "Who presided over Shivaji's coronation ceremony at Raigad?",
+    "hint": "He was a renowned Brahmin scholar from Varanasi.",
+    "summary": "Gaga Bhatt performed Shivaji's coronation ceremony.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Coronation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1608,
+        "id": 6229,
+        "title": "Samarth Ramdas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1608,
+        "id": 6230,
+        "title": "Gaga Bhatt",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1608,
+        "id": 6231,
+        "title": "Moropant Pingle",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1608,
+        "id": 6232,
+        "title": "Ramchandra Pant Amatya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1609,
+    "difficulty": 2,
+    "title": "Which title did Shivaji assume at his coronation?",
+    "description": "What royal title did Shivaji Maharaj adopt at his coronation?",
+    "hint": "The title means king or sovereign.",
+    "summary": "Shivaji assumed the title Chhatrapati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1609,
+        "id": 6233,
+        "title": "Peshwa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1609,
+        "id": 6234,
+        "title": "Chhatrapati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1609,
+        "id": 6235,
+        "title": "Amatya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1609,
+        "id": 6236,
+        "title": "Senapati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1610,
+    "difficulty": 2,
+    "title": "Who was defeated by Shivaji at Pratapgad?",
+    "description": "Which Bijapur general was defeated and killed during the encounter at Pratapgad?",
+    "hint": "He was sent by the Adil Shahi ruler of Bijapur.",
+    "summary": "Afzal Khan was defeated and killed during the Pratapgad encounter in 1659.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Pratapgad"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1610,
+        "id": 6237,
+        "title": "Shaista Khan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1610,
+        "id": 6238,
+        "title": "Afzal Khan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1610,
+        "id": 6239,
+        "title": "Jai Singh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1610,
+        "id": 6240,
+        "title": "Diler Khan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1611,
+    "difficulty": 2,
+    "title": "Who led the Mughal campaign against Shivaji in 1665?",
+    "description": "Which Mughal general negotiated the Treaty of Purandar with Shivaji?",
+    "hint": "He was a Rajput ruler from Amber.",
+    "summary": "Raja Jai Singh I led the Mughal campaign against Shivaji in 1665.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Mughal Empire",
+      "Treaty of Purandar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1611,
+        "id": 6241,
+        "title": "Raja Jai Singh I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1611,
+        "id": 6242,
+        "title": "Mir Jumla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1611,
+        "id": 6243,
+        "title": "Shaista Khan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1611,
+        "id": 6244,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1612,
+    "difficulty": 2,
+    "title": "What was the Treaty of Purandar signed in?",
+    "description": "In which year was the Treaty of Purandar signed between Shivaji and the Mughals?",
+    "hint": "It followed Jai Singh's campaign against Shivaji.",
+    "summary": "The Treaty of Purandar was signed in 1665.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Mughal Empire",
+      "Treaty of Purandar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1612,
+        "id": 6245,
+        "title": "1659",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1612,
+        "id": 6246,
+        "title": "1674",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1612,
+        "id": 6247,
+        "title": "1665",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1612,
+        "id": 6248,
+        "title": "1680",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1613,
+    "difficulty": 2,
+    "title": "Where was Shivaji detained by Aurangzeb?",
+    "description": "In which city was Shivaji placed under detention after visiting Aurangzeb's court?",
+    "hint": "The city was the Mughal imperial capital at the time.",
+    "summary": "Shivaji was detained at Agra in 1666.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Aurangzeb"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1613,
+        "id": 6249,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1613,
+        "id": 6250,
+        "title": "Lahore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1613,
+        "id": 6251,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1613,
+        "id": 6252,
+        "title": "Ajmer",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1614,
+    "difficulty": 2,
+    "title": "Who escaped from Agra with Shivaji?",
+    "description": "Who accompanied Shivaji during his escape from Mughal detention at Agra?",
+    "hint": "He was Shivaji's son and later succeeded him.",
+    "summary": "Sambhaji accompanied Shivaji during the escape from Agra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Sambhaji"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1614,
+        "id": 6253,
+        "title": "Rajaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1614,
+        "id": 6254,
+        "title": "Sambhaji",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1614,
+        "id": 6255,
+        "title": "Shahu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1614,
+        "id": 6256,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1615,
+    "difficulty": 2,
+    "title": "Which fort was renamed Raigad?",
+    "description": "Which fort, originally known as Rairi, was developed and renamed Raigad by Shivaji?",
+    "hint": "It became the capital of Shivaji's kingdom.",
+    "summary": "Rairi Fort was renamed Raigad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Fort"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1615,
+        "id": 6257,
+        "title": "Raigad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1615,
+        "id": 6258,
+        "title": "Sinhagad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1615,
+        "id": 6259,
+        "title": "Pratapgad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1615,
+        "id": 6260,
+        "title": "Purandar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1616,
+    "difficulty": 2,
+    "title": "Who was Tanaji Malusare?",
+    "description": "Tanaji Malusare was a prominent commander associated with which Maratha ruler?",
+    "hint": "He fought in the campaign to recapture Kondhana.",
+    "summary": "Tanaji Malusare was a prominent commander of Shivaji Maharaj.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Tanaji"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1616,
+        "id": 6261,
+        "title": "Shivaji Maharaj",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1616,
+        "id": 6262,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1616,
+        "id": 6263,
+        "title": "Shahu I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1616,
+        "id": 6264,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1617,
+    "difficulty": 2,
+    "title": "What was Kondhana later called?",
+    "description": "The fort of Kondhana was renamed by Shivaji in memory of Tanaji Malusare.",
+    "hint": "It is located near Pune.",
+    "summary": "Kondhana was renamed Sinhagad after Tanaji's death.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Fort"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1617,
+        "id": 6265,
+        "title": "Raigad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1617,
+        "id": 6266,
+        "title": "Sinhagad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1617,
+        "id": 6267,
+        "title": "Torna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1617,
+        "id": 6268,
+        "title": "Panhala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1618,
+    "difficulty": 2,
+    "title": "What was Shivaji's naval force called?",
+    "description": "Which branch of Shivaji's military was developed to protect the western coastline?",
+    "hint": "It consisted of ships and sailors.",
+    "summary": "Shivaji developed a naval force to protect the Konkan coast.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Navy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1618,
+        "id": 6269,
+        "title": "Maratha Navy",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1618,
+        "id": 6270,
+        "title": "Rajput Navy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1618,
+        "id": 6271,
+        "title": "Mughal Navy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1618,
+        "id": 6272,
+        "title": "Deccan Fleet",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1619,
+    "difficulty": 2,
+    "title": "Which fort was a major naval base of Shivaji?",
+    "description": "Which sea fort in the Konkan region became an important naval base under Shivaji?",
+    "hint": "It is located off the Malvan coast.",
+    "summary": "Sindhudurg was an important naval fort of Shivaji.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Navy",
+      "Sindhudurg"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1619,
+        "id": 6273,
+        "title": "Sindhudurg",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1619,
+        "id": 6274,
+        "title": "Gwalior",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1619,
+        "id": 6275,
+        "title": "Golconda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1619,
+        "id": 6276,
+        "title": "Daulatabad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1620,
+    "difficulty": 2,
+    "title": "What was the Ashta Pradhan?",
+    "description": "What did the Ashta Pradhan refer to in Shivaji's administration?",
+    "hint": "The name literally refers to eight principal ministers.",
+    "summary": "Ashta Pradhan was a council of eight ministers under Shivaji.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Administration"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1620,
+        "id": 6277,
+        "title": "A tax system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1620,
+        "id": 6278,
+        "title": "A council of eight ministers",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1620,
+        "id": 6279,
+        "title": "A military fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1620,
+        "id": 6280,
+        "title": "A naval fleet",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1621,
+    "difficulty": 2,
+    "title": "Who was the first Peshwa under Shivaji?",
+    "description": "Who held the office of Peshwa in Shivaji's Ashta Pradhan council?",
+    "hint": "He was one of Shivaji's principal ministers.",
+    "summary": "Moropant Trimbak Pingle was the Peshwa under Shivaji.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Peshwa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1621,
+        "id": 6281,
+        "title": "Moropant Trimbak Pingle",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1621,
+        "id": 6282,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1621,
+        "id": 6283,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1621,
+        "id": 6284,
+        "title": "Nana Phadnavis",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1622,
+    "difficulty": 2,
+    "title": "What was the Chauth?",
+    "description": "What was Chauth in the Maratha revenue system?",
+    "hint": "It represented one-fourth of assessed revenue.",
+    "summary": "Chauth was a levy generally equal to one-fourth of revenue.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Revenue",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1622,
+        "id": 6285,
+        "title": "One-fourth levy",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1622,
+        "id": 6286,
+        "title": "One-half levy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1622,
+        "id": 6287,
+        "title": "One-tenth levy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1622,
+        "id": 6288,
+        "title": "One-third levy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1623,
+    "difficulty": 2,
+    "title": "What was Sardeshmukhi?",
+    "description": "What was Sardeshmukhi in the Maratha revenue system?",
+    "hint": "It was traditionally associated with an additional ten percent levy.",
+    "summary": "Sardeshmukhi was an additional levy generally amounting to 10 percent.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Revenue",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1623,
+        "id": 6289,
+        "title": "5 percent levy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1623,
+        "id": 6290,
+        "title": "10 percent levy",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1623,
+        "id": 6291,
+        "title": "25 percent levy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1623,
+        "id": 6292,
+        "title": "50 percent levy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1624,
+    "difficulty": 2,
+    "title": "Who succeeded Shivaji?",
+    "description": "Who succeeded Shivaji Maharaj after his death in 1680?",
+    "hint": "He was Shivaji's elder son.",
+    "summary": "Sambhaji succeeded Shivaji as ruler of the Maratha kingdom.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Sambhaji",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1624,
+        "id": 6293,
+        "title": "Rajaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1624,
+        "id": 6294,
+        "title": "Sambhaji",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1624,
+        "id": 6295,
+        "title": "Shahu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1624,
+        "id": 6296,
+        "title": "Tarabai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1625,
+    "difficulty": 2,
+    "title": "Who captured Sambhaji in 1689?",
+    "description": "Sambhaji was captured during the Mughal-Maratha conflict under which Mughal emperor?",
+    "hint": "He was the Mughal emperor who spent much of his later reign in the Deccan.",
+    "summary": "Sambhaji was captured and executed during Aurangzeb's reign in 1689.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Sambhaji",
+      "Aurangzeb"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1625,
+        "id": 6297,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1625,
+        "id": 6298,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1625,
+        "id": 6299,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1625,
+        "id": 6300,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1626,
+    "difficulty": 2,
+    "title": "Who succeeded Sambhaji?",
+    "description": "Who became the Maratha ruler after Sambhaji's death?",
+    "hint": "He was Shivaji's younger son.",
+    "summary": "Rajaram succeeded Sambhaji as the Maratha ruler.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Rajaram",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1626,
+        "id": 6301,
+        "title": "Rajaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1626,
+        "id": 6302,
+        "title": "Shahu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1626,
+        "id": 6303,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1626,
+        "id": 6304,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1627,
+    "difficulty": 2,
+    "title": "Who led the Maratha resistance after Rajaram's death?",
+    "description": "Who played a major leadership role in continuing resistance against the Mughals after Rajaram's death?",
+    "hint": "She was Rajaram's widow.",
+    "summary": "Tarabai led the Maratha resistance after Rajaram's death.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Tarabai",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1627,
+        "id": 6305,
+        "title": "Jijabai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1627,
+        "id": 6306,
+        "title": "Tarabai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1627,
+        "id": 6307,
+        "title": "Saibai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1627,
+        "id": 6308,
+        "title": "Soyarabai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1628,
+    "difficulty": 2,
+    "title": "Who became Chhatrapati after the Mughal release of Shahu?",
+    "description": "Which Maratha ruler emerged as the principal claimant to the Maratha throne after his release from Mughal captivity?",
+    "hint": "He was the son of Sambhaji.",
+    "summary": "Shahu I became the principal Chhatrapati after his release.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shahu",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1628,
+        "id": 6309,
+        "title": "Rajaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1628,
+        "id": 6310,
+        "title": "Shahu I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1628,
+        "id": 6311,
+        "title": "Sambhaji II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1628,
+        "id": 6312,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1629,
+    "difficulty": 2,
+    "title": "Who became Peshwa under Shahu I in 1713?",
+    "description": "Who was appointed Peshwa by Shahu I in 1713 and established the office as a major political institution?",
+    "hint": "He belonged to the Bhat family.",
+    "summary": "Balaji Vishwanath became Peshwa in 1713.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Peshwa",
+      "Balaji Vishwanath"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1629,
+        "id": 6313,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1629,
+        "id": 6314,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1629,
+        "id": 6315,
+        "title": "Nana Phadnavis",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1629,
+        "id": 6316,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1630,
+    "difficulty": 2,
+    "title": "Who succeeded Balaji Vishwanath as Peshwa?",
+    "description": "Who became Peshwa after the death of Balaji Vishwanath in 1720?",
+    "hint": "He was known for his military campaigns and expansion.",
+    "summary": "Bajirao I succeeded Balaji Vishwanath as Peshwa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Peshwa",
+      "Bajirao I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1630,
+        "id": 6317,
+        "title": "Nana Phadnavis",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1630,
+        "id": 6318,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1630,
+        "id": 6319,
+        "title": "Balaji Baji Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1630,
+        "id": 6320,
+        "title": "Raghunath Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1631,
+    "difficulty": 2,
+    "title": "Which Peshwa is famous for defeating the Nizam at Palkhed?",
+    "description": "Who defeated the Nizam of Hyderabad at the Battle of Palkhed in 1728?",
+    "hint": "He was the second Peshwa of the Bhat family.",
+    "summary": "Bajirao I defeated the Nizam at Palkhed in 1728.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Bajirao I",
+      "Palkhed"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1631,
+        "id": 6321,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1631,
+        "id": 6322,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1631,
+        "id": 6323,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1631,
+        "id": 6324,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1632,
+    "difficulty": 2,
+    "title": "Which battle demonstrated Bajirao I's military skill against the Nizam?",
+    "description": "Which 1728 battle ended with a Maratha victory over the Nizam?",
+    "hint": "The battle took place in the present-day Nashik region.",
+    "summary": "The Battle of Palkhed was a major victory of Bajirao I over the Nizam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Bajirao I",
+      "Palkhed"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1632,
+        "id": 6325,
+        "title": "Battle of Panipat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1632,
+        "id": 6326,
+        "title": "Battle of Palkhed",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1632,
+        "id": 6327,
+        "title": "Battle of Buxar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1632,
+        "id": 6328,
+        "title": "Battle of Haldighati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1633,
+    "difficulty": 2,
+    "title": "Who was the Maratha Peshwa during the Battle of Bhopal?",
+    "description": "Which Peshwa secured a major victory over the Nizam's forces near Bhopal in 1738?",
+    "hint": "He was known as a highly successful Maratha military commander.",
+    "summary": "Bajirao I led the Marathas in the campaign resulting in the Treaty of Bhopal in 1738.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Bajirao I",
+      "Bhopal"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1633,
+        "id": 6329,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1633,
+        "id": 6330,
+        "title": "Balaji Baji Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1633,
+        "id": 6331,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1633,
+        "id": 6332,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1634,
+    "difficulty": 2,
+    "title": "Which city became the principal seat of the Peshwas?",
+    "description": "Which city developed into the political center of the Peshwa-led Maratha state?",
+    "hint": "It is a major city in present-day Maharashtra.",
+    "summary": "Pune became the principal seat of the Peshwas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Peshwa",
+      "Pune"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1634,
+        "id": 6333,
+        "title": "Pune",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1634,
+        "id": 6334,
+        "title": "Satara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1634,
+        "id": 6335,
+        "title": "Nagpur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1634,
+        "id": 6336,
+        "title": "Nashik",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1635,
+    "difficulty": 2,
+    "title": "Who succeeded Bajirao I as Peshwa?",
+    "description": "Who became Peshwa after Bajirao I's death in 1740?",
+    "hint": "He was Bajirao I's son.",
+    "summary": "Balaji Baji Rao, also known as Nana Saheb, succeeded Bajirao I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Peshwa",
+      "Nana Saheb"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1635,
+        "id": 6337,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1635,
+        "id": 6338,
+        "title": "Balaji Baji Rao",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1635,
+        "id": 6339,
+        "title": "Raghunath Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1635,
+        "id": 6340,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1636,
+    "difficulty": 2,
+    "title": "Who was the Maratha Peshwa at the Third Battle of Panipat?",
+    "description": "Who was the Peshwa when the Marathas fought Ahmad Shah Abdali in 1761?",
+    "hint": "He was also known as Nana Saheb.",
+    "summary": "Balaji Baji Rao was the Peshwa during the Third Battle of Panipat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Third Battle of Panipat",
+      "Peshwa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1636,
+        "id": 6341,
+        "title": "Bajirao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1636,
+        "id": 6342,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1636,
+        "id": 6343,
+        "title": "Balaji Baji Rao",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1636,
+        "id": 6344,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1637,
+    "difficulty": 2,
+    "title": "Who led the Maratha army at the Third Battle of Panipat?",
+    "description": "Who served as the principal commander of the Maratha army at the Third Battle of Panipat?",
+    "hint": "He was the cousin of Peshwa Balaji Baji Rao.",
+    "summary": "Sadashivrao Bhau led the main Maratha army at Panipat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Panipat",
+      "Sadashivrao Bhau"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1637,
+        "id": 6345,
+        "title": "Sadashivrao Bhau",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1637,
+        "id": 6346,
+        "title": "Malhar Rao Holkar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1637,
+        "id": 6347,
+        "title": "Mahadji Scindia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1637,
+        "id": 6348,
+        "title": "Nana Phadnavis",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1638,
+    "difficulty": 2,
+    "title": "Who defeated the Marathas at the Third Battle of Panipat?",
+    "description": "Who commanded the Afghan forces that defeated the Marathas in 1761?",
+    "hint": "He was the Afghan ruler also known as Ahmad Shah Durrani.",
+    "summary": "Ahmad Shah Abdali defeated the Marathas at Panipat in 1761.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Panipat",
+      "Ahmad Shah Abdali"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1638,
+        "id": 6349,
+        "title": "Nadir Shah",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1638,
+        "id": 6350,
+        "title": "Ahmad Shah Abdali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1638,
+        "id": 6351,
+        "title": "Shah Alam II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1638,
+        "id": 6352,
+        "title": "Mir Qasim",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1639,
+    "difficulty": 2,
+    "title": "In which year was the Third Battle of Panipat fought?",
+    "description": "Identify the year of the Third Battle of Panipat between the Marathas and Ahmad Shah Abdali.",
+    "hint": "It was fought in the 18th century.",
+    "summary": "The Third Battle of Panipat was fought in 1761.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Panipat",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1639,
+        "id": 6353,
+        "title": "1757",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1639,
+        "id": 6354,
+        "title": "1761",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1639,
+        "id": 6355,
+        "title": "1772",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1639,
+        "id": 6356,
+        "title": "1740",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1640,
+    "difficulty": 2,
+    "title": "Who became Peshwa after Panipat?",
+    "description": "Who became Peshwa in 1761 after the death of Balaji Baji Rao?",
+    "hint": "He is often regarded as one of the later capable Peshwas.",
+    "summary": "Madhavrao I became Peshwa in 1761.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Madhavrao I",
+      "Peshwa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1640,
+        "id": 6357,
+        "title": "Madhavrao I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1640,
+        "id": 6358,
+        "title": "Bajirao II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1640,
+        "id": 6359,
+        "title": "Raghunath Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1640,
+        "id": 6360,
+        "title": "Balaji Vishwanath",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1641,
+    "difficulty": 2,
+    "title": "Who was Mahadji Scindia?",
+    "description": "Mahadji Scindia was a major Maratha leader associated with which house?",
+    "hint": "The family was based in Gwalior.",
+    "summary": "Mahadji Scindia was the leading figure of the Scindia house of Gwalior.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Scindia",
+      "Mahadji Scindia"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1641,
+        "id": 6361,
+        "title": "Holkar house",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1641,
+        "id": 6362,
+        "title": "Scindia house",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1641,
+        "id": 6363,
+        "title": "Gaekwad house",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1641,
+        "id": 6364,
+        "title": "Bhonsle house",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1642,
+    "difficulty": 2,
+    "title": "Which Maratha house was associated with Indore?",
+    "description": "Which prominent Maratha ruling house established its power around Indore?",
+    "hint": "Malhar Rao was the founder of this prominent house.",
+    "summary": "The Holkar house was associated with Indore.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Holkar",
+      "Indore"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1642,
+        "id": 6365,
+        "title": "Holkar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1642,
+        "id": 6366,
+        "title": "Scindia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1642,
+        "id": 6367,
+        "title": "Gaekwad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1642,
+        "id": 6368,
+        "title": "Bhonsle",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1643,
+    "difficulty": 2,
+    "title": "Which Maratha house ruled from Baroda?",
+    "description": "Which Maratha ruling family became prominent in Baroda?",
+    "hint": "The family established itself in Gujarat.",
+    "summary": "The Gaekwad house was associated with Baroda.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Gaekwad",
+      "Baroda"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1643,
+        "id": 6369,
+        "title": "Scindia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1643,
+        "id": 6370,
+        "title": "Gaekwad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1643,
+        "id": 6371,
+        "title": "Holkar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1643,
+        "id": 6372,
+        "title": "Bhonsle",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1644,
+    "difficulty": 2,
+    "title": "Which Maratha house ruled from Nagpur?",
+    "description": "Which Maratha ruling family established its center at Nagpur?",
+    "hint": "The family was a branch of the Bhonsle dynasty.",
+    "summary": "The Bhonsle house of Nagpur was a major Maratha power.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Bhonsle",
+      "Nagpur"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1644,
+        "id": 6373,
+        "title": "Holkar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1644,
+        "id": 6374,
+        "title": "Bhonsle",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1644,
+        "id": 6375,
+        "title": "Gaekwad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1644,
+        "id": 6376,
+        "title": "Scindia",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1645,
+    "difficulty": 2,
+    "title": "Who founded the Holkar dynasty's prominence?",
+    "description": "Who established the foundations of the Holkar family's power in the Maratha confederacy?",
+    "hint": "He served under Bajirao I.",
+    "summary": "Malhar Rao Holkar established the foundations of Holkar power.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Holkar",
+      "Malhar Rao"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1645,
+        "id": 6377,
+        "title": "Malhar Rao Holkar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1645,
+        "id": 6378,
+        "title": "Mahadji Scindia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1645,
+        "id": 6379,
+        "title": "Raghuji Bhonsle",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1645,
+        "id": 6380,
+        "title": "Sayajirao Gaekwad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1646,
+    "difficulty": 2,
+    "title": "Who was Ahilyabai Holkar?",
+    "description": "Ahilyabai Holkar was the celebrated ruler of which Maratha state?",
+    "hint": "Her capital was Maheshwar.",
+    "summary": "Ahilyabai Holkar was the renowned ruler of the Holkar state.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Ahilyabai Holkar",
+      "Holkar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1646,
+        "id": 6381,
+        "title": "Scindia state",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1646,
+        "id": 6382,
+        "title": "Holkar state",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1646,
+        "id": 6383,
+        "title": "Gaekwad state",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1646,
+        "id": 6384,
+        "title": "Bhonsle state",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1647,
+    "difficulty": 2,
+    "title": "Who was Nana Phadnavis?",
+    "description": "Nana Phadnavis was an influential statesman of the Maratha confederacy during which period?",
+    "hint": "He was particularly influential after the death of Madhavrao I.",
+    "summary": "Nana Phadnavis was a prominent statesman and diplomat of the later Maratha confederacy.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Nana Phadnavis",
+      "Peshwa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1647,
+        "id": 6385,
+        "title": "A Mughal emperor",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1647,
+        "id": 6386,
+        "title": "A Maratha statesman",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1647,
+        "id": 6387,
+        "title": "A British governor",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1647,
+        "id": 6388,
+        "title": "A Rajput ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1648,
+    "difficulty": 2,
+    "title": "Which Anglo-Maratha War ended with the Treaty of Salbai?",
+    "description": "The Treaty of Salbai in 1782 brought which Anglo-Maratha conflict to an end?",
+    "hint": "It was the first major war between the British East India Company and the Marathas.",
+    "summary": "The First Anglo-Maratha War ended with the Treaty of Salbai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Anglo-Maratha Wars",
+      "Treaty of Salbai"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1648,
+        "id": 6389,
+        "title": "First Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1648,
+        "id": 6390,
+        "title": "Second Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1648,
+        "id": 6391,
+        "title": "Third Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1648,
+        "id": 6392,
+        "title": "Fourth Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1649,
+    "difficulty": 2,
+    "title": "Which treaty brought the Peshwa under British protection in 1802?",
+    "description": "Which treaty did Peshwa Baji Rao II sign with the British East India Company?",
+    "hint": "The treaty was signed at Bassein.",
+    "summary": "The Treaty of Bassein was signed in 1802 between Baji Rao II and the British.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Baji Rao II",
+      "Treaty of Bassein"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1649,
+        "id": 6393,
+        "title": "Treaty of Salbai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1649,
+        "id": 6394,
+        "title": "Treaty of Bassein",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1649,
+        "id": 6395,
+        "title": "Treaty of Purandar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1649,
+        "id": 6396,
+        "title": "Treaty of Surat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1650,
+    "difficulty": 2,
+    "title": "Which Anglo-Maratha War ended the Peshwa's political power?",
+    "description": "Which war resulted in the defeat of the Marathas and the end of the Peshwa's political authority?",
+    "hint": "It was fought from 1817 to 1818.",
+    "summary": "The Third Anglo-Maratha War ended the Peshwa's political power in 1818.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Anglo-Maratha Wars",
+      "Peshwa"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1650,
+        "id": 6397,
+        "title": "First Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1650,
+        "id": 6398,
+        "title": "Second Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1650,
+        "id": 6399,
+        "title": "Third Anglo-Maratha War",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1650,
+        "id": 6400,
+        "title": "Anglo-Mysore War",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
