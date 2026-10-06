@@ -1,1 +1,3771 @@
-
+[
+  {
+    "id": 694,
+    "difficulty": 2,
+    "title": "Which mountain range contains K2?",
+    "description": "",
+    "hint": "It lies northwest of the Himalayas.",
+    "summary": "K2 is located in the Karakoram Range.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,K2,Karakoram",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 694,
+        "id": 2573,
+        "title": "Himalayas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 694,
+        "id": 2574,
+        "title": "Karakoram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 694,
+        "id": 2575,
+        "title": "Hindu Kush",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 694,
+        "id": 2576,
+        "title": "Kunlun",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 695,
+    "difficulty": 1,
+    "title": "Which is the highest active volcano in the world?",
+    "description": "",
+    "hint": "It is located in the Andes of Chile.",
+    "summary": "Ojos del Salado is the highest active volcano in the world.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Volcanoes,Andes",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 695,
+        "id": 2577,
+        "title": "Cotopaxi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 695,
+        "id": 2578,
+        "title": "Mount Etna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 695,
+        "id": 2579,
+        "title": "Ojos del Salado",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 695,
+        "id": 2580,
+        "title": "Mount Fuji",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 696,
+    "difficulty": 1,
+    "title": "Mount Fuji is located in which country?",
+    "description": "",
+    "hint": "It is an island nation in East Asia.",
+    "summary": "Mount Fuji is the highest mountain in Japan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Japan,Mount Fuji",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 696,
+        "id": 2581,
+        "title": "China",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 696,
+        "id": 2582,
+        "title": "South Korea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 696,
+        "id": 2583,
+        "title": "Japan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 696,
+        "id": 2584,
+        "title": "Indonesia",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "difficulty": 3,
+    "title": "Which National Park is located in the Nilgiri Biosphere Reserve in Karnataka?",
+    "description": "",
+    "hint": "It shares boundaries with Mudumalai and Wayanad.",
+    "summary": "Bandipur National Park is part of the Nilgiri Biosphere Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Bandipur,Nilgiri Biosphere Reserve,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 171,
+        "id": 681,
+        "title": "Nagarhole National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 171,
+        "id": 682,
+        "title": "Bandipur National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 171,
+        "id": 683,
+        "title": "Bannerghatta National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 171,
+        "id": 684,
+        "title": "Kudremukh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "difficulty": 3,
+    "title": "Nagarhole National Park is located in which state?",
+    "description": "",
+    "hint": "Its capital city is Bengaluru.",
+    "summary": "Nagarhole National Park is located in Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Nagarhole,Karnataka,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 172,
+        "id": 685,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 172,
+        "id": 686,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 172,
+        "id": 687,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 172,
+        "id": 688,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "difficulty": 3,
+    "title": "173. Which National Park is famous for lion-tailed macaques in Kerala?",
+    "description": "",
+    "hint": "Located in the Western Ghats.",
+    "summary": "Silent Valley National Park protects one of the last undisturbed tropical rainforests in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Silent Valley,Lion-tailed Macaque,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 173,
+        "id": 689,
+        "title": "Eravikulam National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 173,
+        "id": 690,
+        "title": "Periyar National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 173,
+        "id": 691,
+        "title": "Silent Valley National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 173,
+        "id": 692,
+        "title": "Mathikettan Shola National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "difficulty": 3,
+    "title": "Eravikulam National Park is famous for which endangered species?",
+    "description": "",
+    "hint": "A mountain goat found in the Western Ghats.",
+    "summary": "Eravikulam National Park is the largest habitat of the Nilgiri Tahr.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Eravikulam,Nilgiri Tahr,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 174,
+        "id": 693,
+        "title": "Nilgiri Tahr",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 174,
+        "id": 694,
+        "title": "Lion-tailed Macaque",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 174,
+        "id": 695,
+        "title": "Indian Gazelle",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 174,
+        "id": 696,
+        "title": "Hangul",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "difficulty": 3,
+    "title": "Which National Park in Kerala is famous for the blooming of Neelakurinji flowers every 12 years?",
+    "description": "",
+    "hint": "It is also known for Nilgiri Tahr.",
+    "summary": "Eravikulam National Park is renowned for the periodic blooming of Neelakurinji flowers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Eravikulam,Neelakurinji,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 175,
+        "id": 697,
+        "title": "Silent Valley National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 175,
+        "id": 698,
+        "title": "Periyar National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 175,
+        "id": 699,
+        "title": "Eravikulam National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 175,
+        "id": 700,
+        "title": "Anamudi Shola National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "difficulty": 4,
+    "title": "Which Article of the Constitution provides for President's Rule in a State?",
+    "description": "",
+    "hint": "This provision is invoked when constitutional machinery fails in a state.",
+    "summary": "Article 356 empowers the President to impose President's Rule in a state.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Emergency Provisions,Article 356,UPSC,RPSC,SSC,Bank PO",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 81,
+        "id": 321,
+        "title": "Article 356",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 81,
+        "id": 322,
+        "title": "Article 352",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 81,
+        "id": 323,
+        "title": "Article 360",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 81,
+        "id": 324,
+        "title": "Article 365",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "difficulty": 4,
+    "title": "Which case established that Parliament cannot alter the Basic Structure of the Constitution?",
+    "description": "",
+    "hint": "The judgment was delivered by the largest constitutional bench in Indian history.",
+    "summary": "The Kesavananda Bharati case established the Basic Structure Doctrine.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Judiciary,Basic Structure,Landmark Cases,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 82,
+        "id": 325,
+        "title": "Kesavananda Bharati Case",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 82,
+        "id": 326,
+        "title": "S.R. Bommai Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 82,
+        "id": 327,
+        "title": "Golaknath Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 82,
+        "id": 328,
+        "title": "Maneka Gandhi Case",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "difficulty": 4,
+    "title": "83. Which Article deals with the amendment of the Constitution?",
+    "description": "",
+    "hint": "This Article lays down the procedure for constitutional amendments.",
+    "summary": "Article 368 specifies the procedure for amending the Constitution.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Constitutional Amendments,Article 368,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 83,
+        "id": 329,
+        "title": "Article 368",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 83,
+        "id": 330,
+        "title": "Article 352",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 83,
+        "id": 331,
+        "title": "Article 356",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 83,
+        "id": 332,
+        "title": "Article 324",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "difficulty": 4,
+    "title": "Which constitutional body conducts elections to Parliament and State Legislatures?",
+    "description": "",
+    "hint": "It is established under Article 324.",
+    "summary": "The Election Commission of India supervises and conducts elections.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Election Commission,Article 324,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 84,
+        "id": 333,
+        "title": "Election Commission of India",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 84,
+        "id": 334,
+        "title": "Finance Commission",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 84,
+        "id": 335,
+        "title": "UPSC",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 84,
+        "id": 336,
+        "title": "CAG",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "difficulty": 4,
+    "title": "Which writ commands a public authority to perform its legal duty?",
+    "description": "",
+    "hint": "Its Latin meaning is 'we command'.",
+    "summary": "Mandamus is issued to direct a public authority to perform its duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Writs,Judiciary,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 85,
+        "id": 337,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 85,
+        "id": 338,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 85,
+        "id": 339,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 85,
+        "id": 340,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "difficulty": 0,
+    "title": "821. Which is the largest river basin in India?",
+    "description": "",
+    "hint": "It is the most important river of northern India.",
+    "summary": "The Ganga river basin is the largest river basin in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Ganga Basin,River Basin",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 821,
+        "id": 3081,
+        "title": "Godavari Basin",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 821,
+        "id": 3082,
+        "title": "Ganga Basin",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 821,
+        "id": 3083,
+        "title": "Narmada Basin",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 821,
+        "id": 3084,
+        "title": "Krishna Basin",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "difficulty": 1,
+    "title": "822. Which river flows through a rift valley between the Vindhya and Satpura ranges?",
+    "description": "",
+    "hint": "It flows westward into the Arabian Sea.",
+    "summary": "The Narmada River flows through a rift valley.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Narmada,Rift Valley",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 822,
+        "id": 3085,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 822,
+        "id": 3086,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 822,
+        "id": 3087,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 822,
+        "id": 3088,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "difficulty": 1,
+    "title": "823. The Narmada River originates from which place?",
+    "description": "",
+    "hint": "It is located in Madhya Pradesh.",
+    "summary": "The Narmada originates from Amarkantak Plateau.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Narmada,Amarkantak",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 823,
+        "id": 3089,
+        "title": "Amarkantak",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 823,
+        "id": 3090,
+        "title": "Trimbakeshwar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 823,
+        "id": 3091,
+        "title": "Mahabaleshwar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 823,
+        "id": 3092,
+        "title": "Gangotri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "difficulty": 1,
+    "title": "824. Which sea does the Narmada River drain into?",
+    "description": "",
+    "hint": "It is west of India.",
+    "summary": "The Narmada River drains into the Arabian Sea.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Narmada,Arabian Sea",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 824,
+        "id": 3093,
+        "title": "Bay of Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 824,
+        "id": 3094,
+        "title": "Arabian Sea",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 824,
+        "id": 3095,
+        "title": "Indian Ocean",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 824,
+        "id": 3096,
+        "title": "Red Sea",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "difficulty": 1,
+    "title": "830. Which river flows through the states of Karnataka and Tamil Nadu?",
+    "description": "",
+    "hint": "It is famous for Shivanasamudra Falls.",
+    "summary": "The Kaveri River flows through Karnataka and Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Kaveri,Karnataka Tamil Nadu",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 830,
+        "id": 3117,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 830,
+        "id": 3118,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 830,
+        "id": 3119,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 830,
+        "id": 3120,
+        "title": "Tapi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "difficulty": 1,
+    "title": "831. The Mahanadi River originates from which state?",
+    "description": "",
+    "hint": "It originates in central India.",
+    "summary": "The Mahanadi originates from Chhattisgarh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Mahanadi,Origin",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 831,
+        "id": 3121,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 831,
+        "id": 3122,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 831,
+        "id": 3123,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 831,
+        "id": 3124,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "difficulty": 2,
+    "title": "115. Which Tiger Reserve is located in Odisha and contains a large river gorge ecosystem?",
+    "description": "",
+    "hint": "The Mahanadi River flows through it.",
+    "summary": "Satkosia Tiger Reserve is known for its spectacular gorge ecosystem.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Odisha,Satkosia,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 115,
+        "id": 457,
+        "title": "Similipal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 115,
+        "id": 458,
+        "title": "Satkosia",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 115,
+        "id": 459,
+        "title": "Achanakmar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 115,
+        "id": 460,
+        "title": "Udanti-Sitanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "difficulty": 2,
+    "title": "116. Which Tiger Reserve is located in Chhattisgarh and forms part of the Achanakmar-Amarkantak Biosphere Reserve?",
+    "description": "",
+    "hint": "Its name begins with the same word as the biosphere reserve.",
+    "summary": "Achanakmar Tiger Reserve is an important component of the Achanakmar-Amarkantak Biosphere Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Ecology,Tiger Reserves,Chhattisgarh,Biosphere Reserve,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 116,
+        "id": 461,
+        "title": "Udanti-Sitanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 116,
+        "id": 462,
+        "title": "Achanakmar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 116,
+        "id": 463,
+        "title": "Indravati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 116,
+        "id": 464,
+        "title": "Palamau",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "difficulty": 2,
+    "title": "117. Which Tiger Reserve is famous for the successful reintroduction of tigers after local extinction?",
+    "description": "",
+    "hint": "Located in Madhya Pradesh and known for a major conservation success story.",
+    "summary": "Panna Tiger Reserve became a landmark example of tiger reintroduction and recovery.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Panna,Conservation,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 117,
+        "id": 465,
+        "title": "Kanha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 117,
+        "id": 466,
+        "title": "Bandhavgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 117,
+        "id": 467,
+        "title": "Panna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 117,
+        "id": 468,
+        "title": "Pench",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "difficulty": 3,
+    "title": "122. Which Tiger Reserve is located in Kerala and is famous for its artificial lake created by the Mullaperiyar Dam?",
+    "description": "",
+    "hint": "It is one of the best places to observe elephants in South India.",
+    "summary": "Periyar Tiger Reserve is known for its lake ecosystem and rich biodiversity.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Kerala,Periyar,Western Ghats,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 122,
+        "id": 485,
+        "title": "Parambikulam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 122,
+        "id": 486,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 122,
+        "id": 487,
+        "title": "Bandipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 122,
+        "id": 488,
+        "title": "Mudumalai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "difficulty": 3,
+    "title": "123. Which Tiger Reserve is situated in Odisha and is known for melanistic (pseudo-melanistic) tigers?",
+    "description": "",
+    "hint": "It is also a biosphere reserve and national park.",
+    "summary": "Similipal Tiger Reserve is famous for rare pseudo-melanistic tigers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Odisha,Similipal,Wildlife,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 123,
+        "id": 489,
+        "title": "Satkosia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 123,
+        "id": 490,
+        "title": "Similipal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 123,
+        "id": 491,
+        "title": "Udanti-Sitanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 123,
+        "id": 492,
+        "title": "Achanakmar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "difficulty": 4,
+    "title": "124. Which Tiger Reserve was declared Rajasthan's third tiger reserve after Ranthambore and Sariska?",
+    "description": "",
+    "hint": "It is located in southeastern Rajasthan near the Chambal region.",
+    "summary": "Mukundra Hills Tiger Reserve became Rajasthan's third tiger reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Rajasthan,Mukundra Hills,RPSC,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 124,
+        "id": 493,
+        "title": "Ramgarh Vishdhari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 124,
+        "id": 494,
+        "title": "Mukundra Hills",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 124,
+        "id": 495,
+        "title": "Sariska",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 124,
+        "id": 496,
+        "title": "Ranthambore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "difficulty": 2,
+    "title": "413. Which feature is regarded as the most remarkable achievement of Harappan town planning?",
+    "description": "",
+    "hint": "Every house was connected to it.",
+    "summary": "The drainage system was one of the most advanced features of Harappan urban planning.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Town Planning,Drainage System,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 413,
+        "id": 1449,
+        "title": "Granaries",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 413,
+        "id": 1450,
+        "title": "Drainage System",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 413,
+        "id": 1451,
+        "title": "Temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 413,
+        "id": 1452,
+        "title": "Palaces",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "difficulty": 2,
+    "title": "414. Which material was most commonly used in Harappan buildings?",
+    "description": "",
+    "hint": "The bricks were standardized in size.",
+    "summary": "Baked bricks were widely used in Harappan urban construction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Architecture,Harappans,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 414,
+        "id": 1453,
+        "title": "Wood",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 414,
+        "id": 1454,
+        "title": "Stone",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 414,
+        "id": 1455,
+        "title": "Baked Bricks",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 414,
+        "id": 1456,
+        "title": "Marble",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "difficulty": 3,
+    "title": "420. Which evidence suggests the Harappans practiced long-distance trade?",
+    "description": "",
+    "hint": "Many seals have been found outside the civilization's core area.",
+    "summary": "Harappan seals found in Mesopotamia indicate long-distance trade connections.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Trade,Mesopotamia,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 420,
+        "id": 1477,
+        "title": "Rock Paintings",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 420,
+        "id": 1478,
+        "title": "Harappan Seals in Mesopotamia",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 420,
+        "id": 1479,
+        "title": "Iron Weapons",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 420,
+        "id": 1480,
+        "title": "Ashokan Inscriptions",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "difficulty": 3,
+    "title": "421. Which site is famous for the Great Bath?",
+    "description": "",
+    "hint": "One of the largest cities of the civilization.",
+    "summary": "The Great Bath was discovered at Mohenjo-daro.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Mohenjo-daro,Great Bath,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 421,
+        "id": 1481,
+        "title": "Harappa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 421,
+        "id": 1482,
+        "title": "Lothal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 421,
+        "id": 1483,
+        "title": "Mohenjo-daro",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 421,
+        "id": 1484,
+        "title": "Kalibangan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "difficulty": 4,
+    "title": "435. Which Harappan site is famous as a bead-making center?",
+    "description": "",
+    "hint": "It lacked a citadel unlike many major Harappan cities.",
+    "summary": "Chanhudaro was an important center of bead manufacturing.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Chanhudaro,Industry,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 435,
+        "id": 1537,
+        "title": "Chanhudaro",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 435,
+        "id": 1538,
+        "title": "Harappa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 435,
+        "id": 1539,
+        "title": "Dholavira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 435,
+        "id": 1540,
+        "title": "Kalibangan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "difficulty": 4,
+    "title": "436. Which Harappan site is associated with controversial evidence of horse remains?",
+    "description": "",
+    "hint": "Located in Gujarat.",
+    "summary": "Surkotada is known for remains claimed by some archaeologists to belong to horses.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Surkotada,Horse Debate,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 436,
+        "id": 1541,
+        "title": "Lothal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 436,
+        "id": 1542,
+        "title": "Surkotada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 436,
+        "id": 1543,
+        "title": "Banawali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 436,
+        "id": 1544,
+        "title": "Ropar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1577,
+    "difficulty": 2,
+    "title": "What did Zat indicate in the Mansabdari system?",
+    "description": "In Akbar's Mansabdari system, what did the Zat rank primarily determine?",
+    "hint": "It represented the personal rank of a mansabdar.",
+    "summary": "Zat indicated the personal rank and status of a mansabdar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Mansabdari,Zat,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1577,
+        "id": 6105,
+        "title": "Personal rank",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1577,
+        "id": 6106,
+        "title": "Land measurement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1577,
+        "id": 6107,
+        "title": "Religious status",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1577,
+        "id": 6108,
+        "title": "Provincial boundaries",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1578,
+    "difficulty": 2,
+    "title": "What did Sawar indicate?",
+    "description": "In the Mughal Mansabdari system, what did the Sawar rank relate to?",
+    "hint": "It was connected with cavalrymen.",
+    "summary": "Sawar indicated the number of cavalrymen a mansabdar was expected to maintain.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Mansabdari,Sawar,Military",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1578,
+        "id": 6109,
+        "title": "Land revenue",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1578,
+        "id": 6110,
+        "title": "Number of cavalrymen",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1578,
+        "id": 6111,
+        "title": "Number of provinces",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1578,
+        "id": 6112,
+        "title": "Royal household expenses",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1579,
+    "difficulty": 2,
+    "title": "Which city did Akbar establish as his capital after his victory in Gujarat?",
+    "description": "Which planned city became Akbar's capital for a period after his Gujarat campaign?",
+    "hint": "It is famous for the Buland Darwaza.",
+    "summary": "Fatehpur Sikri became Akbar's capital for a period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Fatehpur Sikri,Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1579,
+        "id": 6113,
+        "title": "Lahore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1579,
+        "id": 6114,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1579,
+        "id": 6115,
+        "title": "Fatehpur Sikri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1579,
+        "id": 6116,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1581,
+    "difficulty": 2,
+    "title": "Who succeeded Akbar?",
+    "description": "Who became Mughal emperor after Akbar's death in 1605?",
+    "hint": "His original name was Prince Salim.",
+    "summary": "Jahangir succeeded Akbar in 1605.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Akbar,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1581,
+        "id": 6121,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1581,
+        "id": 6122,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1581,
+        "id": 6123,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1581,
+        "id": 6124,
+        "title": "Bahadur Shah I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1582,
+    "difficulty": 2,
+    "title": "What was Jahangir's original name?",
+    "description": "What was the birth name of the Mughal emperor Jahangir?",
+    "hint": "He was the eldest surviving son of Akbar.",
+    "summary": "Jahangir's original name was Prince Salim.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Salim,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1582,
+        "id": 6125,
+        "title": "Salim",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1582,
+        "id": 6126,
+        "title": "Khurram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1582,
+        "id": 6127,
+        "title": "Dara Shikoh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1582,
+        "id": 6128,
+        "title": "Muhi-ud-din",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1712,
+    "difficulty": 2,
+    "title": "Which port was associated with the early Cholas?",
+    "description": "Which important port city was associated with the Cholas during the Sangam period?",
+    "hint": "It was located near the mouth of the Kaveri.",
+    "summary": "Kaveripattinam, also called Puhar, was an important Chola port.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cholas",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1712,
+        "id": 6645,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1712,
+        "id": 6646,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1712,
+        "id": 6647,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1712,
+        "id": 6648,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1713,
+    "difficulty": 2,
+    "title": "Which port was associated with the Pandyas?",
+    "description": "Which ancient port was an important center of Pandya trade?",
+    "hint": "It was located in the southern part of Tamil Nadu.",
+    "summary": "Korkai was an important Pandya port and a center of pearl fishing.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Pandyas",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1713,
+        "id": 6649,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1713,
+        "id": 6650,
+        "title": "Arikamedu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1713,
+        "id": 6651,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1713,
+        "id": 6652,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1714,
+    "difficulty": 2,
+    "title": "Which port was an important Chera trade center?",
+    "description": "Which ancient port is strongly associated with Chera trade and Roman commerce?",
+    "hint": "It is identified with a site near the Periyar region.",
+    "summary": "Muziris was an important Chera trade center associated with Roman commerce.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1714,
+        "id": 6653,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1714,
+        "id": 6654,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1714,
+        "id": 6655,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1714,
+        "id": 6656,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "difficulty": 3,
+    "title": "Which UNESCO World Heritage Site is famous for Buddhist stupas in Madhya Pradesh?",
+    "description": "",
+    "hint": "Emperor Ashoka's wife is believed to have been connected to this place.",
+    "summary": "The Buddhist Monuments at Sanchi are among India's oldest stone structures.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Sanchi,Buddhism,Ashoka,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 318,
+        "id": 1069,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 318,
+        "id": 1070,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 318,
+        "id": 1071,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 318,
+        "id": 1072,
+        "title": "Bodh Gaya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "difficulty": 4,
+    "title": "Great Himalayan National Park is located in which state?",
+    "description": "",
+    "hint": "Shimla is the capital of this state.",
+    "summary": "Great Himalayan National Park became a UNESCO World Heritage Site in 2014.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Great Himalayan National Park,Himachal Pradesh,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 337,
+        "id": 1145,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 337,
+        "id": 1146,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 337,
+        "id": 1147,
+        "title": "Jammu and Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 337,
+        "id": 1148,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "difficulty": 4,
+    "title": "Khangchendzonga National Park is located in which state?",
+    "description": "",
+    "hint": "It is home to India's highest mountain peak.",
+    "summary": "Khangchendzonga National Park is India's first Mixed UNESCO World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Khangchendzonga,Sikkim,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 338,
+        "id": 1149,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 338,
+        "id": 1150,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 338,
+        "id": 1151,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 338,
+        "id": 1152,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "difficulty": 5,
+    "title": "Khangchendzonga National Park is India's first UNESCO site in which category?",
+    "description": "",
+    "hint": "It combines natural and cultural significance.",
+    "summary": "Khangchendzonga became India's first Mixed World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Mixed Heritage,Khangchendzonga,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 339,
+        "id": 1153,
+        "title": "Natural",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 339,
+        "id": 1154,
+        "title": "Cultural",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 339,
+        "id": 1155,
+        "title": "Mixed",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 339,
+        "id": 1156,
+        "title": "Geological",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 521,
+    "difficulty": 1,
+    "title": "Which endangered deer is found only in the Kashmir Valley and is also known as the Kashmir Stag?",
+    "description": "",
+    "hint": "Its local name begins with 'H'.",
+    "summary": "The Hangul (Kashmir Stag) is an Endangered species found mainly in Dachigam National Park, Jammu & Kashmir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Endangered Species,Hangul,Dachigam National Park,IUCN,UPSC,RPSC,SSC,Bank PO",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 521,
+        "id": 1881,
+        "title": "Barasingha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 521,
+        "id": 1882,
+        "title": "Sambar Deer",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 521,
+        "id": 1883,
+        "title": "Hangul",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 521,
+        "id": 1884,
+        "title": "Chital",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "difficulty": 1,
+    "title": "Which endangered primate is endemic to the Western Ghats of India?",
+    "description": "",
+    "hint": "It has a distinctive silver-white mane around its face.",
+    "summary": "The Lion-tailed Macaque is an Endangered species endemic to the Western Ghats biodiversity hotspot.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Endangered Species,Lion-tailed Macaque,Western Ghats,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 522,
+        "id": 1885,
+        "title": "Nilgiri Langur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 522,
+        "id": 1886,
+        "title": "Rhesus Macaque",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 522,
+        "id": 1887,
+        "title": "Bonnet Macaque",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 522,
+        "id": 1888,
+        "title": "Lion-tailed Macaque",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "difficulty": 2,
+    "title": "Which critically endangered bird is endemic to the grasslands of Assam and parts of Nepal?",
+    "description": "",
+    "hint": "Its second name refers to a flowering plant.",
+    "summary": "The Bengal Florican is a Critically Endangered bustard species found in tall grasslands.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Bengal Florican,Critically Endangered,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 526,
+        "id": 1901,
+        "title": "Great Indian Bustard",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 526,
+        "id": 1902,
+        "title": "Lesser Florican",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 526,
+        "id": 1903,
+        "title": "Bengal Florican",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 526,
+        "id": 1904,
+        "title": "Sarus Crane",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 527,
+    "difficulty": 2,
+    "title": "Which endangered freshwater mammal is found in rivers of South and Southeast Asia and is known for using echolocation?",
+    "description": "",
+    "hint": "It is nearly blind.",
+    "summary": "The Gangetic River Dolphin relies on echolocation to navigate and hunt in muddy river waters.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Gangetic Dolphin,Echolocation,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 527,
+        "id": 1905,
+        "title": "Gangetic River Dolphin",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 527,
+        "id": 1906,
+        "title": "Dugong",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 527,
+        "id": 1907,
+        "title": "Otter",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 527,
+        "id": 1908,
+        "title": "Seal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 620,
+    "difficulty": 2,
+    "title": "Religious instruction cannot be provided in educational institutions wholly maintained by State funds under:",
+    "description": "",
+    "summary": "Article 28 prohibits religious instruction in institutions wholly funded by the State.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Article28,Education",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "hint": "It is the last Article under Freedom of Religion.",
+    "options": [
+      {
+        "questionId": 620,
+        "id": 2277,
+        "title": "Article 26",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 620,
+        "id": 2278,
+        "title": "Article 29",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 620,
+        "id": 2279,
+        "title": "Article 28",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 620,
+        "id": 2280,
+        "title": "Article 30",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 638,
+    "difficulty": 2,
+    "title": "Which of the following Fundamental Rights is available to both citizens and foreigners?",
+    "description": "",
+    "hint": "It guarantees equality before law.",
+    "summary": "Article 14 is available to both citizens and foreigners.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Article14,Citizenship",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 638,
+        "id": 2349,
+        "title": "Article 15",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 638,
+        "id": 2350,
+        "title": "Article 16",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 638,
+        "id": 2351,
+        "title": "Article 14",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 638,
+        "id": 2352,
+        "title": "Article 19",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 639,
+    "difficulty": 2,
+    "title": "Which of the following Articles is available only to citizens of India?",
+    "description": "",
+    "hint": "It prohibits discrimination on specified grounds.",
+    "summary": "Article 15 applies only to citizens.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Article15,Citizenship",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 639,
+        "id": 2353,
+        "title": "Article 14",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 639,
+        "id": 2354,
+        "title": "Article 21",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 639,
+        "id": 2355,
+        "title": "Article 15",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 639,
+        "id": 2356,
+        "title": "Article 20",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 640,
+    "difficulty": 2,
+    "title": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+    "description": "",
+    "hint": "It is contained in Part IV of the Constitution.",
+    "summary": "Directive Principles of State Policy are not Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Fundamental Rights,DPSP",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 640,
+        "id": 2357,
+        "title": "Right to Freedom",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 640,
+        "id": 2358,
+        "title": "Cultural and Educational Rights",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 640,
+        "id": 2359,
+        "title": "Directive Principles of State Policy",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 640,
+        "id": 2360,
+        "title": "Right against Exploitation",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "difficulty": 2,
+    "title": "Which winds bring rainfall to most parts of India?",
+    "description": "",
+    "summary": "The Southwest Monsoon accounts for nearly 75% of India's annual rainfall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Climatology,Monsoon,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 27,
+        "id": 105,
+        "title": "Southwest Monsoon",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 27,
+        "id": 106,
+        "title": "Northeast Monsoon",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 27,
+        "id": 107,
+        "title": "Trade Winds",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 27,
+        "id": 108,
+        "title": "Westerlies",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "difficulty": 2,
+    "title": "Which is the largest coral reef system in the world?",
+    "description": "",
+    "summary": "The Great Barrier Reef off Australia's coast is the world's largest coral reef system.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Oceans,Coral Reefs,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 28,
+        "id": 109,
+        "title": "Florida Reef",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 28,
+        "id": 110,
+        "title": "Belize Reef",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 28,
+        "id": 111,
+        "title": "Red Sea Reef",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 28,
+        "id": 112,
+        "title": "Great Barrier Reef",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "difficulty": 3,
+    "title": "Which Indian state has the highest percentage of forest cover relative to its area?",
+    "description": "",
+    "summary": "Mizoram consistently records one of the highest percentages of forest cover in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Forests,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 35,
+        "id": 137,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 35,
+        "id": 138,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 35,
+        "id": 139,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 35,
+        "id": 140,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "difficulty": 3,
+    "title": "Which river flows through a rift valley in India?",
+    "description": "",
+    "summary": "The Narmada River flows westward through a rift valley between the Vindhya and Satpura ranges.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geomorphology,Rivers,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 36,
+        "id": 141,
+        "title": "Yamuna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 36,
+        "id": 142,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 36,
+        "id": 143,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 36,
+        "id": 144,
+        "title": "Ganga",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "difficulty": 1,
+    "title": "Dalkhai is a famous folk dance of which state?",
+    "description": "",
+    "hint": "It is popular in western parts of eastern India.",
+    "summary": "Dalkhai is a folk dance of Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Folk Dance,Eastern India,Tribal Arts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 914,
+        "id": 3453,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 914,
+        "id": 3454,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 914,
+        "id": 3455,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 914,
+        "id": 3456,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 915,
+    "difficulty": 2,
+    "title": "Sambalpuri dance is associated with which state?",
+    "description": "",
+    "hint": "It is named after a region famous for textiles.",
+    "summary": "Sambalpuri dance belongs to Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Folk Dance,Eastern India,Regional Arts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 915,
+        "id": 3457,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 915,
+        "id": 3458,
+        "title": "Bihar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 915,
+        "id": 3459,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 915,
+        "id": 3460,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "difficulty": 1,
+    "title": "Panthi dance belongs to which state?",
+    "description": "",
+    "hint": "It is associated with the Satnami community.",
+    "summary": "Panthi is a folk dance of Chhattisgarh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Folk Dance,Central India,Tribal Traditions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 916,
+        "id": 3461,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 916,
+        "id": 3462,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 916,
+        "id": 3463,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1015,
+    "difficulty": 1,
+    "title": "1015. Durga Puja is mainly associated with which state?",
+    "description": "",
+    "hint": "It is one of the biggest festivals of eastern India.",
+    "summary": "Durga Puja is especially famous in West Bengal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,East India,Traditions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1015,
+        "id": 3857,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1015,
+        "id": 3858,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1015,
+        "id": 3859,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1015,
+        "id": 3860,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1016,
+    "difficulty": 1,
+    "title": "1016. Navratri festival is traditionally associated with how many nights?",
+    "description": "",
+    "hint": "The number is mentioned in the name itself.",
+    "summary": "Navratri is celebrated for nine nights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,Religious Traditions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1016,
+        "id": 3861,
+        "title": "Ten",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1016,
+        "id": 3862,
+        "title": "Five",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1016,
+        "id": 3863,
+        "title": "Nine",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1016,
+        "id": 3864,
+        "title": "Seven",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1017,
+    "difficulty": 1,
+    "title": "1017. Which dance form is popularly performed during Navratri celebrations?",
+    "description": "",
+    "hint": "It is a famous folk dance of Gujarat.",
+    "summary": "Garba is popularly performed during Navratri.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,Folk Arts,Dance",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1017,
+        "id": 3865,
+        "title": "Ghoomar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1017,
+        "id": 3866,
+        "title": "Garba",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1017,
+        "id": 3867,
+        "title": "Bihu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1017,
+        "id": 3868,
+        "title": "Yakshagana",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1018,
+    "difficulty": 2,
+    "title": "1018. Which festival is celebrated after harvest in parts of Odisha and Jharkhand?",
+    "description": "",
+    "hint": "It celebrates newly harvested crops.",
+    "summary": "Nuakhai is a harvest festival celebrated in Odisha and Jharkhand.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,Harvest,Tribal Traditions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1018,
+        "id": 3869,
+        "title": "Losar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1018,
+        "id": 3870,
+        "title": "Vishu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1018,
+        "id": 3871,
+        "title": "Nuakhai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1018,
+        "id": 3872,
+        "title": "Lohri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1217,
+    "difficulty": 2,
+    "title": "1217. Which mountain pass connects Kullu Valley with Lahaul and Spiti?",
+    "description": "",
+    "hint": "It has been bypassed by the Atal Tunnel.",
+    "summary": "Rohtang Pass connects Kullu Valley with Lahaul and Spiti.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himalayas,Infrastructure",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1217,
+        "id": 4665,
+        "title": "Rohtang Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1217,
+        "id": 4666,
+        "title": "Kunzum Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1217,
+        "id": 4667,
+        "title": "Sach Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1217,
+        "id": 4668,
+        "title": "Jalori Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1218,
+    "difficulty": 2,
+    "title": "1218. Kunzum Pass connects Lahaul Valley with which region?",
+    "description": "",
+    "hint": "It is a cold desert region of Himachal Pradesh.",
+    "summary": "Kunzum Pass connects Lahaul Valley with Spiti Valley.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himalayas,High Altitude",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1218,
+        "id": 4669,
+        "title": "Kinnaur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1218,
+        "id": 4670,
+        "title": "Spiti Valley",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1218,
+        "id": 4671,
+        "title": "Kashmir Valley",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1218,
+        "id": 4672,
+        "title": "Zanskar Valley",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1219,
+    "difficulty": 2,
+    "title": "1219. Which pass connects Kinnaur with Tibet?",
+    "description": "",
+    "hint": "It is located in Himachal Pradesh.",
+    "summary": "Shipki La connects Kinnaur with Tibet.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himalayas,International Borders",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1219,
+        "id": 4673,
+        "title": "Mana Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1219,
+        "id": 4674,
+        "title": "Shipki La",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1219,
+        "id": 4675,
+        "title": "Nathu La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1219,
+        "id": 4676,
+        "title": "Jelep La",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1907,
+    "difficulty": 2,
+    "title": "Which were India's first two Ramsar Sites?",
+    "description": "Identify the first wetlands from India added to the Ramsar List.",
+    "hint": "One is a lake in Rajasthan and the other is a national park in Rajasthan.",
+    "summary": "Keoladeo National Park and Chilika Lake were among India's first Ramsar Sites, designated in 1981.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1907,
+        "id": 7425,
+        "title": "Wular Lake and Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1907,
+        "id": 7426,
+        "title": "Sambhar Lake and Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1907,
+        "id": 7427,
+        "title": "Chilika Lake and Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1907,
+        "id": 7428,
+        "title": "Deepor Beel and Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1908,
+    "difficulty": 2,
+    "title": "Which Indian Ramsar Site is located in Odisha?",
+    "description": "Identify the famous coastal lagoon designated as a Ramsar Site.",
+    "hint": "It is famous for migratory birds and Irrawaddy dolphins.",
+    "summary": "Chilika Lake is a Ramsar Site in Odisha.",
+    "tenantId": 4,
+    "isVerify": false,
+    "questionTags": [
+      "Ramsar Sites",
+      "Odisha",
+      "Chilika Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1908,
+        "id": 7429,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1908,
+        "id": 7430,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1908,
+        "id": 7431,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1908,
+        "id": 7432,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1915,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Rajasthan and is India's largest inland salt lake?",
+    "description": "Identify the famous saline wetland in Rajasthan.",
+    "hint": "It is an important habitat for flamingos and other waterbirds.",
+    "summary": "Sambhar Lake is India's largest inland salt lake and a Ramsar Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Sambhar Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1915,
+        "id": 7457,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1915,
+        "id": 7458,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1915,
+        "id": 7459,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1915,
+        "id": 7460,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1916,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Bharatpur, Rajasthan?",
+    "description": "Identify the famous wetland and bird sanctuary of Bharatpur.",
+    "hint": "It is also a national park.",
+    "summary": "Keoladeo National Park is a Ramsar Site in Rajasthan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Keoladeo"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1916,
+        "id": 7461,
+        "title": "Sultanpur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1916,
+        "id": 7462,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1916,
+        "id": 7463,
+        "title": "Kuno National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1916,
+        "id": 7464,
+        "title": "Ranthambore National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1917,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is associated with Sariska Tiger Reserve?",
+    "description": "Identify the Rajasthan wetland designated in 2025 that lies in the Sariska landscape.",
+    "hint": "It is a human-made lake near Alwar.",
+    "summary": "Siliserh Lake is a Ramsar Site associated with the buffer zone of Sariska Tiger Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Rajasthan",
+      "Siliserh Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1917,
+        "id": 7465,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1917,
+        "id": 7466,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1917,
+        "id": 7467,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1917,
+        "id": 7468,
+        "title": "Nagi Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1918,
+    "difficulty": 2,
+    "title": "Which Ramsar Site became India's 101st Ramsar Site in 2026?",
+    "description": "Identify the wetland designated in August 2026.",
+    "hint": "It is a freshwater lake in Arunachal Pradesh.",
+    "summary": "Glaw Lake became India's 101st Ramsar Site in August 2026.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "Arunachal Pradesh",
+      "Current Affairs"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1918,
+        "id": 7469,
+        "title": "Patna Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7470,
+        "title": "Chhari Dhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7471,
+        "title": "Glaw Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1918,
+        "id": 7472,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "difficulty": 1,
+    "title": "829. The Krishna River originates from which place?",
+    "description": "",
+    "hint": "It is located near Pune in Maharashtra.",
+    "summary": "The Krishna River originates near Mahabaleshwar in Maharashtra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Krishna,Origin",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 829,
+        "id": 3113,
+        "title": "Mahabaleshwar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 829,
+        "id": 3114,
+        "title": "Amarkantak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 829,
+        "id": 3115,
+        "title": "Gangotri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 829,
+        "id": 3116,
+        "title": "Trimbakeshwar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "difficulty": 1,
+    "title": "830. Which river flows through the states of Karnataka and Tamil Nadu?",
+    "description": "",
+    "hint": "It is famous for Shivanasamudra Falls.",
+    "summary": "The Kaveri River flows through Karnataka and Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Kaveri,Karnataka Tamil Nadu",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 830,
+        "id": 3117,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 830,
+        "id": 3118,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 830,
+        "id": 3119,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 830,
+        "id": 3120,
+        "title": "Tapi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "difficulty": 1,
+    "title": "831. The Mahanadi River originates from which state?",
+    "description": "",
+    "hint": "It originates in central India.",
+    "summary": "The Mahanadi originates from Chhattisgarh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Mahanadi,Origin",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 831,
+        "id": 3121,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 831,
+        "id": 3122,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 831,
+        "id": 3123,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 831,
+        "id": 3124,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1073,
+    "difficulty": 2,
+    "title": "1073. Which Indian state has the highest number of districts?",
+    "description": "",
+    "hint": "Its capital is Bhopal.",
+    "summary": "Madhya Pradesh currently has the highest number of districts among Indian states.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Administration,Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1073,
+        "id": 4089,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1073,
+        "id": 4090,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1073,
+        "id": 4091,
+        "title": "Uttar Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1073,
+        "id": 4092,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1074,
+    "difficulty": 2,
+    "title": "1074. Which state is known as the 'Egg Bowl of India'?",
+    "description": "",
+    "hint": "It is a leading producer of poultry products.",
+    "summary": "Andhra Pradesh is popularly known as the Egg Bowl of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Agriculture,Animal Husbandry",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1074,
+        "id": 4093,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1074,
+        "id": 4094,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1074,
+        "id": 4095,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1074,
+        "id": 4096,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1075,
+    "difficulty": 2,
+    "title": "1075. Which Indian state is the largest producer of turmeric?",
+    "description": "",
+    "hint": "Its capital is Hyderabad.",
+    "summary": "Telangana is India's leading producer of turmeric.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Agriculture,Spices",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1075,
+        "id": 4097,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1075,
+        "id": 4098,
+        "title": "Telangana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1075,
+        "id": 4099,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1075,
+        "id": 4100,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1076,
+    "difficulty": 2,
+    "title": "1076. Which Indian state has the largest forest area according to the India State of Forest Report?",
+    "description": "",
+    "hint": "Its capital is Bhopal.",
+    "summary": "Madhya Pradesh has the largest forest area in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Forests,Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1076,
+        "id": 4101,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1076,
+        "id": 4102,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1076,
+        "id": 4103,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1076,
+        "id": 4104,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1077,
+    "difficulty": 2,
+    "title": "1077. Which Indian state is the largest producer of cotton?",
+    "description": "",
+    "hint": "Its capital is Gandhinagar.",
+    "summary": "Gujarat is the largest producer of cotton in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Agriculture,Crops",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1077,
+        "id": 4105,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1077,
+        "id": 4106,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1077,
+        "id": 4107,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1077,
+        "id": 4108,
+        "title": "Telangana",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1513,
+    "difficulty": 2,
+    "title": "In which language was Amuktamalyada written?",
+    "description": "Krishnadevaraya wrote Amuktamalyada primarily in which language?",
+    "hint": "It is a major South Indian literary language.",
+    "summary": "Amuktamalyada was written in Telugu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Telugu,Krishnadevaraya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1513,
+        "id": 5849,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5850,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5851,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5852,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1514,
+    "difficulty": 2,
+    "title": "Who were the Ashtadiggajas?",
+    "description": "The Ashtadiggajas were associated with the court of which Vijayanagara ruler?",
+    "hint": "They were eight celebrated Telugu poets.",
+    "summary": "The Ashtadiggajas were eight celebrated Telugu poets associated with Krishnadevaraya's court.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Ashtadiggajas,Telugu Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1514,
+        "id": 5853,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1514,
+        "id": 5854,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1514,
+        "id": 5855,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1514,
+        "id": 5856,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1515,
+    "difficulty": 2,
+    "title": "Who was Allasani Peddana?",
+    "description": "Allasani Peddana was a famous poet associated with which ruler's court?",
+    "hint": "He was considered one of the Ashtadiggajas.",
+    "summary": "Allasani Peddana was a celebrated poet in Krishnadevaraya's court.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Allasani Peddana,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1515,
+        "id": 5857,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1515,
+        "id": 5858,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1515,
+        "id": 5859,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1515,
+        "id": 5860,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "difficulty": 1,
+    "title": "462. What is the first Noble Truth?",
+    "description": "",
+    "hint": "It acknowledges a universal human experience.",
+    "summary": "The first Noble Truth states that life involves suffering (Dukkha).",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Four Noble Truths",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 462,
+        "id": 1645,
+        "title": "Life is suffering",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 462,
+        "id": 1646,
+        "title": "Life is eternal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 462,
+        "id": 1647,
+        "title": "Life is illusion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 462,
+        "id": 1648,
+        "title": "Life is happiness",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "difficulty": 1,
+    "title": "463. According to Buddhism, what is the main cause of suffering?",
+    "description": "",
+    "hint": "It involves excessive desire and attachment.",
+    "summary": "Craving or desire (Tanha) is considered the root cause of suffering.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Teachings",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 463,
+        "id": 1649,
+        "title": "Ignorance",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 463,
+        "id": 1650,
+        "title": "Craving and Attachment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 463,
+        "id": 1651,
+        "title": "Nature",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 463,
+        "id": 1652,
+        "title": "Society",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 464,
+    "difficulty": 1,
+    "title": "464. What is the ultimate goal of Buddhism?",
+    "description": "",
+    "hint": "It is liberation from the cycle of birth and death.",
+    "summary": "Nirvana is the ultimate goal in Buddhism.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Nirvana",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 464,
+        "id": 1653,
+        "title": "Heaven",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 464,
+        "id": 1654,
+        "title": "Moksha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 464,
+        "id": 1655,
+        "title": "Nirvana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 464,
+        "id": 1656,
+        "title": "Salvation",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "difficulty": 1,
+    "title": "474. Which Buddhist text primarily contains the teachings and sermons of Buddha?",
+    "description": "",
+    "hint": "It is the largest section of the Tripitaka.",
+    "summary": "Sutta Pitaka contains the teachings and discourses of Buddha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Sutta Pitaka,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 474,
+        "id": 1693,
+        "title": "Vinaya Pitaka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 474,
+        "id": 1694,
+        "title": "Sutta Pitaka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 474,
+        "id": 1695,
+        "title": "Abhidhamma Pitaka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 474,
+        "id": 1696,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "difficulty": 2,
+    "title": "475. The stories of Buddha's previous births are collectively known as?",
+    "description": "",
+    "hint": "Many of these stories teach moral lessons.",
+    "summary": "Jataka Tales describe the previous births of Buddha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Jataka Tales,UPSC,RPSC,SSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 475,
+        "id": 1697,
+        "title": "Tripitaka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 475,
+        "id": 1698,
+        "title": "Vinaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 475,
+        "id": 1699,
+        "title": "Dhammapada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 475,
+        "id": 1700,
+        "title": "Jataka Tales",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 476,
+    "difficulty": 1,
+    "title": "476. Where was the First Buddhist Council held?",
+    "description": "",
+    "hint": "It was held shortly after Buddha's Mahaparinirvana.",
+    "summary": "The First Buddhist Council was held at Rajgir under the patronage of Ajatashatru.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Buddhist Councils,Rajgir,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 476,
+        "id": 1701,
+        "title": "Rajgir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 476,
+        "id": 1702,
+        "title": "Vaishali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 476,
+        "id": 1703,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 476,
+        "id": 1704,
+        "title": "Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "difficulty": 1,
+    "title": "477. Which king patronized the First Buddhist Council?",
+    "description": "",
+    "hint": "He was the ruler of Magadha and son of Bimbisara.",
+    "summary": "Ajatashatru patronized the First Buddhist Council.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Ajatashatru,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 477,
+        "id": 1705,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 477,
+        "id": 1706,
+        "title": "Ajatashatru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 477,
+        "id": 1707,
+        "title": "Kanishka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 477,
+        "id": 1708,
+        "title": "Bimbisara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
