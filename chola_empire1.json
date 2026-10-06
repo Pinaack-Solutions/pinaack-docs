@@ -1,0 +1,2291 @@
+[
+  {
+    "id": 1751,
+    "difficulty": 2,
+    "title": "Who founded the Imperial Chola dynasty in the medieval period?",
+    "description": "Identify the ruler who established the Imperial Chola dynasty in the 9th century CE.",
+    "hint": "He captured Thanjavur from the Muttaraiyars.",
+    "summary": "Vijayalaya Chola is regarded as the founder of the Imperial Chola dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1751,
+        "id": 6801,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1751,
+        "id": 6802,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1751,
+        "id": 6803,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1751,
+        "id": 6804,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1752,
+    "difficulty": 2,
+    "title": "Which city became an important Chola capital under Vijayalaya Chola?",
+    "description": "Identify the city captured by Vijayalaya Chola that became a major Chola center.",
+    "hint": "It is located in present-day Tamil Nadu.",
+    "summary": "Vijayalaya Chola captured Thanjavur and established it as an important Chola center.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1752,
+        "id": 6805,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1752,
+        "id": 6806,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1752,
+        "id": 6807,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1752,
+        "id": 6808,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1753,
+    "difficulty": 2,
+    "title": "Who was the father of Rajaraja Chola I?",
+    "description": "Identify the Chola ruler who was the father of Rajaraja Chola I.",
+    "hint": "He ruled before Rajaraja I.",
+    "summary": "Sundara Chola, also known as Parantaka II, was the father of Rajaraja Chola I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1753,
+        "id": 6809,
+        "title": "Aditya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1753,
+        "id": 6810,
+        "title": "Parantaka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1753,
+        "id": 6811,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1753,
+        "id": 6812,
+        "title": "Sundara Chola",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1754,
+    "difficulty": 2,
+    "title": "Who was one of the greatest rulers of the Chola Empire?",
+    "description": "Identify the ruler whose reign marked major territorial, administrative and architectural achievements.",
+    "hint": "He built the Brihadisvara Temple at Thanjavur.",
+    "summary": "Rajaraja Chola I was one of the greatest rulers of the Chola Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajaraja Chola I",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1754,
+        "id": 6813,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1754,
+        "id": 6814,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1754,
+        "id": 6815,
+        "title": "Rajadhiraja I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1754,
+        "id": 6816,
+        "title": "Rajendra II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1755,
+    "difficulty": 2,
+    "title": "When did Rajaraja Chola I begin his reign?",
+    "description": "Identify the approximate year in which Rajaraja Chola I became ruler.",
+    "hint": "His reign began near the end of the 10th century.",
+    "summary": "Rajaraja Chola I began his reign in 985 CE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajaraja Chola I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1755,
+        "id": 6817,
+        "title": "985 CE",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1755,
+        "id": 6818,
+        "title": "907 CE",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1755,
+        "id": 6819,
+        "title": "1014 CE",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1755,
+        "id": 6820,
+        "title": "1070 CE",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1756,
+    "difficulty": 2,
+    "title": "Which temple was built by Rajaraja Chola I at Thanjavur?",
+    "description": "Identify the famous temple constructed during the reign of Rajaraja Chola I.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Brihadisvara Temple at Thanjavur was built under Rajaraja Chola I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1756,
+        "id": 6821,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1756,
+        "id": 6822,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1756,
+        "id": 6823,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1756,
+        "id": 6824,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1757,
+    "difficulty": 2,
+    "title": "The Brihadisvara Temple at Thanjavur is dedicated primarily to which deity?",
+    "description": "Identify the principal deity worshipped in the Brihadisvara Temple.",
+    "hint": "The temple is a major Shaiva monument.",
+    "summary": "The Brihadisvara Temple is dedicated to Lord Shiva.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Religion",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1757,
+        "id": 6825,
+        "title": "Vishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1757,
+        "id": 6826,
+        "title": "Surya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1757,
+        "id": 6827,
+        "title": "Shiva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1757,
+        "id": 6828,
+        "title": "Brahma",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1758,
+    "difficulty": 2,
+    "title": "Which title was used by Rajaraja Chola I?",
+    "description": "Identify a famous royal title associated with Rajaraja Chola I.",
+    "hint": "It means something like king of kings.",
+    "summary": "Rajaraja Chola I used the title Rajarajakesari.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajaraja Chola I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1758,
+        "id": 6829,
+        "title": "Rajakesari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1758,
+        "id": 6830,
+        "title": "Rajarajakesari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1758,
+        "id": 6831,
+        "title": "Gangaikondan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1758,
+        "id": 6832,
+        "title": "Mummudi Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1759,
+    "difficulty": 2,
+    "title": "Who succeeded Rajaraja Chola I?",
+    "description": "Identify the ruler who succeeded Rajaraja Chola I.",
+    "hint": "He was also a major conqueror.",
+    "summary": "Rajendra Chola I succeeded Rajaraja Chola I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajendra Chola I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1759,
+        "id": 6833,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1759,
+        "id": 6834,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1759,
+        "id": 6835,
+        "title": "Rajadhiraja I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1759,
+        "id": 6836,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1760,
+    "difficulty": 2,
+    "title": "Which Chola ruler led an expedition to the Ganges?",
+    "description": "Identify the Chola ruler associated with the famous northern expedition reaching the Ganges.",
+    "hint": "He founded Gangaikondacholapuram.",
+    "summary": "Rajendra Chola I led an expedition toward the Ganges and adopted the title Gangaikonda Chola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajendra Chola I",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1760,
+        "id": 6837,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1760,
+        "id": 6838,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1760,
+        "id": 6839,
+        "title": "Aditya I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1760,
+        "id": 6840,
+        "title": "Parantaka II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1761,
+    "difficulty": 2,
+    "title": "Which city was founded by Rajendra Chola I as his capital?",
+    "description": "Identify the city established by Rajendra Chola I after his northern campaigns.",
+    "hint": "Its name means the Chola who conquered the Ganga.",
+    "summary": "Rajendra Chola I founded Gangaikondacholapuram as his capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajendra Chola I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1761,
+        "id": 6841,
+        "title": "Gangaikondacholapuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1761,
+        "id": 6842,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1761,
+        "id": 6843,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1761,
+        "id": 6844,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1762,
+    "difficulty": 2,
+    "title": "Which Chola ruler conducted naval expeditions against Srivijaya?",
+    "description": "Identify the ruler who launched a major naval expedition against the Srivijaya kingdom in Southeast Asia.",
+    "hint": "The expedition took place in the early 11th century.",
+    "summary": "Rajendra Chola I conducted a famous naval expedition against Srivijaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Naval Power",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1762,
+        "id": 6845,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1762,
+        "id": 6846,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1762,
+        "id": 6847,
+        "title": "Parantaka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1762,
+        "id": 6848,
+        "title": "Kulottunga II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1763,
+    "difficulty": 2,
+    "title": "Srivijaya was primarily located in which region?",
+    "description": "Identify the Southeast Asian region associated with the Srivijaya kingdom.",
+    "hint": "It was centered around the Malay Archipelago.",
+    "summary": "Srivijaya was a major maritime kingdom centered in Southeast Asia, especially Sumatra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Srivijaya",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1763,
+        "id": 6849,
+        "title": "Central Asia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1763,
+        "id": 6850,
+        "title": "Southeast Asia",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1763,
+        "id": 6851,
+        "title": "East Africa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1763,
+        "id": 6852,
+        "title": "Western Europe",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1764,
+    "difficulty": 2,
+    "title": "Which Chola ruler is associated with the conquest of northern Sri Lanka?",
+    "description": "Identify the ruler whose reign saw major Chola expansion into Sri Lanka.",
+    "hint": "He preceded Rajendra Chola I.",
+    "summary": "Rajaraja Chola I conquered northern parts of Sri Lanka and incorporated them into the Chola realm.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Sri Lanka",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1764,
+        "id": 6853,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1764,
+        "id": 6854,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1764,
+        "id": 6855,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1764,
+        "id": 6856,
+        "title": "Rajadhiraja II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1765,
+    "difficulty": 2,
+    "title": "Which island kingdom was heavily attacked by the Cholas?",
+    "description": "Identify the island kingdom that became a major target of Chola expansion.",
+    "hint": "It lies south of India.",
+    "summary": "Sri Lanka was repeatedly attacked and partly conquered by the Cholas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Sri Lanka"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1765,
+        "id": 6857,
+        "title": "Maldives",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1765,
+        "id": 6858,
+        "title": "Sri Lanka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1765,
+        "id": 6859,
+        "title": "Java",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1765,
+        "id": 6860,
+        "title": "Sumatra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1766,
+    "difficulty": 2,
+    "title": "What was the ancient name of the Chola port city now known as Poompuhar?",
+    "description": "Identify the historical name of the important Chola port at the mouth of the Kaveri.",
+    "hint": "It appears in Sangam literature.",
+    "summary": "Poompuhar was known as Kaveripattinam or Puhar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Trade",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1766,
+        "id": 6861,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1766,
+        "id": 6862,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1766,
+        "id": 6863,
+        "title": "Muziris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1766,
+        "id": 6864,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1767,
+    "difficulty": 2,
+    "title": "Which river was especially important to the Chola heartland?",
+    "description": "Identify the major river associated with the fertile Chola delta.",
+    "hint": "Its delta is one of the most fertile regions of Tamil Nadu.",
+    "summary": "The Kaveri River was central to Chola agriculture and prosperity.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Geography",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1767,
+        "id": 6865,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1767,
+        "id": 6866,
+        "title": "Vaigai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1767,
+        "id": 6867,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1767,
+        "id": 6868,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1768,
+    "difficulty": 2,
+    "title": "Which Chola ruler is associated with the construction of Kallanai?",
+    "description": "Identify the early Chola ruler traditionally credited with constructing the Grand Anicut across the Kaveri.",
+    "hint": "He was an early Chola ruler from the Sangam period.",
+    "summary": "Kallanai is traditionally attributed to Karikala Chola.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Engineering",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1768,
+        "id": 6869,
+        "title": "Karikala Chola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1768,
+        "id": 6870,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1768,
+        "id": 6871,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1768,
+        "id": 6872,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1769,
+    "difficulty": 2,
+    "title": "What was the main purpose of Kallanai?",
+    "description": "Identify the primary function of the ancient Grand Anicut.",
+    "hint": "It was constructed across the Kaveri River.",
+    "summary": "Kallanai was constructed primarily to divert and regulate water for irrigation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Engineering",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1769,
+        "id": 6873,
+        "title": "Irrigation",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1769,
+        "id": 6874,
+        "title": "Naval warfare",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1769,
+        "id": 6875,
+        "title": "Fortification",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1769,
+        "id": 6876,
+        "title": "Temple construction",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1770,
+    "difficulty": 2,
+    "title": "Which Chola ruler is associated with the famous bronze Nataraja tradition?",
+    "description": "Identify the period in which Chola bronze sculpture reached exceptional artistic development.",
+    "hint": "The tradition flourished particularly during the Imperial Chola period.",
+    "summary": "Chola bronze sculpture, especially Nataraja images, flourished during the Imperial Chola period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Art",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1770,
+        "id": 6877,
+        "title": "Imperial Chola period",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1770,
+        "id": 6878,
+        "title": "Mauryan period",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1770,
+        "id": 6879,
+        "title": "Gupta period",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1770,
+        "id": 6880,
+        "title": "Mughal period",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1771,
+    "difficulty": 2,
+    "title": "Which architectural style is strongly associated with Chola temples?",
+    "description": "Identify the broad South Indian temple architectural tradition represented by major Chola temples.",
+    "hint": "It developed prominently in the Tamil region.",
+    "summary": "Chola temples are major examples of the Dravidian architectural tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1771,
+        "id": 6881,
+        "title": "Nagara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1771,
+        "id": 6882,
+        "title": "Vesara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1771,
+        "id": 6883,
+        "title": "Dravidian style",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1771,
+        "id": 6884,
+        "title": "Indo-Islamic style",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1772,
+    "difficulty": 2,
+    "title": "Which Chola temple is located at Gangaikondacholapuram?",
+    "description": "Identify the major temple built by Rajendra Chola I at his new capital.",
+    "hint": "It is also known as the temple of Gangaikondacholisvaram.",
+    "summary": "The Brihadisvara Temple at Gangaikondacholapuram was built by Rajendra Chola I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1772,
+        "id": 6885,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1772,
+        "id": 6886,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1772,
+        "id": 6887,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1772,
+        "id": 6888,
+        "title": "Airavatesvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1773,
+    "difficulty": 2,
+    "title": "Which Chola temple is located at Darasuram?",
+    "description": "Identify the famous Chola temple situated at Darasuram near Kumbakonam.",
+    "hint": "It is associated with Rajaraja II.",
+    "summary": "The Airavatesvara Temple at Darasuram was built during the reign of Rajaraja II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Architecture",
+      "UNESCO"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1773,
+        "id": 6889,
+        "title": "Airavatesvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1773,
+        "id": 6890,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1773,
+        "id": 6891,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1773,
+        "id": 6892,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1774,
+    "difficulty": 2,
+    "title": "Which group of monuments includes three major Chola temples?",
+    "description": "Identify the UNESCO World Heritage property that includes major Chola temples.",
+    "hint": "The property includes temples at Thanjavur, Gangaikondacholapuram and Darasuram.",
+    "summary": "The Great Living Chola Temples include three major Chola temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "UNESCO",
+      "Architecture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1774,
+        "id": 6893,
+        "title": "Great Living Chola Temples",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1774,
+        "id": 6894,
+        "title": "Group of Monuments at Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1774,
+        "id": 6895,
+        "title": "Group of Monuments at Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1774,
+        "id": 6896,
+        "title": "Khajuraho Group of Monuments",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1775,
+    "difficulty": 2,
+    "title": "Which Chola ruler established a powerful local administrative system?",
+    "description": "Identify the ruler whose reign provides extensive evidence of Chola administration through inscriptions.",
+    "hint": "His inscriptions are found extensively at Thanjavur.",
+    "summary": "Rajaraja Chola I strengthened and organized the Chola administrative system.",
+    "tenantId": 4,
+    "isAnswer": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1775,
+        "id": 6897,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1775,
+        "id": 6898,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1775,
+        "id": 6899,
+        "title": "Kulottunga II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1775,
+        "id": 6900,
+        "title": "Rajadhiraja II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1776,
+    "difficulty": 2,
+    "title": "What was the village assembly of a Brahmadeya village called?",
+    "description": "Identify the term used for the assembly of Brahmadeya villages in Chola administration.",
+    "hint": "It was different from the general village assembly called ur.",
+    "summary": "The assembly of a Brahmadeya village was known as sabha or mahasabha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1776,
+        "id": 6901,
+        "title": "Nagaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1776,
+        "id": 6902,
+        "title": "Sabha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1776,
+        "id": 6903,
+        "title": "Ur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1776,
+        "id": 6904,
+        "title": "Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1777,
+    "difficulty": 2,
+    "title": "What was the general village assembly in Chola administration called?",
+    "description": "Identify the village assembly that represented ordinary villages.",
+    "hint": "It was distinct from sabha and nagaram.",
+    "summary": "The general village assembly was called ur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1777,
+        "id": 6905,
+        "title": "Ur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1777,
+        "id": 6906,
+        "title": "Sabha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1777,
+        "id": 6907,
+        "title": "Nagaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1777,
+        "id": 6908,
+        "title": "Valanadu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1778,
+    "difficulty": 2,
+    "title": "What was the assembly of merchants and townspeople called?",
+    "description": "Identify the institution associated with urban centers and merchant groups.",
+    "hint": "The term is associated with towns.",
+    "summary": "Nagaram was an assembly associated with merchants and urban communities.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1778,
+        "id": 6909,
+        "title": "Nagaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1778,
+        "id": 6910,
+        "title": "Sabha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1778,
+        "id": 6911,
+        "title": "Ur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1778,
+        "id": 6912,
+        "title": "Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1779,
+    "difficulty": 2,
+    "title": "Which inscription is famous for describing Chola village self-government?",
+    "description": "Identify the inscription that provides detailed information about village administration.",
+    "hint": "It is found in present-day Tamil Nadu.",
+    "summary": "The Uttaramerur inscriptions provide important evidence about Chola village administration.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1779,
+        "id": 6913,
+        "title": "Allahabad Pillar Inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1779,
+        "id": 6914,
+        "title": "Hathigumpha Inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1779,
+        "id": 6915,
+        "title": "Uttaramerur Inscription",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1779,
+        "id": 6916,
+        "title": "Junagadh Inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1780,
+    "difficulty": 2,
+    "title": "Which method is associated with selection of members to Chola village committees?",
+    "description": "Identify the method described in the Uttaramerur inscriptions.",
+    "hint": "It involved drawing lots from eligible candidates.",
+    "summary": "The Kudavolai system used a form of lot-drawing to select committee members.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1780,
+        "id": 6917,
+        "title": "Kudavolai system",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1780,
+        "id": 6918,
+        "title": "Mansabdari system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1780,
+        "id": 6919,
+        "title": "Iqta system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1780,
+        "id": 6920,
+        "title": "Ryotwari system",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1781,
+    "difficulty": 2,
+    "title": "What was a Brahmadeya in Chola administration?",
+    "description": "Identify the type of settlement associated with land grants to Brahmins.",
+    "hint": "The name literally refers to a grant associated with Brahmins.",
+    "summary": "Brahmadeya referred to land or villages granted to Brahmins.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration",
+      "Society"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1781,
+        "id": 6921,
+        "title": "Merchant guild",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1781,
+        "id": 6922,
+        "title": "Military unit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1781,
+        "id": 6923,
+        "title": "Land grant to Brahmins",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1781,
+        "id": 6924,
+        "title": "Royal navy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1782,
+    "difficulty": 2,
+    "title": "Which term referred to a major territorial unit in the Chola administration?",
+    "description": "Identify the larger territorial division used in the Chola administrative system.",
+    "hint": "It was larger than a nadu.",
+    "summary": "Mandalam was a major territorial division in the Chola administrative structure.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Administration"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1782,
+        "id": 6925,
+        "title": "Mandalam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1782,
+        "id": 6926,
+        "title": "Ur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1782,
+        "id": 6927,
+        "title": "Kurram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1782,
+        "id": 6928,
+        "title": "Sabha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1783,
+    "difficulty": 2,
+    "title": "Which group played an important role in Chola overseas trade?",
+    "description": "Identify the merchant guilds associated with long-distance commerce during the Chola period.",
+    "hint": "Examples include Ayyavole and Manigramam.",
+    "summary": "Merchant guilds such as Ayyavole and Manigramam played important roles in trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Trade",
+      "Economy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1783,
+        "id": 6929,
+        "title": "Merchant guilds",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1783,
+        "id": 6930,
+        "title": "Mughal mansabdars",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1783,
+        "id": 6931,
+        "title": "Rajput clans",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1783,
+        "id": 6932,
+        "title": "Greek satraps",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1784,
+    "difficulty": 2,
+    "title": "Which merchant guild was known as the 'Five Hundred of Ayyavole'?",
+    "description": "Identify the famous South Indian merchant organization.",
+    "hint": "It was a prominent long-distance trading guild.",
+    "summary": "Ayyavole was a famous merchant guild involved in long-distance trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1784,
+        "id": 6933,
+        "title": "Ayyavole",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1784,
+        "id": 6934,
+        "title": "Nagaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1784,
+        "id": 6935,
+        "title": "Sabha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1784,
+        "id": 6936,
+        "title": "Ur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1785,
+    "difficulty": 2,
+    "title": "Which crop was especially important to the Chola economy?",
+    "description": "Identify the crop strongly associated with the fertile Kaveri delta.",
+    "hint": "It is a staple food crop of South India.",
+    "summary": "Rice cultivation was central to the agricultural economy of the Chola heartland.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Agriculture",
+      "Economy"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1785,
+        "id": 6937,
+        "title": "Rice",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1785,
+        "id": 6938,
+        "title": "Tea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1785,
+        "id": 6939,
+        "title": "Tobacco",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1785,
+        "id": 6940,
+        "title": "Coffee",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1786,
+    "difficulty": 2,
+    "title": "Which deity was particularly prominent in Chola royal religious patronage?",
+    "description": "Identify the deity whose worship was strongly represented in major Chola temples.",
+    "hint": "The Brihadisvara temples are dedicated to this deity.",
+    "summary": "Shiva received major royal patronage under the Cholas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Religion"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1786,
+        "id": 6941,
+        "title": "Shiva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1786,
+        "id": 6942,
+        "title": "Indra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1786,
+        "id": 6943,
+        "title": "Agni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1786,
+        "id": 6944,
+        "title": "Surya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1787,
+    "difficulty": 2,
+    "title": "Which Buddhist monastery in Nagapattinam received Chola patronage?",
+    "description": "Identify the famous Buddhist monastery associated with Chola-era patronage and Srivijayan connections.",
+    "hint": "Its name is associated with a major Southeast Asian maritime kingdom.",
+    "summary": "The Chudamani Vihara at Nagapattinam received patronage during the Chola period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Buddhism",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1787,
+        "id": 6945,
+        "title": "Chudamani Vihara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1787,
+        "id": 6946,
+        "title": "Nalanda Mahavihara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1787,
+        "id": 6947,
+        "title": "Vikramashila",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1787,
+        "id": 6948,
+        "title": "Somapura Mahavihara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1788,
+    "difficulty": 2,
+    "title": "Which language dominated Chola inscriptions in the Tamil region?",
+    "description": "Identify the major regional language used extensively in Chola inscriptions.",
+    "hint": "It is the classical language of Tamil Nadu.",
+    "summary": "Tamil was extensively used in Chola inscriptions in the Tamil region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Inscriptions",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1788,
+        "id": 6949,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1788,
+        "id": 6950,
+        "title": "Persian",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1788,
+        "id": 6951,
+        "title": "Arabic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1788,
+        "id": 6952,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1789,
+    "difficulty": 2,
+    "title": "Which literary work is associated with Kamban?",
+    "description": "Identify the famous Tamil epic composed by the medieval poet Kamban.",
+    "hint": "It is a Tamil rendering of the Ramayana tradition.",
+    "summary": "Kamban composed the Ramavataram, commonly known as Kamba Ramayanam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Literature",
+      "Tamil"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1789,
+        "id": 6953,
+        "title": "Kamba Ramayanam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1789,
+        "id": 6954,
+        "title": "Silappadikaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1789,
+        "id": 6955,
+        "title": "Manimekalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1789,
+        "id": 6956,
+        "title": "Tolkappiyam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1790,
+    "difficulty": 2,
+    "title": "Which Shaiva devotional text was compiled during the Chola period?",
+    "description": "Identify the collection of Tamil Shaiva hymns associated with the Nayanars.",
+    "hint": "It is known as the Tamil Shaiva canon.",
+    "summary": "The Tirumurai is the canonical collection of Tamil Shaiva devotional hymns.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Bhakti",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1790,
+        "id": 6957,
+        "title": "Tirumurai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1790,
+        "id": 6958,
+        "title": "Divya Prabandham",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1790,
+        "id": 6959,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1790,
+        "id": 6960,
+        "title": "Rajatarangini",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1791,
+    "difficulty": 2,
+    "title": "Who compiled the Shaiva devotional hymns into the Tirumurai?",
+    "description": "Identify the Chola-era scholar traditionally credited with collecting and organizing the Shaiva hymns.",
+    "hint": "He served under Rajaraja Chola I.",
+    "summary": "Nambiyandar Nambi is traditionally credited with compiling the Shaiva hymns into the Tirumurai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Bhakti",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1791,
+        "id": 6961,
+        "title": "Nambiyandar Nambi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1791,
+        "id": 6962,
+        "title": "Kamban",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1791,
+        "id": 6963,
+        "title": "Sekkizhar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1791,
+        "id": 6964,
+        "title": "Ilango Adigal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1792,
+    "difficulty": 2,
+    "title": "Who wrote the Periyapuranam?",
+    "description": "Identify the Tamil literary work and its author associated with the Chola period.",
+    "hint": "He served under Kulottunga II.",
+    "summary": "Sekkizhar wrote the Periyapuranam, a major Shaiva hagiographical work.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Literature",
+      "Bhakti"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1792,
+        "id": 6965,
+        "title": "Sekkizhar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1792,
+        "id": 6966,
+        "title": "Kamban",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1792,
+        "id": 6967,
+        "title": "Nambiyandar Nambi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1792,
+        "id": 6968,
+        "title": "Sattanar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1793,
+    "difficulty": 2,
+    "title": "Which dynasty was a major rival of the Cholas in the Deccan?",
+    "description": "Identify the dynasty that frequently conflicted with the Cholas over control of the Deccan.",
+    "hint": "Its capital was Kalyani.",
+    "summary": "The Western Chalukyas of Kalyani were major rivals of the Cholas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Chalukyas",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1793,
+        "id": 6969,
+        "title": "Western Chalukyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1793,
+        "id": 6970,
+        "title": "Palas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1793,
+        "id": 6971,
+        "title": "Pratiharas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1793,
+        "id": 6972,
+        "title": "Gahadavalas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1794,
+    "difficulty": 2,
+    "title": "Which Chola ruler fought the Western Chalukyas at the Battle of Koppam?",
+    "description": "Identify the Chola ruler who died during the Battle of Koppam.",
+    "hint": "He was the elder brother of Rajendra II.",
+    "summary": "Rajadhiraja Chola I died during the Battle of Koppam against the Western Chalukyas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Wars",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1794,
+        "id": 6973,
+        "title": "Rajadhiraja Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1794,
+        "id": 6974,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1794,
+        "id": 6975,
+        "title": "Rajaraja II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1794,
+        "id": 6976,
+        "title": "Vijayalaya Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1795,
+    "difficulty": 2,
+    "title": "Which Chola ruler defeated the Western Chalukyas at the Battle of Takkolam?",
+    "description": "Identify the Chola ruler associated with the Chola defeat at Takkolam.",
+    "hint": "He was the son of Parantaka I.",
+    "summary": "Rajaditya Chola, son of Parantaka I, was killed at the Battle of Takkolam in 949 CE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Wars",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1795,
+        "id": 6977,
+        "title": "Rajaditya Chola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1795,
+        "id": 6978,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1795,
+        "id": 6979,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1795,
+        "id": 6980,
+        "title": "Rajadhiraja I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1796,
+    "difficulty": 2,
+    "title": "Which ruler is associated with the Chola conquest of the Maldives?",
+    "description": "Identify the Chola ruler whose expansion included the conquest of the Maldives.",
+    "hint": "He was one of the most powerful Chola emperors.",
+    "summary": "Rajaraja Chola I is associated with the Chola conquest of the Maldives.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Rajaraja Chola I",
+      "Expansion"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1796,
+        "id": 6981,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1796,
+        "id": 6982,
+        "title": "Rajaraja Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1796,
+        "id": 6983,
+        "title": "Kulottunga II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1796,
+        "id": 6984,
+        "title": "Parantaka II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1797,
+    "difficulty": 2,
+    "title": "Which Chola ruler is known for his naval expedition to Southeast Asia?",
+    "description": "Identify the ruler whose naval power extended Chola influence into Southeast Asian maritime routes.",
+    "hint": "His expedition targeted Srivijaya.",
+    "summary": "Rajendra Chola I is especially known for his naval expedition against Srivijaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Naval Power",
+      "Rajendra Chola I"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1797,
+        "id": 6985,
+        "title": "Rajendra Chola I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1797,
+        "id": 6986,
+        "title": "Parantaka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1797,
+        "id": 6987,
+        "title": "Aditya I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1797,
+        "id": 6988,
+        "title": "Rajaraja II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1798,
+    "difficulty": 2,
+    "title": "Which dynasty succeeded the Later Cholas in the Tamil region?",
+    "description": "Identify the dynasty that rose to prominence after the decline of Chola power.",
+    "hint": "Its capital was Madurai.",
+    "summary": "The Pandyas eventually emerged as the dominant power in the Tamil region after the decline of the Cholas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Pandyas",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1798,
+        "id": 6989,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1798,
+        "id": 6990,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1798,
+        "id": 6991,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1798,
+        "id": 6992,
+        "title": "Satavahanas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1799,
+    "difficulty": 2,
+    "title": "Which factor contributed significantly to the strength of the Chola state?",
+    "description": "Identify an important economic foundation of Chola power.",
+    "hint": "Think about the fertile Kaveri delta.",
+    "summary": "Agricultural productivity, especially in the Kaveri delta, provided an important economic foundation for Chola power.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "Economy",
+      "Agriculture"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1799,
+        "id": 6993,
+        "title": "Desert agriculture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1799,
+        "id": 6994,
+        "title": "Kaveri delta agriculture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1799,
+        "id": 6995,
+        "title": "Arctic trade",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1799,
+        "id": 6996,
+        "title": "Horse nomadism",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1800,
+    "difficulty": 2,
+    "title": "Which Chola ruler is generally regarded as the last major ruler of the dynasty?",
+    "description": "Identify the later Chola ruler whose reign is associated with the final phase of Chola power.",
+    "hint": "His reign ended in the early 13th century.",
+    "summary": "Rajendra Chola III is generally regarded as the last Chola ruler.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Chola Empire",
+      "History",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1800,
+        "id": 6997,
+        "title": "Rajendra Chola III",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1800,
+        "id": 6998,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1800,
+        "id": 6999,
+        "title": "Rajaraja II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1800,
+        "id": 7000,
+        "title": "Rajadhiraja I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
