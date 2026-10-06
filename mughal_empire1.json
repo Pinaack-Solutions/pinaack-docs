@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1551,
+    "difficulty": 2,
+    "title": "Who founded the Mughal Empire in India?",
+    "description": "Who established Mughal rule in India after defeating Ibrahim Lodi?",
+    "hint": "He defeated Ibrahim Lodi at Panipat.",
+    "summary": "Babur founded the Mughal Empire after the First Battle of Panipat in 1526.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1551,
+        "id": 6001,
+        "title": "Humayun",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1551,
+        "id": 6002,
+        "title": "Babur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1551,
+        "id": 6003,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1551,
+        "id": 6004,
+        "title": "Sher Shah Suri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1552,
+    "difficulty": 2,
+    "title": "When was the First Battle of Panipat fought?",
+    "description": "In which year did Babur defeat Ibrahim Lodi at the First Battle of Panipat?",
+    "hint": "It was fought in the early 16th century.",
+    "summary": "The First Battle of Panipat was fought in 1526.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Panipat,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1552,
+        "id": 6005,
+        "title": "1556",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1552,
+        "id": 6006,
+        "title": "1526",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1552,
+        "id": 6007,
+        "title": "1540",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1552,
+        "id": 6008,
+        "title": "1565",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1553,
+    "difficulty": 2,
+    "title": "Who was defeated by Babur at Panipat?",
+    "description": "Whom did Babur defeat in the First Battle of Panipat?",
+    "hint": "He was the last major Lodi Sultan of Delhi.",
+    "summary": "Babur defeated Ibrahim Lodi at the First Battle of Panipat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Ibrahim Lodi,Panipat",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1553,
+        "id": 6009,
+        "title": "Sikandar Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1553,
+        "id": 6010,
+        "title": "Daulat Khan Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1553,
+        "id": 6011,
+        "title": "Ibrahim Lodi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1553,
+        "id": 6012,
+        "title": "Bahlul Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1554,
+    "difficulty": 2,
+    "title": "Where was Babur born?",
+    "description": "Babur was born in which Central Asian city?",
+    "hint": "It was an important city in the Fergana Valley.",
+    "summary": "Babur was born in Andijan in the Fergana Valley.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Central Asia",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1554,
+        "id": 6013,
+        "title": "Andijan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1554,
+        "id": 6014,
+        "title": "Samarkand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1554,
+        "id": 6015,
+        "title": "Kabul",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1554,
+        "id": 6016,
+        "title": "Bukhara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1555,
+    "difficulty": 2,
+    "title": "What was Babur's original name?",
+    "description": "What was the personal name of the founder of the Mughal Empire?",
+    "hint": "His name was Zahir-ud-din Muhammad.",
+    "summary": "Babur's personal name was Zahir-ud-din Muhammad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1555,
+        "id": 6017,
+        "title": "Nasir-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1555,
+        "id": 6018,
+        "title": "Jalal-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1555,
+        "id": 6019,
+        "title": "Zahir-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1555,
+        "id": 6020,
+        "title": "Muhi-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1556,
+    "difficulty": 2,
+    "title": "Which battle did Babur fight against Rana Sanga?",
+    "description": "Which major battle was fought between Babur and Rana Sanga in 1527?",
+    "hint": "It was fought near Agra.",
+    "summary": "Babur fought Rana Sanga at the Battle of Khanwa in 1527.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Rana Sanga,Khanwa",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1556,
+        "id": 6021,
+        "title": "Battle of Khanwa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1556,
+        "id": 6022,
+        "title": "Battle of Chausa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1556,
+        "id": 6023,
+        "title": "Battle of Haldighati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1556,
+        "id": 6024,
+        "title": "Battle of Ghaghra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1557,
+    "difficulty": 2,
+    "title": "Who was Rana Sanga?",
+    "description": "Rana Sanga, who fought Babur at Khanwa, was the ruler of which kingdom?",
+    "hint": "His kingdom was centered in present-day Rajasthan.",
+    "summary": "Rana Sanga was the powerful ruler of Mewar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Rana Sanga,Mewar,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1557,
+        "id": 6025,
+        "title": "Marwar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1557,
+        "id": 6026,
+        "title": "Mewar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1557,
+        "id": 6027,
+        "title": "Amber",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1557,
+        "id": 6028,
+        "title": "Malwa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1558,
+    "difficulty": 2,
+    "title": "Which battle did Babur fight against the Afghans in 1529?",
+    "description": "Which battle in 1529 strengthened Babur's position in eastern India?",
+    "hint": "It was fought near the Ganges-Ghaghara region.",
+    "summary": "Babur fought the Battle of Ghaghra in 1529.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Ghaghra,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1558,
+        "id": 6029,
+        "title": "Battle of Khanwa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1558,
+        "id": 6030,
+        "title": "Battle of Ghaghra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1558,
+        "id": 6031,
+        "title": "Battle of Chausa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1558,
+        "id": 6032,
+        "title": "Battle of Haldighati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1559,
+    "difficulty": 2,
+    "title": "Which autobiography was written by Babur?",
+    "description": "What is the name of Babur's famous autobiography?",
+    "hint": "It is also known as the Tuzuk-i-Baburi.",
+    "summary": "Baburnama is the autobiography of Babur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Baburnama,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1559,
+        "id": 6033,
+        "title": "Akbarnama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1559,
+        "id": 6034,
+        "title": "Humayun-nama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1559,
+        "id": 6035,
+        "title": "Baburnama",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1559,
+        "id": 6036,
+        "title": "Ain-i-Akbari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1560,
+    "difficulty": 2,
+    "title": "In which language did Babur write his memoirs?",
+    "description": "Babur's memoirs were written in which language?",
+    "hint": "It was the literary language of the Chagatai Turks.",
+    "summary": "Babur wrote his memoirs in Chagatai Turkish.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Baburnama,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1560,
+        "id": 6037,
+        "title": "Persian",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1560,
+        "id": 6038,
+        "title": "Arabic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1560,
+        "id": 6039,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1560,
+        "id": 6040,
+        "title": "Chagatai Turkish",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1561,
+    "difficulty": 2,
+    "title": "Who succeeded Babur?",
+    "description": "Who became emperor of the Mughal Empire after Babur's death in 1530?",
+    "hint": "He was Babur's eldest surviving son.",
+    "summary": "Humayun succeeded Babur in 1530.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Humayun,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1561,
+        "id": 6041,
+        "title": "Humayun",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1561,
+        "id": 6042,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1561,
+        "id": 6043,
+        "title": "Kamran Mirza",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1561,
+        "id": 6044,
+        "title": "Askari Mirza",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1562,
+    "difficulty": 2,
+    "title": "Who defeated Humayun at the Battle of Chausa?",
+    "description": "Which Afghan ruler defeated Humayun at Chausa in 1539?",
+    "hint": "He later became known as Sher Shah Suri.",
+    "summary": "Sher Khan defeated Humayun at the Battle of Chausa in 1539.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Humayun,Sher Shah Suri,Chausa",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1562,
+        "id": 6045,
+        "title": "Bahadur Shah",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1562,
+        "id": 6046,
+        "title": "Sher Khan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1562,
+        "id": 6047,
+        "title": "Ibrahim Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1562,
+        "id": 6048,
+        "title": "Daulat Khan Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1563,
+    "difficulty": 2,
+    "title": "When was Humayun defeated at Kannauj?",
+    "description": "In which year did Sher Shah defeat Humayun at the Battle of Kannauj?",
+    "hint": "It occurred one year after the Battle of Chausa.",
+    "summary": "Humayun was defeated at Kannauj in 1540.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Humayun,Sher Shah Suri,Kannauj",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1563,
+        "id": 6049,
+        "title": "1539",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1563,
+        "id": 6050,
+        "title": "1540",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1563,
+        "id": 6051,
+        "title": "1545",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1563,
+        "id": 6052,
+        "title": "1556",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1564,
+    "difficulty": 2,
+    "title": "Where was Akbar born?",
+    "description": "Akbar was born at which place in 1542?",
+    "hint": "He was born while Humayun was in exile.",
+    "summary": "Akbar was born at Umarkot in Sindh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Umarkot,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1564,
+        "id": 6053,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1564,
+        "id": 6054,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1564,
+        "id": 6055,
+        "title": "Umarkot",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1564,
+        "id": 6056,
+        "title": "Kabul",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1565,
+    "difficulty": 2,
+    "title": "Who became Akbar's regent during his early reign?",
+    "description": "Who served as Akbar's powerful regent during the early years of his reign?",
+    "hint": "He was a prominent military commander and guardian of the young emperor.",
+    "summary": "Bairam Khan served as Akbar's regent during the early part of his reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Bairam Khan,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1565,
+        "id": 6057,
+        "title": "Bairam Khan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1565,
+        "id": 6058,
+        "title": "Abul Fazl",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1565,
+        "id": 6059,
+        "title": "Todar Mal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1565,
+        "id": 6060,
+        "title": "Man Singh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1566,
+    "difficulty": 2,
+    "title": "Which battle restored Mughal control over Delhi and Agra?",
+    "description": "Which battle in 1556 was fought between Akbar's forces and Hemu?",
+    "hint": "It was the second major battle fought at the same place as Babur's famous victory.",
+    "summary": "The Second Battle of Panipat in 1556 restored Mughal control under Akbar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Hemu,Panipat",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1566,
+        "id": 6061,
+        "title": "Battle of Khanwa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1566,
+        "id": 6062,
+        "title": "Second Battle of Panipat",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1566,
+        "id": 6063,
+        "title": "Battle of Chausa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1566,
+        "id": 6064,
+        "title": "Battle of Ghaghra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1567,
+    "difficulty": 2,
+    "title": "Who was Hemu?",
+    "description": "Who was the ruler defeated by Akbar's forces at the Second Battle of Panipat?",
+    "hint": "He had adopted the title Vikramaditya.",
+    "summary": "Hemu, also known as Hemu Vikramaditya, was defeated at the Second Battle of Panipat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Hemu,Panipat",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1567,
+        "id": 6065,
+        "title": "An Afghan noble",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1567,
+        "id": 6066,
+        "title": "A Rajput ruler",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1567,
+        "id": 6067,
+        "title": "A Mughal prince",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1567,
+        "id": 6068,
+        "title": "A ruler who claimed the title Vikramaditya",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1568,
+    "difficulty": 2,
+    "title": "Who introduced the policy of Sulh-i-Kul?",
+    "description": "Which Mughal emperor is associated with the policy of universal peace known as Sulh-i-Kul?",
+    "hint": "It emphasized tolerance toward different religious communities.",
+    "summary": "Akbar promoted the policy of Sulh-i-Kul, or universal peace.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Sulh-i-Kul,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1568,
+        "id": 6069,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1568,
+        "id": 6070,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1568,
+        "id": 6071,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1568,
+        "id": 6072,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1569,
+    "difficulty": 2,
+    "title": "What was the Ibadat Khana?",
+    "description": "What was the Ibadat Khana established by Akbar at Fatehpur Sikri?",
+    "hint": "Akbar used it for religious discussions.",
+    "summary": "The Ibadat Khana was a place where Akbar held discussions with religious scholars.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Ibadat Khana,Fatehpur Sikri",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1569,
+        "id": 6073,
+        "title": "Royal library",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1569,
+        "id": 6074,
+        "title": "Place for religious discussions",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1569,
+        "id": 6075,
+        "title": "Military academy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1569,
+        "id": 6076,
+        "title": "Royal treasury",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1570,
+    "difficulty": 2,
+    "title": "What was Din-i Ilahi?",
+    "description": "What was the religious-ethical order associated with Akbar?",
+    "hint": "It was introduced by Akbar in the late 16th century.",
+    "summary": "Din-i Ilahi was an eclectic ethical order associated with Akbar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Din-i Ilahi,Religion",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1570,
+        "id": 6077,
+        "title": "A tax system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1570,
+        "id": 6078,
+        "title": "A military ranking system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1570,
+        "id": 6079,
+        "title": "An ethical-religious order",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1570,
+        "id": 6080,
+        "title": "A land revenue survey",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1571,
+    "difficulty": 2,
+    "title": "Who was Abul Fazl?",
+    "description": "Abul Fazl was a prominent scholar and courtier during the reign of which Mughal emperor?",
+    "hint": "He wrote major works about this emperor's reign.",
+    "summary": "Abul Fazl was a leading scholar and courtier of Akbar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Abul Fazl,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1571,
+        "id": 6081,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1571,
+        "id": 6082,
+        "title": "Babur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1571,
+        "id": 6083,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1571,
+        "id": 6084,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1572,
+    "difficulty": 2,
+    "title": "Who wrote the Akbarnama?",
+    "description": "Who authored the official chronicle of Akbar's reign known as the Akbarnama?",
+    "hint": "He was one of Akbar's famous court scholars.",
+    "summary": "Abul Fazl wrote the Akbarnama.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Abul Fazl,Akbarnama,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1572,
+        "id": 6085,
+        "title": "Abul Fazl",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1572,
+        "id": 6086,
+        "title": "Badauni",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1572,
+        "id": 6087,
+        "title": "Faizi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1572,
+        "id": 6088,
+        "title": "Abdul Hamid Lahori",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1573,
+    "difficulty": 2,
+    "title": "What is the Ain-i-Akbari?",
+    "description": "The Ain-i-Akbari forms which part of Abul Fazl's major work?",
+    "hint": "It contains detailed information about Akbar's administration and empire.",
+    "summary": "The Ain-i-Akbari is the third volume of the Akbarnama.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Ain-i-Akbari,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1573,
+        "id": 6089,
+        "title": "First volume",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1573,
+        "id": 6090,
+        "title": "Second volume",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1573,
+        "id": 6091,
+        "title": "Third volume",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1573,
+        "id": 6092,
+        "title": "A separate Mughal dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1574,
+    "difficulty": 2,
+    "title": "Who was Raja Todar Mal?",
+    "description": "Raja Todar Mal was associated with which important aspect of Akbar's administration?",
+    "hint": "His reforms dealt with land and taxation.",
+    "summary": "Todar Mal played a major role in developing Akbar's land revenue system.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Todar Mal,Revenue System",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1574,
+        "id": 6093,
+        "title": "Naval administration",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1574,
+        "id": 6094,
+        "title": "Land revenue administration",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1574,
+        "id": 6095,
+        "title": "Foreign diplomacy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1574,
+        "id": 6096,
+        "title": "Temple administration",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1575,
+    "difficulty": 2,
+    "title": "What was the Dahsala system?",
+    "description": "The Dahsala system introduced under Akbar was related to which area?",
+    "hint": "It involved assessment of agricultural land revenue.",
+    "summary": "The Dahsala system was a land revenue assessment system based on average produce and prices over a ten-year period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Dahsala,Revenue System",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1575,
+        "id": 6097,
+        "title": "Land revenue assessment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1575,
+        "id": 6098,
+        "title": "Military recruitment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1575,
+        "id": 6099,
+        "title": "Foreign trade",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1575,
+        "id": 6100,
+        "title": "Judicial appointments",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1576,
+    "difficulty": 2,
+    "title": "What was the Mansabdari system?",
+    "description": "Which administrative system organized Mughal officials according to ranks?",
+    "hint": "The word comes from the Persian term for rank.",
+    "summary": "The Mansabdari system organized officials according to assigned ranks under the Mughal administration.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Mansabdari,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1576,
+        "id": 6101,
+        "title": "Zamindari system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1576,
+        "id": 6102,
+        "title": "Mansabdari system",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1576,
+        "id": 6103,
+        "title": "Ryotwari system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1576,
+        "id": 6104,
+        "title": "Iqtadari system",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1577,
+    "difficulty": 2,
+    "title": "What did Zat indicate in the Mansabdari system?",
+    "description": "In Akbar's Mansabdari system, what did the Zat rank primarily determine?",
+    "hint": "It represented the personal rank of a mansabdar.",
+    "summary": "Zat indicated the personal rank and status of a mansabdar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Mansabdari,Zat,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1577,
+        "id": 6105,
+        "title": "Personal rank",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1577,
+        "id": 6106,
+        "title": "Land measurement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1577,
+        "id": 6107,
+        "title": "Religious status",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1577,
+        "id": 6108,
+        "title": "Provincial boundaries",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1578,
+    "difficulty": 2,
+    "title": "What did Sawar indicate?",
+    "description": "In the Mughal Mansabdari system, what did the Sawar rank relate to?",
+    "hint": "It was connected with cavalrymen.",
+    "summary": "Sawar indicated the number of cavalrymen a mansabdar was expected to maintain.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Mansabdari,Sawar,Military",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1578,
+        "id": 6109,
+        "title": "Land revenue",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1578,
+        "id": 6110,
+        "title": "Number of cavalrymen",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1578,
+        "id": 6111,
+        "title": "Number of provinces",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1578,
+        "id": 6112,
+        "title": "Royal household expenses",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1579,
+    "difficulty": 2,
+    "title": "Which city did Akbar establish as his capital after his victory in Gujarat?",
+    "description": "Which planned city became Akbar's capital for a period after his Gujarat campaign?",
+    "hint": "It is famous for the Buland Darwaza.",
+    "summary": "Fatehpur Sikri became Akbar's capital for a period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Fatehpur Sikri,Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1579,
+        "id": 6113,
+        "title": "Lahore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1579,
+        "id": 6114,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1579,
+        "id": 6115,
+        "title": "Fatehpur Sikri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1579,
+        "id": 6116,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1580,
+    "difficulty": 2,
+    "title": "What is Buland Darwaza?",
+    "description": "Buland Darwaza is a monumental gateway at which Mughal site?",
+    "hint": "It was built by Akbar at his planned city.",
+    "summary": "Buland Darwaza is the monumental gateway at Fatehpur Sikri.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Buland Darwaza,Fatehpur Sikri",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1580,
+        "id": 6117,
+        "title": "Fatehpur Sikri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1580,
+        "id": 6118,
+        "title": "Red Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1580,
+        "id": 6119,
+        "title": "Agra Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1580,
+        "id": 6120,
+        "title": "Humayun's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1581,
+    "difficulty": 2,
+    "title": "Who succeeded Akbar?",
+    "description": "Who became Mughal emperor after Akbar's death in 1605?",
+    "hint": "His original name was Prince Salim.",
+    "summary": "Jahangir succeeded Akbar in 1605.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Akbar,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1581,
+        "id": 6121,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1581,
+        "id": 6122,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1581,
+        "id": 6123,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1581,
+        "id": 6124,
+        "title": "Bahadur Shah I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1582,
+    "difficulty": 2,
+    "title": "What was Jahangir's original name?",
+    "description": "What was the birth name of the Mughal emperor Jahangir?",
+    "hint": "He was the eldest surviving son of Akbar.",
+    "summary": "Jahangir's original name was Prince Salim.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Salim,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1582,
+        "id": 6125,
+        "title": "Salim",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1582,
+        "id": 6126,
+        "title": "Khurram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1582,
+        "id": 6127,
+        "title": "Dara Shikoh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1582,
+        "id": 6128,
+        "title": "Muhi-ud-din",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1583,
+    "difficulty": 2,
+    "title": "Who was Nur Jahan?",
+    "description": "Nur Jahan was the influential wife of which Mughal emperor?",
+    "hint": "She played a major role in imperial politics during his reign.",
+    "summary": "Nur Jahan was the influential wife of Emperor Jahangir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Nur Jahan,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1583,
+        "id": 6129,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1583,
+        "id": 6130,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1583,
+        "id": 6131,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1583,
+        "id": 6132,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1584,
+    "difficulty": 2,
+    "title": "Which English ambassador visited Jahangir's court?",
+    "description": "Which English diplomat visited the court of Jahangir during the early 17th century?",
+    "hint": "He was sent by King James I of England.",
+    "summary": "Sir Thomas Roe visited Jahangir's court as an English ambassador.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Thomas Roe,European History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1584,
+        "id": 6133,
+        "title": "William Hawkins",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1584,
+        "id": 6134,
+        "title": "Sir Thomas Roe",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1584,
+        "id": 6135,
+        "title": "Vasco da Gama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1584,
+        "id": 6136,
+        "title": "Albuquerque",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1585,
+    "difficulty": 2,
+    "title": "Which book contains Jahangir's memoirs?",
+    "description": "What is the name of Jahangir's autobiographical memoir?",
+    "hint": "It is also known as Tuzuk-i-Jahangiri.",
+    "summary": "Jahangirnama contains Jahangir's memoirs.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Jahangirnama,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1585,
+        "id": 6137,
+        "title": "Jahangirnama",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1585,
+        "id": 6138,
+        "title": "Akbarnama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1585,
+        "id": 6139,
+        "title": "Baburnama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1585,
+        "id": 6140,
+        "title": "Padshahnama",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1586,
+    "difficulty": 2,
+    "title": "Who succeeded Jahangir?",
+    "description": "Who became Mughal emperor after Jahangir's death in 1627?",
+    "hint": "His reign is associated with the height of Mughal architecture.",
+    "summary": "Shah Jahan succeeded Jahangir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Jahangir,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1586,
+        "id": 6141,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1586,
+        "id": 6142,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1586,
+        "id": 6143,
+        "title": "Dara Shikoh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1586,
+        "id": 6144,
+        "title": "Bahadur Shah I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1587,
+    "difficulty": 2,
+    "title": "What was Shah Jahan's original name?",
+    "description": "What was the original name of the Mughal emperor Shah Jahan?",
+    "hint": "He was the son of Jahangir.",
+    "summary": "Shah Jahan's original name was Prince Khurram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Khurram,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1587,
+        "id": 6145,
+        "title": "Salim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1587,
+        "id": 6146,
+        "title": "Khurram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1587,
+        "id": 6147,
+        "title": "Murad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1587,
+        "id": 6148,
+        "title": "Daniyal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1588,
+    "difficulty": 2,
+    "title": "Who commissioned the Taj Mahal?",
+    "description": "Which Mughal emperor commissioned the Taj Mahal at Agra?",
+    "hint": "It was built in memory of Mumtaz Mahal.",
+    "summary": "Shah Jahan commissioned the Taj Mahal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Taj Mahal,Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1588,
+        "id": 6149,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1588,
+        "id": 6150,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1588,
+        "id": 6151,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1588,
+        "id": 6152,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1589,
+    "difficulty": 2,
+    "title": "For whom was the Taj Mahal built?",
+    "description": "The Taj Mahal was commissioned by Shah Jahan as a mausoleum for whom?",
+    "hint": "She was Shah Jahan's beloved wife.",
+    "summary": "The Taj Mahal was built as the mausoleum of Mumtaz Mahal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Taj Mahal,Mumtaz Mahal",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1589,
+        "id": 6153,
+        "title": "Mumtaz Mahal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1589,
+        "id": 6154,
+        "title": "Nur Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1589,
+        "id": 6155,
+        "title": "Jahanara Begum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1589,
+        "id": 6156,
+        "title": "Ruqaiya Sultan Begum",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1590,
+    "difficulty": 2,
+    "title": "Which Mughal emperor built the Red Fort in Delhi?",
+    "description": "Which Mughal emperor commissioned the Red Fort in Delhi?",
+    "hint": "He shifted the imperial capital to Shahjahanabad.",
+    "summary": "Shah Jahan commissioned the Red Fort in Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Red Fort,Delhi",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1590,
+        "id": 6157,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1590,
+        "id": 6158,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1590,
+        "id": 6159,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1590,
+        "id": 6160,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1591,
+    "difficulty": 2,
+    "title": "Which city was known as Shahjahanabad?",
+    "description": "Which historic city was founded by Shah Jahan as his new imperial capital?",
+    "hint": "It developed around the Red Fort.",
+    "summary": "Shahjahanabad was the new imperial city established in Delhi by Shah Jahan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Shahjahanabad,Delhi",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1591,
+        "id": 6161,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1591,
+        "id": 6162,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1591,
+        "id": 6163,
+        "title": "Lahore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1591,
+        "id": 6164,
+        "title": "Fatehpur Sikri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1592,
+    "difficulty": 2,
+    "title": "Who built the Jama Masjid in Delhi?",
+    "description": "Which Mughal emperor commissioned the Jama Masjid of Shahjahanabad?",
+    "hint": "It was constructed during the same reign as the Red Fort.",
+    "summary": "Shah Jahan commissioned the Jama Masjid in Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Shah Jahan,Jama Masjid,Delhi",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1592,
+        "id": 6165,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1592,
+        "id": 6166,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1592,
+        "id": 6167,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1592,
+        "id": 6168,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1593,
+    "difficulty": 2,
+    "title": "Which Mughal emperor built the Moti Masjid at the Red Fort?",
+    "description": "Which Mughal emperor commissioned the Moti Masjid within the Red Fort complex?",
+    "hint": "It was built by the emperor who succeeded Shah Jahan.",
+    "summary": "Aurangzeb commissioned the Moti Masjid inside the Red Fort.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,Moti Masjid,Red Fort",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1593,
+        "id": 6169,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1593,
+        "id": 6170,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1593,
+        "id": 6171,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1593,
+        "id": 6172,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1594,
+    "difficulty": 2,
+    "title": "Who succeeded Shah Jahan?",
+    "description": "Which Mughal emperor came to the throne after the war of succession following Shah Jahan's illness?",
+    "hint": "He was Shah Jahan's third son.",
+    "summary": "Aurangzeb succeeded Shah Jahan in 1658 and was formally crowned later.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,Shah Jahan,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1594,
+        "id": 6173,
+        "title": "Dara Shikoh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1594,
+        "id": 6174,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1594,
+        "id": 6175,
+        "title": "Murad Baksh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1594,
+        "id": 6176,
+        "title": "Shah Shuja",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1595,
+    "difficulty": 2,
+    "title": "What was Aurangzeb's regnal title?",
+    "description": "By what regnal name did Prince Muhi-ud-din Muhammad become emperor?",
+    "hint": "The title means 'ornament of the throne'.",
+    "summary": "Aurangzeb adopted the regnal title Alamgir.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,Alamgir,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1595,
+        "id": 6177,
+        "title": "Alamgir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1595,
+        "id": 6178,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1595,
+        "id": 6179,
+        "title": "Shah Alam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1595,
+        "id": 6180,
+        "title": "Akbar II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1596,
+    "difficulty": 2,
+    "title": "Which tax did Aurangzeb reimpose in 1679?",
+    "description": "Which tax on non-Muslim subjects was reimposed by Aurangzeb in 1679?",
+    "hint": "It was a tax historically levied on non-Muslims under some Islamic rulers.",
+    "summary": "Aurangzeb reimposed the jizya in 1679.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,Jizya,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1596,
+        "id": 6181,
+        "title": "Jizya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1596,
+        "id": 6182,
+        "title": "Zakat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1596,
+        "id": 6183,
+        "title": "Kharaj",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1596,
+        "id": 6184,
+        "title": "Ushr",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1597,
+    "difficulty": 2,
+    "title": "Which Mughal emperor spent a large part of his later reign in the Deccan?",
+    "description": "Which Mughal emperor personally led prolonged campaigns in the Deccan during the later part of his reign?",
+    "hint": "His reign lasted from 1658 to 1707.",
+    "summary": "Aurangzeb spent much of the later part of his reign campaigning in the Deccan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,Deccan,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1597,
+        "id": 6185,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1597,
+        "id": 6186,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1597,
+        "id": 6187,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1597,
+        "id": 6188,
+        "title": "Bahadur Shah I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1598,
+    "difficulty": 2,
+    "title": "Which Mughal emperor was known for his interest in painting?",
+    "description": "Which Mughal emperor's court is especially associated with the development of Mughal miniature painting?",
+    "hint": "His reign followed Akbar's.",
+    "summary": "Jahangir was especially known for his patronage and personal interest in painting and naturalistic art.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Jahangir,Mughal Painting,Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1598,
+        "id": 6189,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1598,
+        "id": 6190,
+        "title": "Humayun",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1598,
+        "id": 6191,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1598,
+        "id": 6192,
+        "title": "Bahadur Shah I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1599,
+    "difficulty": 2,
+    "title": "Who translated the Mahabharata into Persian during Akbar's reign?",
+    "description": "Under Akbar, the Sanskrit Mahabharata was translated into Persian under the title Razmnama. Who among the following was associated with this translation project?",
+    "hint": "He was one of Akbar's senior nobles and scholars.",
+    "summary": "Abdul Qadir Badauni was among those involved in translating the Mahabharata into Persian as Razmnama.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Akbar,Badauni,Razmnama,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1599,
+        "id": 6193,
+        "title": "Abdul Qadir Badauni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1599,
+        "id": 6194,
+        "title": "Abul Fazl",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1599,
+        "id": 6195,
+        "title": "Faizi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1599,
+        "id": 6196,
+        "title": "Abdul Hamid Lahori",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1600,
+    "difficulty": 2,
+    "title": "Which Mughal emperor's reign marked the greatest territorial expansion of the empire?",
+    "description": "Under which Mughal emperor did the empire reach its greatest territorial extent?",
+    "hint": "His reign ended in 1707.",
+    "summary": "The Mughal Empire reached its greatest territorial extent under Aurangzeb.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Aurangzeb,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1600,
+        "id": 6197,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1600,
+        "id": 6198,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1600,
+        "id": 6199,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1600,
+        "id": 6200,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
