@@ -1,0 +1,2553 @@
+[
+  {
+    "id": 1851,
+    "difficulty": 2,
+    "title": "The Satavahana dynasty mainly ruled which region of ancient India?",
+    "description": "Identify the principal region associated with Satavahana rule.",
+    "hint": "Think of the Deccan region.",
+    "summary": "The Satavahanas were a major dynasty of the Deccan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1851,
+        "id": 7201,
+        "title": "Deccan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1851,
+        "id": 7202,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1851,
+        "id": 7203,
+        "title": "Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1851,
+        "id": 7204,
+        "title": "Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1852,
+    "difficulty": 2,
+    "title": "Which city is generally regarded as an important early capital of the Satavahanas?",
+    "description": "Identify the city associated with the early Satavahana capital.",
+    "hint": "It was located in present-day Maharashtra.",
+    "summary": "Pratishthana, or Paithan, was an important Satavahana capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1852,
+        "id": 7205,
+        "title": "Ujjain",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1852,
+        "id": 7206,
+        "title": "Pratishthana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1852,
+        "id": 7207,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1852,
+        "id": 7208,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1853,
+    "difficulty": 2,
+    "title": "What was Pratishthana known as in later times?",
+    "description": "Identify the modern name of the ancient Satavahana center Pratishthana.",
+    "hint": "It is a historic city in Maharashtra.",
+    "summary": "Pratishthana is identified with modern Paithan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Satavahana Dynasty",
+      "Ancient India",
+      "Maharashtra"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1853,
+        "id": 7209,
+        "title": "Paithan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1853,
+        "id": 7210,
+        "title": "Nasik",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1853,
+        "id": 7211,
+        "title": "Karad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1853,
+        "id": 7212,
+        "title": "Kolhapur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "difficulty": 2,
+    "title": "118. Which Tiger Reserve is located in Jharkhand?",
+    "description": "",
+    "hint": "It was one of the original Project Tiger reserves.",
+    "summary": "Palamau Tiger Reserve in Jharkhand was among the first reserves included under Project Tiger.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Jharkhand,Project Tiger,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 118,
+        "id": 469,
+        "title": "Indravati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 118,
+        "id": 470,
+        "title": "Palamau",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 118,
+        "id": 471,
+        "title": "Valmiki",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 118,
+        "id": 472,
+        "title": "Dampa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "difficulty": 3,
+    "title": "119. Which Tiger Reserve is located in Arunachal Pradesh and is also one of India's largest protected areas?",
+    "description": "",
+    "hint": "It is known for exceptional biodiversity and shares an international border.",
+    "summary": "Namdapha Tiger Reserve is among India's largest protected areas and biodiversity hotspots.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Arunachal Pradesh,Namdapha,Biodiversity,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 119,
+        "id": 473,
+        "title": "Pakke",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 119,
+        "id": 474,
+        "title": "Kamlang",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 119,
+        "id": 475,
+        "title": "Namdapha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 119,
+        "id": 476,
+        "title": "Dibang",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "difficulty": 3,
+    "title": "120. Which Tiger Reserve lies in the Western Ghats and is shared between Karnataka and Tamil Nadu through connected landscapes?",
+    "description": "",
+    "hint": "It is part of the Nilgiri Biosphere Reserve landscape.",
+    "summary": "Bandipur Tiger Reserve forms a crucial part of the Nilgiri landscape connecting multiple protected areas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Western Ghats,Bandipur,Nilgiri Biosphere Reserve,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 120,
+        "id": 477,
+        "title": "Mudumalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 120,
+        "id": 478,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 120,
+        "id": 479,
+        "title": "Bandipur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 120,
+        "id": 480,
+        "title": "Parambikulam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "difficulty": 3,
+    "title": "121. Which Tiger Reserve is located in Maharashtra and is often called the 'Tiger Capital of Maharashtra'?",
+    "description": "",
+    "hint": "It is famous for high tiger sightings and lies in eastern Maharashtra.",
+    "summary": "Tadoba-Andhari Tiger Reserve is one of India's most successful tiger conservation landscapes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Maharashtra,Tadoba,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 121,
+        "id": 481,
+        "title": "Melghat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 121,
+        "id": 482,
+        "title": "Bor",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 121,
+        "id": 483,
+        "title": "Navegaon-Nagzira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 121,
+        "id": 484,
+        "title": "Tadoba-Andhari",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "difficulty": 3,
+    "title": "122. Which Tiger Reserve is located in Kerala and is famous for its artificial lake created by the Mullaperiyar Dam?",
+    "description": "",
+    "hint": "It is one of the best places to observe elephants in South India.",
+    "summary": "Periyar Tiger Reserve is known for its lake ecosystem and rich biodiversity.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Kerala,Periyar,Western Ghats,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 122,
+        "id": 485,
+        "title": "Parambikulam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 122,
+        "id": 486,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 122,
+        "id": 487,
+        "title": "Bandipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 122,
+        "id": 488,
+        "title": "Mudumalai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "difficulty": 3,
+    "title": "123. Which Tiger Reserve is situated in Odisha and is known for melanistic (pseudo-melanistic) tigers?",
+    "description": "",
+    "hint": "It is also a biosphere reserve and national park.",
+    "summary": "Similipal Tiger Reserve is famous for rare pseudo-melanistic tigers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tiger Reserves,Odisha,Similipal,Wildlife,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 123,
+        "id": 489,
+        "title": "Satkosia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 123,
+        "id": 490,
+        "title": "Similipal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 123,
+        "id": 491,
+        "title": "Udanti-Sitanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 123,
+        "id": 492,
+        "title": "Achanakmar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "difficulty": 2,
+    "title": "Which waterfall is officially recognized by Guinness World Records as the world's tallest?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in Venezuela.",
+    "summary": "The correct answer is Angel Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "UPSC",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2001,
+        "id": 7801,
+        "title": "Angel Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2001,
+        "id": 7802,
+        "title": "Tugela Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2001,
+        "id": 7803,
+        "title": "Yosemite Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2001,
+        "id": 7804,
+        "title": "Kaieteur Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "difficulty": 2,
+    "title": "Angel Falls is located in which country?",
+    "description": "Choose the correct answer.",
+    "hint": "It is in South America.",
+    "summary": "The correct answer is Venezuela.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "UPSC",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2002,
+        "id": 7805,
+        "title": "Brazil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2002,
+        "id": 7806,
+        "title": "Venezuela",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2002,
+        "id": 7807,
+        "title": "Colombia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2002,
+        "id": 7808,
+        "title": "Peru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "difficulty": 2,
+    "title": "Angel Falls drops from which tepui?",
+    "description": "Choose the correct answer.",
+    "hint": "The name begins with Auyán.",
+    "summary": "The correct answer is Auyán-tepui.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2003,
+        "id": 7809,
+        "title": "Roraima-tepui",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2003,
+        "id": 7810,
+        "title": "Kukenán-tepui",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2003,
+        "id": 7811,
+        "title": "Auyán-tepui",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2003,
+        "id": 7812,
+        "title": "Wadakapiapué-tepui",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "difficulty": 2,
+    "title": "Angel Falls is situated within which national park?",
+    "description": "Choose the correct answer.",
+    "hint": "The park is a UNESCO World Heritage Site.",
+    "summary": "The correct answer is Canaima National Park.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "UNESCO",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2004,
+        "id": 7813,
+        "title": "Canaima National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2004,
+        "id": 7814,
+        "title": "Henri Pittier National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2004,
+        "id": 7815,
+        "title": "Morrocoy National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2004,
+        "id": 7816,
+        "title": "Yacambú National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "difficulty": 2,
+    "title": "What is the longest uninterrupted drop of Angel Falls?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a little over 800 metres.",
+    "summary": "The longest single drop is 807 metres.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2005,
+        "id": 7817,
+        "title": "807 metres",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2005,
+        "id": 7818,
+        "title": "607 metres",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2005,
+        "id": 7819,
+        "title": "907 metres",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2005,
+        "id": 7820,
+        "title": "707 metres",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2006,
+    "difficulty": 2,
+    "title": "Tugela Falls is located in which country?",
+    "description": "Choose the correct answer.",
+    "hint": "It is in southern Africa.",
+    "summary": "The correct answer is South Africa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "World Waterfalls",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2006,
+        "id": 7821,
+        "title": "Zimbabwe",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2006,
+        "id": 7822,
+        "title": "South Africa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2006,
+        "id": 7823,
+        "title": "Namibia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2006,
+        "id": 7824,
+        "title": "Zambia",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1901,
+    "difficulty": 2,
+    "title": "What is a Ramsar Site?",
+    "description": "Identify the meaning of a Ramsar Site.",
+    "hint": "It relates to internationally important wetlands.",
+    "summary": "A Ramsar Site is a wetland designated as internationally important under the Convention on Wetlands.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Wetlands",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1901,
+        "id": 7401,
+        "title": "An internationally important wetland",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1901,
+        "id": 7402,
+        "title": "A UNESCO archaeological site",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1901,
+        "id": 7403,
+        "title": "A tiger reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1901,
+        "id": 7404,
+        "title": "A biosphere reserve only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1902,
+    "difficulty": 2,
+    "title": "The Ramsar Convention is primarily concerned with the conservation of what?",
+    "description": "Identify the main subject of the Ramsar Convention.",
+    "hint": "Think of lakes, marshes and other water ecosystems.",
+    "summary": "The Ramsar Convention focuses on wetlands and their conservation and wise use.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Convention",
+      "Wetlands",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1902,
+        "id": 7405,
+        "title": "Forests",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1902,
+        "id": 7406,
+        "title": "Wetlands",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1902,
+        "id": 7407,
+        "title": "Deserts",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1902,
+        "id": 7408,
+        "title": "Mountain glaciers only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1911,
+    "difficulty": 2,
+    "title": "What are phumdis associated with?",
+    "description": "Identify the floating vegetation masses characteristic of a famous northeastern lake.",
+    "hint": "They are especially associated with Loktak Lake.",
+    "summary": "Phumdis are floating masses of vegetation, soil and organic matter found prominently in Loktak Lake.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Loktak Lake",
+      "Wetlands"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1911,
+        "id": 7441,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1911,
+        "id": 7442,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1911,
+        "id": 7443,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1911,
+        "id": 7444,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1912,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Assam?",
+    "description": "Identify Assam's well-known Ramsar wetland.",
+    "hint": "It is near Guwahati.",
+    "summary": "Deepor Beel is a Ramsar Site in Assam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Assam",
+      "Deepor Beel"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1912,
+        "id": 7445,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1912,
+        "id": 7446,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1912,
+        "id": 7447,
+        "title": "Ashtamudi Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1912,
+        "id": 7448,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1913,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located near Guwahati?",
+    "description": "Identify the wetland situated close to Assam's largest city.",
+    "hint": "It is an important bird habitat.",
+    "summary": "Deepor Beel is located near Guwahati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Assam",
+      "Geography"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1913,
+        "id": 7449,
+        "title": "Nalsarovar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1913,
+        "id": 7450,
+        "title": "Deepor Beel",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1913,
+        "id": 7451,
+        "title": "Renuka Wetland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1913,
+        "id": 7452,
+        "title": "Kanjli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1914,
+    "difficulty": 2,
+    "title": "Which Ramsar Site is located in Andhra Pradesh?",
+    "description": "Identify the major lake designated under the Ramsar Convention in Andhra Pradesh.",
+    "hint": "It is a large freshwater lake near the Krishna-Godavari region.",
+    "summary": "Kolleru Lake is a Ramsar Site in Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Andhra Pradesh",
+      "Kolleru Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1914,
+        "id": 7453,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1914,
+        "id": 7454,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1914,
+        "id": 7455,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1914,
+        "id": 7456,
+        "title": "Nanda Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1918,
+    "difficulty": 2,
+    "title": "Which Ramsar Site became India's 101st Ramsar Site in 2026?",
+    "description": "Identify the wetland designated in August 2026.",
+    "hint": "It is a freshwater lake in Arunachal Pradesh.",
+    "summary": "Glaw Lake became India's 101st Ramsar Site in August 2026.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "India",
+      "Arunachal Pradesh",
+      "Current Affairs"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1918,
+        "id": 7469,
+        "title": "Patna Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7470,
+        "title": "Chhari Dhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1918,
+        "id": 7471,
+        "title": "Glaw Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1918,
+        "id": 7472,
+        "title": "Siliserh Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1919,
+    "difficulty": 2,
+    "title": "In which state is Glaw Lake located?",
+    "description": "Identify the state containing India's 101st Ramsar Site.",
+    "hint": "It is in the northeastern Himalayan region.",
+    "summary": "Glaw Lake is located in Arunachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Ramsar Sites",
+      "Arunachal Pradesh",
+      "Glaw Lake"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1919,
+        "id": 7473,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7474,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1919,
+        "id": 7475,
+        "title": "Manipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1919,
+        "id": 7476,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1232,
+    "difficulty": 2,
+    "title": "Which pass connects Assam with Tawang through Arunachal Pradesh?",
+    "description": "",
+    "hint": "It is lower in altitude than Sela Pass.",
+    "summary": "Bomdi La Pass connects Assam with Tawang via West Kameng.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,NorthEast,Roadways",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1232,
+        "id": 4725,
+        "title": "Diphu Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1232,
+        "id": 4726,
+        "title": "Sela Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1232,
+        "id": 4727,
+        "title": "Bomdi La",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1232,
+        "id": 4728,
+        "title": "Jelep La",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1233,
+    "difficulty": 2,
+    "title": "Diphu Pass lies near the tri-junction of India, China and which country?",
+    "description": "",
+    "hint": "Its capital is Naypyidaw.",
+    "summary": "Diphu Pass lies near the tri-junction of India, China and Myanmar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,International Borders,Himalayas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1233,
+        "id": 4729,
+        "title": "Bhutan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1233,
+        "id": 4730,
+        "title": "Nepal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1233,
+        "id": 4731,
+        "title": "Myanmar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1233,
+        "id": 4732,
+        "title": "Bangladesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1234,
+    "difficulty": 2,
+    "title": "Which mountain pass is located in the Pir Panjal Range?",
+    "description": "",
+    "hint": "It historically linked Jammu with the Kashmir Valley.",
+    "summary": "Banihal Pass is located in the Pir Panjal Range.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himalayas,Physical Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1234,
+        "id": 4733,
+        "title": "Rohtang Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1234,
+        "id": 4734,
+        "title": "Banihal Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1234,
+        "id": 4735,
+        "title": "Nathu La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1234,
+        "id": 4736,
+        "title": "Mana Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1235,
+    "difficulty": 2,
+    "title": "Which pass is crossed by the Jawahar Tunnel?",
+    "description": "",
+    "hint": "The tunnel improved year-round connectivity to the Kashmir Valley.",
+    "summary": "The Jawahar Tunnel passes beneath Banihal Pass.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Infrastructure,Himalayas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1235,
+        "id": 4737,
+        "title": "Rohtang Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1235,
+        "id": 4738,
+        "title": "Banihal Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1235,
+        "id": 4739,
+        "title": "Zoji La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1235,
+        "id": 4740,
+        "title": "Shipki La",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1236,
+    "difficulty": 2,
+    "title": "Which mountain pass separates the Kullu Valley from Lahaul Valley?",
+    "description": "",
+    "hint": "The Atal Tunnel now bypasses it.",
+    "summary": "Rohtang Pass separates Kullu Valley from Lahaul Valley.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himachal Pradesh,Himalayas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1236,
+        "id": 4741,
+        "title": "Kunzum Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1236,
+        "id": 4742,
+        "title": "Baralacha La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1236,
+        "id": 4743,
+        "title": "Rohtang Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1236,
+        "id": 4744,
+        "title": "Sach Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1358,
+    "difficulty": 2,
+    "title": "Which type of ecosystem is mainly found around Lakshadweep islands?",
+    "description": "",
+    "hint": "It supports marine biodiversity and protects coastlines.",
+    "summary": "Coral reef ecosystems are the dominant marine ecosystems around Lakshadweep.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Environment,Coral Reefs",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1358,
+        "id": 5229,
+        "title": "Mangrove ecosystem",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1358,
+        "id": 5230,
+        "title": "Desert ecosystem",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1358,
+        "id": 5231,
+        "title": "Coral reef ecosystem",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1358,
+        "id": 5232,
+        "title": "Alpine ecosystem",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1359,
+    "difficulty": 2,
+    "title": "Lakshadweep was formed as a Union Territory in which year?",
+    "description": "",
+    "hint": "It was separated from Madras State.",
+    "summary": "Lakshadweep became a Union Territory in 1956 under the States Reorganisation Act.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,History,Polity",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1359,
+        "id": 5233,
+        "title": "1956",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1359,
+        "id": 5234,
+        "title": "1962",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1359,
+        "id": 5235,
+        "title": "1973",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1359,
+        "id": 5236,
+        "title": "1987",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1360,
+    "difficulty": 2,
+    "title": "Which is the largest inhabited island of Lakshadweep?",
+    "description": "",
+    "hint": "It is also the administrative capital of Lakshadweep.",
+    "summary": "Kavaratti is the largest inhabited island and administrative headquarters of Lakshadweep.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Geography,Islands",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1360,
+        "id": 5237,
+        "title": "Minicoy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1360,
+        "id": 5238,
+        "title": "Agatti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1360,
+        "id": 5239,
+        "title": "Andrott",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1360,
+        "id": 5240,
+        "title": "Kavaratti",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1361,
+    "difficulty": 2,
+    "title": "Lakshadweep is the smallest Union Territory of India in terms of:",
+    "description": "",
+    "hint": "Consider geographical size.",
+    "summary": "Lakshadweep is the smallest Union Territory of India by area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Geography,Union Territories",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1361,
+        "id": 5241,
+        "title": "Population",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1361,
+        "id": 5242,
+        "title": "Area",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1361,
+        "id": 5243,
+        "title": "Number of islands",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1361,
+        "id": 5244,
+        "title": "Coastline length",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1067,
+    "difficulty": 2,
+    "title": "Which state is known as the 'Apple State of India'?",
+    "description": "",
+    "hint": "Shimla is located here.",
+    "summary": "Himachal Pradesh is known as the Apple State of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Horticulture,Nicknames",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1067,
+        "id": 4065,
+        "title": "Jammu and Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1067,
+        "id": 4066,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1067,
+        "id": 4067,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1067,
+        "id": 4068,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1068,
+    "difficulty": 2,
+    "title": "Which state has the largest population of tribal people?",
+    "description": "",
+    "hint": "It is located in central India.",
+    "summary": "Madhya Pradesh has the largest tribal population in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Tribes,Demography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1068,
+        "id": 4069,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1068,
+        "id": 4070,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1068,
+        "id": 4071,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1068,
+        "id": 4072,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "difficulty": 2,
+    "title": "Which Indian state is the leading producer of silk?",
+    "description": "",
+    "hint": "Bengaluru is its capital.",
+    "summary": "Karnataka is India's leading producer of silk.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Industries,Sericulture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1069,
+        "id": 4073,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1069,
+        "id": 4074,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1069,
+        "id": 4075,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1069,
+        "id": 4076,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "difficulty": 2,
+    "title": "Which Indian state is known as the 'Land of Festivals'?",
+    "description": "",
+    "hint": "It is a northeastern state.",
+    "summary": "Nagaland is popularly known as the Land of Festivals.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Culture,Northeast India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1070,
+        "id": 4077,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4078,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4079,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4080,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "difficulty": 2,
+    "title": "Which Indian state has the largest area under mangrove forests?",
+    "description": "",
+    "hint": "It is located in eastern India.",
+    "summary": "West Bengal has the largest mangrove forest area in India due to the Sundarbans.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Forests,Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1071,
+        "id": 4081,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1071,
+        "id": 4082,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1071,
+        "id": 4083,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1071,
+        "id": 4084,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1072,
+    "difficulty": 2,
+    "title": "Which state is the largest producer of bamboo in India?",
+    "description": "",
+    "hint": "It is located in Northeast India.",
+    "summary": "Assam is India's leading producer of bamboo.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Forestry,Resources",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1072,
+        "id": 4085,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1072,
+        "id": 4086,
+        "title": "Tripura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1072,
+        "id": 4087,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1072,
+        "id": 4088,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "difficulty": 3,
+    "title": "Keoladeo National Park is especially famous for which category of animals?",
+    "description": "",
+    "hint": "Many migratory species visit annually.",
+    "summary": "Keoladeo is internationally recognized as a bird sanctuary.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Keoladeo,Birds,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 331,
+        "id": 1121,
+        "title": "Reptiles",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 331,
+        "id": 1122,
+        "title": "Birds",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 331,
+        "id": 1123,
+        "title": "Big Cats",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 331,
+        "id": 1124,
+        "title": "Primates",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "difficulty": 3,
+    "title": "Valley of Flowers National Park is located in which state?",
+    "description": "",
+    "hint": "The state is known as Devbhoomi.",
+    "summary": "Valley of Flowers is renowned for its alpine meadows and endemic flora.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Valley of Flowers,Uttarakhand,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 332,
+        "id": 1125,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 332,
+        "id": 1126,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 332,
+        "id": 1127,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 332,
+        "id": 1128,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "difficulty": 4,
+    "title": "Nanda Devi National Park and Valley of Flowers together form which UNESCO property?",
+    "description": "",
+    "hint": "The name includes a famous Himalayan peak.",
+    "summary": "The combined UNESCO site is called Nanda Devi and Valley of Flowers National Parks.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Nanda Devi,Valley of Flowers,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 333,
+        "id": 1129,
+        "title": "Great Himalayan Landscape",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 333,
+        "id": 1130,
+        "title": "Nanda Devi and Valley of Flowers National Parks",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 333,
+        "id": 1131,
+        "title": "Western Himalayan Heritage Site",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 333,
+        "id": 1132,
+        "title": "Himalayan Biosphere Complex",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "difficulty": 3,
+    "title": "Sundarbans National Park is famous for which animal?",
+    "description": "",
+    "hint": "It is the national animal of India.",
+    "summary": "The Sundarbans contain one of the largest populations of Royal Bengal Tigers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Sundarbans,Tiger,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 334,
+        "id": 1133,
+        "title": "Indian Rhinoceros",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 334,
+        "id": 1134,
+        "title": "Royal Bengal Tiger",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 334,
+        "id": 1135,
+        "title": "Asiatic Lion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 334,
+        "id": 1136,
+        "title": "Leopard",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "difficulty": 4,
+    "title": "Sundarbans is the world's largest ecosystem of which type?",
+    "description": "",
+    "hint": "Trees here can tolerate saline water.",
+    "summary": "The Sundarbans contain the world's largest mangrove forest.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Sundarbans,Mangroves,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 335,
+        "id": 1137,
+        "title": "Coral Reef",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 335,
+        "id": 1138,
+        "title": "Mangrove Forest",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 335,
+        "id": 1139,
+        "title": "Grassland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 335,
+        "id": 1140,
+        "title": "Temperate Forest",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1524,
+    "difficulty": 2,
+    "title": "Which was the last ruling dynasty of Vijayanagara?",
+    "description": "Which dynasty was the fourth and final major ruling dynasty of Vijayanagara?",
+    "hint": "It followed the Tuluva dynasty.",
+    "summary": "The Aravidu dynasty was the last major ruling dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Aravidu Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1524,
+        "id": 5893,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5894,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5895,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5896,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1525,
+    "difficulty": 2,
+    "title": "Who founded the Aravidu dynasty?",
+    "description": "Who established the Aravidu dynasty after the Battle of Talikota?",
+    "hint": "He was the younger brother of Aliya Rama Raya.",
+    "summary": "Tirumala Deva Raya established the Aravidu dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Aravidu Dynasty,Tirumala Deva Raya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1525,
+        "id": 5897,
+        "title": "Tirumala Deva Raya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1525,
+        "id": 5898,
+        "title": "Sadasiva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1525,
+        "id": 5899,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1525,
+        "id": 5900,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1526,
+    "difficulty": 2,
+    "title": "Which monument at Hampi is famous for its stone chariot?",
+    "description": "Which Vijayanagara monument contains the famous stone chariot at Hampi?",
+    "hint": "It is dedicated to Lord Vishnu's form Vithoba/Vittala.",
+    "summary": "The Vittala Temple at Hampi is famous for its stone chariot.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Vittala Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1526,
+        "id": 5901,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1526,
+        "id": 5902,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1526,
+        "id": 5903,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1526,
+        "id": 5904,
+        "title": "Achyutaraya Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1527,
+    "difficulty": 2,
+    "title": "Which temple at Hampi is dedicated to Virupaksha?",
+    "description": "Which famous temple complex at Hampi is dedicated to Lord Virupaksha?",
+    "hint": "It is located near the Hampi Bazaar.",
+    "summary": "The Virupaksha Temple is one of the most important temples at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Virupaksha Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1527,
+        "id": 5905,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1527,
+        "id": 5906,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1527,
+        "id": 5907,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1527,
+        "id": 5908,
+        "title": "Krishna Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "difficulty": 4,
+    "title": "82. Which case established that Parliament cannot alter the Basic Structure of the Constitution?",
+    "description": "",
+    "hint": "The judgment was delivered by the largest constitutional bench in Indian history.",
+    "summary": "The Kesavananda Bharati case established the Basic Structure Doctrine.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Judiciary,Basic Structure,Landmark Cases,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "errorMessage": null,
+    "options": [
+      {
+        "questionId": 82,
+        "id": 325,
+        "title": "Kesavananda Bharati Case",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 82,
+        "id": 326,
+        "title": "S.R. Bommai Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 82,
+        "id": 327,
+        "title": "Golaknath Case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 82,
+        "id": 328,
+        "title": "Maneka Gandhi Case",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "difficulty": 4,
+    "title": "83. Which Article deals with the amendment of the Constitution?",
+    "description": "",
+    "hint": "This Article lays down the procedure for constitutional amendments.",
+    "summary": "Article 368 specifies the procedure for amending the Constitution.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Constitutional Amendments,Article 368,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 83,
+        "id": 329,
+        "title": "Article 368",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 83,
+        "id": 330,
+        "title": "Article 352",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 83,
+        "id": 331,
+        "title": "Article 356",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 83,
+        "id": 332,
+        "title": "Article 324",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "difficulty": 4,
+    "title": "84. Which constitutional body conducts elections to Parliament and State Legislatures?",
+    "description": "",
+    "hint": "It is established under Article 324.",
+    "summary": "The Election Commission of India supervises and conducts elections.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Election Commission,Article 324,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 84,
+        "id": 333,
+        "title": "Election Commission of India",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 84,
+        "id": 334,
+        "title": "Finance Commission",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 84,
+        "id": 335,
+        "title": "UPSC",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 84,
+        "id": 336,
+        "title": "CAG",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "difficulty": 4,
+    "title": "85. Which writ commands a public authority to perform its legal duty?",
+    "description": "",
+    "hint": "Its Latin meaning is 'we command'.",
+    "summary": "Mandamus is issued to direct a public authority to perform its duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Writs,Judiciary,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 85,
+        "id": 337,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 85,
+        "id": 338,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 85,
+        "id": 339,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 85,
+        "id": 340,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "difficulty": 2,
+    "title": "426. Which Harappan site is famous for its dockyard?",
+    "description": "",
+    "hint": "Located in present-day Gujarat and associated with maritime trade.",
+    "summary": "Lothal is famous for its dockyard, which indicates overseas trade activities.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Indus Valley Civilization,Lothal,Dockyard,UPSC,RPSC,SSC,Bank PO",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 426,
+        "id": 1501,
+        "title": "Kalibangan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 426,
+        "id": 1502,
+        "title": "Lothal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 426,
+        "id": 1503,
+        "title": "Harappa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 426,
+        "id": 1504,
+        "title": "Banawali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "difficulty": 2,
+    "title": "427. In which present-day state is Lothal located?",
+    "description": "",
+    "hint": "The state has the longest coastline in India.",
+    "summary": "Lothal is located in Gujarat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Lothal,Gujarat,IVC,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 427,
+        "id": 1505,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 427,
+        "id": 1506,
+        "title": "Punjab",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 427,
+        "id": 1507,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 427,
+        "id": 1508,
+        "title": "Haryana",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "difficulty": 3,
+    "title": "428. Which Harappan site is known for its sophisticated water conservation system?",
+    "description": "",
+    "hint": "Located in the Rann of Kutch region.",
+    "summary": "Dholavira is renowned for its advanced water management and reservoir system.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Dholavira,Water Management,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 428,
+        "id": 1509,
+        "title": "Dholavira",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 428,
+        "id": 1510,
+        "title": "Ropar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 428,
+        "id": 1511,
+        "title": "Chanhudaro",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 428,
+        "id": 1512,
+        "title": "Amri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "difficulty": 3,
+    "title": "429. Which Harappan site yielded evidence of a large signboard with Indus script symbols?",
+    "description": "",
+    "hint": "It is one of the most important sites in Gujarat.",
+    "summary": "A large signboard with Indus script symbols was discovered at Dholavira.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Dholavira,Indus Script,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 429,
+        "id": 1513,
+        "title": "Kalibangan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 429,
+        "id": 1514,
+        "title": "Dholavira",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 429,
+        "id": 1515,
+        "title": "Harappa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 429,
+        "id": 1516,
+        "title": "Rakhigarhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 678,
+    "difficulty": 1,
+    "title": "678. The Hindu Kush Mountains are spread mainly across:",
+    "description": "",
+    "hint": "Think Afghanistan.",
+    "summary": "The Hindu Kush extends mainly through Afghanistan and northern Pakistan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Hindu Kush",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 678,
+        "id": 2509,
+        "title": "Afghanistan and Pakistan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 678,
+        "id": 2510,
+        "title": "India and Nepal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 678,
+        "id": 2511,
+        "title": "China and Mongolia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 678,
+        "id": 2512,
+        "title": "Iran and Iraq",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 679,
+    "difficulty": 1,
+    "title": "679. The Kunlun Mountains are located primarily in:",
+    "description": "",
+    "hint": "They lie north of the Tibetan Plateau.",
+    "summary": "The Kunlun Mountains are located mainly in western China.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Kunlun Mountains",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 679,
+        "id": 2513,
+        "title": "China",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 679,
+        "id": 2514,
+        "title": "Japan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 679,
+        "id": 2515,
+        "title": "Russia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 679,
+        "id": 2516,
+        "title": "India",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 680,
+    "difficulty": 1,
+    "title": "680. The Altai Mountains are located at the junction of which four countries?",
+    "description": "",
+    "hint": "Think Central and East Asia.",
+    "summary": "The Altai Mountains meet at Russia, China, Mongolia and Kazakhstan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Altai Mountains",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 680,
+        "id": 2517,
+        "title": "Russia, China, Mongolia and Kazakhstan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 680,
+        "id": 2518,
+        "title": "China, India, Nepal and Bhutan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 680,
+        "id": 2519,
+        "title": "Russia, Finland, Sweden and Norway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 680,
+        "id": 2520,
+        "title": "Kazakhstan, Uzbekistan, Turkmenistan and Kyrgyzstan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 681,
+    "difficulty": 1,
+    "title": "681. The Zagros Mountains are primarily located in which country?",
+    "description": "",
+    "hint": "This country lies between Iraq and Pakistan.",
+    "summary": "The Zagros Mountains extend mainly across western and southwestern Iran.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Zagros Mountains,Iran",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 681,
+        "id": 2521,
+        "title": "Turkey",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 681,
+        "id": 2522,
+        "title": "Iran",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 681,
+        "id": 2523,
+        "title": "Afghanistan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 681,
+        "id": 2524,
+        "title": "Saudi Arabia",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
