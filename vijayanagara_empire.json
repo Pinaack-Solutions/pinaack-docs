@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1501,
+    "difficulty": 2,
+    "title": "Who founded the Vijayanagara Empire?",
+    "description": "Who founded the Vijayanagara Empire in 1336?",
+    "hint": "The founders were two brothers.",
+    "summary": "Harihara I and Bukka I founded the Vijayanagara Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1501,
+        "id": 5801,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1501,
+        "id": 5802,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1501,
+        "id": 5803,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1501,
+        "id": 5804,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1502,
+    "difficulty": 2,
+    "title": "When was the Vijayanagara Empire founded?",
+    "description": "In which year was the Vijayanagara Empire traditionally founded?",
+    "hint": "It was founded in the 14th century.",
+    "summary": "The Vijayanagara Empire was founded in 1336.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1502,
+        "id": 5805,
+        "title": "1320",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1502,
+        "id": 5806,
+        "title": "1356",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1502,
+        "id": 5807,
+        "title": "1336",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1502,
+        "id": 5808,
+        "title": "1377",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1503,
+    "difficulty": 2,
+    "title": "What was the capital of the Vijayanagara Empire?",
+    "description": "Which city served as the principal capital of the Vijayanagara Empire?",
+    "hint": "The ruins are located in present-day Karnataka.",
+    "summary": "Vijayanagara, located at present-day Hampi, was the capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1503,
+        "id": 5809,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1503,
+        "id": 5810,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1503,
+        "id": 5811,
+        "title": "Warangal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1503,
+        "id": 5812,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1504,
+    "difficulty": 2,
+    "title": "In which present-day state was Vijayanagara located?",
+    "description": "The core territory of the Vijayanagara Empire was centered in which present-day Indian state?",
+    "hint": "Hampi is located in this state.",
+    "summary": "The Vijayanagara capital was located in present-day Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Karnataka,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1504,
+        "id": 5813,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1504,
+        "id": 5814,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1504,
+        "id": 5815,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1504,
+        "id": 5816,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1505,
+    "difficulty": 2,
+    "title": "Which river flowed near the capital of Vijayanagara?",
+    "description": "Which major river flowed beside the Vijayanagara capital at Hampi?",
+    "hint": "It is one of the major rivers of the Deccan.",
+    "summary": "The Tungabhadra River flowed beside Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Tungabhadra,Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1505,
+        "id": 5817,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1505,
+        "id": 5818,
+        "title": "Tungabhadra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1505,
+        "id": 5819,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1505,
+        "id": 5820,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1506,
+    "difficulty": 2,
+    "title": "Which was the first ruling dynasty of Vijayanagara?",
+    "description": "Which dynasty was the first of the four major ruling dynasties of Vijayanagara?",
+    "hint": "It was the dynasty of the founders.",
+    "summary": "The Sangama dynasty was the first ruling dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Sangama Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1506,
+        "id": 5821,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1506,
+        "id": 5822,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1506,
+        "id": 5823,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1506,
+        "id": 5824,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1507,
+    "difficulty": 2,
+    "title": "Which dynasty succeeded the Sangama dynasty?",
+    "description": "Which dynasty replaced the Sangama dynasty in Vijayanagara?",
+    "hint": "It was the second major ruling dynasty.",
+    "summary": "The Saluva dynasty succeeded the Sangama dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Saluva Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1507,
+        "id": 5825,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1507,
+        "id": 5826,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1507,
+        "id": 5827,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1507,
+        "id": 5828,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1508,
+    "difficulty": 2,
+    "title": "Which dynasty did Krishnadevaraya belong to?",
+    "description": "Krishnadevaraya, the most famous Vijayanagara ruler, belonged to which dynasty?",
+    "hint": "He was a ruler of the third dynasty.",
+    "summary": "Krishnadevaraya belonged to the Tuluva dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,Tuluva Dynasty",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1508,
+        "id": 5829,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1508,
+        "id": 5830,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1508,
+        "id": 5831,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1508,
+        "id": 5832,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1509,
+    "difficulty": 2,
+    "title": "Who was the most famous ruler of Vijayanagara?",
+    "description": "Which ruler is widely regarded as the greatest ruler of the Vijayanagara Empire?",
+    "hint": "He belonged to the Tuluva dynasty.",
+    "summary": "Krishnadevaraya was the most famous ruler of Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1509,
+        "id": 5833,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1509,
+        "id": 5834,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1509,
+        "id": 5835,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1509,
+        "id": 5836,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1510,
+    "difficulty": 2,
+    "title": "When did Krishnadevaraya become ruler?",
+    "description": "In which year did Krishnadevaraya ascend the throne of Vijayanagara?",
+    "hint": "His reign began in the early 16th century.",
+    "summary": "Krishnadevaraya ascended the throne in 1509.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1510,
+        "id": 5837,
+        "title": "1498",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1510,
+        "id": 5838,
+        "title": "1509",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1510,
+        "id": 5839,
+        "title": "1526",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1510,
+        "id": 5840,
+        "title": "1542",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1511,
+    "difficulty": 2,
+    "title": "Which title is associated with Krishnadevaraya?",
+    "description": "Which famous honorific title is traditionally associated with Krishnadevaraya?",
+    "hint": "The title compares him with Bhoja.",
+    "summary": "Krishnadevaraya is traditionally known as Andhra Bhoja.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1511,
+        "id": 5841,
+        "title": "Andhra Bhoja",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1511,
+        "id": 5842,
+        "title": "Dakshina Patheshwara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1511,
+        "id": 5843,
+        "title": "Kaviraja",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1511,
+        "id": 5844,
+        "title": "Rajadhiraja",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1512,
+    "difficulty": 2,
+    "title": "Which literary work was written by Krishnadevaraya?",
+    "description": "Which famous Telugu literary work was authored by Krishnadevaraya?",
+    "hint": "The title begins with 'Amukta'.",
+    "summary": "Amuktamalyada was written by Krishnadevaraya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,Telugu Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1512,
+        "id": 5845,
+        "title": "Manucharitramu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1512,
+        "id": 5846,
+        "title": "Amuktamalyada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1512,
+        "id": 5847,
+        "title": "Madhura Vijayam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1512,
+        "id": 5848,
+        "title": "Prabhavati Pradyumnamu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1513,
+    "difficulty": 2,
+    "title": "In which language was Amuktamalyada written?",
+    "description": "Krishnadevaraya wrote Amuktamalyada primarily in which language?",
+    "hint": "It is a major South Indian literary language.",
+    "summary": "Amuktamalyada was written in Telugu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Telugu,Krishnadevaraya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1513,
+        "id": 5849,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5850,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5851,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1513,
+        "id": 5852,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1514,
+    "difficulty": 2,
+    "title": "Who were the Ashtadiggajas?",
+    "description": "The Ashtadiggajas were associated with the court of which Vijayanagara ruler?",
+    "hint": "They were eight celebrated Telugu poets.",
+    "summary": "The Ashtadiggajas were eight celebrated Telugu poets associated with Krishnadevaraya's court.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Ashtadiggajas,Telugu Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1514,
+        "id": 5853,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1514,
+        "id": 5854,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1514,
+        "id": 5855,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1514,
+        "id": 5856,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1515,
+    "difficulty": 2,
+    "title": "Who was Allasani Peddana?",
+    "description": "Allasani Peddana was a famous poet associated with which ruler's court?",
+    "hint": "He was considered one of the Ashtadiggajas.",
+    "summary": "Allasani Peddana was a celebrated poet in Krishnadevaraya's court.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Allasani Peddana,Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1515,
+        "id": 5857,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1515,
+        "id": 5858,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1515,
+        "id": 5859,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1515,
+        "id": 5860,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1516,
+    "difficulty": 2,
+    "title": "Which work is associated with Allasani Peddana?",
+    "description": "Which literary work was composed by Allasani Peddana?",
+    "hint": "It is a celebrated Telugu prabandha.",
+    "summary": "Manucharitramu is associated with Allasani Peddana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Allasani Peddana,Telugu Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1516,
+        "id": 5861,
+        "title": "Amuktamalyada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1516,
+        "id": 5862,
+        "title": "Manucharitramu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1516,
+        "id": 5863,
+        "title": "Madhura Vijayam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1516,
+        "id": 5864,
+        "title": "Rajatarangini",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1517,
+    "difficulty": 2,
+    "title": "Which Portuguese traveller visited Vijayanagara during Krishnadevaraya's reign?",
+    "description": "Which Portuguese traveller left an important account of Vijayanagara during the reign of Krishnadevaraya?",
+    "hint": "His name begins with Domingo.",
+    "summary": "Domingo Paes visited Vijayanagara during Krishnadevaraya's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Domingo Paes,Travellers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1517,
+        "id": 5865,
+        "title": "Niccolo Conti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1517,
+        "id": 5866,
+        "title": "Abdur Razzaq",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1517,
+        "id": 5867,
+        "title": "Domingo Paes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1517,
+        "id": 5868,
+        "title": "Ibn Battuta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1518,
+    "difficulty": 2,
+    "title": "Who was Fernao Nuniz?",
+    "description": "Fernao Nuniz was a traveller who visited Vijayanagara during the reign of which ruler?",
+    "hint": "He visited during the period following Krishnadevaraya.",
+    "summary": "Fernao Nuniz visited Vijayanagara during the reign of Achyuta Deva Raya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Fernao Nuniz,Travellers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1518,
+        "id": 5869,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1518,
+        "id": 5870,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1518,
+        "id": 5871,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1518,
+        "id": 5872,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1519,
+    "difficulty": 2,
+    "title": "Which Persian traveller visited Vijayanagara in the 15th century?",
+    "description": "Which Persian envoy and traveller visited Vijayanagara during the reign of Devaraya II?",
+    "hint": "He was an envoy from the Timurid court.",
+    "summary": "Abdur Razzaq visited Vijayanagara during the reign of Devaraya II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Abdur Razzaq,Travellers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1519,
+        "id": 5873,
+        "title": "Domingo Paes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1519,
+        "id": 5874,
+        "title": "Abdur Razzaq",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1519,
+        "id": 5875,
+        "title": "Fernao Nuniz",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1519,
+        "id": 5876,
+        "title": "Niccolo Conti",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1520,
+    "difficulty": 2,
+    "title": "Which Italian traveller visited Vijayanagara?",
+    "description": "Which Italian traveller visited Vijayanagara in the 15th century?",
+    "hint": "He was a traveller from Venice.",
+    "summary": "Niccolo Conti visited Vijayanagara in the 15th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Niccolo Conti,Travellers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1520,
+        "id": 5877,
+        "title": "Abdur Razzaq",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1520,
+        "id": 5878,
+        "title": "Domingo Paes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1520,
+        "id": 5879,
+        "title": "Fernao Nuniz",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1520,
+        "id": 5880,
+        "title": "Niccolo Conti",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1521,
+    "difficulty": 2,
+    "title": "Which battle led to the decline of Vijayanagara?",
+    "description": "Which battle in 1565 dealt a major blow to the Vijayanagara Empire?",
+    "hint": "It was fought near Talikota.",
+    "summary": "The Battle of Talikota in 1565 dealt a major blow to Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Talikota,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1521,
+        "id": 5881,
+        "title": "Battle of Talikota",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1521,
+        "id": 5882,
+        "title": "Battle of Panipat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1521,
+        "id": 5883,
+        "title": "Battle of Plassey",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1521,
+        "id": 5884,
+        "title": "Battle of Khanwa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1522,
+    "difficulty": 2,
+    "title": "Who led Vijayanagara forces at the Battle of Talikota?",
+    "description": "Who was the influential Vijayanagara regent who led the empire's forces at Talikota?",
+    "hint": "He was the brother-in-law of Sadasiva Raya.",
+    "summary": "Aliya Rama Raya led the Vijayanagara forces at the Battle of Talikota.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Rama Raya,Talikota",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1522,
+        "id": 5885,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1522,
+        "id": 5886,
+        "title": "Aliya Rama Raya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1522,
+        "id": 5887,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1522,
+        "id": 5888,
+        "title": "Tirumala Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1523,
+    "difficulty": 2,
+    "title": "Which dynasty ruled Vijayanagara during the Battle of Talikota?",
+    "description": "The ruler Sadasiva Raya belonged nominally to which dynasty?",
+    "hint": "It was the third major Vijayanagara dynasty.",
+    "summary": "Sadasiva Raya belonged to the Tuluva dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Tuluva Dynasty,Talikota",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1523,
+        "id": 5889,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1523,
+        "id": 5890,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1523,
+        "id": 5891,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1523,
+        "id": 5892,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1524,
+    "difficulty": 2,
+    "title": "Which was the last ruling dynasty of Vijayanagara?",
+    "description": "Which dynasty was the fourth and final major ruling dynasty of Vijayanagara?",
+    "hint": "It followed the Tuluva dynasty.",
+    "summary": "The Aravidu dynasty was the last major ruling dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Aravidu Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1524,
+        "id": 5893,
+        "title": "Saluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5894,
+        "title": "Sangama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5895,
+        "title": "Tuluva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1524,
+        "id": 5896,
+        "title": "Aravidu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1525,
+    "difficulty": 2,
+    "title": "Who founded the Aravidu dynasty?",
+    "description": "Who established the Aravidu dynasty after the Battle of Talikota?",
+    "hint": "He was the younger brother of Aliya Rama Raya.",
+    "summary": "Tirumala Deva Raya established the Aravidu dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Aravidu Dynasty,Tirumala Deva Raya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1525,
+        "id": 5897,
+        "title": "Tirumala Deva Raya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1525,
+        "id": 5898,
+        "title": "Sadasiva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1525,
+        "id": 5899,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1525,
+        "id": 5900,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1526,
+    "difficulty": 2,
+    "title": "Which monument at Hampi is famous for its stone chariot?",
+    "description": "Which Vijayanagara monument contains the famous stone chariot at Hampi?",
+    "hint": "It is dedicated to Lord Vishnu's form Vithoba/Vittala.",
+    "summary": "The Vittala Temple at Hampi is famous for its stone chariot.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Vittala Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1526,
+        "id": 5901,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1526,
+        "id": 5902,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1526,
+        "id": 5903,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1526,
+        "id": 5904,
+        "title": "Achyutaraya Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1527,
+    "difficulty": 2,
+    "title": "Which temple at Hampi is dedicated to Virupaksha?",
+    "description": "Which famous temple complex at Hampi is dedicated to Lord Virupaksha?",
+    "hint": "It is located near the Hampi Bazaar.",
+    "summary": "The Virupaksha Temple is one of the most important temples at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Virupaksha Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1527,
+        "id": 5905,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1527,
+        "id": 5906,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1527,
+        "id": 5907,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1527,
+        "id": 5908,
+        "title": "Krishna Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1528,
+    "difficulty": 2,
+    "title": "Who built the Krishna Temple at Hampi?",
+    "description": "The Krishna Temple at Hampi was built by which Vijayanagara ruler?",
+    "hint": "The temple commemorated a military victory in eastern Andhra.",
+    "summary": "Krishnadevaraya built the Krishna Temple at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Krishna Temple,Krishnadevaraya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1528,
+        "id": 5909,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1528,
+        "id": 5910,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1528,
+        "id": 5911,
+        "title": "Harihara II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1528,
+        "id": 5912,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1529,
+    "difficulty": 2,
+    "title": "Which temple at Hampi is known for Ramayana panels?",
+    "description": "Which Vijayanagara temple is particularly noted for extensive Ramayana-related carvings?",
+    "hint": "Its name refers to a large number of depictions.",
+    "summary": "The Hazara Rama Temple is known for its Ramayana panels.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Hazara Rama Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1529,
+        "id": 5913,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1529,
+        "id": 5914,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1529,
+        "id": 5915,
+        "title": "Krishna Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1529,
+        "id": 5916,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1530,
+    "difficulty": 2,
+    "title": "Which architectural style dominates Vijayanagara temples?",
+    "description": "The major temples of Vijayanagara are primarily associated with which South Indian architectural tradition?",
+    "hint": "It developed prominently in South India.",
+    "summary": "Vijayanagara temples are primarily associated with the Dravidian architectural tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Architecture,Dravidian Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1530,
+        "id": 5917,
+        "title": "Nagara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1530,
+        "id": 5918,
+        "title": "Vesara style",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1530,
+        "id": 5919,
+        "title": "Dravidian style",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1530,
+        "id": 5920,
+        "title": "Indo-Islamic style",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1531,
+    "difficulty": 2,
+    "title": "What are gopurams?",
+    "description": "What architectural feature became particularly prominent in Vijayanagara temple complexes?",
+    "hint": "They are monumental entrance towers.",
+    "summary": "Gopurams are monumental gateway towers commonly found in South Indian temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Architecture,Gopurams",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1531,
+        "id": 5921,
+        "title": "Temple gateway towers",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1531,
+        "id": 5922,
+        "title": "Temple water tanks",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1531,
+        "id": 5923,
+        "title": "Royal bedrooms",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1531,
+        "id": 5924,
+        "title": "Underground chambers",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1532,
+    "difficulty": 2,
+    "title": "What was the Queen's Bath at Hampi?",
+    "description": "The Queen's Bath at Hampi is best described as what type of structure?",
+    "hint": "It is a large enclosed water structure.",
+    "summary": "The Queen's Bath is a large royal bathing structure at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1532,
+        "id": 5925,
+        "title": "Military fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1532,
+        "id": 5926,
+        "title": "Royal bathing structure",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1532,
+        "id": 5927,
+        "title": "Market street",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1532,
+        "id": 5928,
+        "title": "Temple tower",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1533,
+    "difficulty": 2,
+    "title": "What is the Lotus Mahal?",
+    "description": "The Lotus Mahal at Hampi is a distinctive structure associated with which architectural complex?",
+    "hint": "It is located in the Zenana Enclosure.",
+    "summary": "The Lotus Mahal is an ornate structure in the Zenana Enclosure at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Lotus Mahal,Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1533,
+        "id": 5929,
+        "title": "Zenana Enclosure",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1533,
+        "id": 5930,
+        "title": "Royal Market",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1533,
+        "id": 5931,
+        "title": "Vittala Complex",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1533,
+        "id": 5932,
+        "title": "Virupaksha Complex",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1534,
+    "difficulty": 2,
+    "title": "What was the Elephant Stables at Hampi used for?",
+    "description": "The famous Elephant Stables at Hampi were built primarily to house what?",
+    "hint": "The name gives away the purpose.",
+    "summary": "The Elephant Stables were used to house royal elephants.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Elephant Stables",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1534,
+        "id": 5933,
+        "title": "Horses",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1534,
+        "id": 5934,
+        "title": "Elephants",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1534,
+        "id": 5935,
+        "title": "Cattle",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1534,
+        "id": 5936,
+        "title": "Camels",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1535,
+    "difficulty": 2,
+    "title": "What was the Mahanavami Dibba?",
+    "description": "The Mahanavami Dibba at Hampi was mainly associated with what?",
+    "hint": "It was used for royal ceremonial activities.",
+    "summary": "The Mahanavami Dibba was a large ceremonial platform used for royal functions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Mahanavami Dibba",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1535,
+        "id": 5937,
+        "title": "Royal ceremonies",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1535,
+        "id": 5938,
+        "title": "Horse stables",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1535,
+        "id": 5939,
+        "title": "Temple kitchen",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1535,
+        "id": 5940,
+        "title": "Military barracks",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1536,
+    "difficulty": 2,
+    "title": "Which festival was associated with the Mahanavami Dibba?",
+    "description": "The Mahanavami Dibba was associated with celebrations of which major festival?",
+    "hint": "It is celebrated during the Navaratri period.",
+    "summary": "The Mahanavami festival was celebrated with royal ceremonies at the Mahanavami Dibba.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Mahanavami,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1536,
+        "id": 5941,
+        "title": "Holi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1536,
+        "id": 5942,
+        "title": "Mahanavami",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1536,
+        "id": 5943,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1536,
+        "id": 5944,
+        "title": "Baisakhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1537,
+    "difficulty": 2,
+    "title": "Against whom did Krishnadevaraya campaign in Odisha?",
+    "description": "Krishnadevaraya fought major campaigns against which eastern Indian kingdom?",
+    "hint": "The ruler belonged to the Gajapati dynasty.",
+    "summary": "Krishnadevaraya fought the Gajapati rulers of Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,Gajapati,Odisha",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1537,
+        "id": 5945,
+        "title": "Gajapati Kingdom",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1537,
+        "id": 5946,
+        "title": "Chola Kingdom",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1537,
+        "id": 5947,
+        "title": "Pala Kingdom",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1537,
+        "id": 5948,
+        "title": "Chera Kingdom",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1538,
+    "difficulty": 2,
+    "title": "Which fort was captured by Krishnadevaraya from the Gajapatis?",
+    "description": "Which important fort in present-day Andhra Pradesh was captured by Krishnadevaraya during his eastern campaign?",
+    "hint": "It is located in present-day Andhra Pradesh.",
+    "summary": "Krishnadevaraya captured Udayagiri during his campaign against the Gajapatis.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Krishnadevaraya,Udayagiri",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1538,
+        "id": 5949,
+        "title": "Raichur Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1538,
+        "id": 5950,
+        "title": "Udayagiri Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1538,
+        "id": 5951,
+        "title": "Golconda Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1538,
+        "id": 5952,
+        "title": "Gingee Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1539,
+    "difficulty": 2,
+    "title": "Which neighbouring power frequently fought Vijayanagara in its early period?",
+    "description": "Which northern Deccan state was a major rival of Vijayanagara during its early history?",
+    "hint": "Its capital was Gulbarga and later Bidar.",
+    "summary": "The Bahmani Sultanate was a major rival of Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Bahmani Sultanate,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1539,
+        "id": 5953,
+        "title": "Bahmani Sultanate",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1539,
+        "id": 5954,
+        "title": "Mughal Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1539,
+        "id": 5955,
+        "title": "Maratha Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1539,
+        "id": 5956,
+        "title": "Sikh Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1540,
+    "difficulty": 2,
+    "title": "Which powers fought against Vijayanagara at Talikota?",
+    "description": "The Vijayanagara Empire was defeated at Talikota by an alliance of which Deccan Sultanates?",
+    "hint": "The alliance came from the Deccan.",
+    "summary": "The Deccan Sultanates formed the alliance that defeated Vijayanagara at Talikota.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Talikota,Deccan Sultanates",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1540,
+        "id": 5957,
+        "title": "Deccan Sultanates",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1540,
+        "id": 5958,
+        "title": "Mughal and Rajput states",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1540,
+        "id": 5959,
+        "title": "Chola and Chera kingdoms",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1540,
+        "id": 5960,
+        "title": "Maratha and Sikh states",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1541,
+    "difficulty": 2,
+    "title": "Which traveller described the wealth of Vijayanagara under Krishnadevaraya?",
+    "description": "Which Portuguese traveller gave an important description of Vijayanagara during Krishnadevaraya's reign?",
+    "hint": "He was a Portuguese traveller.",
+    "summary": "Domingo Paes described the wealth and grandeur of Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Domingo Paes,Krishnadevaraya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1541,
+        "id": 5961,
+        "title": "Niccolo Conti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1541,
+        "id": 5962,
+        "title": "Domingo Paes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1541,
+        "id": 5963,
+        "title": "Abdur Razzaq",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1541,
+        "id": 5964,
+        "title": "Fernao Nuniz",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1542,
+    "difficulty": 2,
+    "title": "What did Abdur Razzaq emphasize about Vijayanagara?",
+    "description": "Abdur Razzaq's account of Vijayanagara particularly noted the city's extensive fortifications and grandeur.",
+    "hint": "Think about the city's defensive structures.",
+    "summary": "Abdur Razzaq described the impressive scale and fortifications of Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Abdur Razzaq,Travellers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1542,
+        "id": 5965,
+        "title": "Extensive fortifications",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1542,
+        "id": 5966,
+        "title": "Large naval fleet",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1542,
+        "id": 5967,
+        "title": "Snow-covered mountains",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1542,
+        "id": 5968,
+        "title": "Desert settlements",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1543,
+    "difficulty": 2,
+    "title": "What was the Nayankara system?",
+    "description": "The Nayankara system in Vijayanagara was primarily associated with what?",
+    "hint": "It involved military chiefs receiving territories.",
+    "summary": "The Nayankara system involved granting territories to military chiefs called Nayakas in return for service.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Nayankara System,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1543,
+        "id": 5969,
+        "title": "Temple construction only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1543,
+        "id": 5970,
+        "title": "Naval administration",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1543,
+        "id": 5971,
+        "title": "Military-territorial administration",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1543,
+        "id": 5972,
+        "title": "Foreign trade regulation only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1544,
+    "difficulty": 2,
+    "title": "Who were the Nayakas?",
+    "description": "Who were the Nayakas in the Vijayanagara administrative system?",
+    "hint": "They were powerful military chiefs.",
+    "summary": "Nayakas were military chiefs who controlled assigned territories and provided military service.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Nayakas,Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1544,
+        "id": 5973,
+        "title": "Foreign merchants",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1544,
+        "id": 5974,
+        "title": "Military chiefs",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1544,
+        "id": 5975,
+        "title": "Temple priests",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1544,
+        "id": 5976,
+        "title": "Portuguese governors",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1545,
+    "difficulty": 2,
+    "title": "Who succeeded Harihara I?",
+    "description": "Who succeeded Harihara I as an important early ruler of Vijayanagara?",
+    "hint": "He was the other founder-brother.",
+    "summary": "Bukka I succeeded Harihara I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Bukka I,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1545,
+        "id": 5977,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1545,
+        "id": 5978,
+        "title": "Devaraya I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1545,
+        "id": 5979,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1545,
+        "id": 5980,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1546,
+    "difficulty": 2,
+    "title": "Who succeeded Harihara I as ruler?",
+    "description": "Which founder-brother became ruler of Vijayanagara after Harihara I?",
+    "hint": "He was the second founder-brother.",
+    "summary": "Bukka I succeeded Harihara I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Harihara I,Bukka I",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1546,
+        "id": 5981,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1546,
+        "id": 5982,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1546,
+        "id": 5983,
+        "title": "Achyuta Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1546,
+        "id": 5984,
+        "title": "Sadasiva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1547,
+    "difficulty": 2,
+    "title": "Who was one of the most powerful rulers of the Sangama dynasty?",
+    "description": "Which Sangama ruler is known for strengthening Vijayanagara and expanding its influence?",
+    "hint": "He was the second Deva Raya.",
+    "summary": "Devaraya II was one of the most powerful rulers of the Sangama dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Devaraya II,Sangama Dynasty",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1547,
+        "id": 5985,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1547,
+        "id": 5986,
+        "title": "Saluva Narasimha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1547,
+        "id": 5987,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1547,
+        "id": 5988,
+        "title": "Tirumala Deva Raya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1548,
+    "difficulty": 2,
+    "title": "Who visited Vijayanagara during the reign of Devaraya II?",
+    "description": "Which Persian traveller visited the court of Devaraya II?",
+    "hint": "He was an envoy from Persia.",
+    "summary": "Abdur Razzaq visited Vijayanagara during Devaraya II's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Devaraya II,Abdur Razzaq",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1548,
+        "id": 5989,
+        "title": "Niccolo Conti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1548,
+        "id": 5990,
+        "title": "Fernao Nuniz",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1548,
+        "id": 5991,
+        "title": "Abdur Razzaq",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1548,
+        "id": 5992,
+        "title": "Domingo Paes",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1549,
+    "difficulty": 2,
+    "title": "Which deity was particularly associated with the Vijayanagara state?",
+    "description": "Which form of Shiva was the chief deity of the Virupaksha Temple and an important state cult at Vijayanagara?",
+    "hint": "The famous temple at Hampi bears this deity's name.",
+    "summary": "Virupaksha, a form of Shiva, was an important deity at Vijayanagara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Virupaksha,Religion",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1549,
+        "id": 5993,
+        "title": "Vishnu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1549,
+        "id": 5994,
+        "title": "Virupaksha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1549,
+        "id": 5995,
+        "title": "Surya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1549,
+        "id": 5996,
+        "title": "Indra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1550,
+    "difficulty": 2,
+    "title": "What is the UNESCO World Heritage Site associated with Vijayanagara?",
+    "description": "What is the official UNESCO World Heritage Site name for the historic remains of Vijayanagara?",
+    "hint": "It is named after the modern location of the ruins.",
+    "summary": "The Group of Monuments at Hampi is a UNESCO World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,UNESCO,Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1550,
+        "id": 5997,
+        "title": "Group of Monuments at Hampi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1550,
+        "id": 5998,
+        "title": "Great Living Chola Temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1550,
+        "id": 5999,
+        "title": "Pattadakal Group of Monuments",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1550,
+        "id": 6000,
+        "title": "Mahabalipuram Monuments",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
