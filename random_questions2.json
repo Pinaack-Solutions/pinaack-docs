@@ -1,0 +1,2957 @@
+[
+  {
+    "id": 1068,
+    "difficulty": 2,
+    "title": "1068. Which state has the largest population of tribal people?",
+    "description": "",
+    "hint": "It is located in central India.",
+    "summary": "Madhya Pradesh has the largest tribal population in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Tribes,Demography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1068,
+        "id": 4069,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1068,
+        "id": 4070,
+        "title": "Chhattisgarh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1068,
+        "id": 4071,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1068,
+        "id": 4072,
+        "title": "Jharkhand",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1069,
+    "difficulty": 2,
+    "title": "1069. Which Indian state is the leading producer of silk?",
+    "description": "",
+    "hint": "Bengaluru is its capital.",
+    "summary": "Karnataka is India's leading producer of silk.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Industries,Sericulture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1069,
+        "id": 4073,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1069,
+        "id": 4074,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1069,
+        "id": 4075,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1069,
+        "id": 4076,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1070,
+    "difficulty": 2,
+    "title": "1070. Which Indian state is known as the 'Land of Festivals'?",
+    "description": "",
+    "hint": "It is a northeastern state.",
+    "summary": "Nagaland is popularly known as the Land of Festivals.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Culture,Northeast India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1070,
+        "id": 4077,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4078,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4079,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1070,
+        "id": 4080,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1071,
+    "difficulty": 2,
+    "title": "1071. Which Indian state has the largest area under mangrove forests?",
+    "description": "",
+    "hint": "It is located in eastern India.",
+    "summary": "West Bengal has the largest mangrove forest area in India due to the Sundarbans.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Forests,Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1071,
+        "id": 4081,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1071,
+        "id": 4082,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1071,
+        "id": 4083,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1071,
+        "id": 4084,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "difficulty": 4,
+    "title": "322. Which UNESCO World Heritage Site marks the place where Buddha attained enlightenment?",
+    "description": "",
+    "hint": "The Mahabodhi Temple is located here.",
+    "summary": "Bodh Gaya is one of the holiest Buddhist pilgrimage sites.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Bodh Gaya,Buddhism,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 322,
+        "id": 1085,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 322,
+        "id": 1086,
+        "title": "Kushinagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 322,
+        "id": 1087,
+        "title": "Bodh Gaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 322,
+        "id": 1088,
+        "title": "Rajgir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "difficulty": 4,
+    "title": "323. Which UNESCO World Heritage Site in Rajasthan is famous for astronomical instruments?",
+    "description": "",
+    "hint": "Built by Sawai Jai Singh II.",
+    "summary": "Jantar Mantar in Jaipur is an astronomical observatory.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Jantar Mantar,Jaipur,Rajasthan,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 323,
+        "id": 1089,
+        "title": "Amer Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 323,
+        "id": 1090,
+        "title": "Jantar Mantar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 323,
+        "id": 1091,
+        "title": "City Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 323,
+        "id": 1092,
+        "title": "Nahargarh Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "difficulty": 4,
+    "title": "324. Jaipur became a UNESCO World Heritage City in which year?",
+    "description": "",
+    "hint": "The year was after 2018 and before 2020.",
+    "summary": "Jaipur was inscribed as a UNESCO World Heritage City in 2019.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Jaipur,World Heritage City,Rajasthan,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 324,
+        "id": 1093,
+        "title": "2018",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 324,
+        "id": 1094,
+        "title": "2020",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 324,
+        "id": 1095,
+        "title": "2019",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 324,
+        "id": 1096,
+        "title": "2021",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "difficulty": 5,
+    "title": "325. Which UNESCO World Heritage Site is known as the 'Pink City'?",
+    "description": "",
+    "hint": "It is the capital of Rajasthan.",
+    "summary": "Jaipur is popularly known as the Pink City and is a UNESCO World Heritage City.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Jaipur,Pink City,Rajasthan,RPSC,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 325,
+        "id": 1097,
+        "title": "Udaipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 325,
+        "id": 1098,
+        "title": "Jodhpur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 325,
+        "id": 1099,
+        "title": "Jaipur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 325,
+        "id": 1100,
+        "title": "Bikaner",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "difficulty": 2,
+    "title": "326. Kaziranga National Park, a UNESCO World Heritage Site, is located in which state?",
+    "description": "",
+    "hint": "The Brahmaputra River flows through this state.",
+    "summary": "Kaziranga is famous for the world's largest population of one-horned rhinoceroses.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Kaziranga,Assam,Environment,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 326,
+        "id": 1101,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 326,
+        "id": 1102,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 326,
+        "id": 1103,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 326,
+        "id": 1104,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "difficulty": 2,
+    "title": "327. Kaziranga National Park is best known for conserving which animal?",
+    "description": "",
+    "hint": "It has a single horn.",
+    "summary": "Kaziranga contains the largest population of Indian one-horned rhinoceroses.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Kaziranga,Rhinoceros,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 327,
+        "id": 1105,
+        "title": "Asiatic Lion",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 327,
+        "id": 1106,
+        "title": "Indian Elephant",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 327,
+        "id": 1107,
+        "title": "One-Horned Rhinoceros",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 327,
+        "id": 1108,
+        "title": "Snow Leopard",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "difficulty": 3,
+    "title": "328. Manas Wildlife Sanctuary is situated along the border of India and which country?",
+    "description": "",
+    "hint": "The capital of this country is Thimphu.",
+    "summary": "Manas forms a transboundary conservation landscape with Bhutan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Manas,Bhutan,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 328,
+        "id": 1109,
+        "title": "Nepal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 328,
+        "id": 1110,
+        "title": "Bangladesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 328,
+        "id": 1111,
+        "title": "Myanmar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 328,
+        "id": 1112,
+        "title": "Bhutan",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1990,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is near which well-known town/region?",
+    "description": "Choose the correct answer.",
+    "hint": "The place is famous for exceptionally heavy rainfall.",
+    "summary": "The correct answer is Sohra (Cherrapunji).",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1990,
+        "id": 7757,
+        "title": "Tawang",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1990,
+        "id": 7758,
+        "title": "Sohra (Cherrapunji)",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1990,
+        "id": 7759,
+        "title": "Gangtok",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1990,
+        "id": 7760,
+        "title": "Aizawl",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1991,
+    "difficulty": 2,
+    "title": "Langshiang Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is one of Meghalaya's notable high waterfalls.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1991,
+        "id": 7761,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1991,
+        "id": 7762,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1991,
+        "id": 7763,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1991,
+        "id": 7764,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1992,
+    "difficulty": 2,
+    "title": "Vajrai Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a famous waterfall of the Western Ghats.",
+    "summary": "The correct answer is Maharashtra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1992,
+        "id": 7765,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1992,
+        "id": 7766,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1992,
+        "id": 7767,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1992,
+        "id": 7768,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1993,
+    "difficulty": 2,
+    "title": "Vajrai Falls is associated with which district?",
+    "description": "Choose the correct answer.",
+    "hint": "The district is famous for hill stations and forts in western Maharashtra.",
+    "summary": "The correct answer is Satara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1993,
+        "id": 7769,
+        "title": "Nashik",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7770,
+        "title": "Pune",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7771,
+        "title": "Kolhapur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1993,
+        "id": 7772,
+        "title": "Satara",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1994,
+    "difficulty": 2,
+    "title": "Soochipara Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in Wayanad.",
+    "summary": "The correct answer is Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1994,
+        "id": 7773,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1994,
+        "id": 7774,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1994,
+        "id": 7775,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1994,
+        "id": 7776,
+        "title": "Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1701,
+    "difficulty": 2,
+    "title": "What does the term Sangam refer to?",
+    "description": "In ancient Tamil history, what does the term Sangam traditionally refer to?",
+    "hint": "It refers to assemblies of Tamil poets and scholars.",
+    "summary": "Sangam refers to traditional assemblies of Tamil poets and scholars.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tamil History",
+      "History"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1701,
+        "id": 6601,
+        "title": "Assemblies of Tamil poets and scholars",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1701,
+        "id": 6602,
+        "title": "Military councils of the Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1701,
+        "id": 6603,
+        "title": "Buddhist monasteries",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1701,
+        "id": 6604,
+        "title": "Trade guilds of merchants",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1702,
+    "difficulty": 2,
+    "title": "Which language dominates Sangam literature?",
+    "description": "Which language was the principal language of Sangam literature?",
+    "hint": "It is a major Dravidian language of South India.",
+    "summary": "Tamil is the principal language of Sangam literature.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Tamil",
+      "Literature"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1702,
+        "id": 6605,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1702,
+        "id": 6606,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1702,
+        "id": 6607,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1702,
+        "id": 6608,
+        "title": "Prakrit",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1703,
+    "difficulty": 2,
+    "title": "Which three dynasties dominated the Sangam age?",
+    "description": "Which three Tamil dynasties are traditionally associated with the Sangam period?",
+    "hint": "They were major powers of ancient Tamilakam.",
+    "summary": "The Cheras, Cholas and Pandyas were the three major dynasties of the Sangam age.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Cheras",
+      "Cholas",
+      "Pandyas"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1703,
+        "id": 6609,
+        "title": "Cheras, Cholas and Pandyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1703,
+        "id": 6610,
+        "title": "Pallavas, Chalukyas and Rashtrakutas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1703,
+        "id": 6611,
+        "title": "Mauryas, Guptas and Kushanas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1703,
+        "id": 6612,
+        "title": "Satavahanas, Vakatakas and Kadambas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "difficulty": 1,
+    "title": "598. Which city is famous for the Victoria Memorial?",
+    "description": "",
+    "hint": "Capital of West Bengal.",
+    "summary": "Victoria Memorial is one of Kolkata's iconic landmarks.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,Monuments",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 598,
+        "id": 2189,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 598,
+        "id": 2190,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 598,
+        "id": 2191,
+        "title": "Kolkata",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 598,
+        "id": 2192,
+        "title": "Mumbai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 599,
+    "difficulty": 0,
+    "title": "599. What is the capital of Assam?",
+    "description": "",
+    "hint": "Largest city of Assam.",
+    "summary": "Dispur is the capital of Assam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,Capitals,Assam",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 599,
+        "id": 2193,
+        "title": "Guwahati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 599,
+        "id": 2194,
+        "title": "Silchar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 599,
+        "id": 2195,
+        "title": "Jorhat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 599,
+        "id": 2196,
+        "title": "Dispur",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "difficulty": 2,
+    "title": "600. Which Indian city became the first UNESCO World Heritage City?",
+    "description": "",
+    "hint": "It is the largest city of Gujarat.",
+    "summary": "Ahmedabad became India's first UNESCO World Heritage City in 2017.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,UNESCO,Gujarat,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 600,
+        "id": 2197,
+        "title": "Jaipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 600,
+        "id": 2198,
+        "title": "Ahmedabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 600,
+        "id": 2199,
+        "title": "Varanasi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 600,
+        "id": 2200,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 589,
+    "difficulty": 2,
+    "title": "589. Which city is famous for the Brihadeeswara Temple?",
+    "description": "",
+    "hint": "A Chola-era city.",
+    "summary": "The Brihadeeswara Temple is in Thanjavur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,UNESCO,Temples",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 589,
+        "id": 2153,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 589,
+        "id": 2154,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 589,
+        "id": 2155,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 589,
+        "id": 2156,
+        "title": "Trichy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "difficulty": 1,
+    "title": "590. Which city is known as the 'City of Pearls'?",
+    "description": "",
+    "hint": "Capital of Telangana.",
+    "summary": "Hyderabad is famous for its pearl trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,Nicknames",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 590,
+        "id": 2157,
+        "title": "Jaipur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 590,
+        "id": 2158,
+        "title": "Surat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 590,
+        "id": 2159,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 590,
+        "id": 2160,
+        "title": "Lucknow",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 591,
+    "difficulty": 0,
+    "title": "591. What is the capital of Odisha?",
+    "description": "",
+    "hint": "It is known as the Temple City of India.",
+    "summary": "Bhubaneswar is the capital of Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Cities,Capitals,Odisha,UPSC,SSC,Railways",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 591,
+        "id": 2161,
+        "title": "Cuttack",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 591,
+        "id": 2162,
+        "title": "Bhubaneswar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 591,
+        "id": 2163,
+        "title": "Puri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 591,
+        "id": 2164,
+        "title": "Rourkela",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "difficulty": 1,
+    "title": "516. Which endangered mammal is known for having a long armored body covered with scales?",
+    "description": "",
+    "hint": "It curls into a ball when threatened.",
+    "summary": "The Indian Pangolin is one of the world's most trafficked mammals.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Indian Pangolin,Wildlife,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 516,
+        "id": 1861,
+        "title": "Indian Pangolin",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 516,
+        "id": 1862,
+        "title": "Armadillo",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 516,
+        "id": 1863,
+        "title": "Porcupine",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 516,
+        "id": 1864,
+        "title": "Hedgehog",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "difficulty": 2,
+    "title": "517. Which critically endangered mammal is the world's smallest wild pig?",
+    "description": "",
+    "hint": "It is mainly found in Assam.",
+    "summary": "The Pygmy Hog is endemic to the grasslands of Assam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Pygmy Hog,Assam,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 517,
+        "id": 1865,
+        "title": "Wild Boar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 517,
+        "id": 1866,
+        "title": "Pygmy Hog",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 517,
+        "id": 1867,
+        "title": "Babirusa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 517,
+        "id": 1868,
+        "title": "Warthog",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 518,
+    "difficulty": 2,
+    "title": "518. Which vulture species is Critically Endangered due to the veterinary drug Diclofenac?",
+    "description": "",
+    "hint": "It was once the most common scavenger in India.",
+    "summary": "White-rumped Vulture populations crashed because of Diclofenac poisoning.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Environment,Vultures,Diclofenac,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 518,
+        "id": 1869,
+        "title": "Egyptian Vulture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 518,
+        "id": 1870,
+        "title": "White-rumped Vulture",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 518,
+        "id": 1871,
+        "title": "Griffon Vulture",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 518,
+        "id": 1872,
+        "title": "Bearded Vulture",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1188,
+    "difficulty": 2,
+    "title": "1188. Which dam is built across the Gandak River?",
+    "description": "",
+    "hint": "It lies near the India–Nepal border.",
+    "summary": "The Gandak Barrage is built across the Gandak River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Barrages,Flood Control",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1188,
+        "id": 4549,
+        "title": "Gandak Barrage",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1188,
+        "id": 4550,
+        "title": "Kosi Barrage",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1188,
+        "id": 4551,
+        "title": "Farakka Barrage",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1188,
+        "id": 4552,
+        "title": "Bansagar Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1189,
+    "difficulty": 2,
+    "title": "1189. Which river is impounded by the Rengali Dam?",
+    "description": "",
+    "hint": "It is one of the major rivers of Odisha.",
+    "summary": "Rengali Dam is built across the Brahmani River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Odisha,Hydroelectric",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1189,
+        "id": 4553,
+        "title": "Baitarani",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1189,
+        "id": 4554,
+        "title": "Brahmani",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1189,
+        "id": 4555,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1189,
+        "id": 4556,
+        "title": "Subarnarekha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1190,
+    "difficulty": 2,
+    "title": "1190. Which dam is built across the Penna (Pennar) River?",
+    "description": "",
+    "hint": "It is located in Andhra Pradesh.",
+    "summary": "Somasila Dam is built across the Penna (Pennar) River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,South India,Irrigation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1190,
+        "id": 4557,
+        "title": "Somasila Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1190,
+        "id": 4558,
+        "title": "Nagarjuna Sagar Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1190,
+        "id": 4559,
+        "title": "Srisailam Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1190,
+        "id": 4560,
+        "title": "Tungabhadra Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1191,
+    "difficulty": 2,
+    "title": "1191. Which dam is built across the Mahi River?",
+    "description": "",
+    "hint": "It is located on the Gujarat–Rajasthan border.",
+    "summary": "Kadana Dam is constructed across the Mahi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Western India,Hydroelectric",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1191,
+        "id": 4561,
+        "title": "Ukai Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1191,
+        "id": 4562,
+        "title": "Kadana Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1191,
+        "id": 4563,
+        "title": "Dharoi Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1191,
+        "id": 4564,
+        "title": "Sardar Sarovar Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1192,
+    "difficulty": 2,
+    "title": "1192. Which river is impounded by the Hasdeo Bango Dam?",
+    "description": "",
+    "hint": "It is a tributary of the Mahanadi.",
+    "summary": "Hasdeo Bango Dam is built across the Hasdeo River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Dams,Central India,Water Resources",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1192,
+        "id": 4565,
+        "title": "Hasdeo",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1192,
+        "id": 4566,
+        "title": "Shivnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1192,
+        "id": 4567,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1192,
+        "id": 4568,
+        "title": "Indravati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "difficulty": 1,
+    "title": "975. Which instrument is commonly used in Bharatanatyam performances?",
+    "description": "",
+    "hint": "It is a percussion instrument from South India.",
+    "summary": "Mridangam is commonly used in Bharatanatyam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,Music Instruments,South India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 975,
+        "id": 3697,
+        "title": "Mridangam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 975,
+        "id": 3698,
+        "title": "Tabla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 975,
+        "id": 3699,
+        "title": "Pung",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 975,
+        "id": 3700,
+        "title": "Dhol",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 976,
+    "difficulty": 1,
+    "title": "976. Which classical dance form includes the character of Krishna prominently?",
+    "description": "",
+    "hint": "It is associated with Vaishnav traditions.",
+    "summary": "Manipuri dance often depicts stories of Krishna.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,Vaishnavism,Themes",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 976,
+        "id": 3701,
+        "title": "Manipuri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 976,
+        "id": 3702,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 976,
+        "id": 3703,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 976,
+        "id": 3704,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "difficulty": 2,
+    "title": "977. Who is known as the father of modern Odissi?",
+    "description": "",
+    "hint": "He was a famous guru from Odisha.",
+    "summary": "Kelucharan Mohapatra is regarded as a major figure in Odissi revival.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,Gurus,Artists",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 977,
+        "id": 3705,
+        "title": "Kelucharan Mohapatra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 977,
+        "id": 3706,
+        "title": "Birju Maharaj",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 977,
+        "id": 3707,
+        "title": "Rukmini Devi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 977,
+        "id": 3708,
+        "title": "Guru Gopinath",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "difficulty": 1,
+    "title": "978. Which classical dance form originated from Andhra Pradesh and combines dance with drama?",
+    "description": "",
+    "hint": "It is named after a village.",
+    "summary": "Kuchipudi combines dance and dramatic performance.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,South India,Drama",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 978,
+        "id": 3709,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 978,
+        "id": 3710,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 978,
+        "id": 3711,
+        "title": "Odissi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 978,
+        "id": 3712,
+        "title": "Sattriya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "difficulty": 1,
+    "title": "979. Which classical dance form is performed with graceful and gentle movements?",
+    "description": "",
+    "hint": "It belongs to Kerala and is associated with feminine grace.",
+    "summary": "Mohiniyattam is known for graceful movements.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,Features,Kerala Arts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 979,
+        "id": 3713,
+        "title": "Mohiniyattam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 979,
+        "id": 3714,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 979,
+        "id": 3715,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 979,
+        "id": 3716,
+        "title": "Sattriya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 980,
+    "difficulty": 2,
+    "title": "980. Which classical dance form was added to the list of recognized classical dances in 2000?",
+    "description": "",
+    "hint": "It belongs to Northeast India.",
+    "summary": "Sattriya was recognized as a classical dance form in 2000.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Classical Dance,Recognition,Indian Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 980,
+        "id": 3717,
+        "title": "Sattriya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 980,
+        "id": 3718,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 980,
+        "id": 3719,
+        "title": "Odissi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 980,
+        "id": 3720,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "difficulty": 2,
+    "title": "981. Who wrote the ancient treatise on Indian performing arts?",
+    "description": "",
+    "hint": "It is considered the foundation of classical dance theory.",
+    "summary": "Bharata Muni wrote the Natya Shastra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Ancient Texts,Performing Arts,Indian Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 981,
+        "id": 3721,
+        "title": "Bharata Muni",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 981,
+        "id": 3722,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 981,
+        "id": 3723,
+        "title": "Panini",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 981,
+        "id": 3724,
+        "title": "Banabhatta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1409,
+    "difficulty": 2,
+    "title": "1409. Which ministry controls Indian Railways?",
+    "description": "",
+    "hint": "It is a separate ministry of the Government of India.",
+    "summary": "The Ministry of Railways manages Indian Railways.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Government",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1409,
+        "id": 5433,
+        "title": "Ministry of Transport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1409,
+        "id": 5434,
+        "title": "Ministry of Commerce",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1409,
+        "id": 5435,
+        "title": "Ministry of Home Affairs",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1409,
+        "id": 5436,
+        "title": "Ministry of Railways",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1410,
+    "difficulty": 2,
+    "title": "1410. Which is the first railway station in India to receive ISO certification?",
+    "description": "",
+    "hint": "It is located in Rajasthan.",
+    "summary": "Jaipur Railway Station was among the first Indian railway stations to receive ISO certification.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Stations",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1410,
+        "id": 5437,
+        "title": "New Delhi Railway Station",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1410,
+        "id": 5438,
+        "title": "Jaipur Railway Station",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1410,
+        "id": 5439,
+        "title": "Mumbai Central",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1410,
+        "id": 5440,
+        "title": "Howrah Junction",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1411,
+    "difficulty": 2,
+    "title": "1411. Which was the first electric train introduced in India?",
+    "description": "",
+    "hint": "It started between Bombay VT and Kurla.",
+    "summary": "India's first electric train started in 1925 between Bombay VT and Kurla.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,History,Electrification",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1411,
+        "id": 5441,
+        "title": "Delhi-Kanpur Express",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1411,
+        "id": 5442,
+        "title": "Bombay VT-Kurla train",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1411,
+        "id": 5443,
+        "title": "Howrah-Delhi Express",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1411,
+        "id": 5444,
+        "title": "Madras-Bangalore Express",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1412,
+    "difficulty": 2,
+    "title": "1412. How many railway zones are currently operated by Indian Railways?",
+    "description": "",
+    "hint": "The number includes the newest zone South Coast Railway.",
+    "summary": "Indian Railways has 19 railway zones.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Zones",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1412,
+        "id": 5445,
+        "title": "16",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1412,
+        "id": 5446,
+        "title": "17",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1412,
+        "id": 5447,
+        "title": "18",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1412,
+        "id": 5448,
+        "title": "19",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1413,
+    "difficulty": 2,
+    "title": "1413. Which railway zone has headquarters at Gorakhpur?",
+    "description": "",
+    "hint": "It has one of the largest route networks among railway zones.",
+    "summary": "North Eastern Railway headquarters is located at Gorakhpur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Zones",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1413,
+        "id": 5449,
+        "title": "North Eastern Railway",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1413,
+        "id": 5450,
+        "title": "Eastern Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1413,
+        "id": 5451,
+        "title": "Northern Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1413,
+        "id": 5452,
+        "title": "East Central Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1414,
+    "difficulty": 2,
+    "title": "1414. Which is the longest railway platform in India?",
+    "description": "",
+    "hint": "It is located in Karnataka.",
+    "summary": "Hubli (Shree Siddharoodha Swamiji Hubballi Junction) is the longest railway platform in India and the world.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Stations",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1414,
+        "id": 5453,
+        "title": "Kharagpur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1414,
+        "id": 5454,
+        "title": "Gorakhpur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1414,
+        "id": 5455,
+        "title": "New Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1414,
+        "id": 5456,
+        "title": "Hubli Central",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1415,
+    "difficulty": 2,
+    "title": "1415. Which railway zone operates in the Konkan region?",
+    "description": "",
+    "hint": "It connects Maharashtra, Goa and Karnataka coastal areas.",
+    "summary": "Konkan Railway Corporation operates the Konkan railway route.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Konkan Railway",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1415,
+        "id": 5457,
+        "title": "Western Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1415,
+        "id": 5458,
+        "title": "Central Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1415,
+        "id": 5459,
+        "title": "Konkan Railway",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1415,
+        "id": 5460,
+        "title": "Southern Railway",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1551,
+    "difficulty": 2,
+    "title": "Who founded the Mughal Empire in India?",
+    "description": "Who established Mughal rule in India after defeating Ibrahim Lodi?",
+    "hint": "He defeated Ibrahim Lodi at Panipat.",
+    "summary": "Babur founded the Mughal Empire after the First Battle of Panipat in 1526.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1551,
+        "id": 6001,
+        "title": "Humayun",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1551,
+        "id": 6002,
+        "title": "Babur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1551,
+        "id": 6003,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1551,
+        "id": 6004,
+        "title": "Sher Shah Suri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1552,
+    "difficulty": 2,
+    "title": "When was the First Battle of Panipat fought?",
+    "description": "In which year did Babur defeat Ibrahim Lodi at the First Battle of Panipat?",
+    "hint": "It was fought in the early 16th century.",
+    "summary": "The First Battle of Panipat was fought in 1526.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Panipat,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1552,
+        "id": 6005,
+        "title": "1556",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1552,
+        "id": 6006,
+        "title": "1526",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1552,
+        "id": 6007,
+        "title": "1540",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1552,
+        "id": 6008,
+        "title": "1565",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1553,
+    "difficulty": 2,
+    "title": "Who was defeated by Babur at Panipat?",
+    "description": "Whom did Babur defeat in the First Battle of Panipat?",
+    "hint": "He was the last major Lodi Sultan of Delhi.",
+    "summary": "Babur defeated Ibrahim Lodi at the First Battle of Panipat.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Ibrahim Lodi,Panipat",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1553,
+        "id": 6009,
+        "title": "Sikandar Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1553,
+        "id": 6010,
+        "title": "Daulat Khan Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1553,
+        "id": 6011,
+        "title": "Ibrahim Lodi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1553,
+        "id": 6012,
+        "title": "Bahlul Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1554,
+    "difficulty": 2,
+    "title": "Where was Babur born?",
+    "description": "Babur was born in which Central Asian city?",
+    "hint": "It was an important city in the Fergana Valley.",
+    "summary": "Babur was born in Andijan in the Fergana Valley.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,Central Asia",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1554,
+        "id": 6013,
+        "title": "Andijan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1554,
+        "id": 6014,
+        "title": "Samarkand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1554,
+        "id": 6015,
+        "title": "Kabul",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1554,
+        "id": 6016,
+        "title": "Bukhara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1555,
+    "difficulty": 2,
+    "title": "What was Babur's original name?",
+    "description": "What was the personal name of the founder of the Mughal Empire?",
+    "hint": "His name was Zahir-ud-din Muhammad.",
+    "summary": "Babur's personal name was Zahir-ud-din Muhammad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mughal Empire,Babur,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1555,
+        "id": 6017,
+        "title": "Nasir-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1555,
+        "id": 6018,
+        "title": "Jalal-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1555,
+        "id": 6019,
+        "title": "Zahir-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1555,
+        "id": 6020,
+        "title": "Muhi-ud-din Muhammad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "difficulty": 1,
+    "title": "59. What is the minimum voting age in India?",
+    "description": "",
+    "hint": "It was reduced by the 61st Constitutional Amendment.",
+    "summary": "Indian citizens can vote after attaining 18 years of age.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Elections,Constitutional Amendments",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 59,
+        "id": 233,
+        "title": "25 Years",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 59,
+        "id": 234,
+        "title": "21 Years",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 59,
+        "id": 235,
+        "title": "20 Years",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 59,
+        "id": 236,
+        "title": "18 Years",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "difficulty": 1,
+    "title": "60. Which body conducts elections in India?",
+    "description": "",
+    "hint": "It is an independent constitutional body.",
+    "summary": "The Election Commission of India conducts elections.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Election Commission,UPSC,RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 60,
+        "id": 237,
+        "title": "President Secretariat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 60,
+        "id": 238,
+        "title": "Parliament",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 60,
+        "id": 239,
+        "title": "Supreme Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 60,
+        "id": 240,
+        "title": "Election Commission of India",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "difficulty": 2,
+    "title": "61. Which Article guarantees the Right to Constitutional Remedies?",
+    "description": "",
+    "hint": "Dr. Ambedkar called it the heart and soul of the Constitution.",
+    "summary": "Article 32 allows citizens to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Fundamental Rights,Article 32,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 61,
+        "id": 241,
+        "title": "Article 21",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 61,
+        "id": 242,
+        "title": "Article 32",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 61,
+        "id": 243,
+        "title": "Article 19",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 61,
+        "id": 244,
+        "title": "Article 14",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "difficulty": 2,
+    "title": "62. Which constitutional amendment added Fundamental Duties?",
+    "description": "",
+    "hint": "This amendment is often called the Mini Constitution.",
+    "summary": "The 42nd Constitutional Amendment Act, 1976 added Fundamental Duties.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Fundamental Duties,Amendments,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 62,
+        "id": 245,
+        "title": "61st Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 62,
+        "id": 246,
+        "title": "44th Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 62,
+        "id": 247,
+        "title": "42nd Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 62,
+        "id": 248,
+        "title": "73rd Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "difficulty": 2,
+    "title": "63. Which Schedule deals with the Anti-Defection Law?",
+    "description": "",
+    "hint": "It was inserted by the 52nd Amendment.",
+    "summary": "The Tenth Schedule contains provisions related to defection.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Schedules,Anti Defection,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 63,
+        "id": 249,
+        "title": "Tenth Schedule",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 63,
+        "id": 250,
+        "title": "Ninth Schedule",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 63,
+        "id": 251,
+        "title": "Eleventh Schedule",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 63,
+        "id": 252,
+        "title": "Twelfth Schedule",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "difficulty": 2,
+    "title": "64. Who presides over a joint sitting of Parliament?",
+    "description": "",
+    "hint": "The officer belongs to the directly elected House.",
+    "summary": "The Speaker of Lok Sabha presides over a joint sitting.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Polity,Parliament,Joint Sitting",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 64,
+        "id": 253,
+        "title": "Chief Justice",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 64,
+        "id": 254,
+        "title": "Vice President",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 64,
+        "id": 255,
+        "title": "President",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 64,
+        "id": 256,
+        "title": "Speaker of Lok Sabha",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "difficulty": 1,
+    "title": "1469. Who was the last ruler of the Mauryan dynasty?",
+    "description": "",
+    "hint": "He was killed by Pushyamitra Shunga.",
+    "summary": "Brihadratha was the last Mauryan ruler and was killed by his general Pushyamitra Shunga around 185 BCE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Brihadratha,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1469,
+        "id": 5673,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5674,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5675,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1469,
+        "id": 5676,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1470,
+    "difficulty": 1,
+    "title": "1470. Which dynasty succeeded the Mauryan dynasty in Magadha?",
+    "description": "",
+    "hint": "Its founder was Pushyamitra.",
+    "summary": "The Shunga dynasty succeeded the Mauryan dynasty in Magadha after Pushyamitra Shunga overthrew Brihadratha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Shunga Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1470,
+        "id": 5677,
+        "title": "Gupta Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5678,
+        "title": "Shunga Dynasty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1470,
+        "id": 5679,
+        "title": "Nanda Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5680,
+        "title": "Satavahana Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1471,
+    "difficulty": 1,
+    "title": "1471. Which ancient Greek work provides information about the Mauryan Empire?",
+    "description": "",
+    "hint": "It was written by a Greek ambassador who visited Chandragupta Maurya's court.",
+    "summary": "Indica, written by Megasthenes, provides valuable information about Mauryan India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Megasthenes,Indica",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1471,
+        "id": 5681,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1471,
+        "id": 5682,
+        "title": "Geographia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5683,
+        "title": "Naturalis Historia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5684,
+        "title": "Periplus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1476,
+    "difficulty": 1,
+    "title": "1476. What was the main purpose of Ashoka's edicts?",
+    "description": "",
+    "hint": "They communicated the ruler's policies and moral principles.",
+    "summary": "Ashoka's edicts communicated his Dhamma, administrative instructions, moral principles and messages to his subjects.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Ashoka,Edicts,Dhamma",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1476,
+        "id": 5701,
+        "title": "Recording only military victories",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1476,
+        "id": 5702,
+        "title": "Communicating moral and administrative policies",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1476,
+        "id": 5703,
+        "title": "Describing foreign trade routes only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1476,
+        "id": 5704,
+        "title": "Recording astronomical observations",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1477,
+    "difficulty": 1,
+    "title": "1477. Which Mauryan ruler made a treaty with Seleucus I Nicator?",
+    "description": "",
+    "hint": "He was the founder of the Mauryan dynasty.",
+    "summary": "Chandragupta Maurya concluded a treaty with Seleucus I Nicator after conflict between their realms.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Chandragupta Maurya,Seleucus",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1477,
+        "id": 5705,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1477,
+        "id": 5706,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1477,
+        "id": 5707,
+        "title": "Chandragupta Maurya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1477,
+        "id": 5708,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1951,
+    "difficulty": 2,
+    "title": "Which is generally recognized as the highest waterfall in India by total height?",
+    "description": "Choose the correct answer.",
+    "hint": "Consider the waterfall associated with the Varahi River.",
+    "summary": "The correct answer is Kunchikal Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1951,
+        "id": 7601,
+        "title": "Nohkalikai Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1951,
+        "id": 7602,
+        "title": "Jog Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1951,
+        "id": 7603,
+        "title": "Kunchikal Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1951,
+        "id": 7604,
+        "title": "Dudhsagar Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1952,
+    "difficulty": 2,
+    "title": "Kunchikal Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located in the Western Ghats.",
+    "summary": "The correct answer is Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1952,
+        "id": 7605,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1952,
+        "id": 7606,
+        "title": "Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1952,
+        "id": 7607,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1952,
+        "id": 7608,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1953,
+    "difficulty": 2,
+    "title": "Kunchikal Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "The river originates in Karnataka's Western Ghats.",
+    "summary": "The correct answer is Varahi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1953,
+        "id": 7609,
+        "title": "Sharavathi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7610,
+        "title": "Mandovi River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7611,
+        "title": "Indravati River",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1953,
+        "id": 7612,
+        "title": "Varahi River",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1954,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is located in which state?",
+    "description": "Choose the correct answer.",
+    "hint": "It is located near Sohra.",
+    "summary": "The correct answer is Meghalaya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1954,
+        "id": 7613,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1954,
+        "id": 7614,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1954,
+        "id": 7615,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1954,
+        "id": 7616,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1955,
+    "difficulty": 2,
+    "title": "Nohkalikai Falls is best known as India's highest what type of waterfall?",
+    "description": "Choose the correct answer.",
+    "hint": "It is a single-drop waterfall.",
+    "summary": "The correct answer is Plunge waterfall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1955,
+        "id": 7617,
+        "title": "Plunge waterfall",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1955,
+        "id": 7618,
+        "title": "Tiered waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1955,
+        "id": 7619,
+        "title": "Cataract waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1955,
+        "id": 7620,
+        "title": "Segmented waterfall",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1956,
+    "difficulty": 2,
+    "title": "Jog Falls is formed by which river?",
+    "description": "Choose the correct answer.",
+    "hint": "This famous Karnataka waterfall is on a west-flowing river.",
+    "summary": "The correct answer is Sharavathi River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "India Waterfalls",
+      "UPSC",
+      "SSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1956,
+        "id": 7621,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1956,
+        "id": 7622,
+        "title": "Sharavathi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1956,
+        "id": 7623,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1956,
+        "id": 7624,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
