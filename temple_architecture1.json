@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2151,
+    "difficulty": 2,
+    "title": "Which temple architecture style is primarily associated with northern India?",
+    "description": "Identify the major temple architecture tradition of northern India.",
+    "hint": "It is characterized by a curvilinear tower.",
+    "summary": "Nagara architecture is the major temple architecture style of northern India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2151,
+        "id": 8401,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2151,
+        "id": 8402,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2151,
+        "id": 8403,
+        "title": "Vesara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2151,
+        "id": 8404,
+        "title": "Gothic",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2152,
+    "difficulty": 2,
+    "title": "Which temple architecture style is mainly associated with southern India?",
+    "description": "Identify the dominant classical temple architecture tradition of southern India.",
+    "hint": "Its temples commonly feature large gopurams.",
+    "summary": "Dravida architecture is the major classical temple architecture style of southern India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2152,
+        "id": 8405,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2152,
+        "id": 8406,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2152,
+        "id": 8407,
+        "title": "Gandhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2152,
+        "id": 8408,
+        "title": "Vesara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2153,
+    "difficulty": 2,
+    "title": "What is the characteristic tower over the sanctum in Nagara temples called?",
+    "description": "Identify the distinctive superstructure over the sanctum in northern Indian temples.",
+    "hint": "It has a curvilinear form.",
+    "summary": "The curvilinear tower over the sanctum in Nagara temples is called a shikhara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Nagara Architecture, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2153,
+        "id": 8409,
+        "title": "Mandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2153,
+        "id": 8410,
+        "title": "Gopuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2153,
+        "id": 8411,
+        "title": "Shikhara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2153,
+        "id": 8412,
+        "title": "Prakara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2154,
+    "difficulty": 2,
+    "title": "What is the main tower over the sanctum in Dravida temples called?",
+    "description": "Identify the pyramidal superstructure found above the sanctum in Dravidian temples.",
+    "hint": "It is generally pyramidal in form.",
+    "summary": "The main tower over the sanctum in Dravida temples is called a vimana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Dravida Architecture, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2154,
+        "id": 8413,
+        "title": "Shikhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2154,
+        "id": 8414,
+        "title": "Torana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2154,
+        "id": 8415,
+        "title": "Gopuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2154,
+        "id": 8416,
+        "title": "Vimana",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2155,
+    "difficulty": 2,
+    "title": "Which feature is especially prominent in many South Indian temple complexes?",
+    "description": "Identify the monumental entrance gateway commonly associated with Dravida temples.",
+    "hint": "These gateways can be taller than the central shrine.",
+    "summary": "Large gopurams are a prominent feature of many South Indian temple complexes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Dravida Architecture, Gopuram, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2155,
+        "id": 8417,
+        "title": "Gopurams",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2155,
+        "id": 8418,
+        "title": "Stupas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2155,
+        "id": 8419,
+        "title": "Chaityas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2155,
+        "id": 8420,
+        "title": "Arches",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2156,
+    "difficulty": 2,
+    "title": "Which architectural style is associated with temples such as Kandariya Mahadeva at Khajuraho?",
+    "description": "Identify the temple architecture tradition represented by the Khajuraho temples.",
+    "hint": "Khajuraho is in Madhya Pradesh.",
+    "summary": "The Kandariya Mahadeva Temple represents the Nagara style of temple architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Khajuraho, Nagara Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2156,
+        "id": 8421,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2156,
+        "id": 8422,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2156,
+        "id": 8423,
+        "title": "Vesara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2156,
+        "id": 8424,
+        "title": "Indo-Islamic",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2157,
+    "difficulty": 2,
+    "title": "The Brihadisvara Temple at Thanjavur is a major example of which style?",
+    "description": "Identify the architectural tradition represented by the Brihadisvara Temple.",
+    "hint": "It was built under the Cholas.",
+    "summary": "The Brihadisvara Temple at Thanjavur is a major example of Dravida architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Chola Architecture, Dravida Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2157,
+        "id": 8425,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2157,
+        "id": 8426,
+        "title": "Vesara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2157,
+        "id": 8427,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2157,
+        "id": 8428,
+        "title": "Gandhara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2158,
+    "difficulty": 2,
+    "title": "The Sun Temple at Konark is primarily associated with which architectural tradition?",
+    "description": "Identify the broad architectural style of the Konark Sun Temple.",
+    "hint": "Konark is in Odisha.",
+    "summary": "The Konark Sun Temple is an important example of the Nagara tradition in Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Konark, Kalinga Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2158,
+        "id": 8429,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2158,
+        "id": 8430,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2158,
+        "id": 8431,
+        "title": "Indo-Islamic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2158,
+        "id": 8432,
+        "title": "Gothic",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2159,
+    "difficulty": 2,
+    "title": "The temples of Khajuraho were primarily built under which dynasty?",
+    "description": "Identify the dynasty responsible for the major temple-building activity at Khajuraho.",
+    "hint": "They ruled parts of central India.",
+    "summary": "The Chandela dynasty built the famous temples of Khajuraho.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Khajuraho, Chandela Dynasty, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2159,
+        "id": 8433,
+        "title": "Chandelas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2159,
+        "id": 8434,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2159,
+        "id": 8435,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2159,
+        "id": 8436,
+        "title": "Satavahanas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2160,
+    "difficulty": 2,
+    "title": "The Shore Temple at Mahabalipuram was built during the rule of which dynasty?",
+    "description": "Identify the dynasty associated with the Shore Temple at Mahabalipuram.",
+    "hint": "The dynasty was prominent in Tamil Nadu before the imperial Cholas.",
+    "summary": "The Shore Temple at Mahabalipuram was built during the Pallava period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Pallava Architecture, Mahabalipuram, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2160,
+        "id": 8437,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2160,
+        "id": 8438,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2160,
+        "id": 8439,
+        "title": "Guptas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2160,
+        "id": 8440,
+        "title": "Hoysalas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2161,
+    "difficulty": 2,
+    "title": "Which temple at Mahabalipuram is a monolithic rock-cut monument shaped like a chariot?",
+    "description": "Identify the group of monolithic monuments commonly called Rathas.",
+    "hint": "They are known by names such as Dharmaraja and Bhima Ratha.",
+    "summary": "The Pancha Rathas at Mahabalipuram are monolithic rock-cut temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Pallava Architecture, Pancha Rathas, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2161,
+        "id": 8441,
+        "title": "Pancha Rathas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2161,
+        "id": 8442,
+        "title": "Ellora Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2161,
+        "id": 8443,
+        "title": "Udayagiri Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2161,
+        "id": 8444,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2162,
+    "difficulty": 2,
+    "title": "Which temple is a famous example of Hoysala architecture?",
+    "description": "Identify a temple associated with the Hoysala architectural tradition.",
+    "hint": "It is located at Belur.",
+    "summary": "The Chennakesava Temple at Belur is a famous example of Hoysala architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Hoysala Architecture, Belur, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2162,
+        "id": 8445,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2162,
+        "id": 8446,
+        "title": "Chennakesava Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2162,
+        "id": 8447,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2162,
+        "id": 8448,
+        "title": "Kailasanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2163,
+    "difficulty": 2,
+    "title": "Which temple is located at Halebidu and is associated with Hoysala architecture?",
+    "description": "Identify the famous Hoysala temple at Halebidu.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Hoysaleswara Temple at Halebidu is a major example of Hoysala architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Hoysala Architecture, Halebidu, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2163,
+        "id": 8449,
+        "title": "Hoysaleswara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2163,
+        "id": 8450,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2163,
+        "id": 8451,
+        "title": "Jagannath Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2163,
+        "id": 8452,
+        "title": "Mukteshwar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2164,
+    "difficulty": 2,
+    "title": "Which feature is particularly characteristic of Hoysala temples?",
+    "description": "Identify an important architectural feature of Hoysala temples.",
+    "hint": "Look at the ground plan and exterior walls.",
+    "summary": "Hoysala temples are noted for star-shaped or stellate plans and highly ornate sculptural decoration.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Hoysala Architecture, Temple Features, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2164,
+        "id": 8453,
+        "title": "Large domes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2164,
+        "id": 8454,
+        "title": "Stellate plans",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2164,
+        "id": 8455,
+        "title": "Minarets",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2164,
+        "id": 8456,
+        "title": "Barrel vaults",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2165,
+    "difficulty": 2,
+    "title": "Which temple is an important example of Kalinga architecture?",
+    "description": "Identify the famous temple belonging to the Kalinga tradition of Odisha.",
+    "hint": "It is located in Bhubaneswar.",
+    "summary": "The Lingaraja Temple at Bhubaneswar is a major example of Kalinga architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kalinga Architecture, Odisha, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2165,
+        "id": 8457,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2165,
+        "id": 8458,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2165,
+        "id": 8459,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2165,
+        "id": 8460,
+        "title": "Kailasa Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2166,
+    "difficulty": 2,
+    "title": "In Kalinga temple architecture, what is the term for the sanctum tower?",
+    "description": "Identify the Odisha architectural term for the tower over the sanctum.",
+    "hint": "It is the main vertical element over the garbhagriha.",
+    "summary": "The sanctum tower in Kalinga architecture is known as the deul.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kalinga Architecture, Odisha, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2166,
+        "id": 8461,
+        "title": "Jagamohana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2166,
+        "id": 8462,
+        "title": "Deul",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2166,
+        "id": 8463,
+        "title": "Natamandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2166,
+        "id": 8464,
+        "title": "Bhogamandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2167,
+    "difficulty": 2,
+    "title": "What is the sanctum of a Hindu temple commonly called?",
+    "description": "Identify the Sanskrit-derived term for the innermost shrine of a Hindu temple.",
+    "hint": "It literally relates to the womb or inner chamber.",
+    "summary": "The sanctum of a Hindu temple is commonly called the garbhagriha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, Garbhagriha, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2167,
+        "id": 8465,
+        "title": "Mandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2167,
+        "id": 8466,
+        "title": "Prakara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2167,
+        "id": 8467,
+        "title": "Garbhagriha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2167,
+        "id": 8468,
+        "title": "Torana",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2168,
+    "difficulty": 2,
+    "title": "What is a mandapa in Indian temple architecture?",
+    "description": "Identify the function of the mandapa in a Hindu temple.",
+    "hint": "It is a pillared hall.",
+    "summary": "A mandapa is a pillared hall used for worship, gatherings, rituals, or other temple activities.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, Mandapa, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2168,
+        "id": 8469,
+        "title": "Pillared hall",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2168,
+        "id": 8470,
+        "title": "Temple tank",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2168,
+        "id": 8471,
+        "title": "Gateway tower",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2168,
+        "id": 8472,
+        "title": "Sanctum tower",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2169,
+    "difficulty": 2,
+    "title": "What is a gopuram?",
+    "description": "Identify the architectural element known as a gopuram.",
+    "hint": "It is usually associated with the entrance of South Indian temple complexes.",
+    "summary": "A gopuram is a monumental gateway tower, especially prominent in South Indian temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gopuram, Dravida Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2169,
+        "id": 8473,
+        "title": "Gateway tower",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2169,
+        "id": 8474,
+        "title": "Sanctum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2169,
+        "id": 8475,
+        "title": "Temple tank",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2169,
+        "id": 8476,
+        "title": "Pillar base",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2170,
+    "difficulty": 2,
+    "title": "Which temple is famous for its large gopurams and Dravidian architecture?",
+    "description": "Identify the major temple complex in Madurai known for its monumental gateways.",
+    "hint": "It is dedicated primarily to Meenakshi and Sundareswarar.",
+    "summary": "The Meenakshi Amman Temple at Madurai is famous for its large gopurams and Dravidian architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Meenakshi Temple, Dravida Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2170,
+        "id": 8477,
+        "title": "Meenakshi Amman Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2170,
+        "id": 8478,
+        "title": "Konark Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2170,
+        "id": 8479,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2170,
+        "id": 8480,
+        "title": "Kandariya Mahadeva",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2171,
+    "difficulty": 2,
+    "title": "Which temple is associated with the Nagara style at Modhera?",
+    "description": "Identify the famous Sun Temple at Modhera in Gujarat.",
+    "hint": "It is dedicated to the Sun God.",
+    "summary": "The Sun Temple at Modhera is an important example of the Nagara tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Modhera, Nagara Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2171,
+        "id": 8481,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2171,
+        "id": 8482,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2171,
+        "id": 8483,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2171,
+        "id": 8484,
+        "title": "Mukteshwar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2172,
+    "difficulty": 2,
+    "title": "Which temple is a major example of the Chalukyan architectural tradition at Pattadakal?",
+    "description": "Identify a famous temple at Pattadakal associated with the Chalukyas.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Virupaksha Temple at Pattadakal is a major Chalukyan monument.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Chalukya Architecture, Pattadakal, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2172,
+        "id": 8485,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2172,
+        "id": 8486,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2172,
+        "id": 8487,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2172,
+        "id": 8488,
+        "title": "Jagannath Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2173,
+    "difficulty": 2,
+    "title": "Which site is famous for a mixture of Nagara and Dravida architectural features?",
+    "description": "Identify the site traditionally associated with experimentation between northern and southern temple forms.",
+    "hint": "It is a UNESCO World Heritage Site in Karnataka.",
+    "summary": "Pattadakal is noted for temples showing both Nagara and Dravida architectural influences.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Pattadakal, Temple Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2173,
+        "id": 8489,
+        "title": "Pattadakal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2173,
+        "id": 8490,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2173,
+        "id": 8491,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2173,
+        "id": 8492,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2174,
+    "difficulty": 2,
+    "title": "The term 'Vesara' is commonly used to describe what?",
+    "description": "Identify the architectural classification associated with a blend of northern and southern temple features.",
+    "hint": "It combines elements of Nagara and Dravida traditions.",
+    "summary": "Vesara is commonly used to describe temple forms combining Nagara and Dravida features, particularly in the Deccan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Vesara Architecture, Deccan, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2174,
+        "id": 8493,
+        "title": "A Buddhist stupa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2174,
+        "id": 8494,
+        "title": "A temple style",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2174,
+        "id": 8495,
+        "title": "A Jain manuscript",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2174,
+        "id": 8496,
+        "title": "A temple festival",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2175,
+    "difficulty": 2,
+    "title": "Which temple is located at Aihole and is known for its experimental architectural plan?",
+    "description": "Identify the famous early temple at Aihole often discussed in relation to Indian temple architecture.",
+    "hint": "It has a distinctive apsidal plan.",
+    "summary": "The Durga Temple at Aihole is noted for its apsidal plan and architectural experimentation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Aihole, Chalukya Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2175,
+        "id": 8497,
+        "title": "Durga Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2175,
+        "id": 8498,
+        "title": "Kailasa Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2175,
+        "id": 8499,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2175,
+        "id": 8500,
+        "title": "Jagannath Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2176,
+    "difficulty": 2,
+    "title": "The Kailasa Temple at Ellora was commissioned by which Rashtrakuta ruler?",
+    "description": "Identify the ruler traditionally credited with commissioning the Kailasa Temple at Ellora.",
+    "hint": "He was a prominent Rashtrakuta king.",
+    "summary": "Rashtrakuta ruler Krishna I is traditionally credited with commissioning the Kailasa Temple at Ellora.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ellora, Rashtrakuta, Temple Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2176,
+        "id": 8501,
+        "title": "Krishna I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2176,
+        "id": 8502,
+        "title": "Amoghavarsha I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2176,
+        "id": 8503,
+        "title": "Dantidurga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2176,
+        "id": 8504,
+        "title": "Govinda III",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2177,
+    "difficulty": 2,
+    "title": "The Kailasa Temple at Ellora is primarily what type of monument?",
+    "description": "Identify the construction technique used for the famous Kailasa Temple.",
+    "hint": "The monument was carved from existing rock rather than assembled from blocks.",
+    "summary": "The Kailasa Temple is a monolithic rock-cut temple carved from a single rock mass.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ellora, Rock Cut Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2177,
+        "id": 8505,
+        "title": "Brick temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2177,
+        "id": 8506,
+        "title": "Wooden temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2177,
+        "id": 8507,
+        "title": "Monolithic rock-cut temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2177,
+        "id": 8508,
+        "title": "Structural dome temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2178,
+    "difficulty": 2,
+    "title": "Which temple is located at Srirangam and is dedicated to Vishnu?",
+    "description": "Identify the major Vaishnava temple complex on an island in the Kaveri River.",
+    "hint": "It is dedicated to Ranganatha.",
+    "summary": "The Sri Ranganathaswamy Temple at Srirangam is dedicated to Vishnu as Ranganatha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Srirangam, Vaishnavism, Dravida Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2178,
+        "id": 8509,
+        "title": "Sri Ranganathaswamy Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2178,
+        "id": 8510,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2178,
+        "id": 8511,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2178,
+        "id": 8512,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2179,
+    "difficulty": 2,
+    "title": "Which architectural feature refers to an enclosure wall around a South Indian temple complex?",
+    "description": "Identify the term for the enclosure surrounding many Dravidian temple complexes.",
+    "hint": "It is often associated with temple precincts.",
+    "summary": "A prakara is an enclosure wall or surrounding precinct of a temple complex.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Dravida Architecture, Temple Features, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2179,
+        "id": 8513,
+        "title": "Prakara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2179,
+        "id": 8514,
+        "title": "Shikhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2179,
+        "id": 8515,
+        "title": "Garbhagriha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2179,
+        "id": 8516,
+        "title": "Amalaka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2180,
+    "difficulty": 2,
+    "title": "What is the amalaka in Nagara temple architecture?",
+    "description": "Identify the architectural element usually found near the top of a Nagara shikhara.",
+    "hint": "It is generally ribbed and circular.",
+    "summary": "The amalaka is a ribbed, disk-like stone element placed near the top of many Nagara temple towers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Nagara Architecture, Temple Features, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2180,
+        "id": 8517,
+        "title": "Temple tank",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2180,
+        "id": 8518,
+        "title": "Gateway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2180,
+        "id": 8519,
+        "title": "Ribbed disk",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2180,
+        "id": 8520,
+        "title": "Pillared hall",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2181,
+    "difficulty": 2,
+    "title": "Which temple is famous for its association with the Chola ruler Rajaraja I?",
+    "description": "Identify the monumental temple commissioned during the reign of Rajaraja I.",
+    "hint": "It is located in Thanjavur.",
+    "summary": "Rajaraja I commissioned the Brihadisvara Temple at Thanjavur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Chola Architecture, Brihadisvara, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2181,
+        "id": 8521,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2181,
+        "id": 8522,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2181,
+        "id": 8523,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2181,
+        "id": 8524,
+        "title": "Chennakesava Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2182,
+    "difficulty": 2,
+    "title": "The Gangaikonda Cholapuram temple was built by which Chola ruler?",
+    "description": "Identify the ruler who established Gangaikonda Cholapuram and built its famous temple.",
+    "hint": "He succeeded Rajaraja I.",
+    "summary": "Rajendra I built the Brihadisvara Temple at Gangaikonda Cholapuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Chola Architecture, Gangaikonda Cholapuram, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2182,
+        "id": 8525,
+        "title": "Rajaraja I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2182,
+        "id": 8526,
+        "title": "Rajendra I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2182,
+        "id": 8527,
+        "title": "Kulottunga I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2182,
+        "id": 8528,
+        "title": "Aditya I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2183,
+    "difficulty": 2,
+    "title": "Which temple is associated with the Nagara style and located in Bhubaneswar?",
+    "description": "Identify the famous temple known for its Kalinga architectural features.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Mukteshwar Temple at Bhubaneswar is an important example of Kalinga architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Mukteshwar Temple, Kalinga Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2183,
+        "id": 8529,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2183,
+        "id": 8530,
+        "title": "Mukteshwar Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2183,
+        "id": 8531,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2183,
+        "id": 8532,
+        "title": "Chennakesava Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2184,
+    "difficulty": 2,
+    "title": "Which temple is famous for its elaborate stone carvings at Ranakpur?",
+    "description": "Identify the religious tradition associated with the famous marble temple complex at Ranakpur.",
+    "hint": "The temple is dedicated to the first Tirthankara.",
+    "summary": "The Chaumukha Temple at Ranakpur is a famous Jain temple dedicated to Adinatha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Jain Architecture, Ranakpur, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2184,
+        "id": 8533,
+        "title": "Buddhist",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2184,
+        "id": 8534,
+        "title": "Shaiva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2184,
+        "id": 8535,
+        "title": "Jain",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2184,
+        "id": 8536,
+        "title": "Vaishnava",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2185,
+    "difficulty": 2,
+    "title": "Which temple complex is located at Dilwara near Mount Abu?",
+    "description": "Identify the famous group of Jain temples known for intricate marble work.",
+    "hint": "They are in Rajasthan.",
+    "summary": "The Dilwara Temples near Mount Abu are a famous group of Jain temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Dilwara Temples, Jain Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2185,
+        "id": 8537,
+        "title": "Jain temples",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2185,
+        "id": 8538,
+        "title": "Buddhist monasteries",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2185,
+        "id": 8539,
+        "title": "Shaiva temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2185,
+        "id": 8540,
+        "title": "Sun temples",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2186,
+    "difficulty": 2,
+    "title": "Which temple architecture tradition is particularly associated with Odisha?",
+    "description": "Identify the regional temple architecture tradition of Odisha.",
+    "hint": "It is a regional form of Nagara architecture.",
+    "summary": "Kalinga architecture is the distinctive regional temple architecture tradition of Odisha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kalinga Architecture, Odisha, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2186,
+        "id": 8541,
+        "title": "Kalinga",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2186,
+        "id": 8542,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2186,
+        "id": 8543,
+        "title": "Gandhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2186,
+        "id": 8544,
+        "title": "Vesara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2187,
+    "difficulty": 2,
+    "title": "What is the common architectural term for a temple entrance gateway?",
+    "description": "Identify the Sanskrit-derived architectural term commonly used for a gateway.",
+    "hint": "It can be elaborately decorated.",
+    "summary": "A torana is a gateway or ornamental arch-like entrance structure.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, Torana, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2187,
+        "id": 8545,
+        "title": "Torana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2187,
+        "id": 8546,
+        "title": "Vimana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2187,
+        "id": 8547,
+        "title": "Amalaka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2187,
+        "id": 8548,
+        "title": "Garbhagriha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2188,
+    "difficulty": 2,
+    "title": "Which temple complex is associated with the Vijayanagara Empire at Hampi?",
+    "description": "Identify the famous temple dedicated to Virupaksha at Hampi.",
+    "hint": "It remains an active temple.",
+    "summary": "The Virupaksha Temple at Hampi is an important monument associated with the Vijayanagara period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Vijayanagara Architecture, Hampi, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2188,
+        "id": 8549,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2188,
+        "id": 8550,
+        "title": "Kandariya Mahadeva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2188,
+        "id": 8551,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2188,
+        "id": 8552,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2189,
+    "difficulty": 2,
+    "title": "Which feature is strongly associated with Vijayanagara temple architecture?",
+    "description": "Identify a characteristic feature of Vijayanagara temple complexes.",
+    "hint": "Look at the monumental entrance structures.",
+    "summary": "Large gopurams and extensive temple complexes are characteristic of Vijayanagara architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Vijayanagara Architecture, Gopuram, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2189,
+        "id": 8553,
+        "title": "Large gopurams",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2189,
+        "id": 8554,
+        "title": "Rock-cut stupas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2189,
+        "id": 8555,
+        "title": "Minarets",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2189,
+        "id": 8556,
+        "title": "Wooden pagodas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2190,
+    "difficulty": 2,
+    "title": "Which temple at Hampi is famous for its stone chariot?",
+    "description": "Identify the temple complex containing the iconic stone chariot.",
+    "hint": "It is dedicated to Vittala.",
+    "summary": "The Vittala Temple at Hampi is famous for its iconic stone chariot.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Vittala Temple, Hampi, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2190,
+        "id": 8557,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2190,
+        "id": 8558,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2190,
+        "id": 8559,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2190,
+        "id": 8560,
+        "title": "Achyutaraya Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2191,
+    "difficulty": 2,
+    "title": "Which temple is an important example of Nagara architecture in Rajasthan?",
+    "description": "Identify the famous temple at Osian associated with early medieval Rajasthan.",
+    "hint": "It is dedicated to the Sun God.",
+    "summary": "The Surya Temple at Osian is an important example of early medieval temple architecture in Rajasthan.",
+    "tenantId": 4,
+    "isAnswer": false,
+    "questionTags": "Rajasthan Temple Architecture, Osian, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2191,
+        "id": 8561,
+        "title": "Surya Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2191,
+        "id": 8562,
+        "title": "Dilwara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2191,
+        "id": 8563,
+        "title": "Brahma Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2191,
+        "id": 8564,
+        "title": "Ranakpur Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2192,
+    "difficulty": 2,
+    "title": "Which architectural element is generally located above the garbhagriha?",
+    "description": "Identify the principal vertical superstructure associated with the temple sanctum.",
+    "hint": "Its name differs between Nagara and Dravida traditions.",
+    "summary": "A shikhara in Nagara temples and a vimana in Dravida temples rise above the sanctum.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Temple Architecture, Shikhara, Vimana",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2192,
+        "id": 8565,
+        "title": "Temple tower",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2192,
+        "id": 8566,
+        "title": "Temple tank",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2192,
+        "id": 8567,
+        "title": "Gateway",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2192,
+        "id": 8568,
+        "title": "Pillared hall",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2193,
+    "difficulty": 2,
+    "title": "Which temple is known for its distinctive erotic sculptures along with other themes?",
+    "description": "Identify the famous temple group known for diverse sculptural themes.",
+    "hint": "The site is in Madhya Pradesh.",
+    "summary": "The Khajuraho temples are known for diverse sculptures, including erotic imagery.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Khajuraho, Temple Sculpture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2193,
+        "id": 8569,
+        "title": "Khajuraho Temples",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2193,
+        "id": 8570,
+        "title": "Dilwara Temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2193,
+        "id": 8571,
+        "title": "Pattadakal Temples",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2193,
+        "id": 8572,
+        "title": "Mahabalipuram Temples",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2194,
+    "difficulty": 2,
+    "title": "Which temple architecture is characterized by a curvilinear shikhara?",
+    "description": "Identify the major temple tradition associated with curving towers.",
+    "hint": "It is dominant in northern India.",
+    "summary": "Nagara architecture is characterized by curvilinear shikharas over the sanctum.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Nagara Architecture, Shikhara, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2194,
+        "id": 8573,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2194,
+        "id": 8574,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2194,
+        "id": 8575,
+        "title": "Gothic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2194,
+        "id": 8576,
+        "title": "Indo-Islamic",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2195,
+    "difficulty": 2,
+    "title": "Which temple architecture style commonly has a pyramidal vimana?",
+    "description": "Identify the temple tradition in which the superstructure over the sanctum is generally pyramidal.",
+    "hint": "It is associated with southern India.",
+    "summary": "Dravida temple architecture commonly features a pyramidal vimana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Dravida Architecture, Vimana, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2195,
+        "id": 8577,
+        "title": "Nagara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2195,
+        "id": 8578,
+        "title": "Dravida",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2195,
+        "id": 8579,
+        "title": "Gandhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2195,
+        "id": 8580,
+        "title": "Kashmiri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2196,
+    "difficulty": 2,
+    "title": "Which temple at Pattadakal was built by Queen Lokamahadevi?",
+    "description": "Identify the temple commissioned by Queen Lokamahadevi to commemorate a military victory.",
+    "hint": "It is named after a major deity.",
+    "summary": "Queen Lokamahadevi commissioned the Virupaksha Temple at Pattadakal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Pattadakal, Chalukya Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2196,
+        "id": 8581,
+        "title": "Mallikarjuna Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2196,
+        "id": 8582,
+        "title": "Papanatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2196,
+        "id": 8583,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2196,
+        "id": 8584,
+        "title": "Galaganatha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2197,
+    "difficulty": 2,
+    "title": "Which temple is associated with the Hoysalas and located at Somanathapura?",
+    "description": "Identify the famous Hoysala temple at Somanathapura.",
+    "hint": "It is dedicated to Keshava.",
+    "summary": "The Chennakeshava Temple at Somanathapura is a major Hoysala monument.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Hoysala Architecture, Somanathapura, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2197,
+        "id": 8585,
+        "title": "Chennakeshava Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2197,
+        "id": 8586,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2197,
+        "id": 8587,
+        "title": "Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2197,
+        "id": 8588,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2198,
+    "difficulty": 2,
+    "title": "Which dynasty is especially associated with the development of monumental temples at Mahabalipuram?",
+    "description": "Identify the dynasty responsible for major structural and rock-cut monuments at Mahabalipuram.",
+    "hint": "Their capital was Kanchipuram.",
+    "summary": "The Pallavas were especially associated with the development of monumental temples at Mahabalipuram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Pallava Architecture, Mahabalipuram, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2198,
+        "id": 8589,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2198,
+        "id": 8590,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2198,
+        "id": 8591,
+        "title": "Hoysalas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2198,
+        "id": 8592,
+        "title": "Rashtrakutas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2199,
+    "difficulty": 2,
+    "title": "Which temple is famous for its 1,000-pillared hall at Madurai?",
+    "description": "Identify the major temple complex associated with the famous thousand-pillared hall.",
+    "hint": "It is dedicated to Meenakshi and Sundareswarar.",
+    "summary": "The Meenakshi Amman Temple complex at Madurai contains the famous Thousand Pillar Hall.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Meenakshi Temple, Dravida Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2199,
+        "id": 8593,
+        "title": "Meenakshi Amman Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2199,
+        "id": 8594,
+        "title": "Jagannath Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2199,
+        "id": 8595,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2199,
+        "id": 8596,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2200,
+    "difficulty": 2,
+    "title": "Which temple is a major example of the Nagara tradition in Madhya Pradesh?",
+    "description": "Identify the famous temple at Khajuraho dedicated to Shiva.",
+    "hint": "It is one of the largest and most elaborate temples at Khajuraho.",
+    "summary": "The Kandariya Mahadeva Temple is a major example of Nagara architecture in Madhya Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Khajuraho, Nagara Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2200,
+        "id": 8597,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2200,
+        "id": 8598,
+        "title": "Kandariya Mahadeva Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2200,
+        "id": 8599,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2200,
+        "id": 8600,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
