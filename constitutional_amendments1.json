@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 2051,
+    "difficulty": 2,
+    "title": "Which Constitutional Amendment is known as the First Amendment Act of 1951?",
+    "description": "The First Constitutional Amendment made several important changes to fundamental rights and land reform provisions.",
+    "hint": "It was enacted soon after the Constitution came into force.",
+    "summary": "The Constitution (First Amendment) Act, 1951 introduced provisions including Articles 31A and 31B and the Ninth Schedule.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "UPSC",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2051,
+        "id": 8001,
+        "title": "First Amendment Act, 1951",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2051,
+        "id": 8002,
+        "title": "Seventh Amendment Act, 1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2051,
+        "id": 8003,
+        "title": "Forty-second Amendment Act, 1976",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2051,
+        "id": 8004,
+        "title": "Forty-fourth Amendment Act, 1978",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2052,
+    "difficulty": 2,
+    "title": "Which Constitutional Amendment reorganized states primarily on linguistic lines?",
+    "description": "The reorganization of states in the 1950s resulted in major changes to the territorial structure of India.",
+    "hint": "It was enacted in 1956.",
+    "summary": "The Seventh Amendment Act, 1956 facilitated the reorganization of states and abolished the earlier classification of states into Part A, B, C and D categories.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "UPSC",
+      "States Reorganisation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2052,
+        "id": 8005,
+        "title": "First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2052,
+        "id": 8006,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2052,
+        "id": 8007,
+        "title": "Seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2052,
+        "id": 8008,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2053,
+    "difficulty": 2,
+    "title": "The Ninth Schedule was added to the Constitution by which amendment?",
+    "description": "The Ninth Schedule was created to provide constitutional protection to certain laws, especially land reform laws.",
+    "hint": "It was one of the major provisions of the first amendment.",
+    "summary": "The Ninth Schedule was introduced by the First Constitutional Amendment Act, 1951.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Ninth Schedule",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2053,
+        "id": 8009,
+        "title": "Fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2053,
+        "id": 8010,
+        "title": "Twenty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2053,
+        "id": 8011,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2053,
+        "id": 8012,
+        "title": "First Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2054,
+    "difficulty": 2,
+    "title": "Which amendment facilitated the incorporation of Goa into India as a state?",
+    "description": "Goa became part of India in 1961 and was subsequently made a state through a constitutional amendment.",
+    "hint": "The amendment was enacted in 1987.",
+    "summary": "The Fifty-sixth Amendment Act, 1987 made special constitutional provisions connected with Goa's transition to statehood.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Goa",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2054,
+        "id": 8013,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2054,
+        "id": 8014,
+        "title": "Fifty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2054,
+        "id": 8015,
+        "title": "Sixty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2054,
+        "id": 8016,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2055,
+    "difficulty": 2,
+    "title": "Which amendment lowered the voting age from 21 years to 18 years?",
+    "description": "The voting age for elections to the Lok Sabha and state legislative assemblies was reduced in 1988.",
+    "hint": "It is commonly associated with the number 61.",
+    "summary": "The Sixty-first Amendment Act, 1988 lowered the voting age from 21 to 18 years.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Election",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2055,
+        "id": 8017,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2055,
+        "id": 8018,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2055,
+        "id": 8019,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2055,
+        "id": 8020,
+        "title": "Sixty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2056,
+    "difficulty": 2,
+    "title": "Which amendment is popularly known as the 'Mini Constitution'?",
+    "description": "One amendment made extensive changes to many parts of the Constitution during the Emergency period.",
+    "hint": "It was enacted in 1976.",
+    "summary": "The Forty-second Amendment Act, 1976 is popularly known as the Mini Constitution because of its extensive changes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "42nd Amendment",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2056,
+        "id": 8021,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2056,
+        "id": 8022,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2056,
+        "id": 8023,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2056,
+        "id": 8024,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2057,
+    "difficulty": 2,
+    "title": "Which amendment added the words 'Socialist', 'Secular' and 'Integrity' to the Preamble?",
+    "description": "The Preamble was amended during the Emergency period.",
+    "hint": "Think of the 1976 amendment.",
+    "summary": "The Forty-second Amendment Act, 1976 added the words Socialist, Secular and Integrity to the Preamble.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Preamble",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2057,
+        "id": 8025,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2057,
+        "id": 8026,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2057,
+        "id": 8027,
+        "title": "First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2057,
+        "id": 8028,
+        "title": "Forty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2058,
+    "difficulty": 2,
+    "title": "Which amendment restored the normal constitutional position after several changes made during the Emergency?",
+    "description": "The amendment enacted in 1978 sought to reverse several provisions of the Forty-second Amendment.",
+    "hint": "It followed the end of the Emergency.",
+    "summary": "The Forty-fourth Amendment Act, 1978 reversed or modified several Emergency-era changes and introduced important safeguards.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "44th Amendment",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2058,
+        "id": 8029,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2058,
+        "id": 8030,
+        "title": "Forty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2058,
+        "id": 8031,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2058,
+        "id": 8032,
+        "title": "Fifty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2059,
+    "difficulty": 2,
+    "title": "Which amendment removed the Right to Property from the list of Fundamental Rights?",
+    "description": "The constitutional status of property rights was changed in 1978.",
+    "hint": "It was the Forty-fourth Amendment.",
+    "summary": "The Forty-fourth Amendment removed Article 31 from Fundamental Rights and inserted Article 300A, making property a constitutional legal right.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Fundamental Rights",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2059,
+        "id": 8033,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2059,
+        "id": 8034,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2059,
+        "id": 8035,
+        "title": "Forty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2059,
+        "id": 8036,
+        "title": "Fifty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2060,
+    "difficulty": 2,
+    "title": "Which amendment introduced the Anti-Defection Law?",
+    "description": "The Anti-Defection Law was added to the Constitution to discourage elected representatives from changing parties under certain circumstances.",
+    "hint": "It was enacted in 1985.",
+    "summary": "The Fifty-second Amendment Act, 1985 introduced the Tenth Schedule, commonly known as the Anti-Defection Law.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Anti-Defection",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2060,
+        "id": 8037,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2060,
+        "id": 8038,
+        "title": "Fifty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2060,
+        "id": 8039,
+        "title": "Sixty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2060,
+        "id": 8040,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2061,
+    "difficulty": 2,
+    "title": "The Tenth Schedule was added to the Constitution by which amendment?",
+    "description": "The Tenth Schedule contains provisions relating to disqualification on grounds of defection.",
+    "hint": "It was part of the Anti-Defection Law.",
+    "summary": "The Fifty-second Amendment Act, 1985 added the Tenth Schedule.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Tenth Schedule",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2061,
+        "id": 8041,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2061,
+        "id": 8042,
+        "title": "Sixty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2061,
+        "id": 8043,
+        "title": "Fifty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2061,
+        "id": 8044,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2062,
+    "difficulty": 2,
+    "title": "Which amendment provided constitutional status to Panchayati Raj Institutions?",
+    "description": "The constitutional framework for rural local self-government was introduced in the early 1990s.",
+    "hint": "It added Part IX.",
+    "summary": "The Seventy-third Amendment Act, 1992 gave constitutional status to Panchayats and added Part IX.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Panchayati Raj",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2062,
+        "id": 8045,
+        "title": "Seventy-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2062,
+        "id": 8046,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2062,
+        "id": 8047,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2062,
+        "id": 8048,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2063,
+    "difficulty": 2,
+    "title": "Which amendment provided constitutional status to Urban Local Bodies?",
+    "description": "Municipalities received constitutional recognition through an amendment enacted alongside the Panchayati Raj reforms.",
+    "hint": "It added Part IXA.",
+    "summary": "The Seventy-fourth Amendment Act, 1992 provided constitutional status to municipalities and added Part IXA.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Municipalities",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2063,
+        "id": 8049,
+        "title": "Seventy-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2063,
+        "id": 8050,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2063,
+        "id": 8051,
+        "title": "Seventy-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2063,
+        "id": 8052,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2064,
+    "difficulty": 2,
+    "title": "Which amendment added the Eleventh Schedule to the Constitution?",
+    "description": "The Eleventh Schedule contains subjects that may be devolved to Panchayats.",
+    "hint": "It is associated with Panchayati Raj.",
+    "summary": "The Seventy-third Amendment Act, 1992 added the Eleventh Schedule containing 29 subjects.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Eleventh Schedule",
+      "Panchayati Raj"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2064,
+        "id": 8053,
+        "title": "Seventy-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2064,
+        "id": 8054,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2064,
+        "id": 8055,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2064,
+        "id": 8056,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2065,
+    "difficulty": 2,
+    "title": "Which amendment added the Twelfth Schedule to the Constitution?",
+    "description": "The Twelfth Schedule lists functions that may be assigned to municipalities.",
+    "hint": "It is associated with urban local government.",
+    "summary": "The Seventy-fourth Amendment Act, 1992 added the Twelfth Schedule containing 18 subjects.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Twelfth Schedule",
+      "Municipalities"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2065,
+        "id": 8057,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2065,
+        "id": 8058,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2065,
+        "id": 8059,
+        "title": "Seventy-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2065,
+        "id": 8060,
+        "title": "Seventy-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2066,
+    "difficulty": 2,
+    "title": "Which amendment inserted Article 21A providing for the Right to Education?",
+    "description": "The Constitution was amended to make education a Fundamental Right for children in a specified age group.",
+    "hint": "It was enacted in 2002.",
+    "summary": "The Eighty-sixth Amendment Act, 2002 inserted Article 21A, providing free and compulsory education for children aged 6 to 14 years.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Article 21A",
+      "Education"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2066,
+        "id": 8061,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2066,
+        "id": 8062,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2066,
+        "id": 8063,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2066,
+        "id": 8064,
+        "title": "Eighty-eighth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2067,
+    "difficulty": 2,
+    "title": "Which amendment limited the size of the Council of Ministers to 15% of the strength of the Lok Sabha or state assembly?",
+    "description": "The amendment was intended to curb the expansion of ministries and strengthen the Anti-Defection framework.",
+    "hint": "It was enacted in 2003.",
+    "summary": "The Ninety-first Amendment Act, 2003 capped the size of the Council of Ministers at 15% of the respective legislature's strength.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Council of Ministers",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2067,
+        "id": 8065,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2067,
+        "id": 8066,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2067,
+        "id": 8067,
+        "title": "Ninety-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2067,
+        "id": 8068,
+        "title": "Ninety-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2068,
+    "difficulty": 2,
+    "title": "Which amendment gave constitutional status to cooperative societies?",
+    "description": "The amendment introduced constitutional provisions concerning cooperative societies.",
+    "hint": "It was the Ninety-seventh Amendment.",
+    "summary": "The Ninety-seventh Amendment Act, 2011 added provisions relating to cooperative societies, including Part IXB.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Cooperative Societies",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2068,
+        "id": 8069,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2068,
+        "id": 8070,
+        "title": "Ninety-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2068,
+        "id": 8071,
+        "title": "Ninety-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2068,
+        "id": 8072,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2069,
+    "difficulty": 2,
+    "title": "Which amendment provided for the formation of the Goods and Services Tax Council?",
+    "description": "The constitutional framework for GST was introduced through a major amendment.",
+    "hint": "It was enacted in 2016.",
+    "summary": "The One Hundred and First Amendment Act, 2016 introduced the constitutional framework for GST and Article 279A establishing the GST Council.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "GST",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2069,
+        "id": 8073,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2069,
+        "id": 8074,
+        "title": "Ninety-ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2069,
+        "id": 8075,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2069,
+        "id": 8076,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2070,
+    "difficulty": 2,
+    "title": "Which amendment gave constitutional status to the National Commission for Backward Classes?",
+    "description": "The amendment inserted provisions concerning the National Commission for Backward Classes.",
+    "hint": "It was enacted in 2018.",
+    "summary": "The One Hundred and Second Amendment Act, 2018 gave constitutional status to the National Commission for Backward Classes and inserted Article 338B.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "NCBC",
+      "OBC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2070,
+        "id": 8077,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2070,
+        "id": 8078,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2070,
+        "id": 8079,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2070,
+        "id": 8080,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2071,
+    "difficulty": 2,
+    "title": "Which amendment introduced a 10% reservation for Economically Weaker Sections?",
+    "description": "A constitutional amendment enabled special provisions for economically weaker sections in education and public employment.",
+    "hint": "It was enacted in 2019.",
+    "summary": "The One Hundred and Third Amendment Act, 2019 enabled up to 10% reservation for Economically Weaker Sections.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "EWS",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2071,
+        "id": 8081,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2071,
+        "id": 8082,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2071,
+        "id": 8083,
+        "title": "One Hundred and Fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2071,
+        "id": 8084,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2072,
+    "difficulty": 2,
+    "title": "Which amendment extended the reservation of seats for SCs and STs in the Lok Sabha and state assemblies for ten years from 2020?",
+    "description": "The amendment extended the period of political reservation for Scheduled Castes and Scheduled Tribes.",
+    "hint": "It was enacted in 2020.",
+    "summary": "The One Hundred and Fourth Amendment Act, 2019 extended SC/ST political reservation for ten years, while ending the nominated Anglo-Indian representation provision.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "SC",
+      "ST",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2072,
+        "id": 8085,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2072,
+        "id": 8086,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2072,
+        "id": 8087,
+        "title": "One Hundred and Fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2072,
+        "id": 8088,
+        "title": "One Hundred and Sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2073,
+    "difficulty": 2,
+    "title": "Which amendment restored the power of states to identify socially and educationally backward classes for their own purposes?",
+    "description": "The amendment addressed the distribution of powers concerning identification of backward classes.",
+    "hint": "It followed the Supreme Court's interpretation concerning the 102nd Amendment.",
+    "summary": "The One Hundred and Fifth Amendment Act, 2021 restored states' power to identify socially and educationally backward classes for state purposes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "SEBC",
+      "Federalism"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2073,
+        "id": 8089,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2073,
+        "id": 8090,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2073,
+        "id": 8091,
+        "title": "One Hundred and Fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2073,
+        "id": 8092,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2074,
+    "difficulty": 2,
+    "title": "The Constitution (One Hundred and Sixth Amendment) Act, 2023 is popularly associated with which initiative?",
+    "description": "The amendment provides for reservation of seats for women in specified legislative bodies.",
+    "hint": "It is commonly known as the Nari Shakti Vandan Adhiniyam.",
+    "summary": "The 106th Amendment Act, 2023 provides for reservation of seats for women in the Lok Sabha, state legislative assemblies and the Delhi Legislative Assembly, subject to its constitutional conditions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Women Reservation",
+      "106th Amendment"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2074,
+        "id": 8093,
+        "title": "GST reform",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2074,
+        "id": 8094,
+        "title": "EWS reservation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2074,
+        "id": 8095,
+        "title": "Women’s reservation in legislatures",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2074,
+        "id": 8096,
+        "title": "Cooperative society reforms",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2075,
+    "difficulty": 2,
+    "title": "Which article primarily prescribes the procedure for amendment of the Constitution?",
+    "description": "The Constitution contains a specific article dealing with constitutional amendment procedures.",
+    "hint": "It is Article 368.",
+    "summary": "Article 368 of the Constitution deals with the power and procedure of Parliament to amend the Constitution.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Article 368",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2075,
+        "id": 8097,
+        "title": "Article 352",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2075,
+        "id": 8098,
+        "title": "Article 356",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2075,
+        "id": 8099,
+        "title": "Article 368",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2075,
+        "id": 8100,
+        "title": "Article 360",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2076,
+    "difficulty": 2,
+    "title": "Which amendment made it clear that Parliament can amend Fundamental Rights?",
+    "description": "The constitutional amendment power of Parliament was clarified through an amendment following judicial developments.",
+    "hint": "It was enacted in 1971.",
+    "summary": "The Twenty-fourth Amendment Act, 1971 affirmed Parliament's power to amend any part of the Constitution, including Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Fundamental Rights",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2076,
+        "id": 8101,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2076,
+        "id": 8102,
+        "title": "Twenty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2076,
+        "id": 8103,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2076,
+        "id": 8104,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2077,
+    "difficulty": 2,
+    "title": "Which amendment curtailed the Fundamental Right to Property and strengthened the protection of certain Directive Principles?",
+    "description": "The amendment was part of the constitutional changes made during the early 1970s.",
+    "hint": "It was the Twenty-fifth Amendment.",
+    "summary": "The Twenty-fifth Amendment Act, 1971 inserted Article 31C and changed the constitutional position concerning property rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Article 31C",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2077,
+        "id": 8105,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2077,
+        "id": 8106,
+        "title": "Twenty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2077,
+        "id": 8107,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2077,
+        "id": 8108,
+        "title": "Twenty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2078,
+    "difficulty": 2,
+    "title": "Which amendment abolished privy purses and privileges of former princely rulers?",
+    "description": "The constitutional recognition and privileges of former rulers were abolished in 1971.",
+    "hint": "It was the Twenty-sixth Amendment.",
+    "summary": "The Twenty-sixth Amendment Act, 1971 abolished privy purses and official recognition of former rulers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Privy Purses",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2078,
+        "id": 8109,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2078,
+        "id": 8110,
+        "title": "Twenty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2078,
+        "id": 8111,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2078,
+        "id": 8112,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2079,
+    "difficulty": 2,
+    "title": "Which amendment made Sikkim a full-fledged state of India?",
+    "description": "Sikkim's constitutional relationship with India changed significantly in the 1970s.",
+    "hint": "It was enacted in 1975.",
+    "summary": "The Thirty-sixth Amendment Act, 1975 made Sikkim a full-fledged state and added it as the 22nd state of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Sikkim",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2079,
+        "id": 8113,
+        "title": "Thirty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2079,
+        "id": 8114,
+        "title": "Thirty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2079,
+        "id": 8115,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2079,
+        "id": 8116,
+        "title": "Fifty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2080,
+    "difficulty": 2,
+    "title": "Which amendment was associated with the emergency-era changes that expanded the Centre's powers and made extensive constitutional changes?",
+    "description": "This amendment made one of the largest sets of changes to the Constitution.",
+    "hint": "It is popularly called the Mini Constitution.",
+    "summary": "The Forty-second Amendment Act, 1976 made extensive changes to the Constitution.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Emergency",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2080,
+        "id": 8117,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2080,
+        "id": 8118,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2080,
+        "id": 8119,
+        "title": "Forty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2080,
+        "id": 8120,
+        "title": "Fifty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2081,
+    "difficulty": 2,
+    "title": "Which amendment restored the jurisdiction of courts that had been curtailed by the Forty-second Amendment?",
+    "description": "The amendment enacted in 1977 reversed several Emergency-era constitutional changes.",
+    "hint": "It preceded the Forty-fourth Amendment.",
+    "summary": "The Forty-third Amendment Act, 1977 repealed several provisions inserted by the Forty-second Amendment and restored judicial powers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Judiciary",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2081,
+        "id": 8121,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2081,
+        "id": 8122,
+        "title": "Forty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2081,
+        "id": 8123,
+        "title": "Forty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2081,
+        "id": 8124,
+        "title": "Forty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2082,
+    "difficulty": 2,
+    "title": "Which amendment extended reservation of seats for SCs and STs in legislatures from the original constitutional period?",
+    "description": "The constitutional reservation for SCs and STs in legislatures has been extended several times.",
+    "hint": "The first such extension was made by the Eighth Amendment.",
+    "summary": "The Eighth Amendment Act, 1959 extended reservation of seats for SCs and STs and Anglo-Indian representation for a further period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "SC",
+      "ST",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2082,
+        "id": 8125,
+        "title": "Eighth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2082,
+        "id": 8126,
+        "title": "Tenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2082,
+        "id": 8127,
+        "title": "Seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2082,
+        "id": 8128,
+        "title": "Twenty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2083,
+    "difficulty": 2,
+    "title": "Which amendment increased the period of reservation of seats for SCs and STs from 20 to 30 years?",
+    "description": "The amendment extended the political reservation period provided by the Constitution.",
+    "hint": "It was enacted in 1969.",
+    "summary": "The Twenty-third Amendment Act, 1969 extended the reservation period for SCs and STs in legislatures to 30 years from the commencement of the Constitution.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Reservation",
+      "SC",
+      "ST"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2083,
+        "id": 8129,
+        "title": "Twenty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2083,
+        "id": 8130,
+        "title": "Twenty-third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2083,
+        "id": 8131,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2083,
+        "id": 8132,
+        "title": "Twenty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2084,
+    "difficulty": 2,
+    "title": "Which amendment inserted Article 239AA relating to the National Capital Territory of Delhi?",
+    "description": "Delhi received a special constitutional administrative framework through an amendment in 1991.",
+    "hint": "It is the sixty-ninth amendment.",
+    "summary": "The Sixty-ninth Amendment Act, 1991 inserted Article 239AA and provided for a Legislative Assembly and Council of Ministers for Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Delhi",
+      "Article 239AA"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2084,
+        "id": 8133,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2084,
+        "id": 8134,
+        "title": "Sixty-ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2084,
+        "id": 8135,
+        "title": "Seventy-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2084,
+        "id": 8136,
+        "title": "Sixty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2085,
+    "difficulty": 2,
+    "title": "Which amendment made Konkani, Manipuri and Nepali languages part of the Eighth Schedule?",
+    "description": "Three languages were added to the list of constitutionally recognized scheduled languages in 1992.",
+    "hint": "It is the Seventy-first Amendment.",
+    "summary": "The Seventy-first Amendment Act, 1992 added Konkani, Manipuri and Nepali to the Eighth Schedule.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Eighth Schedule",
+      "Languages"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2085,
+        "id": 8137,
+        "title": "Seventy-first Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2085,
+        "id": 8138,
+        "title": "Ninety-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2085,
+        "id": 8139,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2085,
+        "id": 8140,
+        "title": "Forty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2086,
+    "difficulty": 2,
+    "title": "Which amendment added Bodo, Dogri, Maithili and Santhali to the Eighth Schedule?",
+    "description": "Four additional languages were added to the Constitution's Eighth Schedule in 2003.",
+    "hint": "It is the Ninety-second Amendment.",
+    "summary": "The Ninety-second Amendment Act, 2003 added Bodo, Dogri, Maithili and Santhali to the Eighth Schedule.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Languages",
+      "Eighth Schedule"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2086,
+        "id": 8141,
+        "title": "Seventy-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2086,
+        "id": 8142,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2086,
+        "id": 8143,
+        "title": "Ninety-second Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2086,
+        "id": 8144,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2087,
+    "difficulty": 2,
+    "title": "Which amendment changed the constitutional provisions relating to reservation in promotions for SCs and STs?",
+    "description": "The amendment specifically addressed reservation in promotion for certain communities.",
+    "hint": "It was enacted in 1995.",
+    "summary": "The Seventy-seventh Amendment Act, 1995 enabled reservation in promotions for SCs and STs through Article 16(4A).",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Reservation",
+      "SC",
+      "ST"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2087,
+        "id": 8145,
+        "title": "Seventy-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2087,
+        "id": 8146,
+        "title": "Eighty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2087,
+        "id": 8147,
+        "title": "Seventy-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2087,
+        "id": 8148,
+        "title": "Eighty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2088,
+    "difficulty": 2,
+    "title": "Which amendment inserted Article 16(4B) concerning unfilled reserved vacancies?",
+    "description": "The amendment enabled certain unfilled reserved vacancies to be treated separately for future recruitment.",
+    "hint": "It was enacted in 2000.",
+    "summary": "The Eighty-first Amendment Act, 2000 inserted Article 16(4B) concerning the carrying forward of unfilled reserved vacancies.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Article 16",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2088,
+        "id": 8149,
+        "title": "Eighty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2088,
+        "id": 8150,
+        "title": "Seventy-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2088,
+        "id": 8151,
+        "title": "Eighty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2088,
+        "id": 8152,
+        "title": "Ninety-third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2089,
+    "difficulty": 2,
+    "title": "Which amendment enabled reservation in promotion for SCs and STs with consequential seniority?",
+    "description": "The amendment modified Article 16 in relation to reservation in promotions.",
+    "hint": "It was enacted in 2001.",
+    "summary": "The Eighty-fifth Amendment Act, 2001 provided for consequential seniority in promotions for SCs and STs with reservation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Reservation",
+      "Promotion"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2089,
+        "id": 8153,
+        "title": "Eighty-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2089,
+        "id": 8154,
+        "title": "Eighty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2089,
+        "id": 8155,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2089,
+        "id": 8156,
+        "title": "Eighty-fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2090,
+    "difficulty": 2,
+    "title": "Which amendment enabled reservation for socially and educationally backward classes in educational institutions, including private institutions other than minority institutions?",
+    "description": "The amendment inserted a constitutional provision dealing with special provisions for admission to educational institutions.",
+    "hint": "It inserted Article 15(5).",
+    "summary": "The Ninety-third Amendment Act, 2005 inserted Article 15(5), enabling special provisions for socially and educationally backward classes and SCs and STs in educational institutions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Article 15",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2090,
+        "id": 8157,
+        "title": "Ninety-third Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2090,
+        "id": 8158,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2090,
+        "id": 8159,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2090,
+        "id": 8160,
+        "title": "Ninety-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2091,
+    "difficulty": 2,
+    "title": "Which amendment converted the National Commission for Scheduled Castes and Scheduled Tribes into separate commissions?",
+    "description": "The constitutional framework for SCs and STs was separated into two commissions.",
+    "hint": "It was enacted in 2003.",
+    "summary": "The Eighty-ninth Amendment Act, 2003 provided for separate National Commissions for Scheduled Castes and Scheduled Tribes.",
+    "tenantId": 4,
+    "isAnswer": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "SC",
+      "ST"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2091,
+        "id": 8161,
+        "title": "Eighty-ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2091,
+        "id": 8162,
+        "title": "Ninety-first Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2091,
+        "id": 8163,
+        "title": "Eighty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2091,
+        "id": 8164,
+        "title": "Ninety-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2092,
+    "difficulty": 2,
+    "title": "Which amendment removed the provision that required the President to appoint an Anglo-Indian member to the Lok Sabha after 2020?",
+    "description": "The constitutional provision for nominated Anglo-Indian representation was allowed to expire through an amendment.",
+    "hint": "It was the 104th Amendment.",
+    "summary": "The One Hundred and Fourth Amendment Act, 2019 ended the constitutional provision for nominated Anglo-Indian members in the Lok Sabha and state assemblies while extending SC/ST reservation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Anglo-Indian",
+      "Reservation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2092,
+        "id": 8165,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2092,
+        "id": 8166,
+        "title": "One Hundred and Fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2092,
+        "id": 8167,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2092,
+        "id": 8168,
+        "title": "One Hundred and Sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2093,
+    "difficulty": 2,
+    "title": "Which amendment was related to the inclusion of Berubari Union territory through an agreement with Pakistan?",
+    "description": "A constitutional amendment was required to implement the transfer of certain territories under the Indo-Pak agreement.",
+    "hint": "It was the Ninth Amendment.",
+    "summary": "The Ninth Amendment Act, 1960 gave effect to the transfer of certain territories between India and Pakistan under the Indo-Pak agreement.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Territorial Reorganisation",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2093,
+        "id": 8169,
+        "title": "Seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2093,
+        "id": 8170,
+        "title": "Tenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2093,
+        "id": 8171,
+        "title": "Ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2093,
+        "id": 8172,
+        "title": "Twelfth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2094,
+    "difficulty": 2,
+    "title": "Which amendment incorporated Dadra and Nagar Haveli into the Union of India?",
+    "description": "The constitutional status of Dadra and Nagar Haveli was changed through an amendment in 1961.",
+    "hint": "It was the Tenth Amendment.",
+    "summary": "The Tenth Amendment Act, 1961 incorporated Dadra and Nagar Haveli into India as a Union Territory.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Union Territories",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2094,
+        "id": 8173,
+        "title": "Eleventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2094,
+        "id": 8174,
+        "title": "Twelfth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2094,
+        "id": 8175,
+        "title": "Tenth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2094,
+        "id": 8176,
+        "title": "Fourteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2095,
+    "difficulty": 2,
+    "title": "Which amendment incorporated Goa, Daman and Diu into India as Union Territories?",
+    "description": "Following the end of Portuguese rule, these territories were constitutionally incorporated into India.",
+    "hint": "It was the Twelfth Amendment.",
+    "summary": "The Twelfth Amendment Act, 1962 incorporated Goa, Daman and Diu into the Union of India as Union Territories.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Goa",
+      "Union Territories"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2095,
+        "id": 8177,
+        "title": "Twelfth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2095,
+        "id": 8178,
+        "title": "Tenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2095,
+        "id": 8179,
+        "title": "Fourteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2095,
+        "id": 8180,
+        "title": "Thirty-sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2096,
+    "difficulty": 2,
+    "title": "Which amendment included Puducherry in the Union of India?",
+    "description": "The former French establishments were constitutionally integrated into India.",
+    "hint": "It was the Fourteenth Amendment.",
+    "summary": "The Fourteenth Amendment Act, 1962 incorporated Puducherry into India and provided for representation of certain Union Territories.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Puducherry",
+      "Union Territories"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2096,
+        "id": 8181,
+        "title": "Twelfth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2096,
+        "id": 8182,
+        "title": "Fourteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2096,
+        "id": 8183,
+        "title": "Sixteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2096,
+        "id": 8184,
+        "title": "Twenty-second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2097,
+    "difficulty": 2,
+    "title": "Which amendment inserted the words 'sovereignty and integrity of India' into the oath and enabled restrictions concerning secessionist activities?",
+    "description": "The amendment introduced changes concerning allegiance to India's sovereignty and integrity.",
+    "hint": "It was enacted in 1963.",
+    "summary": "The Sixteenth Amendment Act, 1963 amended the forms of oath and enabled restrictions in the interests of India's sovereignty and integrity.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Sovereignty",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2097,
+        "id": 8185,
+        "title": "Fourteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2097,
+        "id": 8186,
+        "title": "Seventeenth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2097,
+        "id": 8187,
+        "title": "Sixteenth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2097,
+        "id": 8188,
+        "title": "Twenty-fourth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2098,
+    "difficulty": 2,
+    "title": "Which amendment transferred certain territories between India and Pakistan following the 1974 agreement?",
+    "description": "The constitutional amendment implemented the India-Bangladesh Land Boundary Agreement and its protocol.",
+    "hint": "It was enacted in 2015.",
+    "summary": "The One Hundredth Amendment Act, 2015 gave effect to the India-Bangladesh Land Boundary Agreement and related territorial exchanges.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "India Bangladesh",
+      "Territorial Reorganisation"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2098,
+        "id": 8189,
+        "title": "Ninety-ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2098,
+        "id": 8190,
+        "title": "One Hundredth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2098,
+        "id": 8191,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2098,
+        "id": 8192,
+        "title": "One Hundred and Second Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2099,
+    "difficulty": 2,
+    "title": "Which amendment introduced the National Judicial Appointments Commission?",
+    "description": "The amendment sought to replace the collegium system with a constitutional commission for judicial appointments.",
+    "hint": "The Supreme Court later struck down the amendment.",
+    "summary": "The Ninety-ninth Amendment Act, 2014 created the National Judicial Appointments Commission, but the Supreme Court declared the amendment unconstitutional in 2015.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "NJAC",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2099,
+        "id": 8193,
+        "title": "One Hundredth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2099,
+        "id": 8194,
+        "title": "Ninety-ninth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2099,
+        "id": 8195,
+        "title": "Ninety-seventh Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2099,
+        "id": 8196,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2100,
+    "difficulty": 2,
+    "title": "Which amendment is associated with the reservation of seats for women in the Lok Sabha and State Legislative Assemblies?",
+    "description": "The amendment provides for reservation of seats for women in specified legislative bodies.",
+    "hint": "It is the most recent constitutional amendment in this batch.",
+    "summary": "The One Hundred and Sixth Amendment Act, 2023 provides for reservation of approximately one-third of seats for women in the Lok Sabha, State Legislative Assemblies and the Delhi Legislative Assembly, subject to the constitutional provisions concerning commencement and delimitation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Constitutional Amendments",
+      "Women Reservation",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2100,
+        "id": 8197,
+        "title": "One Hundred and Third Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2100,
+        "id": 8198,
+        "title": "One Hundred and Fifth Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2100,
+        "id": 8199,
+        "title": "One Hundred and First Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2100,
+        "id": 8200,
+        "title": "One Hundred and Sixth Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
