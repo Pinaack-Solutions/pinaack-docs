@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2251,
+    "difficulty": 2,
+    "title": "What is the capital of Kerala?",
+    "description": "Identify the capital city of the state of Kerala.",
+    "hint": "It is located in southern Kerala.",
+    "summary": "Thiruvananthapuram is the capital of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Geography, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2251,
+        "id": 8801,
+        "title": "Kochi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2251,
+        "id": 8802,
+        "title": "Kozhikode",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2251,
+        "id": 8803,
+        "title": "Thiruvananthapuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2251,
+        "id": 8804,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2252,
+    "difficulty": 2,
+    "title": "Which is the longest river in Kerala?",
+    "description": "Identify the longest river flowing through Kerala.",
+    "hint": "It is also known as Periyar.",
+    "summary": "Periyar is the longest river in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Rivers, Geography, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2252,
+        "id": 8805,
+        "title": "Bharathapuzha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2252,
+        "id": 8806,
+        "title": "Pamba",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2252,
+        "id": 8807,
+        "title": "Chaliyar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2252,
+        "id": 8808,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2253,
+    "difficulty": 2,
+    "title": "Which river is also known as the Nila in Kerala?",
+    "description": "Identify the river popularly known by the name Nila.",
+    "hint": "It is the second-longest river in Kerala.",
+    "summary": "Bharathapuzha is also known as Nila.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Rivers, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2253,
+        "id": 8809,
+        "title": "Pamba",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2253,
+        "id": 8810,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2253,
+        "id": 8811,
+        "title": "Bharathapuzha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2253,
+        "id": 8812,
+        "title": "Chaliyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2254,
+    "difficulty": 2,
+    "title": "Which is the largest lake in Kerala?",
+    "description": "Identify the largest lake in Kerala by area.",
+    "hint": "It is a major backwater destination near Kumarakom.",
+    "summary": "Vembanad Lake is the largest lake in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Lakes, Geography, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2254,
+        "id": 8813,
+        "title": "Ashtamudi Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2254,
+        "id": 8814,
+        "title": "Vembanad Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2254,
+        "id": 8815,
+        "title": "Sasthamkotta Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2254,
+        "id": 8816,
+        "title": "Pookode Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2255,
+    "difficulty": 2,
+    "title": "Which is the highest peak in Kerala?",
+    "description": "Identify the highest mountain peak in Kerala.",
+    "hint": "It is located in the Western Ghats near Munnar.",
+    "summary": "Anamudi is the highest peak in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Mountains, Geography, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2255,
+        "id": 8817,
+        "title": "Anamudi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2255,
+        "id": 8818,
+        "title": "Agasthyarkoodam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2255,
+        "id": 8819,
+        "title": "Chembra Peak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2255,
+        "id": 8820,
+        "title": "Banasura Hill",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2256,
+    "difficulty": 2,
+    "title": "Which national park is famous for the Nilgiri tahr in Kerala?",
+    "description": "Identify the Kerala national park closely associated with the endangered Nilgiri tahr.",
+    "hint": "It is located near Munnar.",
+    "summary": "Eravikulam National Park is famous for the Nilgiri tahr.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, National Parks, Wildlife, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2256,
+        "id": 8821,
+        "title": "Silent Valley National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2256,
+        "id": 8822,
+        "title": "Periyar National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2256,
+        "id": 8823,
+        "title": "Mathikettan Shola National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2256,
+        "id": 8824,
+        "title": "Eravikulam National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2257,
+    "difficulty": 2,
+    "title": "Silent Valley National Park is located in which district?",
+    "description": "Identify the district containing Silent Valley National Park.",
+    "hint": "The district lies in northern Kerala.",
+    "summary": "Silent Valley National Park is located in Palakkad district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, National Parks, Palakkad, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2257,
+        "id": 8825,
+        "title": "Wayanad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2257,
+        "id": 8826,
+        "title": "Palakkad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2257,
+        "id": 8827,
+        "title": "Idukki",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2257,
+        "id": 8828,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2258,
+    "difficulty": 2,
+    "title": "Which wildlife sanctuary is associated with the Periyar Tiger Reserve?",
+    "description": "Identify the wildlife sanctuary forming the core of the Periyar Tiger Reserve.",
+    "hint": "It is centered around the Periyar Lake region.",
+    "summary": "Periyar Wildlife Sanctuary is associated with the Periyar Tiger Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Wildlife, Tiger Reserve, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2258,
+        "id": 8829,
+        "title": "Periyar Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2258,
+        "id": 8830,
+        "title": "Wayanad Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2258,
+        "id": 8831,
+        "title": "Chinnar Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2258,
+        "id": 8832,
+        "title": "Neyyar Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2259,
+    "difficulty": 2,
+    "title": "Which district is famous for the hill station of Munnar?",
+    "description": "Identify the Kerala district in which Munnar is located.",
+    "hint": "This district is known for its high ranges and tea plantations.",
+    "summary": "Munnar is located in Idukki district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Munnar, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2259,
+        "id": 8833,
+        "title": "Idukki",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2259,
+        "id": 8834,
+        "title": "Wayanad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2259,
+        "id": 8835,
+        "title": "Kottayam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2259,
+        "id": 8836,
+        "title": "Pathanamthitta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2260,
+    "difficulty": 2,
+    "title": "Which city is known as the commercial capital of Kerala?",
+    "description": "Identify the major commercial and financial center of Kerala.",
+    "hint": "It is located on the Arabian Sea coast.",
+    "summary": "Kochi is widely regarded as the commercial capital of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Cities, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2260,
+        "id": 8837,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2260,
+        "id": 8838,
+        "title": "Kochi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2260,
+        "id": 8839,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2260,
+        "id": 8840,
+        "title": "Alappuzha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2261,
+    "difficulty": 2,
+    "title": "Which ancient port city of Kerala was known as Muziris?",
+    "description": "Identify the ancient Kerala port traditionally associated with Muziris.",
+    "hint": "It was located near the present-day Kodungallur region.",
+    "summary": "Muziris is traditionally associated with the Kodungallur region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Ancient History, Ports, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2261,
+        "id": 8841,
+        "title": "Kodungallur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2261,
+        "id": 8842,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2261,
+        "id": 8843,
+        "title": "Kozhikode",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2261,
+        "id": 8844,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2262,
+    "difficulty": 2,
+    "title": "Who founded the Kingdom of Travancore in the 18th century?",
+    "description": "Identify the ruler who consolidated the Kingdom of Travancore.",
+    "hint": "He is remembered for the Battle of Colachel.",
+    "summary": "Marthanda Varma established and expanded Travancore.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Travancore, History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2262,
+        "id": 8845,
+        "title": "Marthanda Varma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2262,
+        "id": 8846,
+        "title": "Swathi Thirunal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2262,
+        "id": 8847,
+        "title": "Dharma Raja",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2262,
+        "id": 8848,
+        "title": "Ayilyam Thirunal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2263,
+    "difficulty": 2,
+    "title": "The Battle of Colachel was fought in which year?",
+    "description": "Identify the year of the Battle of Colachel between Travancore and the Dutch East India Company.",
+    "hint": "It occurred during the reign of Marthanda Varma.",
+    "summary": "The Battle of Colachel was fought in 1741.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, History, Travancore, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2263,
+        "id": 8849,
+        "title": "1757",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2263,
+        "id": 8850,
+        "title": "1741",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2263,
+        "id": 8851,
+        "title": "1764",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2263,
+        "id": 8852,
+        "title": "1789",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2264,
+    "difficulty": 2,
+    "title": "Who was known as the Lion of Kerala?",
+    "description": "Identify the Kerala ruler popularly associated with the title Lion of Kerala.",
+    "hint": "He was a ruler of Pazhassi and fought the British.",
+    "summary": "Kerala Varma Pazhassi Raja is popularly known as the Lion of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Pazhassi Raja, History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2264,
+        "id": 8853,
+        "title": "Velu Thampi Dalawa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2264,
+        "id": 8854,
+        "title": "Marthanda Varma",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2264,
+        "id": 8855,
+        "title": "Pazhassi Raja",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2264,
+        "id": 8856,
+        "title": "Swathi Thirunal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2265,
+    "difficulty": 2,
+    "title": "Who led the revolt against the British known as the Velu Thampi rebellion?",
+    "description": "Identify the Travancore minister who led the uprising against British influence.",
+    "hint": "He served as Dalawa of Travancore.",
+    "summary": "Velu Thampi Dalawa led the rebellion against the British.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Modern History, Travancore, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2265,
+        "id": 8857,
+        "title": "Velu Thampi Dalawa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2265,
+        "id": 8858,
+        "title": "Pazhassi Raja",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2265,
+        "id": 8859,
+        "title": "Ayyankali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2265,
+        "id": 8860,
+        "title": "K. Kelappan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2266,
+    "difficulty": 2,
+    "title": "Who was the first Chief Minister of Kerala?",
+    "description": "Identify the first person to serve as Chief Minister of Kerala after its formation in 1956.",
+    "hint": "He belonged to the Communist Party of India.",
+    "summary": "E. M. S. Namboodiripad was the first Chief Minister of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Polity, History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2266,
+        "id": 8861,
+        "title": "Pattom A. Thanu Pillai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2266,
+        "id": 8862,
+        "title": "E. M. S. Namboodiripad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2266,
+        "id": 8863,
+        "title": "C. Achutha Menon",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2266,
+        "id": 8864,
+        "title": "R. Sankar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2267,
+    "difficulty": 2,
+    "title": "In which year was the state of Kerala formed?",
+    "description": "Identify the year in which Kerala was created as a state through the States Reorganisation process.",
+    "hint": "Kerala was formed on 1 November.",
+    "summary": "Kerala was formed on 1 November 1956.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, History, Polity, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2267,
+        "id": 8865,
+        "title": "1950",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2267,
+        "id": 8866,
+        "title": "1952",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2267,
+        "id": 8867,
+        "title": "1956",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2267,
+        "id": 8868,
+        "title": "1960",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2268,
+    "difficulty": 2,
+    "title": "Which movement is associated with the formation of Kerala as a Malayalam-speaking state?",
+    "description": "Identify the movement that demanded the unification of Malayalam-speaking regions.",
+    "hint": "Its name means Aikyam or unity.",
+    "summary": "The Aikya Kerala Movement sought the unification of Malayalam-speaking regions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, History, State Formation, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2268,
+        "id": 8869,
+        "title": "Aikya Kerala Movement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2268,
+        "id": 8870,
+        "title": "Vaikom Movement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2268,
+        "id": 8871,
+        "title": "Temple Entry Movement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2268,
+        "id": 8872,
+        "title": "Aikya Kerala Movement",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2269,
+    "difficulty": 2,
+    "title": "The Vaikom Satyagraha was primarily related to which issue?",
+    "description": "Identify the main social issue around which the Vaikom Satyagraha was organized.",
+    "hint": "It challenged restrictions on access to roads around a temple.",
+    "summary": "The Vaikom Satyagraha challenged caste-based restrictions on public roads near the Vaikom temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, Vaikom Satyagraha, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2269,
+        "id": 8873,
+        "title": "Land tax reduction",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2269,
+        "id": 8874,
+        "title": "Access to public roads",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2269,
+        "id": 8875,
+        "title": "Forest rights",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2269,
+        "id": 8876,
+        "title": "Factory wages",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2270,
+    "difficulty": 2,
+    "title": "Who was a prominent leader of the Vaikom Satyagraha?",
+    "description": "Identify the social reformer from Kerala who played a major role in the Vaikom Satyagraha.",
+    "hint": "He was known as Kerala Gandhi.",
+    "summary": "K. Kelappan was a prominent leader associated with the Vaikom Satyagraha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2270,
+        "id": 8877,
+        "title": "K. Kelappan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2270,
+        "id": 8878,
+        "title": "Ayyankali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2270,
+        "id": 8879,
+        "title": "Vakkom Moulavi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2270,
+        "id": 8880,
+        "title": "Mannathu Padmanabhan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2271,
+    "difficulty": 2,
+    "title": "Who founded the Sree Narayana Dharma Paripalana Yogam?",
+    "description": "Identify the organization associated with the teachings and social reform movement of Sree Narayana Guru.",
+    "hint": "The organization is commonly abbreviated as SNDP Yogam.",
+    "summary": "Sree Narayana Guru was the spiritual inspiration behind the SNDP Yogam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, Sree Narayana Guru",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2271,
+        "id": 8881,
+        "title": "Ayyankali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2271,
+        "id": 8882,
+        "title": "Chattampi Swamikal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2271,
+        "id": 8883,
+        "title": "Sree Narayana Guru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2271,
+        "id": 8884,
+        "title": "Brahmananda Sivayogi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2272,
+    "difficulty": 2,
+    "title": "Who founded the Sadhu Jana Paripalana Sangham?",
+    "description": "Identify the social reformer who worked for the rights of oppressed communities in Kerala.",
+    "hint": "He was a major Dalit leader of Kerala.",
+    "summary": "Ayyankali founded the Sadhu Jana Paripalana Sangham.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, Ayyankali, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2272,
+        "id": 8885,
+        "title": "Ayyankali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2272,
+        "id": 8886,
+        "title": "Sree Narayana Guru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2272,
+        "id": 8887,
+        "title": "K. Kelappan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2272,
+        "id": 8888,
+        "title": "Vakkom Moulavi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2273,
+    "difficulty": 2,
+    "title": "Who founded the Nair Service Society?",
+    "description": "Identify the social reformer and community leader who founded the Nair Service Society.",
+    "hint": "He was popularly known as Mannathu Padmanabhan.",
+    "summary": "Mannathu Padmanabhan founded the Nair Service Society.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, NSS, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2273,
+        "id": 8889,
+        "title": "Mannathu Padmanabhan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2273,
+        "id": 8890,
+        "title": "Chattampi Swamikal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2273,
+        "id": 8891,
+        "title": "K. Kelappan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2273,
+        "id": 8892,
+        "title": "Vakkom Moulavi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2274,
+    "difficulty": 2,
+    "title": "Which social reformer founded the Atmavidya Sangham?",
+    "description": "Identify the Kerala social reformer associated with the Atmavidya Sangham.",
+    "hint": "He was also known as Vagbhatananda.",
+    "summary": "Vagbhatananda founded the Atmavidya Sangham.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2274,
+        "id": 8893,
+        "title": "Vagbhatananda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2274,
+        "id": 8894,
+        "title": "Vagbhatananda",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2274,
+        "id": 8895,
+        "title": "Ayyankali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2274,
+        "id": 8896,
+        "title": "Vakkom Moulavi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2275,
+    "difficulty": 2,
+    "title": "Which temple-entry proclamation was issued by the Travancore ruler in 1936?",
+    "description": "Identify the proclamation that opened Hindu temples in Travancore to people of all castes.",
+    "hint": "It was issued on 12 November 1936.",
+    "summary": "The Temple Entry Proclamation of 1936 opened Travancore temples to avarnas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Social Reform, Travancore, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2275,
+        "id": 8897,
+        "title": "Temple Entry Proclamation",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2275,
+        "id": 8898,
+        "title": "Malabar Declaration",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2275,
+        "id": 8899,
+        "title": "Vaikom Proclamation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2275,
+        "id": 8900,
+        "title": "Travancore Reform Act",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2276,
+    "difficulty": 2,
+    "title": "Which festival is celebrated at Sabarimala?",
+    "description": "Identify the major pilgrimage festival associated with Lord Ayyappa at Sabarimala.",
+    "hint": "The main annual pilgrimage season includes this festival in January.",
+    "summary": "Makaravilakku is a major annual event at Sabarimala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Festivals, Sabarimala, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2276,
+        "id": 8901,
+        "title": "Thrissur Pooram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2276,
+        "id": 8902,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2276,
+        "id": 8903,
+        "title": "Makaravilakku",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2276,
+        "id": 8904,
+        "title": "Makaravilakku",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2277,
+    "difficulty": 2,
+    "title": "Onam is traditionally associated with the legendary king of Kerala?",
+    "description": "Identify the legendary ruler whose return is celebrated during Onam.",
+    "hint": "He is associated with a golden age of Kerala.",
+    "summary": "Onam is traditionally associated with King Mahabali.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Festivals, Onam, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2277,
+        "id": 8905,
+        "title": "Mahabali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2277,
+        "id": 8906,
+        "title": "Parashurama",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2277,
+        "id": 8907,
+        "title": "Cheraman Perumal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2277,
+        "id": 8908,
+        "title": "Marthanda Varma",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2278,
+    "difficulty": 2,
+    "title": "Which boat race is one of the most famous traditional races of Kerala?",
+    "description": "Identify the famous annual snake-boat race held on the Pamba River.",
+    "hint": "It is associated with the village of Aranmula.",
+    "summary": "The Aranmula Vallamkali is a famous traditional boat race of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Culture, Festivals, Boat Race",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2278,
+        "id": 8909,
+        "title": "Nehru Trophy Boat Race",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2278,
+        "id": 8910,
+        "title": "Aranmula Vallamkali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2278,
+        "id": 8911,
+        "title": "Champakulam Moolam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2278,
+        "id": 8912,
+        "title": "Kallada Boat Race",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2279,
+    "difficulty": 2,
+    "title": "Which traditional dance-drama is famous for elaborate makeup and costumes in Kerala?",
+    "description": "Identify the classical dance-drama characterized by elaborate facial makeup, costumes and gestures.",
+    "hint": "It is one of Kerala's best-known performing arts.",
+    "summary": "Kathakali is the famous traditional dance-drama of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Kathakali, Culture, Dance",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2279,
+        "id": 8913,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2279,
+        "id": 8914,
+        "title": "Koodiyattam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2279,
+        "id": 8915,
+        "title": "Mohiniyattam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2279,
+        "id": 8916,
+        "title": "Theyyam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2280,
+    "difficulty": 2,
+    "title": "Which classical dance form originated in Kerala?",
+    "description": "Identify the classical Indian dance form traditionally associated with Kerala and known for graceful movements.",
+    "hint": "Its name refers to the enchantress or dancer.",
+    "summary": "Mohiniyattam is a classical dance form of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Mohiniyattam, Culture, Dance",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2280,
+        "id": 8917,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2280,
+        "id": 8918,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2280,
+        "id": 8919,
+        "title": "Mohiniyattam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2280,
+        "id": 8920,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2281,
+    "difficulty": 2,
+    "title": "Which Kerala performing art is associated with elaborate face painting and ritual performance?",
+    "description": "Identify the ritualistic performing art especially associated with northern Kerala.",
+    "hint": "It is particularly prominent in Kannur and Kasaragod regions.",
+    "summary": "Theyyam is a ritualistic performing art of northern Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Theyyam, Culture, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2281,
+        "id": 8921,
+        "title": "Theyyam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2281,
+        "id": 8922,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2281,
+        "id": 8923,
+        "title": "Oppana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2281,
+        "id": 8924,
+        "title": "Duffmuttu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2282,
+    "difficulty": 2,
+    "title": "Koodiyattam is traditionally performed in which type of venue?",
+    "description": "Identify the traditional temple theatre associated with Koodiyattam.",
+    "hint": "The venue is known as a Koothambalam.",
+    "summary": "Koodiyattam is traditionally performed in Koothambalams.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Koodiyattam, Culture, UNESCO",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2282,
+        "id": 8925,
+        "title": "Koothambalam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2282,
+        "id": 8926,
+        "title": "Koothambalam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2282,
+        "id": 8927,
+        "title": "Natya Mandapa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2282,
+        "id": 8928,
+        "title": "Kalari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2283,
+    "difficulty": 2,
+    "title": "Which Kerala art form has been recognized by UNESCO as an Intangible Cultural Heritage?",
+    "description": "Identify the traditional Sanskrit theatre form from Kerala recognized by UNESCO.",
+    "hint": "It is considered one of the oldest living theatre traditions.",
+    "summary": "Koodiyattam is recognized by UNESCO as Intangible Cultural Heritage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, UNESCO, Koodiyattam, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2283,
+        "id": 8929,
+        "title": "Koodiyattam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2283,
+        "id": 8930,
+        "title": "Theyyam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2283,
+        "id": 8931,
+        "title": "Oppana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2283,
+        "id": 8932,
+        "title": "Margamkali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2284,
+    "difficulty": 2,
+    "title": "Which traditional martial art originated in Kerala?",
+    "description": "Identify the traditional martial art of Kerala known for its weapon training and physical techniques.",
+    "hint": "It is often considered one of India's oldest martial arts.",
+    "summary": "Kalaripayattu is the traditional martial art of Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Kalaripayattu, Culture, Martial Arts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2284,
+        "id": 8933,
+        "title": "Silambam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2284,
+        "id": 8934,
+        "title": "Thang-Ta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2284,
+        "id": 8935,
+        "title": "Kalaripayattu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2284,
+        "id": 8936,
+        "title": "Gatka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2285,
+    "difficulty": 2,
+    "title": "Which city hosts the famous Thrissur Pooram festival?",
+    "description": "Identify the Kerala city associated with the annual Thrissur Pooram festival.",
+    "hint": "The city shares its name with the festival.",
+    "summary": "Thrissur hosts the famous Thrissur Pooram festival.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Thrissur Pooram, Festivals, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2285,
+        "id": 8937,
+        "title": "Thrissur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2285,
+        "id": 8938,
+        "title": "Kochi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2285,
+        "id": 8939,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2285,
+        "id": 8940,
+        "title": "Palakkad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2286,
+    "difficulty": 2,
+    "title": "Which district is famous for the backwaters of Ashtamudi Lake?",
+    "description": "Identify the district in which Ashtamudi Lake is located.",
+    "hint": "The district headquarters is Kollam.",
+    "summary": "Ashtamudi Lake is located in Kollam district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Lakes, Kollam, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2286,
+        "id": 8941,
+        "title": "Alappuzha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2286,
+        "id": 8942,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2286,
+        "id": 8943,
+        "title": "Kottayam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2286,
+        "id": 8944,
+        "title": "Ernakulam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2287,
+    "difficulty": 2,
+    "title": "Which lake is the largest freshwater lake in Kerala?",
+    "description": "Identify Kerala's largest freshwater lake.",
+    "hint": "It is located in Kollam district.",
+    "summary": "Sasthamkotta Lake is the largest freshwater lake in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Lakes, Geography, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2287,
+        "id": 8945,
+        "title": "Sasthamkotta Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2287,
+        "id": 8946,
+        "title": "Vembanad Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2287,
+        "id": 8947,
+        "title": "Ashtamudi Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2287,
+        "id": 8948,
+        "title": "Pookode Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2288,
+    "difficulty": 2,
+    "title": "Which is the smallest district of Kerala by area?",
+    "description": "Identify the smallest Kerala district by geographical area.",
+    "hint": "It is located in the northern part of the state.",
+    "summary": "Alappuzha is the smallest district of Kerala by area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Geography, Districts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2288,
+        "id": 8949,
+        "title": "Alappuzha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2288,
+        "id": 8950,
+        "title": "Wayanad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2288,
+        "id": 8951,
+        "title": "Kasaragod",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2288,
+        "id": 8952,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2289,
+    "difficulty": 2,
+    "title": "Which district is known for the hill station of Wayanad?",
+    "description": "Identify the district that forms the famous Wayanad region.",
+    "hint": "The district itself is named Wayanad.",
+    "summary": "Wayanad district contains the Wayanad hill region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Wayanad, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2289,
+        "id": 8953,
+        "title": "Wayanad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2289,
+        "id": 8954,
+        "title": "Idukki",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2289,
+        "id": 8955,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2289,
+        "id": 8956,
+        "title": "Palakkad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2290,
+    "difficulty": 2,
+    "title": "Which airport is located in Thiruvananthapuram?",
+    "description": "Identify the international airport serving the capital city of Kerala.",
+    "hint": "It is named after the state capital.",
+    "summary": "Thiruvananthapuram International Airport serves the capital city.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Airports, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2290,
+        "id": 8957,
+        "title": "Cochin International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2290,
+        "id": 8958,
+        "title": "Kannur International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2290,
+        "id": 8959,
+        "title": "Kozhikode International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2290,
+        "id": 8960,
+        "title": "Thiruvananthapuram International Airport",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2291,
+    "difficulty": 2,
+    "title": "Which airport is located near Nedumbassery?",
+    "description": "Identify the major international airport located at Nedumbassery near Kochi.",
+    "hint": "It is named after the city of Kochi.",
+    "summary": "Cochin International Airport is located at Nedumbassery.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Airports, Kochi, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2291,
+        "id": 8961,
+        "title": "Cochin International Airport",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2291,
+        "id": 8962,
+        "title": "Kannur International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2291,
+        "id": 8963,
+        "title": "Kozhikode International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2291,
+        "id": 8964,
+        "title": "Thiruvananthapuram International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2292,
+    "difficulty": 2,
+    "title": "Which city is associated with the historic Beypore port?",
+    "description": "Identify the Kerala city famous for its historic port and traditional shipbuilding.",
+    "hint": "It is located near Kozhikode.",
+    "summary": "Beypore is a historic port area of Kozhikode.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Ports, Kozhikode, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2292,
+        "id": 8965,
+        "title": "Kozhikode",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2292,
+        "id": 8966,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2292,
+        "id": 8967,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2292,
+        "id": 8968,
+        "title": "Alappuzha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2293,
+    "difficulty": 2,
+    "title": "Which spice is Kerala historically famous for producing and trading?",
+    "description": "Identify the spice that played a major role in Kerala's historic overseas trade.",
+    "hint": "It was highly valued by ancient Roman and Arab traders.",
+    "summary": "Black pepper was a major commodity in Kerala's historic spice trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Economy, Spices, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2293,
+        "id": 8969,
+        "title": "Black pepper",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2293,
+        "id": 8970,
+        "title": "Saffron",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2293,
+        "id": 8971,
+        "title": "Clove",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2293,
+        "id": 8972,
+        "title": "Nutmeg",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2294,
+    "difficulty": 2,
+    "title": "Which crop is especially important in the plantation economy of Kerala?",
+    "description": "Identify an important plantation crop widely cultivated in Kerala.",
+    "hint": "Kerala is one of India's major producers of this crop.",
+    "summary": "Rubber is an important plantation crop in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Agriculture, Economy, Rubber",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2294,
+        "id": 8973,
+        "title": "Rubber",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2294,
+        "id": 8974,
+        "title": "Rubber",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2294,
+        "id": 8975,
+        "title": "Wheat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2294,
+        "id": 8976,
+        "title": "Barley",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2295,
+    "difficulty": 2,
+    "title": "Which district is particularly associated with rubber cultivation in Kerala?",
+    "description": "Identify the district widely known for its rubber plantations.",
+    "hint": "The district headquarters shares its name with the district.",
+    "summary": "Kottayam is strongly associated with rubber cultivation in Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Agriculture, Rubber, Kottayam",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2295,
+        "id": 8977,
+        "title": "Kottayam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2295,
+        "id": 8978,
+        "title": "Kasaragod",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2295,
+        "id": 8979,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2295,
+        "id": 8980,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2296,
+    "difficulty": 2,
+    "title": "Which Kerala city is famous for its historic synagogue at Mattancherry?",
+    "description": "Identify the city where the Paradesi Synagogue is located.",
+    "hint": "It is a major port city on the Malabar Coast.",
+    "summary": "The Paradesi Synagogue is located in Kochi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Kochi, Heritage, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2296,
+        "id": 8981,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2296,
+        "id": 8982,
+        "title": "Kochi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2296,
+        "id": 8983,
+        "title": "Kozhikode",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2296,
+        "id": 8984,
+        "title": "Kannur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2297,
+    "difficulty": 2,
+    "title": "Which fort is located in Kasaragod district and is one of Kerala's major historic forts?",
+    "description": "Identify the large historic fort overlooking the Arabian Sea in Kasaragod.",
+    "hint": "It is shaped roughly like a keyhole and overlooks the sea.",
+    "summary": "Bekal Fort is located in Kasaragod district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Forts, Kasaragod, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2297,
+        "id": 8985,
+        "title": "Bekal Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2297,
+        "id": 8986,
+        "title": "Palakkad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2297,
+        "id": 8987,
+        "title": "St. Angelo Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2297,
+        "id": 8988,
+        "title": "Mattancherry Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2298,
+    "difficulty": 2,
+    "title": "Which palace is also known as the Dutch Palace?",
+    "description": "Identify the historic palace located at Mattancherry in Kochi.",
+    "hint": "It was built by the Portuguese and later renovated by the Dutch.",
+    "summary": "Mattancherry Palace is also known as the Dutch Palace.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Palaces, Kochi, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2298,
+        "id": 8989,
+        "title": "Padmanabhapuram Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2298,
+        "id": 8990,
+        "title": "Mattancherry Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2298,
+        "id": 8991,
+        "title": "Mattancherry Palace",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2298,
+        "id": 8992,
+        "title": "Kanakakkunnu Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2299,
+    "difficulty": 2,
+    "title": "Which district contains the famous Padmanabhaswamy Temple?",
+    "description": "Identify the district in which the Sree Padmanabhaswamy Temple is located.",
+    "hint": "The temple is in the state capital.",
+    "summary": "Sree Padmanabhaswamy Temple is located in Thiruvananthapuram district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Temples, Thiruvananthapuram, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2299,
+        "id": 8993,
+        "title": "Kollam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2299,
+        "id": 8994,
+        "title": "Kottayam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2299,
+        "id": 8995,
+        "title": "Alappuzha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2299,
+        "id": 8996,
+        "title": "Thiruvananthapuram",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2300,
+    "difficulty": 2,
+    "title": "Which Kerala temple is famous for the annual Thrissur Pooram festival?",
+    "description": "Identify the temple whose grounds are central to the Thrissur Pooram celebrations.",
+    "hint": "It is located in the heart of Thrissur city.",
+    "summary": "Vadakkunnathan Temple is central to the Thrissur Pooram festival.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Kerala, Temples, Thrissur Pooram, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2300,
+        "id": 8997,
+        "title": "Guruvayur Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2300,
+        "id": 8998,
+        "title": "Sabarimala Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2300,
+        "id": 8999,
+        "title": "Vadakkunnathan Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2300,
+        "id": 9000,
+        "title": "Attukal Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
