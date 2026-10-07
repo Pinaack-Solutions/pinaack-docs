@@ -1,1 +1,2048 @@
-
+[
+  {
+    "id": 1099,
+    "difficulty": 2,
+    "title": "1099. Which Indian state shares its border with the maximum number of countries?",
+    "description": "",
+    "hint": "Its capital is Gangtok.",
+    "summary": "Sikkim shares borders with China, Nepal and Bhutan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,International Borders,Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1099,
+        "id": 4193,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1099,
+        "id": 4194,
+        "title": "Jammu and Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1099,
+        "id": 4195,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1099,
+        "id": 4196,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1100,
+    "difficulty": 2,
+    "title": "1100. Which Indian state has the highest population density?",
+    "description": "",
+    "hint": "Its capital is Patna.",
+    "summary": "Bihar has the highest population density among Indian states.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Population,Census",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1100,
+        "id": 4197,
+        "title": "West Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1100,
+        "id": 4198,
+        "title": "Uttar Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1100,
+        "id": 4199,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1100,
+        "id": 4200,
+        "title": "Bihar",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1066,
+    "difficulty": 2,
+    "title": "1066. Which state is the largest producer of rubber in India?",
+    "description": "",
+    "hint": "It is located on the southwest coast.",
+    "summary": "Kerala is India's largest producer of natural rubber.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Agriculture,Crops",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1066,
+        "id": 4061,
+        "title": "Tripura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1066,
+        "id": 4062,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1066,
+        "id": 4063,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1066,
+        "id": 4064,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1082,
+    "difficulty": 2,
+    "title": "1082. Which Indian state is known as the 'Land of the Thunder Dragon'?",
+    "description": "",
+    "hint": "It shares a border with Bhutan.",
+    "summary": "Sikkim is associated with the Land of the Thunder Dragon due to its proximity to Bhutan.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Himalayas,Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1082,
+        "id": 4125,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1082,
+        "id": 4126,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1082,
+        "id": 4127,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1082,
+        "id": 4128,
+        "title": "Meghalaya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1083,
+    "difficulty": 2,
+    "title": "1083. Which Indian state has the highest number of national parks?",
+    "description": "",
+    "hint": "Its capital is Bhopal.",
+    "summary": "Madhya Pradesh has the highest number of national parks in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Wildlife,Protected Areas",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1083,
+        "id": 4129,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1083,
+        "id": 4130,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1083,
+        "id": 4131,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1083,
+        "id": 4132,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1084,
+    "difficulty": 2,
+    "title": "1084. Which Indian state is the largest producer of bananas?",
+    "description": "",
+    "hint": "Its capital is Chennai.",
+    "summary": "Tamil Nadu is India's leading producer of bananas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Agriculture,Fruits",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1084,
+        "id": 4133,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1084,
+        "id": 4134,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1084,
+        "id": 4135,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1084,
+        "id": 4136,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1085,
+    "difficulty": 2,
+    "title": "1085. Which Indian state has the longest national highway network?",
+    "description": "",
+    "hint": "It is the largest state by area.",
+    "summary": "Rajasthan has the longest national highway network in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,States,Transport,Infrastructure",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1085,
+        "id": 4137,
+        "title": "Rajasthan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1085,
+        "id": 4138,
+        "title": "Uttar Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1085,
+        "id": 4139,
+        "title": "Madhya Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1085,
+        "id": 4140,
+        "title": "Maharashtra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "difficulty": 4,
+    "title": "336. Which UNESCO World Heritage Site extends across six Indian states?",
+    "description": "",
+    "hint": "It is one of the world's biodiversity hotspots.",
+    "summary": "The Western Ghats stretch from Gujarat to Kerala and Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Western Ghats,Biodiversity,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 336,
+        "id": 1141,
+        "title": "Great Himalayan National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 336,
+        "id": 1142,
+        "title": "Western Ghats",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 336,
+        "id": 1143,
+        "title": "Sundarbans",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 336,
+        "id": 1144,
+        "title": "Kaziranga",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "difficulty": 4,
+    "title": "337. Great Himalayan National Park is located in which state?",
+    "description": "",
+    "hint": "Shimla is the capital of this state.",
+    "summary": "Great Himalayan National Park became a UNESCO World Heritage Site in 2014.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "UNESCO,Great Himalayan National Park,Himachal Pradesh,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 337,
+        "id": 1145,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 337,
+        "id": 1146,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 337,
+        "id": 1147,
+        "title": "Jammu and Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 337,
+        "id": 1148,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2163,
+    "difficulty": 2,
+    "title": "Which temple is located at Halebidu and is associated with Hoysala architecture?",
+    "description": "Identify the famous Hoysala temple at Halebidu.",
+    "hint": "It is dedicated to Shiva.",
+    "summary": "The Hoysaleswara Temple at Halebidu is a major example of Hoysala architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Hoysala Architecture, Halebidu, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2163,
+        "id": 8449,
+        "title": "Hoysaleswara Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2163,
+        "id": 8450,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2163,
+        "id": 8451,
+        "title": "Jagannath Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2163,
+        "id": 8452,
+        "title": "Mukteshwar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2169,
+    "difficulty": 2,
+    "title": "What is a gopuram?",
+    "description": "Identify the architectural element known as a gopuram.",
+    "hint": "It is usually associated with the entrance of South Indian temple complexes.",
+    "summary": "A gopuram is a monumental gateway tower, especially prominent in South Indian temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gopuram, Dravida Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2169,
+        "id": 8473,
+        "title": "Gateway tower",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2169,
+        "id": 8474,
+        "title": "Sanctum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2169,
+        "id": 8475,
+        "title": "Temple tank",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2169,
+        "id": 8476,
+        "title": "Pillar base",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2170,
+    "difficulty": 2,
+    "title": "Which temple is famous for its large gopurams and Dravidian architecture?",
+    "description": "Identify the major temple complex in Madurai known for its monumental gateways.",
+    "hint": "It is dedicated primarily to Meenakshi and Sundareswarar.",
+    "summary": "The Meenakshi Amman Temple at Madurai is famous for its large gopurams and Dravidian architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Meenakshi Temple, Dravida Architecture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2170,
+        "id": 8477,
+        "title": "Meenakshi Amman Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2170,
+        "id": 8478,
+        "title": "Konark Sun Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2170,
+        "id": 8479,
+        "title": "Lingaraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2170,
+        "id": 8480,
+        "title": "Kandariya Mahadeva",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2176,
+    "difficulty": 2,
+    "title": "The Kailasa Temple at Ellora was commissioned by which Rashtrakuta ruler?",
+    "description": "Identify the ruler traditionally credited with commissioning the Kailasa Temple at Ellora.",
+    "hint": "He was a prominent Rashtrakuta king.",
+    "summary": "Rashtrakuta ruler Krishna I is traditionally credited with commissioning the Kailasa Temple at Ellora.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ellora, Rashtrakuta, Temple Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2176,
+        "id": 8501,
+        "title": "Krishna I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2176,
+        "id": 8502,
+        "title": "Amoghavarsha I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2176,
+        "id": 8503,
+        "title": "Dantidurga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2176,
+        "id": 8504,
+        "title": "Govinda III",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2101,
+    "difficulty": 2,
+    "title": "How many types of writs are mentioned in the Constitution of India?",
+    "description": "The Constitution empowers higher courts to issue specific writs for protection of legal and fundamental rights.",
+    "hint": "The number is five.",
+    "summary": "The five constitutional writs are Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Indian Polity",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2101,
+        "id": 8201,
+        "title": "Five",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2101,
+        "id": 8202,
+        "title": "Three",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2101,
+        "id": 8203,
+        "title": "Four",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2101,
+        "id": 8204,
+        "title": "Six",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2102,
+    "difficulty": 2,
+    "title": "Which writ literally means 'produce the body'?",
+    "description": "This writ is primarily used to secure the release of a person from unlawful detention.",
+    "hint": "Its Latin meaning refers to producing the body.",
+    "summary": "Habeas Corpus literally means 'you may have the body' and is used against unlawful detention.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2102,
+        "id": 8205,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2102,
+        "id": 8206,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2102,
+        "id": 8207,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2102,
+        "id": 8208,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2103,
+    "difficulty": 2,
+    "title": "Which writ is primarily used to secure release from unlawful detention?",
+    "description": "The writ protects personal liberty by requiring justification for detention.",
+    "hint": "Think of the writ associated with unlawful custody.",
+    "summary": "Habeas Corpus is primarily used to challenge unlawful detention and secure release where the detention is illegal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2103,
+        "id": 8209,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2103,
+        "id": 8210,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2103,
+        "id": 8211,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2103,
+        "id": 8212,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1715,
+    "difficulty": 2,
+    "title": "Which Roman work mentions Muziris?",
+    "description": "Which ancient Greco-Roman geographical work provides information about ports such as Muziris?",
+    "hint": "It was a first-century work describing navigation and trade routes.",
+    "summary": "The Periplus of the Erythraean Sea mentions Muziris.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Muziris",
+      "Roman Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1715,
+        "id": 6657,
+        "title": "Periplus of the Erythraean Sea",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1715,
+        "id": 6658,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1715,
+        "id": 6659,
+        "title": "Geographia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1715,
+        "id": 6660,
+        "title": "Natural History",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1716,
+    "difficulty": 2,
+    "title": "What was Korkai famous for?",
+    "description": "What economic activity was Korkai especially famous for during the Sangam period?",
+    "hint": "The Gulf of Mannar was famous for this marine resource.",
+    "summary": "Korkai was famous for pearl fishing and the pearl trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Sangam Period",
+      "Korkai",
+      "Trade"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1716,
+        "id": 6661,
+        "title": "Iron mining",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1716,
+        "id": 6662,
+        "title": "Pearl fishing",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1716,
+        "id": 6663,
+        "title": "Horse breeding",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1716,
+        "id": 6664,
+        "title": "Silk production",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "difficulty": 1,
+    "title": "828. Which river is the second longest peninsular river of India?",
+    "description": "",
+    "hint": "It flows through Maharashtra, Karnataka and Andhra Pradesh.",
+    "summary": "The Krishna River is the second longest peninsular river.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Krishna River,Peninsular Rivers",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 828,
+        "id": 3109,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 828,
+        "id": 3110,
+        "title": "Narmada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 828,
+        "id": 3111,
+        "title": "Tapi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 828,
+        "id": 3112,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2201,
+    "difficulty": 2,
+    "title": "What is the capital of Tamil Nadu?",
+    "description": "Identify the capital city of the state of Tamil Nadu.",
+    "hint": "It is a major city on the Coromandel Coast.",
+    "summary": "Chennai is the capital of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Geography, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2201,
+        "id": 8601,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2201,
+        "id": 8602,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2201,
+        "id": 8603,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2201,
+        "id": 8604,
+        "title": "Tiruchirappalli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2202,
+    "difficulty": 2,
+    "title": "Which city is popularly known as the Manchester of South India?",
+    "description": "Identify the Tamil Nadu city associated with textile industries and this nickname.",
+    "hint": "It is an important textile center in western Tamil Nadu.",
+    "summary": "Coimbatore is popularly known as the Manchester of South India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Coimbatore, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2202,
+        "id": 8605,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2202,
+        "id": 8606,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2202,
+        "id": 8607,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2202,
+        "id": 8608,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2203,
+    "difficulty": 2,
+    "title": "Which is the longest river flowing entirely within Tamil Nadu?",
+    "description": "Identify the important river that flows entirely within Tamil Nadu.",
+    "hint": "It rises in the Western Ghats and reaches the Bay of Bengal.",
+    "summary": "The Thamirabarani is the longest river flowing entirely within Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Rivers, Geography, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2203,
+        "id": 8609,
+        "title": "Palar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2203,
+        "id": 8610,
+        "title": "Vaigai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2203,
+        "id": 8611,
+        "title": "Thamirabarani",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2203,
+        "id": 8612,
+        "title": "Bhavani",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1528,
+    "difficulty": 2,
+    "title": "Who built the Krishna Temple at Hampi?",
+    "description": "The Krishna Temple at Hampi was built by which Vijayanagara ruler?",
+    "hint": "The temple commemorated a military victory in eastern Andhra.",
+    "summary": "Krishnadevaraya built the Krishna Temple at Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Krishna Temple,Krishnadevaraya",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1528,
+        "id": 5909,
+        "title": "Bukka I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1528,
+        "id": 5910,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1528,
+        "id": 5911,
+        "title": "Harihara II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1528,
+        "id": 5912,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1529,
+    "difficulty": 2,
+    "title": "Which temple at Hampi is known for Ramayana panels?",
+    "description": "Which Vijayanagara temple is particularly noted for extensive Ramayana-related carvings?",
+    "hint": "Its name refers to a large number of depictions.",
+    "summary": "The Hazara Rama Temple is known for its Ramayana panels.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Vijayanagara Empire,Hampi,Hazara Rama Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1529,
+        "id": 5913,
+        "title": "Hazara Rama Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1529,
+        "id": 5914,
+        "title": "Vittala Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1529,
+        "id": 5915,
+        "title": "Krishna Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1529,
+        "id": 5916,
+        "title": "Virupaksha Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "difficulty": 1,
+    "title": "486. Which Buddhist sect spread widely in Sri Lanka?",
+    "description": "",
+    "hint": "It is closely associated with Pali literature.",
+    "summary": "Theravada Buddhism became dominant in Sri Lanka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Theravada,Sri Lanka",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 486,
+        "id": 1741,
+        "title": "Theravada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 486,
+        "id": 1742,
+        "title": "Mahayana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 486,
+        "id": 1743,
+        "title": "Vajrayana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 486,
+        "id": 1744,
+        "title": "Zen",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "difficulty": 1,
+    "title": "487. Who was Ashoka's son that helped spread Buddhism to Sri Lanka?",
+    "description": "",
+    "hint": "His sister Sanghamitta also accompanied the mission.",
+    "summary": "Mahinda played a major role in spreading Buddhism to Sri Lanka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "History,Buddhism,Mahinda,Ashoka",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 487,
+        "id": 1745,
+        "title": "Kunala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 487,
+        "id": 1746,
+        "title": "Mahinda",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 487,
+        "id": 1747,
+        "title": "Jalauka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 487,
+        "id": 1748,
+        "title": "Tivara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "difficulty": 3,
+    "title": "37. What is the main cause of tides?",
+    "description": "",
+    "summary": "Tides are primarily caused by the gravitational pull of the Moon.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Oceanography,Tides,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 37,
+        "id": 145,
+        "title": "Moon's Gravity",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 37,
+        "id": 146,
+        "title": "Earth's Rotation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 37,
+        "id": 147,
+        "title": "Ocean Currents",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 37,
+        "id": 148,
+        "title": "Atmospheric Pressure",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "difficulty": 3,
+    "title": "38. Which biome is characterized by permafrost?",
+    "description": "",
+    "summary": "The tundra biome contains permanently frozen subsoil called permafrost.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Biogeography,Environment,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 38,
+        "id": 149,
+        "title": "Tundra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 38,
+        "id": 150,
+        "title": "Taiga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 38,
+        "id": 151,
+        "title": "Savanna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 38,
+        "id": 152,
+        "title": "Steppe",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "difficulty": 2,
+    "title": "1023. Chapchar Kut festival is celebrated in which state?",
+    "description": "",
+    "hint": "It belongs to Northeast India.",
+    "summary": "Chapchar Kut is celebrated in Mizoram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,Regional Culture,States",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1023,
+        "id": 3889,
+        "title": "Tripura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1023,
+        "id": 3890,
+        "title": "Mizoram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1023,
+        "id": 3891,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1023,
+        "id": 3892,
+        "title": "Nagaland",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "difficulty": 1,
+    "title": "1024. Vasant Panchami is associated with the worship of which deity?",
+    "description": "",
+    "hint": "The deity represents knowledge and learning.",
+    "summary": "Vasant Panchami is associated with Goddess Saraswati.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Culture,Festivals,Beliefs,Traditions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1024,
+        "id": 3893,
+        "title": "Lakshmi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1024,
+        "id": 3894,
+        "title": "Durga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1024,
+        "id": 3895,
+        "title": "Saraswati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1024,
+        "id": 3896,
+        "title": "Parvati",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1437,
+    "difficulty": 2,
+    "title": "1437. Which railway PSU is mainly responsible for executing railway projects in India and abroad?",
+    "description": "",
+    "hint": "Its name begins with 'Indian Railway Construction'.",
+    "summary": "IRCON International executes railway and infrastructure projects in India and overseas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,IRCON,PSU",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1437,
+        "id": 5545,
+        "title": "RVNL",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1437,
+        "id": 5546,
+        "title": "IRCON International",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1437,
+        "id": 5547,
+        "title": "RITES",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1437,
+        "id": 5548,
+        "title": "DFCCIL",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1438,
+    "difficulty": 2,
+    "title": "1438. Which city is the headquarters of the North Central Railway zone?",
+    "description": "",
+    "hint": "It is also known as Prayagraj.",
+    "summary": "North Central Railway is headquartered at Prayagraj.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,Zones",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1438,
+        "id": 5549,
+        "title": "Kanpur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1438,
+        "id": 5550,
+        "title": "Prayagraj",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1438,
+        "id": 5551,
+        "title": "Lucknow",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1438,
+        "id": 5552,
+        "title": "Varanasi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1439,
+    "difficulty": 2,
+    "title": "1439. Which organization owns and operates the Dedicated Freight Corridors in India?",
+    "description": "",
+    "hint": "It is a PSU under the Ministry of Railways.",
+    "summary": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL) develops and operates freight corridors.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Railways,DFCCIL,Freight",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1439,
+        "id": 5553,
+        "title": "RVNL",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1439,
+        "id": 5554,
+        "title": "IRCTC",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1439,
+        "id": 5555,
+        "title": "DFCCIL",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1439,
+        "id": 5556,
+        "title": "RITES",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1399,
+    "difficulty": 2,
+    "title": "1399. Which channel separates Kavaratti and Agatti islands in Lakshadweep?",
+    "description": "",
+    "hint": "It is named after the degree of latitude.",
+    "summary": "The Nine Degree Channel separates Kavaratti from Kalpeni and the islands north of it.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Geography,Channels",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1399,
+        "id": 5393,
+        "title": "Eight Degree Channel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1399,
+        "id": 5394,
+        "title": "Ten Degree Channel",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1399,
+        "id": 5395,
+        "title": "Duncan Passage",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1399,
+        "id": 5396,
+        "title": "Nine Degree Channel",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 1400,
+    "difficulty": 2,
+    "title": "1400. Which factor makes Lakshadweep vulnerable to climate change?",
+    "description": "",
+    "hint": "The islands are very low-lying.",
+    "summary": "Low elevation and sea-level rise pose major risks to Lakshadweep.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Lakshadweep,Environment,Climate Change",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1400,
+        "id": 5397,
+        "title": "High mountains",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1400,
+        "id": 5398,
+        "title": "Low elevation",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1400,
+        "id": 5399,
+        "title": "Heavy snowfall",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1400,
+        "id": 5400,
+        "title": "Desert expansion",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1238,
+    "difficulty": 2,
+    "title": "1238. Jalori Pass is situated in which state?",
+    "description": "",
+    "hint": "Its capital is Shimla.",
+    "summary": "Jalori Pass is located in Himachal Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himalayas,Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1238,
+        "id": 4749,
+        "title": "Uttarakhand",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1238,
+        "id": 4750,
+        "title": "Himachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1238,
+        "id": 4751,
+        "title": "Sikkim",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1238,
+        "id": 4752,
+        "title": "Arunachal Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1239,
+    "difficulty": 2,
+    "title": "1239. Which pass connects the Chamba and Pangi valleys?",
+    "description": "",
+    "hint": "It is one of the most difficult roads in Himachal Pradesh.",
+    "summary": "Sach Pass connects Chamba and Pangi valleys.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mountain Passes,Himachal Pradesh,Roadways",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1239,
+        "id": 4753,
+        "title": "Rohtang Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1239,
+        "id": 4754,
+        "title": "Baralacha La",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1239,
+        "id": 4755,
+        "title": "Sach Pass",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1239,
+        "id": 4756,
+        "title": "Kunzum Pass",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "difficulty": 0,
+    "title": "664. Which is the longest continental mountain range in the world?",
+    "description": "",
+    "hint": "It stretches along the western coast of South America.",
+    "summary": "The Andes are the world's longest continental mountain range.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Andes",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 664,
+        "id": 2453,
+        "title": "Rocky Mountains",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 664,
+        "id": 2454,
+        "title": "Himalayas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 664,
+        "id": 2455,
+        "title": "Andes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 664,
+        "id": 2456,
+        "title": "Alps",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 665,
+    "difficulty": 1,
+    "title": "665. The Andes Mountains extend through how many countries?",
+    "description": "",
+    "hint": "Count from Venezuela to Chile.",
+    "summary": "The Andes pass through seven South American countries.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Geography,Andes",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 665,
+        "id": 2457,
+        "title": "5",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 665,
+        "id": 2458,
+        "title": "6",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 665,
+        "id": 2459,
+        "title": "7",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 665,
+        "id": 2460,
+        "title": "8",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "difficulty": 2,
+    "title": "170. Which National Park became famous due to the reintroduction of cheetahs in India?",
+    "description": "",
+    "hint": "Located in Madhya Pradesh.",
+    "summary": "Kuno National Park became the site of India's cheetah reintroduction project.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Kuno,Cheetah,UPSC,Current Affairs",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 170,
+        "id": 677,
+        "title": "Satpura National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 170,
+        "id": 678,
+        "title": "Kuno National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 170,
+        "id": 679,
+        "title": "Bandhavgarh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 170,
+        "id": 680,
+        "title": "Panna National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "difficulty": 3,
+    "title": "171. Which National Park is located in the Nilgiri Biosphere Reserve in Karnataka?",
+    "description": "",
+    "hint": "It shares boundaries with Mudumalai and Wayanad.",
+    "summary": "Bandipur National Park is part of the Nilgiri Biosphere Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Bandipur,Nilgiri Biosphere Reserve,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 171,
+        "id": 681,
+        "title": "Nagarhole National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 171,
+        "id": 682,
+        "title": "Bandipur National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 171,
+        "id": 683,
+        "title": "Bannerghatta National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 171,
+        "id": 684,
+        "title": "Kudremukh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "difficulty": 3,
+    "title": "172. Nagarhole National Park is located in which state?",
+    "description": "",
+    "hint": "Its capital city is Bengaluru.",
+    "summary": "Nagarhole National Park is located in Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "National Parks,Nagarhole,Karnataka,UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 172,
+        "id": 685,
+        "title": "Kerala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 172,
+        "id": 686,
+        "title": "Tamil Nadu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 172,
+        "id": 687,
+        "title": "Karnataka",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 172,
+        "id": 688,
+        "title": "Andhra Pradesh",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1469,
+    "difficulty": 1,
+    "title": "1469. Who was the last ruler of the Mauryan dynasty?",
+    "description": "",
+    "hint": "He was killed by Pushyamitra Shunga.",
+    "summary": "Brihadratha was the last Mauryan ruler and was killed by his general Pushyamitra Shunga around 185 BCE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Brihadratha,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1469,
+        "id": 5673,
+        "title": "Ashoka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5674,
+        "title": "Dasharatha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1469,
+        "id": 5675,
+        "title": "Brihadratha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1469,
+        "id": 5676,
+        "title": "Bindusara",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1470,
+    "difficulty": 1,
+    "title": "1470. Which dynasty succeeded the Mauryan dynasty in Magadha?",
+    "description": "",
+    "hint": "Its founder was Pushyamitra.",
+    "summary": "The Shunga dynasty succeeded the Mauryan dynasty in Magadha after Pushyamitra Shunga overthrew Brihadratha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Shunga Dynasty,History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1470,
+        "id": 5677,
+        "title": "Gupta Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5678,
+        "title": "Shunga Dynasty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1470,
+        "id": 5679,
+        "title": "Nanda Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1470,
+        "id": 5680,
+        "title": "Satavahana Dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1471,
+    "difficulty": 1,
+    "title": "1471. Which ancient Greek work provides information about the Mauryan Empire?",
+    "description": "",
+    "hint": "It was written by a Greek ambassador who visited Chandragupta Maurya's court.",
+    "summary": "Indica, written by Megasthenes, provides valuable information about Mauryan India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "India,Mauryan Empire,Megasthenes,Indica",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1471,
+        "id": 5681,
+        "title": "Indica",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1471,
+        "id": 5682,
+        "title": "Geographia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5683,
+        "title": "Naturalis Historia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1471,
+        "id": 5684,
+        "title": "Periplus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1611,
+    "difficulty": 2,
+    "title": "Who led the Mughal campaign against Shivaji in 1665?",
+    "description": "Which Mughal general negotiated the Treaty of Purandar with Shivaji?",
+    "hint": "He was a Rajput ruler from Amber.",
+    "summary": "Raja Jai Singh I led the Mughal campaign against Shivaji in 1665.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Mughal Empire",
+      "Treaty of Purandar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1611,
+        "id": 6241,
+        "title": "Raja Jai Singh I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1611,
+        "id": 6242,
+        "title": "Mir Jumla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1611,
+        "id": 6243,
+        "title": "Shaista Khan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1611,
+        "id": 6244,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1612,
+    "difficulty": 2,
+    "title": "What was the Treaty of Purandar signed in?",
+    "description": "In which year was the Treaty of Purandar signed between Shivaji and the Mughals?",
+    "hint": "It followed Jai Singh's campaign against Shivaji.",
+    "summary": "The Treaty of Purandar was signed in 1665.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Mughal Empire",
+      "Treaty of Purandar"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1612,
+        "id": 6245,
+        "title": "1659",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1612,
+        "id": 6246,
+        "title": "1674",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1612,
+        "id": 6247,
+        "title": "1665",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1612,
+        "id": 6248,
+        "title": "1680",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 1613,
+    "difficulty": 2,
+    "title": "Where was Shivaji detained by Aurangzeb?",
+    "description": "In which city was Shivaji placed under detention after visiting Aurangzeb's court?",
+    "hint": "The city was the Mughal imperial capital at the time.",
+    "summary": "Shivaji was detained at Agra in 1666.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Maratha Empire",
+      "Shivaji",
+      "Aurangzeb"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 1613,
+        "id": 6249,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1613,
+        "id": 6250,
+        "title": "Lahore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 1613,
+        "id": 6251,
+        "title": "Agra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 1613,
+        "id": 6252,
+        "title": "Ajmer",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
