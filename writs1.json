@@ -1,0 +1,2305 @@
+[
+  {
+    "id": 2101,
+    "difficulty": 2,
+    "title": "How many types of writs are mentioned in the Constitution of India?",
+    "description": "The Constitution empowers higher courts to issue specific writs for protection of legal and fundamental rights.",
+    "hint": "The number is five.",
+    "summary": "The five constitutional writs are Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo Warranto.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Indian Polity",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2101,
+        "id": 8201,
+        "title": "Five",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2101,
+        "id": 8202,
+        "title": "Three",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2101,
+        "id": 8203,
+        "title": "Four",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2101,
+        "id": 8204,
+        "title": "Six",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2102,
+    "difficulty": 2,
+    "title": "Which writ literally means 'produce the body'?",
+    "description": "This writ is primarily used to secure the release of a person from unlawful detention.",
+    "hint": "Its Latin meaning refers to producing the body.",
+    "summary": "Habeas Corpus literally means 'you may have the body' and is used against unlawful detention.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2102,
+        "id": 8205,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2102,
+        "id": 8206,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2102,
+        "id": 8207,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2102,
+        "id": 8208,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2103,
+    "difficulty": 2,
+    "title": "Which writ is primarily used to secure release from unlawful detention?",
+    "description": "The writ protects personal liberty by requiring justification for detention.",
+    "hint": "Think of the writ associated with unlawful custody.",
+    "summary": "Habeas Corpus is primarily used to challenge unlawful detention and secure release where the detention is illegal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2103,
+        "id": 8209,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2103,
+        "id": 8210,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2103,
+        "id": 8211,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2103,
+        "id": 8212,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2104,
+    "difficulty": 2,
+    "title": "Which writ commands a public authority to perform a legal duty?",
+    "description": "This writ is issued when a public authority or body fails to perform a duty imposed by law.",
+    "hint": "Its name means 'we command'.",
+    "summary": "Mandamus commands a public authority to perform a public or legal duty that it has failed to perform.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2104,
+        "id": 8213,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2104,
+        "id": 8214,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2104,
+        "id": 8215,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2104,
+        "id": 8216,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2105,
+    "difficulty": 2,
+    "title": "Which writ means 'we command'?",
+    "description": "The terminology of Indian writ jurisdiction is largely derived from Latin legal terminology.",
+    "hint": "It directs performance of a public duty.",
+    "summary": "Mandamus is derived from Latin and means 'we command'.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2105,
+        "id": 8217,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2105,
+        "id": 8218,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2105,
+        "id": 8219,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2105,
+        "id": 8220,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2106,
+    "difficulty": 2,
+    "title": "Which writ prevents a lower court or tribunal from exceeding its jurisdiction?",
+    "description": "This writ is preventive in nature and stops proceedings from continuing when the authority lacks jurisdiction.",
+    "hint": "It operates before the lower authority completes the proceedings.",
+    "summary": "Prohibition is issued by a higher court to prevent a lower court or tribunal from exceeding or exercising jurisdiction unlawfully.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2106,
+        "id": 8221,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2106,
+        "id": 8222,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2106,
+        "id": 8223,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2106,
+        "id": 8224,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2107,
+    "difficulty": 2,
+    "title": "Which writ is generally preventive rather than corrective?",
+    "description": "One writ is used to prevent a lower judicial or quasi-judicial body from proceeding without jurisdiction.",
+    "hint": "It stops proceedings before final decision.",
+    "summary": "Prohibition is generally preventive because it restrains a lower court or tribunal from proceeding beyond its jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2107,
+        "id": 8225,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2107,
+        "id": 8226,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2107,
+        "id": 8227,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2107,
+        "id": 8228,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2108,
+    "difficulty": 2,
+    "title": "Which writ is generally issued to quash an order of a lower court or tribunal?",
+    "description": "This writ has a corrective character and may invalidate a decision made without jurisdiction or with a serious legal error.",
+    "hint": "It is often contrasted with Prohibition.",
+    "summary": "Certiorari is used by a superior court to quash an order or decision of a lower court, tribunal or quasi-judicial body in appropriate cases.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2108,
+        "id": 8229,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2108,
+        "id": 8230,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2108,
+        "id": 8231,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2108,
+        "id": 8232,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2109,
+    "difficulty": 2,
+    "title": "Which writ literally means 'to be certified' or 'to be informed'?",
+    "description": "The writ is associated with the supervisory jurisdiction of higher courts over lower judicial and quasi-judicial bodies.",
+    "hint": "It can be used to quash certain decisions.",
+    "summary": "Certiorari derives from Latin and is associated with the idea of being informed or certified.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2109,
+        "id": 8233,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2109,
+        "id": 8234,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2109,
+        "id": 8235,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2109,
+        "id": 8236,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2110,
+    "difficulty": 2,
+    "title": "Which writ challenges the legal authority of a person holding a public office?",
+    "description": "The writ examines whether a person is legally entitled to occupy a public office.",
+    "hint": "Its name asks 'by what authority?'.",
+    "summary": "Quo Warranto challenges the authority by which a person holds a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2110,
+        "id": 8237,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2110,
+        "id": 8238,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2110,
+        "id": 8239,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2110,
+        "id": 8240,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2111,
+    "difficulty": 2,
+    "title": "Which writ means 'by what authority'?",
+    "description": "This writ questions the legal authority under which a person occupies a public office.",
+    "hint": "The answer is a Latin legal term.",
+    "summary": "Quo Warranto literally means 'by what authority'.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2111,
+        "id": 8241,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2111,
+        "id": 8242,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2111,
+        "id": 8243,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2111,
+        "id": 8244,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2112,
+    "difficulty": 2,
+    "title": "Which Article empowers the Supreme Court to issue writs for enforcement of Fundamental Rights?",
+    "description": "The Constitution gives the Supreme Court a specific writ jurisdiction for enforcing Fundamental Rights.",
+    "hint": "It is Article 32.",
+    "summary": "Article 32 empowers the Supreme Court to issue appropriate writs for enforcement of Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 32",
+      "Supreme Court"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2112,
+        "id": 8245,
+        "title": "Article 226",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2112,
+        "id": 8246,
+        "title": "Article 32",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2112,
+        "id": 8247,
+        "title": "Article 136",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2112,
+        "id": 8248,
+        "title": "Article 143",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2113,
+    "difficulty": 2,
+    "title": "Which Article empowers High Courts to issue writs?",
+    "description": "High Courts have a broad constitutional writ jurisdiction under a specific article.",
+    "hint": "It comes immediately after Article 225 in the Constitution.",
+    "summary": "Article 226 empowers High Courts to issue writs for enforcement of Fundamental Rights and for other purposes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 226",
+      "High Court"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2113,
+        "id": 8249,
+        "title": "Article 226",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2113,
+        "id": 8250,
+        "title": "Article 227",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2113,
+        "id": 8251,
+        "title": "Article 32",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2113,
+        "id": 8252,
+        "title": "Article 214",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2114,
+    "difficulty": 2,
+    "title": "Which court has wider writ jurisdiction under the Constitution?",
+    "description": "The Supreme Court and High Courts both possess writ jurisdiction, but their constitutional scopes differ.",
+    "hint": "Consider Article 226.",
+    "summary": "High Courts have wider writ jurisdiction because Article 226 permits writs for Fundamental Rights as well as for other purposes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 226",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2114,
+        "id": 8253,
+        "title": "Supreme Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2114,
+        "id": 8254,
+        "title": "High Court",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2114,
+        "id": 8255,
+        "title": "District Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2114,
+        "id": 8256,
+        "title": "Parliament",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2115,
+    "difficulty": 2,
+    "title": "Under Article 32, writ jurisdiction of the Supreme Court is primarily concerned with which purpose?",
+    "description": "Article 32 is itself recognized as a Fundamental Right.",
+    "hint": "Think about enforcement of Part III.",
+    "summary": "Article 32 primarily provides a constitutional remedy for enforcement of Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 32",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2115,
+        "id": 8257,
+        "title": "Enforcement of Fundamental Rights",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2115,
+        "id": 8258,
+        "title": "Conducting elections",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2115,
+        "id": 8259,
+        "title": "Passing the Union Budget",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2115,
+        "id": 8260,
+        "title": "Making treaties",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2116,
+    "difficulty": 2,
+    "title": "Under Article 226, High Courts can issue writs for enforcement of Fundamental Rights and for what additional purpose?",
+    "description": "The jurisdiction of High Courts under Article 226 is broader than that of the Supreme Court under Article 32.",
+    "hint": "The phrase is 'for any other purpose'.",
+    "summary": "High Courts can issue writs for enforcement of Fundamental Rights and for other legal purposes under Article 226.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 226",
+      "High Court"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2116,
+        "id": 8261,
+        "title": "Only criminal matters",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2116,
+        "id": 8262,
+        "title": "Only Fundamental Duties",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2116,
+        "id": 8263,
+        "title": "Only election disputes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2116,
+        "id": 8264,
+        "title": "Other legal purposes as well",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2117,
+    "difficulty": 2,
+    "title": "Which writ is most directly associated with protection of personal liberty?",
+    "description": "The writ requires the detaining authority to justify the legality of detention.",
+    "hint": "It is frequently described as a safeguard against unlawful detention.",
+    "summary": "Habeas Corpus is a major constitutional remedy for protecting personal liberty against unlawful detention.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2117,
+        "id": 8265,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2117,
+        "id": 8266,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2117,
+        "id": 8267,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2117,
+        "id": 8268,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2118,
+    "difficulty": 2,
+    "title": "Against whom can a writ of Mandamus generally be issued?",
+    "description": "Mandamus is directed toward performance of a public or legal duty.",
+    "hint": "It is generally directed against a public authority or official.",
+    "summary": "Mandamus may be issued against a public authority, public official, corporation or other body performing a public duty in appropriate circumstances.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2118,
+        "id": 8269,
+        "title": "A public authority failing to perform a legal duty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2118,
+        "id": 8270,
+        "title": "Only private individuals in every case",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2118,
+        "id": 8271,
+        "title": "Only Parliament",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2118,
+        "id": 8272,
+        "title": "Only the President",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2119,
+    "difficulty": 2,
+    "title": "Which writ cannot generally be issued against a private individual for a purely private duty?",
+    "description": "Mandamus requires a public or legal duty that is enforceable through this remedy.",
+    "hint": "Think about public duty.",
+    "summary": "Mandamus generally cannot be issued to enforce a purely private obligation against a private individual.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2119,
+        "id": 8273,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2119,
+        "id": 8274,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2119,
+        "id": 8275,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2119,
+        "id": 8276,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2120,
+    "difficulty": 2,
+    "title": "Which writ is issued to prevent a lower court from continuing proceedings beyond its jurisdiction?",
+    "description": "The writ operates while proceedings are still pending before the lower authority.",
+    "hint": "It is different from Certiorari, which is generally corrective.",
+    "summary": "Prohibition prevents a lower court or tribunal from continuing proceedings beyond its jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2120,
+        "id": 8277,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2120,
+        "id": 8278,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2120,
+        "id": 8279,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2120,
+        "id": 8280,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2121,
+    "difficulty": 2,
+    "title": "Which writ is generally used after a lower court or tribunal has already passed an order?",
+    "description": "This writ has a corrective function and may be used to quash an unlawful order.",
+    "hint": "Compare it with the preventive writ Prohibition.",
+    "summary": "Certiorari generally operates after a decision or order has been made by a lower court or tribunal and may quash it in appropriate circumstances.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2121,
+        "id": 8281,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2121,
+        "id": 8282,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2121,
+        "id": 8283,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2121,
+        "id": 8284,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2122,
+    "difficulty": 2,
+    "title": "Which writ can be used to challenge a person occupying a public office without satisfying the legal qualifications?",
+    "description": "The writ protects the legality of public appointments.",
+    "hint": "It asks the holder to show the authority for occupying the office.",
+    "summary": "Quo Warranto may be issued when a person is unlawfully occupying a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Public Office"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2122,
+        "id": 8285,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2122,
+        "id": 8286,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2122,
+        "id": 8287,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2122,
+        "id": 8288,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2123,
+    "difficulty": 2,
+    "title": "Which writ is generally not issued against the President or Governor for exercise of their official powers?",
+    "description": "The Constitution provides specific protections concerning certain high constitutional offices.",
+    "hint": "Consider Article 361.",
+    "summary": "Mandamus is generally unavailable against the President or Governor for exercise of their constitutional powers because of the protections under Article 361.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "President",
+      "Governor"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2123,
+        "id": 8289,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2123,
+        "id": 8290,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2123,
+        "id": 8291,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2123,
+        "id": 8292,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2124,
+    "difficulty": 2,
+    "title": "Which writ is associated with the legality of detention rather than the legality of a public office?",
+    "description": "Different writs address different constitutional and administrative wrongs.",
+    "hint": "It protects personal liberty.",
+    "summary": "Habeas Corpus addresses unlawful detention and protects personal liberty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2124,
+        "id": 8293,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2124,
+        "id": 8294,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2124,
+        "id": 8295,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2124,
+        "id": 8296,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2125,
+    "difficulty": 2,
+    "title": "Which writ is most closely associated with checking whether a public office is legally held?",
+    "description": "The writ tests the authority of a person to occupy a public office.",
+    "hint": "Its name asks about authority.",
+    "summary": "Quo Warranto is used to question the legal authority of a person holding a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2125,
+        "id": 8297,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2125,
+        "id": 8298,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2125,
+        "id": 8299,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2125,
+        "id": 8300,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2126,
+    "difficulty": 2,
+    "title": "Which writ can be issued against a person illegally holding a public office?",
+    "description": "The writ is concerned with usurpation of public office.",
+    "hint": "It questions the authority of the office holder.",
+    "summary": "Quo Warranto is the writ used to challenge unlawful occupation of a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2126,
+        "id": 8301,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2126,
+        "id": 8302,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2126,
+        "id": 8303,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2126,
+        "id": 8304,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2127,
+    "difficulty": 2,
+    "title": "Which writ is generally directed against a judicial or quasi-judicial authority rather than a person illegally detained?",
+    "description": "The writ is concerned with jurisdictional errors committed by lower adjudicating bodies.",
+    "hint": "It can quash a decision.",
+    "summary": "Certiorari is generally directed against judicial or quasi-judicial bodies to correct jurisdictional errors or certain legal defects.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2127,
+        "id": 8305,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2127,
+        "id": 8306,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2127,
+        "id": 8307,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2127,
+        "id": 8308,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2128,
+    "difficulty": 2,
+    "title": "Which writ is mainly concerned with stopping proceedings rather than quashing an already completed decision?",
+    "description": "The distinction between Prohibition and Certiorari is important in constitutional law.",
+    "hint": "It is preventive in nature.",
+    "summary": "Prohibition primarily prevents a lower court or tribunal from proceeding beyond its jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2128,
+        "id": 8309,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2128,
+        "id": 8310,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2128,
+        "id": 8311,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2128,
+        "id": 8312,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2129,
+    "difficulty": 2,
+    "title": "Which writ can be sought by a person other than the detained person on behalf of the detainee?",
+    "description": "The remedy is designed to protect personal liberty and does not necessarily require the detainee to approach the court personally.",
+    "hint": "Think about unlawful detention.",
+    "summary": "A petition for Habeas Corpus can be brought by a person acting on behalf of someone who is allegedly unlawfully detained.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2129,
+        "id": 8313,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2129,
+        "id": 8314,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2129,
+        "id": 8315,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2129,
+        "id": 8316,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2130,
+    "difficulty": 2,
+    "title": "Which writ is particularly important for enforcing a public authority's statutory duty?",
+    "description": "The writ requires an authority to perform a duty imposed by law.",
+    "hint": "It means 'we command'.",
+    "summary": "Mandamus is an important remedy for compelling performance of a public or legal duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "Administrative Law"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2130,
+        "id": 8317,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2130,
+        "id": 8318,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2130,
+        "id": 8319,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2130,
+        "id": 8320,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2131,
+    "difficulty": 2,
+    "title": "Which writ is known as a remedy against unlawful detention?",
+    "description": "The writ requires the detaining authority to establish lawful grounds for custody.",
+    "hint": "It is one of the oldest liberty-protecting writs.",
+    "summary": "Habeas Corpus is a constitutional remedy against unlawful detention.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2131,
+        "id": 8321,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2131,
+        "id": 8322,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2131,
+        "id": 8323,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2131,
+        "id": 8324,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2132,
+    "difficulty": 2,
+    "title": "Which writ is generally not available to compel performance of a purely discretionary function?",
+    "description": "Mandamus ordinarily requires an enforceable legal or public duty rather than a purely discretionary choice.",
+    "hint": "The answer is the writ that commands performance of a duty.",
+    "summary": "Mandamus generally cannot be used to compel an authority to exercise discretion in a particular manner where the law leaves the matter discretionary.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2132,
+        "id": 8325,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2132,
+        "id": 8326,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2132,
+        "id": 8327,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2132,
+        "id": 8328,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2133,
+    "difficulty": 2,
+    "title": "Which writ is associated with the phrase 'stop proceedings'?",
+    "description": "This writ restrains a lower court or tribunal from continuing proceedings outside its jurisdiction.",
+    "hint": "It is preventive.",
+    "summary": "Prohibition is the writ used to stop a lower court or tribunal from proceeding beyond its jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "Polity"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2133,
+        "id": 8329,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2133,
+        "id": 8330,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2133,
+        "id": 8331,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2133,
+        "id": 8332,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2134,
+    "difficulty": 2,
+    "title": "Which writ is associated with quashing an order of an inferior judicial body?",
+    "description": "The writ is corrective and examines certain jurisdictional or legal defects in the lower body's decision.",
+    "hint": "It is commonly contrasted with Prohibition.",
+    "summary": "Certiorari may be issued to quash an order or decision of an inferior court or tribunal in appropriate circumstances.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2134,
+        "id": 8333,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2134,
+        "id": 8334,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2134,
+        "id": 8335,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2134,
+        "id": 8336,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2135,
+    "difficulty": 2,
+    "title": "Which writ questions the authority of a person to hold a public office?",
+    "description": "The writ protects the legality of public appointments and prevents unlawful occupation of public offices.",
+    "hint": "It asks 'by what authority?'.",
+    "summary": "Quo Warranto questions the legal authority of a person occupying a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Public Office"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2135,
+        "id": 8337,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2135,
+        "id": 8338,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2135,
+        "id": 8339,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2135,
+        "id": 8340,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2136,
+    "difficulty": 2,
+    "title": "Which constitutional writ can be issued even when the detained person does not personally approach the court?",
+    "description": "The remedy can be invoked by another person on behalf of someone whose liberty is allegedly unlawfully restricted.",
+    "hint": "It concerns detention.",
+    "summary": "Habeas Corpus can be sought by another person on behalf of the detained individual.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Fundamental Rights"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2136,
+        "id": 8341,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2136,
+        "id": 8342,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2136,
+        "id": 8343,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2136,
+        "id": 8344,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2137,
+    "difficulty": 2,
+    "title": "Which writ is concerned with a public office rather than a public duty?",
+    "description": "One writ specifically examines whether an individual is legally entitled to occupy a public office.",
+    "hint": "It concerns the authority of the office holder.",
+    "summary": "Quo Warranto concerns unlawful occupation of a public office, whereas Mandamus concerns performance of a public duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Mandamus"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2137,
+        "id": 8345,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2137,
+        "id": 8346,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2137,
+        "id": 8347,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2137,
+        "id": 8348,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2138,
+    "difficulty": 2,
+    "title": "Which writ is primarily used to compel an authority to perform a duty that it is legally bound to perform?",
+    "description": "The writ is an important instrument of judicial control over public authorities.",
+    "hint": "Its Latin name means 'we command'.",
+    "summary": "Mandamus compels performance of a public or legal duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2138,
+        "id": 8349,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2138,
+        "id": 8350,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2138,
+        "id": 8351,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2138,
+        "id": 8352,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2139,
+    "difficulty": 2,
+    "title": "Which writ is associated with correction of jurisdictional errors by a lower tribunal?",
+    "description": "A superior court can use this writ to review and quash certain decisions of inferior adjudicating bodies.",
+    "hint": "It is corrective rather than preventive.",
+    "summary": "Certiorari is used to correct certain jurisdictional errors and other recognized legal defects in decisions of lower judicial or quasi-judicial bodies.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2139,
+        "id": 8353,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2139,
+        "id": 8354,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2139,
+        "id": 8355,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2139,
+        "id": 8356,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2140,
+    "difficulty": 2,
+    "title": "Which writ prevents an inferior court from assuming jurisdiction that it does not possess?",
+    "description": "The writ acts before the inferior authority completes the unlawful proceedings.",
+    "hint": "It is a preventive writ.",
+    "summary": "Prohibition prevents an inferior court or tribunal from proceeding in a matter beyond its jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2140,
+        "id": 8357,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2140,
+        "id": 8358,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2140,
+        "id": 8359,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2140,
+        "id": 8360,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2141,
+    "difficulty": 2,
+    "title": "Which writ can be used to challenge an unlawful detention by a private person?",
+    "description": "Habeas Corpus is not restricted only to detention by government officials.",
+    "hint": "The writ protects personal liberty regardless of who unlawfully detains the person.",
+    "summary": "Habeas Corpus may be issued against unlawful detention even when the detention is by a private individual, subject to the facts and law.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Personal Liberty"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2141,
+        "id": 8361,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2141,
+        "id": 8362,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2141,
+        "id": 8363,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2141,
+        "id": 8364,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2142,
+    "difficulty": 2,
+    "title": "Which writ is generally unavailable against a private individual when there is no public duty involved?",
+    "description": "The writ requires a public or legal duty that the respondent is bound to perform.",
+    "hint": "It commands performance of public duties.",
+    "summary": "Mandamus generally cannot be issued to enforce a purely private obligation against a private individual.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2142,
+        "id": 8365,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2142,
+        "id": 8366,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2142,
+        "id": 8367,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2142,
+        "id": 8368,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2143,
+    "difficulty": 2,
+    "title": "Which writ can be issued against an authority exercising judicial or quasi-judicial functions?",
+    "description": "Higher courts exercise supervisory constitutional jurisdiction over lower adjudicating bodies through specific writs.",
+    "hint": "One such writ can quash an order.",
+    "summary": "Certiorari may be issued against judicial or quasi-judicial authorities to correct recognized jurisdictional or legal errors.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Certiorari",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2143,
+        "id": 8369,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2143,
+        "id": 8370,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2143,
+        "id": 8371,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2143,
+        "id": 8372,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2144,
+    "difficulty": 2,
+    "title": "Which writ is preventive in relation to the jurisdiction of an inferior court?",
+    "description": "The writ stops an inferior authority from proceeding beyond its lawful jurisdiction.",
+    "hint": "Its name is also an English word meaning a restriction or ban.",
+    "summary": "Prohibition is the preventive writ used to restrain an inferior court or tribunal from exceeding jurisdiction.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "Judiciary"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2144,
+        "id": 8373,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2144,
+        "id": 8374,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2144,
+        "id": 8375,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2144,
+        "id": 8376,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2145,
+    "difficulty": 2,
+    "title": "Which writ is concerned with the legality of occupying a public office?",
+    "description": "The writ is intended to prevent a person from unlawfully holding a public office.",
+    "hint": "It asks the office holder to establish authority.",
+    "summary": "Quo Warranto examines whether a person has lawful authority to occupy a public office.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Quo Warranto",
+      "Public Office"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2145,
+        "id": 8377,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2145,
+        "id": 8378,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2145,
+        "id": 8379,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2145,
+        "id": 8380,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2146,
+    "difficulty": 2,
+    "title": "Which Article makes the right to constitutional remedies a Fundamental Right?",
+    "description": "The Constitution guarantees access to the Supreme Court for enforcement of Fundamental Rights.",
+    "hint": "Dr. B. R. Ambedkar described it as one of the most important provisions of the Constitution.",
+    "summary": "Article 32 guarantees the right to move the Supreme Court for enforcement of Fundamental Rights.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Article 32",
+      "Fundamental Rights",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2146,
+        "id": 8381,
+        "title": "Article 32",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2146,
+        "id": 8382,
+        "title": "Article 226",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2146,
+        "id": 8383,
+        "title": "Article 136",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2146,
+        "id": 8384,
+        "title": "Article 142",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2147,
+    "difficulty": 2,
+    "title": "Which court can issue writs for purposes beyond enforcement of Fundamental Rights?",
+    "description": "The Constitution gives High Courts broader writ jurisdiction than the Supreme Court under Article 32.",
+    "hint": "Look at Article 226.",
+    "summary": "High Courts can issue writs under Article 226 for enforcement of Fundamental Rights and for other purposes.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "High Court",
+      "Article 226"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2147,
+        "id": 8385,
+        "title": "Supreme Court only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2147,
+        "id": 8386,
+        "title": "High Courts",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2147,
+        "id": 8387,
+        "title": "District Courts",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2147,
+        "id": 8388,
+        "title": "Parliament",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2148,
+    "difficulty": 2,
+    "title": "Which writ is generally considered the most direct constitutional remedy against illegal detention?",
+    "description": "It requires the authority responsible for detention to produce the detained person before the court.",
+    "hint": "Its Latin name refers to the body.",
+    "summary": "Habeas Corpus is the principal writ remedy against unlawful detention.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Habeas Corpus",
+      "Article 32"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2148,
+        "id": 8389,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2148,
+        "id": 8390,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2148,
+        "id": 8391,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2148,
+        "id": 8392,
+        "title": "Habeas Corpus",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2149,
+    "difficulty": 2,
+    "title": "Which writ is primarily used to compel performance of a public duty rather than review a judicial decision?",
+    "description": "The writ is an important remedy against failure by a public authority to perform a legal obligation.",
+    "hint": "It means 'we command'.",
+    "summary": "Mandamus is used to compel performance of a public or legal duty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Mandamus",
+      "Administrative Law"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2149,
+        "id": 8393,
+        "title": "Mandamus",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2149,
+        "id": 8394,
+        "title": "Certiorari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2149,
+        "id": 8395,
+        "title": "Prohibition",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2149,
+        "id": 8396,
+        "title": "Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2150,
+    "difficulty": 2,
+    "title": "Which pair of writs is most closely associated with controlling the jurisdiction of lower courts?",
+    "description": "Two writs are particularly important in supervising inferior courts and tribunals.",
+    "hint": "One prevents proceedings and the other can quash a decision.",
+    "summary": "Prohibition prevents an inferior court or tribunal from exceeding jurisdiction, while Certiorari can quash an unlawful decision in appropriate circumstances.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": [
+      "Writs",
+      "Prohibition",
+      "Certiorari",
+      "UPSC"
+    ],
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2150,
+        "id": 8397,
+        "title": "Habeas Corpus and Mandamus",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2150,
+        "id": 8398,
+        "title": "Mandamus and Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2150,
+        "id": 8399,
+        "title": "Habeas Corpus and Quo Warranto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2150,
+        "id": 8400,
+        "title": "Prohibition and Certiorari",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
