@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2201,
+    "difficulty": 2,
+    "title": "What is the capital of Tamil Nadu?",
+    "description": "Identify the capital city of the state of Tamil Nadu.",
+    "hint": "It is a major city on the Coromandel Coast.",
+    "summary": "Chennai is the capital of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Geography, RPSC, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2201,
+        "id": 8601,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2201,
+        "id": 8602,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2201,
+        "id": 8603,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2201,
+        "id": 8604,
+        "title": "Tiruchirappalli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2202,
+    "difficulty": 2,
+    "title": "Which city is popularly known as the Manchester of South India?",
+    "description": "Identify the Tamil Nadu city associated with textile industries and this nickname.",
+    "hint": "It is an important textile center in western Tamil Nadu.",
+    "summary": "Coimbatore is popularly known as the Manchester of South India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Coimbatore, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2202,
+        "id": 8605,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2202,
+        "id": 8606,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2202,
+        "id": 8607,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2202,
+        "id": 8608,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2203,
+    "difficulty": 2,
+    "title": "Which is the longest river flowing entirely within Tamil Nadu?",
+    "description": "Identify the important river that flows entirely within Tamil Nadu.",
+    "hint": "It rises in the Western Ghats and reaches the Bay of Bengal.",
+    "summary": "The Thamirabarani is the longest river flowing entirely within Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Rivers, Geography, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2203,
+        "id": 8609,
+        "title": "Palar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2203,
+        "id": 8610,
+        "title": "Vaigai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2203,
+        "id": 8611,
+        "title": "Thamirabarani",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2203,
+        "id": 8612,
+        "title": "Bhavani",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2204,
+    "difficulty": 2,
+    "title": "Which river is closely associated with the city of Madurai?",
+    "description": "Identify the major river flowing through the Madurai region.",
+    "hint": "The Vaigai Dam is built on this river.",
+    "summary": "The Vaigai River is closely associated with Madurai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Vaigai River, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2204,
+        "id": 8613,
+        "title": "Cauvery",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2204,
+        "id": 8614,
+        "title": "Palar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2204,
+        "id": 8615,
+        "title": "Tamiraparani",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2204,
+        "id": 8616,
+        "title": "Vaigai",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2205,
+    "difficulty": 2,
+    "title": "Which hill station is located in the Nilgiri Hills of Tamil Nadu?",
+    "description": "Identify the famous hill station known for its cool climate and tea plantations.",
+    "hint": "Its name begins with O.",
+    "summary": "Ooty, officially Udhagamandalam, is a famous hill station in the Nilgiris.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Nilgiris, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2205,
+        "id": 8617,
+        "title": "Ooty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2205,
+        "id": 8618,
+        "title": "Kodaikanal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2205,
+        "id": 8619,
+        "title": "Yercaud",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2205,
+        "id": 8620,
+        "title": "Coonoor",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2206,
+    "difficulty": 2,
+    "title": "Kodaikanal is located in which hill range?",
+    "description": "Identify the hill range containing the famous hill station of Kodaikanal.",
+    "hint": "These hills are part of the Western Ghats.",
+    "summary": "Kodaikanal is located in the Palani Hills.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Kodaikanal, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2206,
+        "id": 8621,
+        "title": "Nilgiri Hills",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2206,
+        "id": 8622,
+        "title": "Palani Hills",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2206,
+        "id": 8623,
+        "title": "Javadi Hills",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2206,
+        "id": 8624,
+        "title": "Shevaroy Hills",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2207,
+    "difficulty": 2,
+    "title": "Which is the highest peak in Tamil Nadu?",
+    "description": "Identify the highest mountain peak located in Tamil Nadu.",
+    "hint": "It is located in the Nilgiri Hills.",
+    "summary": "Doddabetta is the highest peak in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Nilgiris, Geography, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2207,
+        "id": 8625,
+        "title": "Agasthyamalai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2207,
+        "id": 8626,
+        "title": "Anamudi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2207,
+        "id": 8627,
+        "title": "Doddabetta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2207,
+        "id": 8628,
+        "title": "Meesapulimala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2208,
+    "difficulty": 2,
+    "title": "Which national park is famous for the Nilgiri tahr?",
+    "description": "Identify the protected area in Tamil Nadu associated with the Nilgiri tahr.",
+    "hint": "It is located in the Western Ghats.",
+    "summary": "Mukurthi National Park is an important habitat of the Nilgiri tahr.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, National Parks, Nilgiri Tahr",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2208,
+        "id": 8629,
+        "title": "Mukurthi National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2208,
+        "id": 8630,
+        "title": "Guindy National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2208,
+        "id": 8631,
+        "title": "Gulf of Mannar Marine National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2208,
+        "id": 8632,
+        "title": "Indira Gandhi National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2209,
+    "difficulty": 2,
+    "title": "Which national park is located within Chennai city?",
+    "description": "Identify the national park situated in the urban area of Chennai.",
+    "hint": "It protects dry evergreen vegetation and blackbuck habitat.",
+    "summary": "Guindy National Park is located within Chennai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Guindy National Park, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2209,
+        "id": 8633,
+        "title": "Mukurthi National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2209,
+        "id": 8634,
+        "title": "Mudumalai National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2209,
+        "id": 8635,
+        "title": "Guindy National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2209,
+        "id": 8636,
+        "title": "Kalakkad-Mundanthurai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2210,
+    "difficulty": 2,
+    "title": "Which protected area is famous for elephants and tigers in the Nilgiris?",
+    "description": "Identify the Tamil Nadu protected area forming part of the Nilgiri Biosphere landscape.",
+    "hint": "It is near Ooty and connects with forests in Karnataka and Kerala.",
+    "summary": "Mudumalai Tiger Reserve is an important protected area in the Nilgiris.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Mudumalai, Tiger Reserve, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2210,
+        "id": 8637,
+        "title": "Mudumalai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2210,
+        "id": 8638,
+        "title": "Point Calimere",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2210,
+        "id": 8639,
+        "title": "Guindy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2210,
+        "id": 8640,
+        "title": "Vedanthangal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2211,
+    "difficulty": 2,
+    "title": "Which bird sanctuary in Tamil Nadu is one of the oldest waterbird sanctuaries in India?",
+    "description": "Identify the famous bird sanctuary near Chengalpattu.",
+    "hint": "It is particularly famous for migratory waterbirds.",
+    "summary": "Vedanthangal Bird Sanctuary is one of India's oldest protected waterbird sanctuaries.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Bird Sanctuaries, Vedanthangal",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2211,
+        "id": 8641,
+        "title": "Vedanthangal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2211,
+        "id": 8642,
+        "title": "Point Calimere",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2211,
+        "id": 8643,
+        "title": "Koonthankulam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2211,
+        "id": 8644,
+        "title": "Pulicat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2212,
+    "difficulty": 2,
+    "title": "Which wetland is associated with migratory birds in the Nagapattinam region?",
+    "description": "Identify the important coastal wetland and bird habitat of Tamil Nadu.",
+    "hint": "It is also known as Point Calimere.",
+    "summary": "Point Calimere is an important coastal wetland and bird habitat in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Ramsar Sites, Point Calimere, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2212,
+        "id": 8645,
+        "title": "Pichavaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2212,
+        "id": 8646,
+        "title": "Point Calimere",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2212,
+        "id": 8647,
+        "title": "Koonthankulam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2212,
+        "id": 8648,
+        "title": "Chitrangudi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2213,
+    "difficulty": 2,
+    "title": "Which famous temple is located in Madurai?",
+    "description": "Identify the major temple complex dedicated to Meenakshi and Sundareswarar.",
+    "hint": "It is famous for its colorful gopurams.",
+    "summary": "The Meenakshi Amman Temple is located in Madurai.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Madurai, Temple Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2213,
+        "id": 8649,
+        "title": "Meenakshi Amman Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2213,
+        "id": 8650,
+        "title": "Brihadisvara Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2213,
+        "id": 8651,
+        "title": "Shore Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2213,
+        "id": 8652,
+        "title": "Ramanathaswamy Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2214,
+    "difficulty": 2,
+    "title": "The Brihadisvara Temple is located in which Tamil Nadu city?",
+    "description": "Identify the city containing the famous Chola temple.",
+    "hint": "The city was an important Chola center.",
+    "summary": "The Brihadisvara Temple is located at Thanjavur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Thanjavur, Chola Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2214,
+        "id": 8653,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2214,
+        "id": 8654,
+        "title": "Chidambaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2214,
+        "id": 8655,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2214,
+        "id": 8656,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2215,
+    "difficulty": 2,
+    "title": "Which city is famous for the Nataraja Temple?",
+    "description": "Identify the Tamil Nadu city associated with the famous Nataraja Temple.",
+    "hint": "It is an important Shaiva pilgrimage center.",
+    "summary": "Chidambaram is famous for the Nataraja Temple dedicated to Shiva as Nataraja.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Chidambaram, Nataraja Temple",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2215,
+        "id": 8657,
+        "title": "Rameswaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2215,
+        "id": 8658,
+        "title": "Kumbakonam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2215,
+        "id": 8659,
+        "title": "Chidambaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2215,
+        "id": 8660,
+        "title": "Tiruvannamalai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2216,
+    "difficulty": 2,
+    "title": "Which temple is located on Rameswaram island?",
+    "description": "Identify the famous Shiva temple at Rameswaram.",
+    "hint": "It is one of the Char Dham pilgrimage sites.",
+    "summary": "The Ramanathaswamy Temple is located at Rameswaram.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Rameswaram, Temple Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2216,
+        "id": 8661,
+        "title": "Ramanathaswamy Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2216,
+        "id": 8662,
+        "title": "Meenakshi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2216,
+        "id": 8663,
+        "title": "Ekambareswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2216,
+        "id": 8664,
+        "title": "Kapaleeshwarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2217,
+    "difficulty": 2,
+    "title": "Which city is associated with the Shore Temple and Pancha Rathas?",
+    "description": "Identify the historic coastal town famous for Pallava monuments.",
+    "hint": "It is also called Mamallapuram.",
+    "summary": "Mahabalipuram, also known as Mamallapuram, contains the Shore Temple and Pancha Rathas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Mahabalipuram, Pallava Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2217,
+        "id": 8665,
+        "title": "Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2217,
+        "id": 8666,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2217,
+        "id": 8667,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2217,
+        "id": 8668,
+        "title": "Nagapattinam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2218,
+    "difficulty": 2,
+    "title": "Which city was an important capital of the Pallavas?",
+    "description": "Identify the historic Tamil city that served as the Pallava capital.",
+    "hint": "It is famous for temples such as Kailasanatha.",
+    "summary": "Kanchipuram was an important capital of the Pallavas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pallavas, Kanchipuram, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2218,
+        "id": 8669,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2218,
+        "id": 8670,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2218,
+        "id": 8671,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2218,
+        "id": 8672,
+        "title": "Tirunelveli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2219,
+    "difficulty": 2,
+    "title": "Which classical language has a major literary tradition associated with Tamil Nadu?",
+    "description": "Identify the classical language that forms the basis of Tamil literature.",
+    "hint": "It is one of India's classical languages.",
+    "summary": "Tamil has a rich classical literary tradition associated with Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Tamil Literature, Culture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2219,
+        "id": 8673,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2219,
+        "id": 8674,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2219,
+        "id": 8675,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2219,
+        "id": 8676,
+        "title": "Malayalam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2220,
+    "difficulty": 2,
+    "title": "Who wrote the Tamil ethical work Tirukkural?",
+    "description": "Identify the celebrated author traditionally credited with the Tirukkural.",
+    "hint": "He is known simply as Valluvar.",
+    "summary": "Thiruvalluvar is traditionally credited with the Tirukkural.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Tirukkural, Thiruvalluvar, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2220,
+        "id": 8677,
+        "title": "Kamban",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2220,
+        "id": 8678,
+        "title": "Ilango Adigal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2220,
+        "id": 8679,
+        "title": "Thiruvalluvar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2220,
+        "id": 8680,
+        "title": "Avvaiyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2221,
+    "difficulty": 2,
+    "title": "Which ancient Tamil literary corpus is associated with the Sangam period?",
+    "description": "Identify the body of classical Tamil literature produced during the Sangam tradition.",
+    "hint": "It includes works such as Ettuthokai and Pattuppattu.",
+    "summary": "Sangam literature represents an important body of ancient Tamil literary works.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Sangam Literature, Ancient India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2221,
+        "id": 8681,
+        "title": "Sangam literature",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2221,
+        "id": 8682,
+        "title": "Vedic literature",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2221,
+        "id": 8683,
+        "title": "Pali Canon",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2221,
+        "id": 8684,
+        "title": "Prakrit inscriptions",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2222,
+    "difficulty": 2,
+    "title": "Which dynasty was associated with Madurai during the Sangam age?",
+    "description": "Identify the major Tamil dynasty whose traditional center was Madurai.",
+    "hint": "Its emblem was associated with a fish.",
+    "summary": "The Pandyas were associated with Madurai during the Sangam age.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Sangam Age, Pandyas, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2222,
+        "id": 8685,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2222,
+        "id": 8686,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2222,
+        "id": 8687,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2222,
+        "id": 8688,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2223,
+    "difficulty": 2,
+    "title": "Which dynasty was traditionally associated with the Kaveri delta?",
+    "description": "Identify the Tamil dynasty whose core territory included the fertile Kaveri delta.",
+    "hint": "Its famous imperial capital included Thanjavur.",
+    "summary": "The Cholas were strongly associated with the Kaveri delta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Cholas, Kaveri Delta, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2223,
+        "id": 8689,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2223,
+        "id": 8690,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2223,
+        "id": 8691,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2223,
+        "id": 8692,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2224,
+    "difficulty": 2,
+    "title": "Which ancient Tamil dynasty was associated with the western part of the Tamil region?",
+    "description": "Identify the dynasty traditionally associated with the western Tamil region and Kerala.",
+    "hint": "Its emblem was the bow.",
+    "summary": "The Cheras were associated with the western Tamil region and parts of present-day Kerala.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Cheras, Sangam Age, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2224,
+        "id": 8693,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2224,
+        "id": 8694,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2224,
+        "id": 8695,
+        "title": "Pandyas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2224,
+        "id": 8696,
+        "title": "Cheras",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2225,
+    "difficulty": 2,
+    "title": "Which dance form originated in Tamil Nadu?",
+    "description": "Identify the classical Indian dance form strongly associated with Tamil Nadu.",
+    "hint": "It developed from the temple and performance traditions of Tamil Nadu.",
+    "summary": "Bharatanatyam is a classical dance form associated with Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Bharatanatyam, Culture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2225,
+        "id": 8697,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2225,
+        "id": 8698,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2225,
+        "id": 8699,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2225,
+        "id": 8700,
+        "title": "Odissi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2226,
+    "difficulty": 2,
+    "title": "Which classical dance form is associated with the temple tradition of Tamil Nadu?",
+    "description": "Identify the classical dance form historically linked with Tamil temple and court traditions.",
+    "hint": "Its name contains the word Bharata.",
+    "summary": "Bharatanatyam is closely associated with Tamil Nadu's classical dance tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Classical Dance, Bharatanatyam",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2226,
+        "id": 8701,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2226,
+        "id": 8702,
+        "title": "Manipuri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2226,
+        "id": 8703,
+        "title": "Mohiniyattam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2226,
+        "id": 8704,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2227,
+    "difficulty": 2,
+    "title": "Which festival is widely celebrated in Tamil Nadu as a harvest festival?",
+    "description": "Identify the major Tamil harvest festival.",
+    "hint": "It is celebrated over several days in January.",
+    "summary": "Pongal is the major harvest festival of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pongal, Festivals, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2227,
+        "id": 8705,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2227,
+        "id": 8706,
+        "title": "Pongal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2227,
+        "id": 8707,
+        "title": "Bihu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2227,
+        "id": 8708,
+        "title": "Vaisakhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2228,
+    "difficulty": 2,
+    "title": "Which traditional Tamil sport is associated with Pongal celebrations?",
+    "description": "Identify the traditional bull-taming sport associated with Tamil Nadu.",
+    "hint": "It involves attempting to embrace or hold a running bull.",
+    "summary": "Jallikattu is a traditional bull-taming sport associated with Tamil Nadu and Pongal.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Jallikattu, Pongal, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2228,
+        "id": 8709,
+        "title": "Kabaddi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2228,
+        "id": 8710,
+        "title": "Vallam Kali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2228,
+        "id": 8711,
+        "title": "Jallikattu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2228,
+        "id": 8712,
+        "title": "Silambam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2229,
+    "difficulty": 2,
+    "title": "Which martial art is traditionally associated with Tamil Nadu?",
+    "description": "Identify the traditional Tamil martial art involving weapons and combat techniques.",
+    "hint": "The name is associated with a staff.",
+    "summary": "Silambam is a traditional martial art associated with Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Silambam, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2229,
+        "id": 8713,
+        "title": "Silambam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2229,
+        "id": 8714,
+        "title": "Kalaripayattu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2229,
+        "id": 8715,
+        "title": "Thang-ta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2229,
+        "id": 8716,
+        "title": "Gatka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2230,
+    "difficulty": 2,
+    "title": "Which major port city of ancient Tamilakam was associated with the Cholas?",
+    "description": "Identify the ancient Chola port mentioned in Sangam literature.",
+    "hint": "It was located near the mouth of the Kaveri.",
+    "summary": "Kaveripattinam, also known as Puhar, was an important ancient Chola port.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Cholas, Sangam Age, Puhar",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2230,
+        "id": 8717,
+        "title": "Kaveripattinam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2230,
+        "id": 8718,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2230,
+        "id": 8719,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2230,
+        "id": 8720,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2231,
+    "difficulty": 2,
+    "title": "Which ancient Tamil city was an important Chola center?",
+    "description": "Identify the early Chola center associated with the interior region of Tamil Nadu.",
+    "hint": "It was located near the Kaveri.",
+    "summary": "Uraiyur was an important early Chola center.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Cholas, Uraiyur, Ancient India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2231,
+        "id": 8721,
+        "title": "Uraiyur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2231,
+        "id": 8722,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2231,
+        "id": 8723,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2231,
+        "id": 8724,
+        "title": "Vanji",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2232,
+    "difficulty": 2,
+    "title": "Which ancient Tamil port was associated with the Pandyas?",
+    "description": "Identify the ancient port known for pearl fishing and Pandyan connections.",
+    "hint": "It was located in the southern part of Tamil Nadu.",
+    "summary": "Korkai was an important ancient Pandyan port associated with pearl fishing.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pandyas, Korkai, Sangam Age",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2232,
+        "id": 8725,
+        "title": "Puhar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2232,
+        "id": 8726,
+        "title": "Korkai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2232,
+        "id": 8727,
+        "title": "Mamallapuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2232,
+        "id": 8728,
+        "title": "Nagapattinam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2233,
+    "difficulty": 2,
+    "title": "Which district is famous for the bronze icons produced under the Cholas?",
+    "description": "Identify the region historically associated with Chola bronze casting traditions.",
+    "hint": "It is in the Kaveri delta region.",
+    "summary": "The Kumbakonam region is particularly associated with the Chola bronze tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Chola Bronzes, Art and Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2233,
+        "id": 8729,
+        "title": "Kumbakonam region",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2233,
+        "id": 8730,
+        "title": "Nilgiris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2233,
+        "id": 8731,
+        "title": "Ramanathapuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2233,
+        "id": 8732,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2234,
+    "difficulty": 2,
+    "title": "Which temple town is known for the Ekambareswarar Temple?",
+    "description": "Identify the Tamil Nadu city containing the famous Ekambareswarar Temple.",
+    "hint": "It is one of the major temple cities of Tamil Nadu.",
+    "summary": "Kanchipuram is known for the Ekambareswarar Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Kanchipuram, Temple Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2234,
+        "id": 8733,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2234,
+        "id": 8734,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2234,
+        "id": 8735,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2234,
+        "id": 8736,
+        "title": "Rameswaram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2235,
+    "difficulty": 2,
+    "title": "Which temple is one of the Pancha Bhoota Stalas associated with fire?",
+    "description": "Identify the temple representing the element of fire among the five elemental Shiva temples.",
+    "hint": "It is located at the foot of a sacred hill.",
+    "summary": "The Arunachaleswarar Temple at Tiruvannamalai represents the element of fire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Tiruvannamalai, Shaivism, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2235,
+        "id": 8737,
+        "title": "Arunachaleswarar Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2235,
+        "id": 8738,
+        "title": "Jambukeswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2235,
+        "id": 8739,
+        "title": "Ekambareswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2235,
+        "id": 8740,
+        "title": "Thillai Nataraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2236,
+    "difficulty": 2,
+    "title": "Which temple represents the water element among the Pancha Bhoota Stalas?",
+    "description": "Identify the Shiva temple associated with the element of water.",
+    "hint": "It is located at Tiruchirappalli.",
+    "summary": "The Jambukeswarar Temple at Thiruvanaikaval represents the water element.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pancha Bhoota, Jambukeswarar, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2236,
+        "id": 8741,
+        "title": "Ekambareswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2236,
+        "id": 8742,
+        "title": "Arunachaleswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2236,
+        "id": 8743,
+        "title": "Jambukeswarar Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2236,
+        "id": 8744,
+        "title": "Kalahasti Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2237,
+    "difficulty": 2,
+    "title": "Which temple represents the earth element among the Pancha Bhoota Stalas?",
+    "description": "Identify the temple associated with the element of earth.",
+    "hint": "It is located in Kanchipuram.",
+    "summary": "The Ekambareswarar Temple at Kanchipuram represents the earth element.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pancha Bhoota, Kanchipuram",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2237,
+        "id": 8745,
+        "title": "Ekambareswarar Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2237,
+        "id": 8746,
+        "title": "Jambukeswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2237,
+        "id": 8747,
+        "title": "Arunachaleswarar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2237,
+        "id": 8748,
+        "title": "Nataraja Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2238,
+    "difficulty": 2,
+    "title": "Which coastal district is associated with the Gulf of Mannar Marine Biosphere Reserve?",
+    "description": "Identify the region of Tamil Nadu along the Gulf of Mannar associated with marine biodiversity.",
+    "hint": "Ramanathapuram is one of the important districts in this region.",
+    "summary": "The Gulf of Mannar marine ecosystem extends along the southeastern Tamil Nadu coast.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Gulf of Mannar, Biosphere Reserve",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2238,
+        "id": 8749,
+        "title": "Nilgiris",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2238,
+        "id": 8750,
+        "title": "Ramanathapuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2238,
+        "id": 8751,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2238,
+        "id": 8752,
+        "title": "Dharmapuri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2239,
+    "difficulty": 2,
+    "title": "Which marine ecosystem is particularly important along the Gulf of Mannar coast?",
+    "description": "Identify the marine habitats that support high biodiversity along the Gulf of Mannar.",
+    "hint": "They include structures formed by reef-building organisms.",
+    "summary": "Coral reefs are important marine ecosystems in the Gulf of Mannar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Gulf of Mannar, Coral Reefs, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2239,
+        "id": 8753,
+        "title": "Coral reefs",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2239,
+        "id": 8754,
+        "title": "Alpine meadows",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2239,
+        "id": 8755,
+        "title": "Cold deserts",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2239,
+        "id": 8756,
+        "title": "Temperate grasslands",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2240,
+    "difficulty": 2,
+    "title": "Which mangrove forest is famous for boat rides in Tamil Nadu?",
+    "description": "Identify the major mangrove ecosystem near Chidambaram.",
+    "hint": "It is one of India's important mangrove forests.",
+    "summary": "Pichavaram Mangrove Forest is famous for its waterways and mangrove vegetation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Pichavaram, Mangroves, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2240,
+        "id": 8757,
+        "title": "Pichavaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2240,
+        "id": 8758,
+        "title": "Sundarbans",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2240,
+        "id": 8759,
+        "title": "Muthupet",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2240,
+        "id": 8760,
+        "title": "Pulicat",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2241,
+    "difficulty": 2,
+    "title": "Which city is known as the cultural capital of Tamil Nadu?",
+    "description": "Identify the city widely recognized for its temples, arts, and cultural heritage.",
+    "hint": "It is famous for the Meenakshi Temple.",
+    "summary": "Madurai is widely regarded as an important cultural center of Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Madurai, Culture, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2241,
+        "id": 8761,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2241,
+        "id": 8762,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2241,
+        "id": 8763,
+        "title": "Erode",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2241,
+        "id": 8764,
+        "title": "Vellore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2242,
+    "difficulty": 2,
+    "title": "Which city is famous for the production of Kanchipuram silk sarees?",
+    "description": "Identify the Tamil Nadu city whose silk sarees are famous across India.",
+    "hint": "The city is also known as a major temple city.",
+    "summary": "Kanchipuram is famous for its traditional silk sarees.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Kanchipuram Silk, Handicrafts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2242,
+        "id": 8765,
+        "title": "Kanchipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2242,
+        "id": 8766,
+        "title": "Tiruppur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2242,
+        "id": 8767,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2242,
+        "id": 8768,
+        "title": "Erode",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2243,
+    "difficulty": 2,
+    "title": "Which city is a major textile and knitwear center in Tamil Nadu?",
+    "description": "Identify the city widely known for its knitwear and textile industry.",
+    "hint": "It is often called the Knitwear Capital of India.",
+    "summary": "Tiruppur is a major textile and knitwear center in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Tiruppur, Industries, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2243,
+        "id": 8769,
+        "title": "Tiruppur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2243,
+        "id": 8770,
+        "title": "Thoothukudi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2243,
+        "id": 8771,
+        "title": "Vellore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2243,
+        "id": 8772,
+        "title": "Dindigul",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2244,
+    "difficulty": 2,
+    "title": "Which city is an important industrial center known for its textile and engineering industries?",
+    "description": "Identify the major industrial city of western Tamil Nadu.",
+    "hint": "It is commonly called the Manchester of South India.",
+    "summary": "Coimbatore is a major industrial center known for textiles and engineering industries.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Coimbatore, Industries",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2244,
+        "id": 8773,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2244,
+        "id": 8774,
+        "title": "Nagapattinam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2244,
+        "id": 8775,
+        "title": "Ramanathapuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2244,
+        "id": 8776,
+        "title": "Tenkasi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2245,
+    "difficulty": 2,
+    "title": "Which port city is an important industrial and maritime center in southern Tamil Nadu?",
+    "description": "Identify the major port city formerly known as Tuticorin.",
+    "hint": "Its present official name begins with Thoothu.",
+    "summary": "Thoothukudi is an important port and industrial city in southern Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Thoothukudi, Ports, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2245,
+        "id": 8777,
+        "title": "Thoothukudi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2245,
+        "id": 8778,
+        "title": "Cuddalore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2245,
+        "id": 8779,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2245,
+        "id": 8780,
+        "title": "Pudukkottai",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2246,
+    "difficulty": 2,
+    "title": "Which district is famous for fireworks and match industries around Sivakasi?",
+    "description": "Identify the Tamil Nadu district containing Sivakasi.",
+    "hint": "The district headquarters is Virudhunagar.",
+    "summary": "Virudhunagar district is associated with the industries of Sivakasi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Virudhunagar, Industries, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2246,
+        "id": 8781,
+        "title": "Virudhunagar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2246,
+        "id": 8782,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2246,
+        "id": 8783,
+        "title": "Erode",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2246,
+        "id": 8784,
+        "title": "Namakkal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2247,
+    "difficulty": 2,
+    "title": "Which city is famous for its steel industry and is known as the Steel City of Tamil Nadu?",
+    "description": "Identify the major industrial city associated with steel production.",
+    "hint": "It is located in north-central Tamil Nadu.",
+    "summary": "Salem is an important steel and industrial center in Tamil Nadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Salem, Industries, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2247,
+        "id": 8785,
+        "title": "Salem",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2247,
+        "id": 8786,
+        "title": "Dindigul",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2247,
+        "id": 8787,
+        "title": "Tirunelveli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2247,
+        "id": 8788,
+        "title": "Cuddalore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2248,
+    "difficulty": 2,
+    "title": "Which city is famous for the Brihadisvara Temple and Chola heritage?",
+    "description": "Identify the historic Tamil city that was an important Chola center.",
+    "hint": "The city is in the Kaveri delta.",
+    "summary": "Thanjavur is famous for the Brihadisvara Temple and Chola heritage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, Thanjavur, Cholas, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2248,
+        "id": 8789,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2248,
+        "id": 8790,
+        "title": "Coimbatore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2248,
+        "id": 8791,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2248,
+        "id": 8792,
+        "title": "Tiruppur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2249,
+    "difficulty": 2,
+    "title": "Which UNESCO World Heritage Site includes monuments at Mahabalipuram?",
+    "description": "Identify the UNESCO-listed group of monuments associated with Pallava architecture.",
+    "hint": "The site includes the Shore Temple and Pancha Rathas.",
+    "summary": "The Group of Monuments at Mahabalipuram is a UNESCO World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, UNESCO, Mahabalipuram, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2249,
+        "id": 8793,
+        "title": "Group of Monuments at Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2249,
+        "id": 8794,
+        "title": "Group of Monuments at Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2249,
+        "id": 8795,
+        "title": "Buddhist Monuments at Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2249,
+        "id": 8796,
+        "title": "Churches of Goa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2250,
+    "difficulty": 2,
+    "title": "Which UNESCO World Heritage Site includes the Brihadisvara Temple at Thanjavur?",
+    "description": "Identify the UNESCO group that includes the major Chola temples of Tamil Nadu.",
+    "hint": "The group recognizes major Chola-period temples.",
+    "summary": "The Great Living Chola Temples UNESCO site includes the Brihadisvara Temple at Thanjavur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Tamil Nadu, UNESCO, Chola Architecture, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2250,
+        "id": 8797,
+        "title": "Group of Monuments at Mahabalipuram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2250,
+        "id": 8798,
+        "title": "Great Living Chola Temples",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2250,
+        "id": 8799,
+        "title": "Western Ghats",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2250,
+        "id": 8800,
+        "title": "Historic City of Ahmedabad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
