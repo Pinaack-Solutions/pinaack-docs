@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2301,
+    "difficulty": 2,
+    "title": "Who is generally regarded as the founder of the Gupta dynasty?",
+    "description": "Identify the earliest known ruler of the Gupta dynasty.",
+    "hint": "He preceded Ghatotkacha.",
+    "summary": "Sri Gupta is regarded as the founder of the Gupta dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Ancient History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2301,
+        "id": 9001,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2301,
+        "id": 9002,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2301,
+        "id": 9003,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2301,
+        "id": 9004,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2302,
+    "difficulty": 2,
+    "title": "Who was the father of Chandragupta I?",
+    "description": "Identify the Gupta ruler who preceded Chandragupta I.",
+    "hint": "His name begins with G.",
+    "summary": "Ghatotkacha was the father of Chandragupta I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Rulers, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2302,
+        "id": 9005,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2302,
+        "id": 9006,
+        "title": "Ghatotkacha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2302,
+        "id": 9007,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2302,
+        "id": 9008,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2303,
+    "difficulty": 2,
+    "title": "Which Gupta ruler strengthened his position through marriage to a Lichchhavi princess?",
+    "description": "Identify the ruler whose marriage alliance helped enhance Gupta power.",
+    "hint": "His queen was Kumaradevi.",
+    "summary": "Chandragupta I married Kumaradevi of the Lichchhavis.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Chandragupta I, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2303,
+        "id": 9009,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2303,
+        "id": 9010,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2303,
+        "id": 9011,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2303,
+        "id": 9012,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2304,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is associated with the beginning of the Gupta Era in 319–320 CE?",
+    "description": "Identify the ruler commonly associated with the establishment of the Gupta Era.",
+    "hint": "He was the father of Samudragupta.",
+    "summary": "Chandragupta I is commonly associated with the beginning of the Gupta Era.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Gupta Era, Ancient History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2304,
+        "id": 9013,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2304,
+        "id": 9014,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2304,
+        "id": 9015,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2304,
+        "id": 9016,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2305,
+    "difficulty": 2,
+    "title": "Who was the son and successor of Chandragupta I?",
+    "description": "Identify the Gupta ruler who expanded the empire through military campaigns.",
+    "hint": "He is praised in the Allahabad Pillar inscription.",
+    "summary": "Samudragupta succeeded Chandragupta I.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Samudragupta, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2305,
+        "id": 9017,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2305,
+        "id": 9018,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2305,
+        "id": 9019,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2305,
+        "id": 9020,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2306,
+    "difficulty": 2,
+    "title": "Which inscription provides important information about Samudragupta's conquests?",
+    "description": "Identify the inscription composed by Harisena.",
+    "hint": "It is found on a pillar originally erected by Ashoka.",
+    "summary": "The Allahabad Pillar inscription records Samudragupta's achievements.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Inscriptions, Samudragupta, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2306,
+        "id": 9021,
+        "title": "Junagadh inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2306,
+        "id": 9022,
+        "title": "Aihole inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2306,
+        "id": 9023,
+        "title": "Allahabad Pillar inscription",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2306,
+        "id": 9024,
+        "title": "Hathigumpha inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2307,
+    "difficulty": 2,
+    "title": "Who composed the Allahabad Pillar inscription of Samudragupta?",
+    "description": "Identify the court poet who recorded Samudragupta's achievements.",
+    "hint": "He served as a court official and poet.",
+    "summary": "Harisena composed the Allahabad Pillar inscription.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Harisena, Inscriptions",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2307,
+        "id": 9025,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2307,
+        "id": 9026,
+        "title": "Banabhatta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2307,
+        "id": 9027,
+        "title": "Vishakhadatta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2307,
+        "id": 9028,
+        "title": "Harisena",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2308,
+    "difficulty": 2,
+    "title": "Which title is commonly associated with Samudragupta in modern historical writing?",
+    "description": "Identify the title reflecting his reputation for military conquests.",
+    "hint": "The comparison is with a famous European conqueror.",
+    "summary": "Samudragupta is often called the Napoleon of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Samudragupta, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2308,
+        "id": 9029,
+        "title": "Napoleon of India",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2308,
+        "id": 9030,
+        "title": "Indian Bismarck",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2308,
+        "id": 9031,
+        "title": "Frontier Gandhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2308,
+        "id": 9032,
+        "title": "Punjab Kesari",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2309,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is known for issuing coins depicting himself playing a veena?",
+    "description": "Identify the ruler whose coins highlight his musical interests.",
+    "hint": "He was the son of Chandragupta I.",
+    "summary": "Samudragupta issued coins depicting him playing a veena.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Coins, Samudragupta, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2309,
+        "id": 9033,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2309,
+        "id": 9034,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2309,
+        "id": 9035,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2309,
+        "id": 9036,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2310,
+    "difficulty": 2,
+    "title": "Which Gupta ruler performed the Ashvamedha sacrifice?",
+    "description": "Identify the ruler who commemorated the horse sacrifice on special gold coins.",
+    "hint": "His reign followed Chandragupta I.",
+    "summary": "Samudragupta performed the Ashvamedha sacrifice.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Ashvamedha, Samudragupta, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2310,
+        "id": 9037,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2310,
+        "id": 9038,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2310,
+        "id": 9039,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2310,
+        "id": 9040,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2311,
+    "difficulty": 2,
+    "title": "Who succeeded Samudragupta?",
+    "description": "Identify the Gupta ruler traditionally regarded as Samudragupta's successor.",
+    "hint": "He expanded Gupta influence in western India.",
+    "summary": "Chandragupta II succeeded Samudragupta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Chandragupta II, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2311,
+        "id": 9041,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2311,
+        "id": 9042,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2311,
+        "id": 9043,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2311,
+        "id": 9044,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2312,
+    "difficulty": 2,
+    "title": "Which title did Chandragupta II commonly use?",
+    "description": "Identify the title prominently associated with Chandragupta II.",
+    "hint": "It means 'Sun of Valour' or 'Sun of Power'.",
+    "summary": "Chandragupta II used the title Vikramaditya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Chandragupta II, Titles",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2312,
+        "id": 9045,
+        "title": "Devanampiya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2312,
+        "id": 9046,
+        "title": "Vikramaditya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2312,
+        "id": 9047,
+        "title": "Priyadarsi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2312,
+        "id": 9048,
+        "title": "Amoghavarsha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2313,
+    "difficulty": 2,
+    "title": "Which foreign visitor came to India during Chandragupta II's reign?",
+    "description": "Identify the Chinese Buddhist pilgrim who visited India during the Gupta period.",
+    "hint": "His name is also written as Fa-Hien.",
+    "summary": "Faxian visited India during Chandragupta II's reign.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Faxian, Foreign Travellers, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2313,
+        "id": 9049,
+        "title": "Xuanzang",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2313,
+        "id": 9050,
+        "title": "Megasthenes",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2313,
+        "id": 9051,
+        "title": "Faxian",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2313,
+        "id": 9052,
+        "title": "Al-Biruni",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2314,
+    "difficulty": 2,
+    "title": "Which region was brought under Gupta control after Chandragupta II defeated the Western Kshatrapas?",
+    "description": "Identify the broad region that gave the Guptas access to important western ports.",
+    "hint": "It lies on India's western coast.",
+    "summary": "The conquest brought much of Gujarat and adjoining western regions under Gupta control.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Western Kshatrapas, Geography, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2314,
+        "id": 9053,
+        "title": "Kashmir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2314,
+        "id": 9054,
+        "title": "Assam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2314,
+        "id": 9055,
+        "title": "Kalinga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2314,
+        "id": 9056,
+        "title": "Gujarat",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2315,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is associated with the silver coinage introduced after western conquests?",
+    "description": "Identify the ruler whose silver coins followed the defeat of the Western Kshatrapas.",
+    "hint": "He was known as Vikramaditya.",
+    "summary": "Chandragupta II issued silver coins after conquering western territories.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Coins, Chandragupta II, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2315,
+        "id": 9057,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2315,
+        "id": 9058,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2315,
+        "id": 9059,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2315,
+        "id": 9060,
+        "title": "Ghatotkacha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2316,
+    "difficulty": 2,
+    "title": "Which Gupta ruler was the son of Chandragupta II and Kumaradevi's namesake is not required to identify him?",
+    "description": "Identify the ruler who succeeded Chandragupta II and was known for supporting learning.",
+    "hint": "His reign is associated with Nalanda's early development.",
+    "summary": "Kumaragupta I succeeded Chandragupta II.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Kumaragupta I, Rulers, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2316,
+        "id": 9061,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2316,
+        "id": 9062,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2316,
+        "id": 9063,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2316,
+        "id": 9064,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2317,
+    "difficulty": 2,
+    "title": "Which Gupta ruler used the title Mahendraditya?",
+    "description": "Identify the Gupta ruler associated with this royal title.",
+    "hint": "He was the son of Chandragupta II.",
+    "summary": "Kumaragupta I used the title Mahendraditya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Kumaragupta I, Titles, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2317,
+        "id": 9065,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2317,
+        "id": 9066,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2317,
+        "id": 9067,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2317,
+        "id": 9068,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2318,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is traditionally associated with the founding of Nalanda Mahavihara?",
+    "description": "Identify the ruler often credited in traditional accounts with establishing Nalanda.",
+    "hint": "He ruled after Chandragupta II.",
+    "summary": "Kumaragupta I is traditionally credited with founding Nalanda Mahavihara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Nalanda, Education, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2318,
+        "id": 9069,
+        "title": "Kumaragupta I",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2318,
+        "id": 9070,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2318,
+        "id": 9071,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2318,
+        "id": 9072,
+        "title": "Sri Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2319,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is known for repelling Hun invasions?",
+    "description": "Identify the ruler who resisted Huna attacks on the Gupta Empire.",
+    "hint": "He succeeded Kumaragupta I.",
+    "summary": "Skandagupta successfully resisted major Huna attacks.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Hunas, Skandagupta, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2319,
+        "id": 9073,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2319,
+        "id": 9074,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2319,
+        "id": 9075,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2319,
+        "id": 9076,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2320,
+    "difficulty": 2,
+    "title": "Which inscription records the repair of Sudarshana Lake during Skandagupta's reign?",
+    "description": "Identify the inscription describing the repair of the lake's embankment.",
+    "hint": "It was found at Junagadh in Gujarat.",
+    "summary": "The Junagadh inscription records the repair of Sudarshana Lake under Skandagupta.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Junagadh Inscription, Irrigation, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2320,
+        "id": 9077,
+        "title": "Mehrauli inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2320,
+        "id": 9078,
+        "title": "Junagadh inscription",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2320,
+        "id": 9079,
+        "title": "Aihole inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2320,
+        "id": 9080,
+        "title": "Nasik inscription",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2321,
+    "difficulty": 2,
+    "title": "Which language was widely used in Gupta royal inscriptions?",
+    "description": "Identify the language commonly used in Gupta inscriptions and court literature.",
+    "hint": "It is the classical language of many ancient Indian texts.",
+    "summary": "Sanskrit was widely used in Gupta royal inscriptions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Sanskrit, Inscriptions, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2321,
+        "id": 9081,
+        "title": "Sanskrit",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2321,
+        "id": 9082,
+        "title": "Persian",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2321,
+        "id": 9083,
+        "title": "Arabic",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2321,
+        "id": 9084,
+        "title": "Tamil only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2322,
+    "difficulty": 2,
+    "title": "Which script was commonly used in Gupta inscriptions?",
+    "description": "Identify the script that developed from earlier Brahmi forms during the Gupta period.",
+    "hint": "It is named after the dynasty.",
+    "summary": "Gupta script was commonly used in inscriptions of the period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Scripts, Inscriptions, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2322,
+        "id": 9085,
+        "title": "Kharosthi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2322,
+        "id": 9086,
+        "title": "Sharada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2322,
+        "id": 9087,
+        "title": "Gupta script",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2322,
+        "id": 9088,
+        "title": "Persian script",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2323,
+    "difficulty": 2,
+    "title": "Which famous Sanskrit poet is traditionally associated with the Gupta period?",
+    "description": "Identify the poet known for works such as Abhijnanashakuntalam and Meghaduta.",
+    "hint": "He is one of classical Sanskrit literature's best-known writers.",
+    "summary": "Kalidasa is a celebrated Sanskrit poet and dramatist associated with the Gupta age.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Kalidasa, Literature, Sanskrit",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2323,
+        "id": 9089,
+        "title": "Banabhatta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2323,
+        "id": 9090,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2323,
+        "id": 9091,
+        "title": "Tulsidas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2323,
+        "id": 9092,
+        "title": "Amir Khusrau",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2324,
+    "difficulty": 2,
+    "title": "Who wrote the Sanskrit play Mudrarakshasa?",
+    "description": "Identify the dramatist who wrote this play about political events surrounding Chandragupta Maurya.",
+    "hint": "He also wrote Devichandraguptam.",
+    "summary": "Vishakhadatta wrote Mudrarakshasa.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Sanskrit Literature, Vishakhadatta",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2324,
+        "id": 9093,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2324,
+        "id": 9094,
+        "title": "Bharavi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2324,
+        "id": 9095,
+        "title": "Shudraka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2324,
+        "id": 9096,
+        "title": "Vishakhadatta",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2325,
+    "difficulty": 2,
+    "title": "Which work by Kalidasa describes the journey of a cloud carrying a message?",
+    "description": "Identify Kalidasa's lyrical poem about a cloud acting as a messenger.",
+    "hint": "Its title means 'Cloud Messenger'.",
+    "summary": "Meghaduta is the poem by Kalidasa about a cloud messenger.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Kalidasa, Literature, Meghaduta",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2325,
+        "id": 9097,
+        "title": "Meghaduta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2325,
+        "id": 9098,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2325,
+        "id": 9099,
+        "title": "Rajatarangini",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2325,
+        "id": 9100,
+        "title": "Harshacharita",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2326,
+    "difficulty": 2,
+    "title": "Which mathematician is associated with the work Aryabhatiya?",
+    "description": "Identify the Indian mathematician and astronomer who wrote Aryabhatiya.",
+    "hint": "He is known for important work on place value and astronomy.",
+    "summary": "Aryabhata wrote Aryabhatiya around 499 CE.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Aryabhata, Mathematics, Astronomy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2326,
+        "id": 9101,
+        "title": "Varahamihira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2326,
+        "id": 9102,
+        "title": "Brahmagupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2326,
+        "id": 9103,
+        "title": "Aryabhata",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2326,
+        "id": 9104,
+        "title": "Bhaskaracharya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2327,
+    "difficulty": 2,
+    "title": "Which scholar wrote the Brihat Samhita?",
+    "description": "Identify the astronomer and polymath associated with this encyclopedic Sanskrit work.",
+    "hint": "His name begins with Vara.",
+    "summary": "Varahamihira wrote the Brihat Samhita.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Varahamihira, Astronomy, Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2327,
+        "id": 9105,
+        "title": "Aryabhata",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2327,
+        "id": 9106,
+        "title": "Varahamihira",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2327,
+        "id": 9107,
+        "title": "Kalidasa",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2327,
+        "id": 9108,
+        "title": "Harisena",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2328,
+    "difficulty": 2,
+    "title": "Which mathematician is associated with early systematic work on zero and negative numbers?",
+    "description": "Identify the later Indian mathematician whose work advanced arithmetic and algebra.",
+    "hint": "He wrote Brahmasphutasiddhanta in the 7th century.",
+    "summary": "Brahmagupta made important contributions to arithmetic involving zero and negative numbers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India, Mathematics, Brahmagupta, Science",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2328,
+        "id": 9109,
+        "title": "Aryabhata",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2328,
+        "id": 9110,
+        "title": "Varahamihira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2328,
+        "id": 9111,
+        "title": "Bhaskara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2328,
+        "id": 9112,
+        "title": "Brahmagupta",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2329,
+    "difficulty": 2,
+    "title": "Which numeral system developed in India became the basis of the modern decimal system?",
+    "description": "Identify the place-value system that uses ten symbols, including zero.",
+    "hint": "It uses positions to determine a digit's value.",
+    "summary": "The Hindu-Arabic decimal place-value system developed from Indian mathematical traditions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Age, Mathematics, Decimal System, Science",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2329,
+        "id": 9113,
+        "title": "Roman numeral system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2329,
+        "id": 9114,
+        "title": "Hindu-Arabic decimal system",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2329,
+        "id": 9115,
+        "title": "Greek alphabetic system",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2329,
+        "id": 9116,
+        "title": "Babylonian cuneiform only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2330,
+    "difficulty": 2,
+    "title": "Which metal is used in the famous rust-resistant iron pillar at Mehrauli?",
+    "description": "Identify the principal metal used to construct the pillar.",
+    "hint": "It is a ferrous metal.",
+    "summary": "The Mehrauli Iron Pillar is made primarily of wrought iron.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Iron Pillar, Metallurgy, Science",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2330,
+        "id": 9117,
+        "title": "Copper",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2330,
+        "id": 9118,
+        "title": "Bronze",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2330,
+        "id": 9119,
+        "title": "Iron",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2330,
+        "id": 9120,
+        "title": "Tin",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2331,
+    "difficulty": 2,
+    "title": "Which site is famous for Gupta-period Buddhist sculptures and monasteries in Bihar?",
+    "description": "Identify the major Buddhist learning centre associated with the Gupta age.",
+    "hint": "It became one of ancient India's best-known centres of higher learning.",
+    "summary": "Nalanda was a major Buddhist learning centre that developed during the Gupta period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Nalanda, Buddhism, Education",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2331,
+        "id": 9121,
+        "title": "Nalanda",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2331,
+        "id": 9122,
+        "title": "Sarnath",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2331,
+        "id": 9123,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2331,
+        "id": 9124,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2332,
+    "difficulty": 2,
+    "title": "Which Gupta-period cave complex is especially famous for its Buddhist paintings?",
+    "description": "Identify the rock-cut cave complex renowned for murals illustrating Buddhist themes.",
+    "hint": "It is located in Maharashtra.",
+    "summary": "The Ajanta Caves are famous for their Buddhist paintings, many created or expanded during the Gupta age and related periods.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Ajanta Caves, Painting, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2332,
+        "id": 9125,
+        "title": "Elephanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2332,
+        "id": 9126,
+        "title": "Badami Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2332,
+        "id": 9127,
+        "title": "Udayagiri Caves in Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2332,
+        "id": 9128,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2333,
+    "difficulty": 2,
+    "title": "Which deity is prominently represented in the Gupta-period Dashavatara Temple at Deogarh?",
+    "description": "Identify the principal Hindu deity associated with this early stone temple.",
+    "hint": "The deity is often depicted reclining on the serpent Shesha.",
+    "summary": "The Dashavatara Temple at Deogarh is dedicated to Vishnu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Temple Architecture, Vishnu, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2333,
+        "id": 9129,
+        "title": "Shiva",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2333,
+        "id": 9130,
+        "title": "Vishnu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2333,
+        "id": 9131,
+        "title": "Surya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2333,
+        "id": 9132,
+        "title": "Brahma",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2334,
+    "difficulty": 2,
+    "title": "Which architectural feature became important in early Gupta Hindu temples?",
+    "description": "Identify the structure built over the sanctum in many early temple designs.",
+    "hint": "It developed into a prominent feature of later North Indian temples.",
+    "summary": "The shikhara became an important feature in the evolution of North Indian temple architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Temple Architecture, Art, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2334,
+        "id": 9133,
+        "title": "Minaret",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2334,
+        "id": 9134,
+        "title": "Gopuram only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2334,
+        "id": 9135,
+        "title": "Shikhara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2334,
+        "id": 9136,
+        "title": "Dome",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2335,
+    "difficulty": 2,
+    "title": "Which religion received royal support under several Gupta rulers alongside Hindu traditions?",
+    "description": "Identify the religion whose monasteries and learning centres flourished during the period.",
+    "hint": "Nalanda became a major centre for this religion.",
+    "summary": "Buddhism continued to receive patronage and flourish under several Gupta rulers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Buddhism, Religion, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2335,
+        "id": 9137,
+        "title": "Buddhism",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2335,
+        "id": 9138,
+        "title": "Zoroastrianism only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2335,
+        "id": 9139,
+        "title": "Shinto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2335,
+        "id": 9140,
+        "title": "Confucianism",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2336,
+    "difficulty": 2,
+    "title": "Which religious tradition became especially prominent among Gupta rulers?",
+    "description": "Identify the broad religious tradition reflected in many Gupta royal inscriptions and temples.",
+    "hint": "It includes worship of Vishnu and Shiva.",
+    "summary": "Hindu traditions, including Vaishnavism and Shaivism, were prominent during the Gupta period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Religion, Hinduism, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2336,
+        "id": 9141,
+        "title": "Christianity exclusively",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2336,
+        "id": 9142,
+        "title": "Hindu traditions",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2336,
+        "id": 9143,
+        "title": "Shinto",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2336,
+        "id": 9144,
+        "title": "Zoroastrianism exclusively",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2337,
+    "difficulty": 2,
+    "title": "What was a major source of revenue for the Gupta state?",
+    "description": "Identify the principal source of state income in the agrarian economy.",
+    "hint": "It was collected from agricultural production.",
+    "summary": "Land revenue was a major source of income for the Gupta state.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Economy, Taxation, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2337,
+        "id": 9145,
+        "title": "Land revenue",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2337,
+        "id": 9146,
+        "title": "Income tax on salaries only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2337,
+        "id": 9147,
+        "title": "Oil royalties",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2337,
+        "id": 9148,
+        "title": "Modern customs duties only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2338,
+    "difficulty": 2,
+    "title": "Which metal was especially prominent in Gupta coinage?",
+    "description": "Identify the metal used extensively for high-value Gupta coins.",
+    "hint": "The coins were often called dinaras.",
+    "summary": "Gold was extensively used in Gupta coinage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Coins, Economy, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2338,
+        "id": 9149,
+        "title": "Lead",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2338,
+        "id": 9150,
+        "title": "Tin",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2338,
+        "id": 9151,
+        "title": "Gold",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2338,
+        "id": 9152,
+        "title": "Aluminium",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2339,
+    "difficulty": 2,
+    "title": "What was the common term for a village headman in many ancient Indian administrative contexts?",
+    "description": "Identify the term frequently associated with the head of a village.",
+    "hint": "The term contains the word grama.",
+    "summary": "Gramika was a term used for a village headman in ancient India, including in some Gupta-era contexts.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Administration, Ancient India",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2339,
+        "id": 9153,
+        "title": "Senapati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2339,
+        "id": 9154,
+        "title": "Gramika",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2339,
+        "id": 9155,
+        "title": "Mahamatra only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2339,
+        "id": 9156,
+        "title": "Amir",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2340,
+    "difficulty": 2,
+    "title": "Which official title was associated with a high-ranking military commander in ancient India?",
+    "description": "Identify the title commonly used for a commander or general.",
+    "hint": "The term includes sena, meaning army.",
+    "summary": "Senapati was a title for a military commander.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Administration, Military, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2340,
+        "id": 9157,
+        "title": "Purohita",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2340,
+        "id": 9158,
+        "title": "Gramika",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2340,
+        "id": 9159,
+        "title": "Mahattara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2340,
+        "id": 9160,
+        "title": "Senapati",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2341,
+    "difficulty": 2,
+    "title": "Which dynasty posed a major threat to the Gupta Empire in its later years?",
+    "description": "Identify the Central Asian group whose invasions weakened Gupta power.",
+    "hint": "Their name is also written as Hunas.",
+    "summary": "The Hunas were a major threat to the later Gupta Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Hunas, Decline, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2341,
+        "id": 9161,
+        "title": "Hunas",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2341,
+        "id": 9162,
+        "title": "Cholas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2341,
+        "id": 9163,
+        "title": "Pallavas",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2341,
+        "id": 9164,
+        "title": "Ahoms",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2342,
+    "difficulty": 2,
+    "title": "Which factor contributed to the decline of the Gupta Empire?",
+    "description": "Identify a major political and military factor behind the weakening of Gupta authority.",
+    "hint": "It involved attacks from outside the empire.",
+    "summary": "Huna invasions, regional fragmentation and succession disputes contributed to Gupta decline.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Decline, Hunas, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2342,
+        "id": 9165,
+        "title": "Discovery of America",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2342,
+        "id": 9166,
+        "title": "The Industrial Revolution",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2342,
+        "id": 9167,
+        "title": "Huna invasions",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2342,
+        "id": 9168,
+        "title": "The Mongol conquest",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2343,
+    "difficulty": 2,
+    "title": "Which region served as an important political centre of the Gupta Empire?",
+    "description": "Identify the region around which much of Gupta imperial power was based.",
+    "hint": "It includes present-day eastern Uttar Pradesh and Bihar.",
+    "summary": "The middle Gangetic region was an important centre of Gupta power.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Geography, Administration, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2343,
+        "id": 9169,
+        "title": "Deccan plateau exclusively",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2343,
+        "id": 9170,
+        "title": "Middle Gangetic region",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2343,
+        "id": 9171,
+        "title": "Far southern Tamil region",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2343,
+        "id": 9172,
+        "title": "Malabar coast exclusively",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2344,
+    "difficulty": 2,
+    "title": "Which ancient Indian text on statecraft is attributed to Kautilya rather than a Gupta-era poet?",
+    "description": "Identify the treatise dealing with governance, economics and diplomacy.",
+    "hint": "Its name begins with Artha.",
+    "summary": "The Arthashastra is traditionally attributed to Kautilya.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Ancient India, Arthashastra, Kautilya, Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2344,
+        "id": 9173,
+        "title": "Meghaduta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2344,
+        "id": 9174,
+        "title": "Brihat Samhita",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2344,
+        "id": 9175,
+        "title": "Abhijnanashakuntalam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2344,
+        "id": 9176,
+        "title": "Arthashastra",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2345,
+    "difficulty": 2,
+    "title": "Which Gupta-period art centre is especially known for its distinctive red sandstone sculptures?",
+    "description": "Identify the artistic centre renowned for sculptural production during the Gupta age.",
+    "hint": "It is a historic city in present-day Uttar Pradesh.",
+    "summary": "Mathura was a major centre of sculpture during the Gupta period.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Mathura, Sculpture, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2345,
+        "id": 9177,
+        "title": "Mathura",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2345,
+        "id": 9178,
+        "title": "Madurai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2345,
+        "id": 9179,
+        "title": "Thanjavur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2345,
+        "id": 9180,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2346,
+    "difficulty": 2,
+    "title": "Which Gupta-period site in Madhya Pradesh is famous for rock-cut Hindu cave temples?",
+    "description": "Identify the site containing early Hindu cave temples and inscriptions.",
+    "hint": "It is near Vidisha.",
+    "summary": "Udayagiri in Madhya Pradesh is famous for Gupta-period Hindu cave temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Udayagiri Caves, Architecture, Art",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2346,
+        "id": 9181,
+        "title": "Ellora",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2346,
+        "id": 9182,
+        "title": "Elephanta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2346,
+        "id": 9183,
+        "title": "Udayagiri Caves",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2346,
+        "id": 9184,
+        "title": "Karla Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2347,
+    "difficulty": 2,
+    "title": "Which Gupta ruler is associated with the title Baladitya in accounts of resistance to the Hunas?",
+    "description": "Identify the ruler traditionally associated in some historical accounts with defeating the Huna ruler Mihirakula.",
+    "hint": "He was a later Gupta ruler, though the identification in sources is debated.",
+    "summary": "Narasimhagupta is associated in some accounts with the title Baladitya and resistance to Mihirakula.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Narasimhagupta, Hunas, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2347,
+        "id": 9185,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2347,
+        "id": 9186,
+        "title": "Narasimhagupta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2347,
+        "id": 9187,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2347,
+        "id": 9188,
+        "title": "Ghatotkacha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2348,
+    "difficulty": 2,
+    "title": "Which term is commonly used for the Gupta period's flourishing of art, literature and science?",
+    "description": "Identify the phrase often used to describe the cultural achievements of the Gupta age.",
+    "hint": "It compares the period to a precious metal.",
+    "summary": "The Gupta period is often described as a Golden Age of classical Indian culture, though the label has limitations.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Golden Age, Culture, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2348,
+        "id": 9189,
+        "title": "Age of Exploration",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2348,
+        "id": 9190,
+        "title": "Age of Industrialisation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2348,
+        "id": 9191,
+        "title": "Golden Age",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2348,
+        "id": 9192,
+        "title": "Age of Feudal Monarchies",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2349,
+    "difficulty": 2,
+    "title": "Which Gupta ruler's reign is often considered an important turning point in the empire's decline?",
+    "description": "Identify the ruler whose reign faced major Huna attacks and growing military pressure.",
+    "hint": "He was the son of Kumaragupta I.",
+    "summary": "Skandagupta faced major Huna attacks and is often discussed in accounts of the empire's later difficulties.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Skandagupta, Decline, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2349,
+        "id": 9193,
+        "title": "Chandragupta I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2349,
+        "id": 9194,
+        "title": "Samudragupta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2349,
+        "id": 9195,
+        "title": "Chandragupta II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2349,
+        "id": 9196,
+        "title": "Skandagupta",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2350,
+    "difficulty": 2,
+    "title": "Which statement best describes the Gupta Empire's historical significance?",
+    "description": "Choose the most accurate summary of the Gupta period's achievements.",
+    "hint": "Consider literature, mathematics, art and political history.",
+    "summary": "The Gupta period is known for major developments in literature, science, art and political organisation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Gupta Empire, Achievements, Ancient History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2350,
+        "id": 9197,
+        "title": "It had no major cultural achievements",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2350,
+        "id": 9198,
+        "title": "It was exclusively a maritime empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2350,
+        "id": 9199,
+        "title": "It introduced modern industrialisation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2350,
+        "id": 9200,
+        "title": "It saw important advances in art, literature and science",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
