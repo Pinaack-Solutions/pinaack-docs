@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2501,
+    "difficulty": 2,
+    "title": "When was Telangana officially formed as a state?",
+    "description": "Identify the date Telangana became India's 29th state.",
+    "hint": "It was formed in June 2014.",
+    "summary": "Telangana was formed on 2 June 2014.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, State Formation, History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2501,
+        "id": 9801,
+        "title": "2 June 2014",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2501,
+        "id": 9802,
+        "title": "1 November 1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2501,
+        "id": 9803,
+        "title": "1 October 1953",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2501,
+        "id": 9804,
+        "title": "26 January 2015",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2502,
+    "difficulty": 2,
+    "title": "What is the capital of Telangana?",
+    "description": "Identify the state capital.",
+    "hint": "It is a major technology and pharmaceutical hub.",
+    "summary": "Hyderabad is the capital of Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad, Capital, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2502,
+        "id": 9805,
+        "title": "Warangal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2502,
+        "id": 9806,
+        "title": "Karimnagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2502,
+        "id": 9807,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2502,
+        "id": 9808,
+        "title": "Nizamabad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2503,
+    "difficulty": 2,
+    "title": "Which river flows through Hyderabad?",
+    "description": "Identify the river that passes through the city.",
+    "hint": "A historic bridge named Purana Pul crosses it.",
+    "summary": "The Musi River flows through Hyderabad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Musi River, Hyderabad, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2503,
+        "id": 9809,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2503,
+        "id": 9810,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2503,
+        "id": 9811,
+        "title": "Manjira",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2503,
+        "id": 9812,
+        "title": "Musi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2504,
+    "difficulty": 2,
+    "title": "Which is the largest river flowing through Telangana?",
+    "description": "Choose the major river that flows across northern Telangana.",
+    "hint": "It is also known as the Dakshin Ganga.",
+    "summary": "The Godavari is the largest river flowing through Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Godavari River, Rivers, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2504,
+        "id": 9813,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2504,
+        "id": 9814,
+        "title": "Pennar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2504,
+        "id": 9815,
+        "title": "Cauvery",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2504,
+        "id": 9816,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2505,
+    "difficulty": 2,
+    "title": "Which river is associated with the Nagarjuna Sagar Dam?",
+    "description": "Identify the river impounded by this major dam.",
+    "hint": "It flows eastward across the Deccan Plateau.",
+    "summary": "Nagarjuna Sagar Dam is built across the Krishna River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Krishna River, Dams, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2505,
+        "id": 9817,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2505,
+        "id": 9818,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2505,
+        "id": 9819,
+        "title": "Musi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2505,
+        "id": 9820,
+        "title": "Manjira",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2506,
+    "difficulty": 2,
+    "title": "Which city is famous for the Thousand Pillar Temple?",
+    "description": "Identify the historic city associated with this Kakatiya-era temple.",
+    "hint": "It is one of Telangana's major historic cities.",
+    "summary": "The Thousand Pillar Temple is located in Hanamkonda, in the Warangal urban area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Thousand Pillar Temple, Kakatiya, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2506,
+        "id": 9821,
+        "title": "Nalgonda",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2506,
+        "id": 9822,
+        "title": "Adilabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2506,
+        "id": 9823,
+        "title": "Hanamkonda",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2506,
+        "id": 9824,
+        "title": "Khammam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2507,
+    "difficulty": 2,
+    "title": "Which dynasty built the famous Ramappa Temple?",
+    "description": "Identify the medieval dynasty associated with this UNESCO World Heritage Site.",
+    "hint": "Its capital was Orugallu, present-day Warangal.",
+    "summary": "The Kakatiya dynasty built the Ramappa Temple in the 13th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Ramappa Temple, Kakatiya Dynasty, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2507,
+        "id": 9825,
+        "title": "Kakatiya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2507,
+        "id": 9826,
+        "title": "Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2507,
+        "id": 9827,
+        "title": "Pallava",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2507,
+        "id": 9828,
+        "title": "Gupta",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2508,
+    "difficulty": 2,
+    "title": "Which Telangana site was added to the UNESCO World Heritage List in 2021?",
+    "description": "Identify the historic temple celebrated for its Kakatiya architecture.",
+    "hint": "It is also called the Rudreshwara Temple.",
+    "summary": "Ramappa Temple was inscribed as a UNESCO World Heritage Site in 2021.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, UNESCO, Ramappa Temple, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2508,
+        "id": 9829,
+        "title": "Charminar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2508,
+        "id": 9830,
+        "title": "Golconda Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2508,
+        "id": 9831,
+        "title": "Bhongir Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2508,
+        "id": 9832,
+        "title": "Ramappa Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2509,
+    "difficulty": 2,
+    "title": "Which monument is a major landmark of Hyderabad?",
+    "description": "Identify the four-minaret monument built in the late 16th century.",
+    "hint": "Its name literally means 'four minarets'.",
+    "summary": "The Charminar is one of Hyderabad's best-known monuments.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Charminar, Hyderabad, Monuments",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2509,
+        "id": 9833,
+        "title": "Charminar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2509,
+        "id": 9834,
+        "title": "India Gate",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2509,
+        "id": 9835,
+        "title": "Gateway of India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2509,
+        "id": 9836,
+        "title": "Hawa Mahal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2510,
+    "difficulty": 2,
+    "title": "Who founded Hyderabad in 1591?",
+    "description": "Identify the ruler who established the city under the Qutb Shahi dynasty.",
+    "hint": "He was the fifth ruler of the Qutb Shahi dynasty.",
+    "summary": "Muhammad Quli Qutb Shah founded Hyderabad in 1591.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad, Qutb Shahi, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2510,
+        "id": 9837,
+        "title": "Ibrahim Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2510,
+        "id": 9838,
+        "title": "Muhammad Quli Qutb Shah",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2510,
+        "id": 9839,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2510,
+        "id": 9840,
+        "title": "Alauddin Khalji",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2511,
+    "difficulty": 2,
+    "title": "Which fort is closely associated with the Qutb Shahi dynasty?",
+    "description": "Identify the historic fort located in Hyderabad.",
+    "hint": "It is famous for its acoustics and diamond-trading history.",
+    "summary": "Golconda Fort is closely associated with the Qutb Shahi dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Golconda Fort, Qutb Shahi, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2511,
+        "id": 9841,
+        "title": "Warangal Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2511,
+        "id": 9842,
+        "title": "Bidar Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2511,
+        "id": 9843,
+        "title": "Golconda Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2511,
+        "id": 9844,
+        "title": "Gingee Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2512,
+    "difficulty": 2,
+    "title": "Which lake in Hyderabad is famous for the Buddha statue installed on an island?",
+    "description": "Identify the large artificial lake near Hussain Sagar promenade.",
+    "hint": "It lies between Hyderabad and Secunderabad.",
+    "summary": "The Buddha statue stands on an island in Hussain Sagar Lake.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hussain Sagar, Buddha Statue, Hyderabad",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2512,
+        "id": 9845,
+        "title": "Osman Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2512,
+        "id": 9846,
+        "title": "Himayat Sagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2512,
+        "id": 9847,
+        "title": "Pakhal Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2512,
+        "id": 9848,
+        "title": "Hussain Sagar",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2513,
+    "difficulty": 2,
+    "title": "Which city is popularly known as the textile town of Telangana?",
+    "description": "Identify a city with a long-standing textile and power-loom industry.",
+    "hint": "It is located in northern Telangana.",
+    "summary": "Sircilla is well known for its textile and power-loom industry.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Sircilla, Textiles, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2513,
+        "id": 9849,
+        "title": "Sircilla",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2513,
+        "id": 9850,
+        "title": "Bhadrachalam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2513,
+        "id": 9851,
+        "title": "Vikarabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2513,
+        "id": 9852,
+        "title": "Jangaon",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2514,
+    "difficulty": 2,
+    "title": "Which crop is particularly important to the agricultural economy of Telangana?",
+    "description": "Choose a major crop widely cultivated in the state's agricultural regions.",
+    "hint": "It is used to produce cooking oil and animal feed.",
+    "summary": "Cotton is an important commercial crop in Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Agriculture, Cotton, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2514,
+        "id": 9853,
+        "title": "Saffron",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2514,
+        "id": 9854,
+        "title": "Cotton",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2514,
+        "id": 9855,
+        "title": "Rubber",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2514,
+        "id": 9856,
+        "title": "Jute",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2515,
+    "difficulty": 2,
+    "title": "Which festival is celebrated with the worship of Goddess Gauri and is strongly associated with Telangana?",
+    "description": "Identify the floral festival celebrated by women across the state.",
+    "hint": "Women arrange seasonal flowers in tiered stacks.",
+    "summary": "Bathukamma is a major floral festival of Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Bathukamma, Festivals, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2515,
+        "id": 9857,
+        "title": "Bathukamma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2515,
+        "id": 9858,
+        "title": "Bihu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2515,
+        "id": 9859,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2515,
+        "id": 9860,
+        "title": "Lohri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2516,
+    "difficulty": 2,
+    "title": "Which festival marks the beginning of the Telugu New Year?",
+    "description": "Identify the festival observed on the first day of the Telugu lunar calendar.",
+    "hint": "Its name begins with 'Uga'.",
+    "summary": "Ugadi marks the Telugu New Year.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Ugadi, Festivals, Telugu Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2516,
+        "id": 9861,
+        "title": "Sankranti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2516,
+        "id": 9862,
+        "title": "Bonalu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2516,
+        "id": 9863,
+        "title": "Ugadi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2516,
+        "id": 9864,
+        "title": "Deepavali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2517,
+    "difficulty": 2,
+    "title": "Which festival is especially associated with the worship of Goddess Mahakali in Telangana?",
+    "description": "Identify the regional festival celebrated prominently in Hyderabad and Secunderabad.",
+    "hint": "It is celebrated with processions and offerings to the goddess.",
+    "summary": "Bonalu is a traditional Telangana festival dedicated to Goddess Mahakali.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Bonalu, Mahakali, Festivals",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2517,
+        "id": 9865,
+        "title": "Bonalu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2517,
+        "id": 9866,
+        "title": "Pongal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2517,
+        "id": 9867,
+        "title": "Hornbill Festival",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2517,
+        "id": 9868,
+        "title": "Baisakhi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2518,
+    "difficulty": 2,
+    "title": "Which language is the principal official language of Telangana?",
+    "description": "Identify the main official language of the state.",
+    "hint": "It is a Dravidian language written in its own script.",
+    "summary": "Telugu is the principal official language of Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Telugu, Languages, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2518,
+        "id": 9869,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2518,
+        "id": 9870,
+        "title": "Marathi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2518,
+        "id": 9871,
+        "title": "Odia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2518,
+        "id": 9872,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2519,
+    "difficulty": 2,
+    "title": "Which historic dynasty made Warangal its capital?",
+    "description": "Identify the dynasty that built important forts and temples in the region.",
+    "hint": "Rudrama Devi was one of its notable rulers.",
+    "summary": "The Kakatiya dynasty made Warangal a major capital.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Warangal, Kakatiya Dynasty, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2519,
+        "id": 9873,
+        "title": "Kakatiya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2519,
+        "id": 9874,
+        "title": "Maurya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2519,
+        "id": 9875,
+        "title": "Pala",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2519,
+        "id": 9876,
+        "title": "Chalukya of Badami",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2520,
+    "difficulty": 2,
+    "title": "Who was the famous woman ruler of the Kakatiya dynasty?",
+    "description": "Identify the queen who ruled the Kakatiya kingdom in the 13th century.",
+    "hint": "Her name is often written as Rudrama Devi.",
+    "summary": "Rudrama Devi was a prominent ruler of the Kakatiya dynasty.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Rudrama Devi, Kakatiya Dynasty, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2520,
+        "id": 9877,
+        "title": "Ahilyabai Holkar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2520,
+        "id": 9878,
+        "title": "Rani Durgavati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2520,
+        "id": 9879,
+        "title": "Rudrama Devi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2520,
+        "id": 9880,
+        "title": "Raziyya Sultan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2521,
+    "difficulty": 2,
+    "title": "Which famous poet and scholar is associated with the Telugu work Dasarathi Satakam?",
+    "description": "Identify the poet who composed devotional poetry in Telugu.",
+    "hint": "He is known by the pen name Kancherla Gopanna.",
+    "summary": "Kancherla Gopanna, popularly known as Bhakta Ramadasu, is associated with devotional Telugu literature.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Bhakta Ramadasu, Telugu Literature, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2521,
+        "id": 9881,
+        "title": "Tikkana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2521,
+        "id": 9882,
+        "title": "Nannaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2521,
+        "id": 9883,
+        "title": "Sri Sri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2521,
+        "id": 9884,
+        "title": "Kancherla Gopanna",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2522,
+    "difficulty": 2,
+    "title": "Which temple town in Telangana is famous for the Sri Sita Ramachandra Swamy Temple?",
+    "description": "Identify the pilgrimage centre on the banks of the Godavari.",
+    "hint": "It is associated with the story of Lord Rama's exile.",
+    "summary": "Bhadrachalam is famous for the Sri Sita Ramachandra Swamy Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Bhadrachalam, Temples, Pilgrimage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2522,
+        "id": 9885,
+        "title": "Bhadrachalam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2522,
+        "id": 9886,
+        "title": "Basar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2522,
+        "id": 9887,
+        "title": "Yadagirigutta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2522,
+        "id": 9888,
+        "title": "Vemulawada",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2523,
+    "difficulty": 2,
+    "title": "Which Telangana temple is dedicated to Lord Lakshmi Narasimha?",
+    "description": "Identify the famous temple situated on a hill near Hyderabad.",
+    "hint": "Its town was renamed Yadadri.",
+    "summary": "Yadagirigutta, also known as Yadadri, is famous for the Lakshmi Narasimha Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Yadadri, Narasimha Temple, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2523,
+        "id": 9889,
+        "title": "Keesaragutta Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2523,
+        "id": 9890,
+        "title": "Yadagirigutta Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2523,
+        "id": 9891,
+        "title": "Ramappa Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2523,
+        "id": 9892,
+        "title": "Basar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2524,
+    "difficulty": 2,
+    "title": "Which place in Telangana is known for the Gnana Saraswati Temple?",
+    "description": "Identify the pilgrimage site on the banks of the Godavari.",
+    "hint": "It is a popular centre for the Aksharabhyasam ceremony.",
+    "summary": "Basar is known for the Gnana Saraswati Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Basar, Saraswati Temple, Pilgrimage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2524,
+        "id": 9893,
+        "title": "Alampur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2524,
+        "id": 9894,
+        "title": "Vemulawada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2524,
+        "id": 9895,
+        "title": "Basar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2524,
+        "id": 9896,
+        "title": "Kaleshwaram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2525,
+    "difficulty": 2,
+    "title": "Which district is associated with the Kaleshwaram Lift Irrigation Project?",
+    "description": "Identify the region near the confluence of the Godavari and Pranahita rivers.",
+    "hint": "The project takes its name from a village in the Jayashankar Bhupalpally area.",
+    "summary": "The Kaleshwaram Lift Irrigation Project is associated with the Jayashankar Bhupalpally region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Kaleshwaram Project, Irrigation, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2525,
+        "id": 9897,
+        "title": "Jayashankar Bhupalpally",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2525,
+        "id": 9898,
+        "title": "Vikarabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2525,
+        "id": 9899,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2525,
+        "id": 9900,
+        "title": "Mahabubnagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2526,
+    "difficulty": 2,
+    "title": "Which national park is located near Hyderabad and protects dry deciduous forest?",
+    "description": "Identify the national park on the outskirts of the city.",
+    "hint": "It shares its name with a historic fort.",
+    "summary": "Kasu Brahmananda Reddy National Park is located in Hyderabad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, National Parks, Hyderabad, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2526,
+        "id": 9901,
+        "title": "Bandipur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2526,
+        "id": 9902,
+        "title": "Kasu Brahmananda Reddy National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2526,
+        "id": 9903,
+        "title": "Gir National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2526,
+        "id": 9904,
+        "title": "Periyar National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2527,
+    "difficulty": 2,
+    "title": "Which wildlife sanctuary in Telangana is associated with the Kawal Tiger Reserve?",
+    "description": "Identify the protected forest landscape in northern Telangana.",
+    "hint": "It lies in the former Adilabad region.",
+    "summary": "Kawal Tiger Reserve is located in northern Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Kawal Tiger Reserve, Wildlife, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2527,
+        "id": 9905,
+        "title": "Kawal Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2527,
+        "id": 9906,
+        "title": "Periyar Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2527,
+        "id": 9907,
+        "title": "Pench Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2527,
+        "id": 9908,
+        "title": "Sariska Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2528,
+    "difficulty": 2,
+    "title": "Which lake is one of the important reservoirs near Hyderabad?",
+    "description": "Identify the reservoir built across the Musi River's catchment area.",
+    "hint": "It is also known as Gandipet Lake.",
+    "summary": "Osman Sagar is an important reservoir near Hyderabad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Osman Sagar, Lakes, Water Resources",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2528,
+        "id": 9909,
+        "title": "Pulicat Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2528,
+        "id": 9910,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2528,
+        "id": 9911,
+        "title": "Osman Sagar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2528,
+        "id": 9912,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2529,
+    "difficulty": 2,
+    "title": "Which historic site in Telangana is famous for prehistoric rock paintings?",
+    "description": "Identify the protected landscape known for ancient rock art.",
+    "hint": "It is a hill area near the Hyderabad region.",
+    "summary": "Pandavula Gutta is known for prehistoric rock paintings in Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Pandavula Gutta, Rock Art, Archaeology",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2529,
+        "id": 9913,
+        "title": "Pandavula Gutta",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2529,
+        "id": 9914,
+        "title": "Ajanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2529,
+        "id": 9915,
+        "title": "Elephanta Caves",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2529,
+        "id": 9916,
+        "title": "Bhimbetka",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2530,
+    "difficulty": 2,
+    "title": "Which city is an important centre for the pharmaceutical industry in Telangana?",
+    "description": "Identify the city that hosts major pharmaceutical and biotechnology companies.",
+    "hint": "It is also India's major IT hub in the state.",
+    "summary": "Hyderabad is a major pharmaceutical and biotechnology centre.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad, Pharmaceuticals, Industry",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2530,
+        "id": 9917,
+        "title": "Nirmal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2530,
+        "id": 9918,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2530,
+        "id": 9919,
+        "title": "Jagtial",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2530,
+        "id": 9920,
+        "title": "Siddipet",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2531,
+    "difficulty": 2,
+    "title": "Which Telangana city is known for its Nizam-era heritage and the Salar Jung Museum?",
+    "description": "Identify the city containing this major museum of art and antiquities.",
+    "hint": "It was historically ruled by the Nizams of Hyderabad.",
+    "summary": "Hyderabad is home to the Salar Jung Museum.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Salar Jung Museum, Hyderabad, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2531,
+        "id": 9921,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2531,
+        "id": 9922,
+        "title": "Warangal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2531,
+        "id": 9923,
+        "title": "Nizamabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2531,
+        "id": 9924,
+        "title": "Mahabubnagar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2532,
+    "difficulty": 2,
+    "title": "Which palace in Hyderabad served as a residence of the Nizams?",
+    "description": "Identify the famous palace now used for ceremonial and heritage purposes.",
+    "hint": "Its name means 'Heavenly Abode'.",
+    "summary": "Chowmahalla Palace was a principal residence of the Nizams of Hyderabad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Chowmahalla Palace, Nizams, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2532,
+        "id": 9925,
+        "title": "Mysore Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2532,
+        "id": 9926,
+        "title": "Falaknuma Palace",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2532,
+        "id": 9927,
+        "title": "Chowmahalla Palace",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2532,
+        "id": 9928,
+        "title": "City Palace, Jaipur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2533,
+    "difficulty": 2,
+    "title": "Which language was widely used in the administration of the Hyderabad State under the Nizams before the integration period?",
+    "description": "Identify the language that held official status during much of the later Nizam rule.",
+    "hint": "It is written from right to left and is widely spoken in parts of northern India.",
+    "summary": "Urdu was an important official and administrative language of Hyderabad State under the Nizams.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad State, Nizams, Languages",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2533,
+        "id": 9929,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2533,
+        "id": 9930,
+        "title": "Urdu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2533,
+        "id": 9931,
+        "title": "Odia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2533,
+        "id": 9932,
+        "title": "Malayalam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2534,
+    "difficulty": 2,
+    "title": "Which freedom movement is associated with the Telangana armed struggle against the Nizam's rule?",
+    "description": "Identify the movement led by peasants and communist organisers in the former Hyderabad State.",
+    "hint": "It began in the late 1940s and involved agrarian demands.",
+    "summary": "The Telangana Rebellion was an armed peasant struggle against feudal oppression and the Nizam's rule.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Telangana Rebellion, Freedom Movement, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2534,
+        "id": 9933,
+        "title": "Telangana Rebellion",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2534,
+        "id": 9934,
+        "title": "Khilafat Movement",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2534,
+        "id": 9935,
+        "title": "Bardoli Satyagraha",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2534,
+        "id": 9936,
+        "title": "Champaran Satyagraha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2535,
+    "difficulty": 2,
+    "title": "In which year did Hyderabad State integrate into the Indian Union?",
+    "description": "Recall the year of the military operation that led to the integration of Hyderabad State.",
+    "hint": "The operation is known as Operation Polo.",
+    "summary": "Hyderabad State integrated into the Indian Union in 1948.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad State, Operation Polo, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2535,
+        "id": 9937,
+        "title": "1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2535,
+        "id": 9938,
+        "title": "1947",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2535,
+        "id": 9939,
+        "title": "1948",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2535,
+        "id": 9940,
+        "title": "1962",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2536,
+    "difficulty": 2,
+    "title": "Which famous leader is associated with the slogan 'Jai Telangana' during the statehood movement?",
+    "description": "Identify a prominent political leader of the modern Telangana movement.",
+    "hint": "He founded the Telangana Rashtra Samithi, now known as Bharat Rashtra Samithi.",
+    "summary": "K. Chandrashekar Rao was a leading figure in the modern Telangana statehood movement.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, K Chandrashekar Rao, Statehood Movement, Politics",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2536,
+        "id": 9941,
+        "title": "P. V. Narasimha Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2536,
+        "id": 9942,
+        "title": "K. Chandrashekar Rao",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2536,
+        "id": 9943,
+        "title": "N. T. Rama Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2536,
+        "id": 9944,
+        "title": "Tanguturi Prakasam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2537,
+    "difficulty": 2,
+    "title": "Who was the first Chief Minister of Telangana?",
+    "description": "Identify the leader who took office when the state was formed in 2014.",
+    "hint": "He led the Telangana Rashtra Samithi at the time.",
+    "summary": "K. Chandrashekar Rao became Telangana's first Chief Minister in 2014.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Chief Minister, State Formation, Politics",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2537,
+        "id": 9945,
+        "title": "K. Chandrashekar Rao",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2537,
+        "id": 9946,
+        "title": "A. Revanth Reddy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2537,
+        "id": 9947,
+        "title": "N. Chandrababu Naidu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2537,
+        "id": 9948,
+        "title": "Y. S. Rajasekhara Reddy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2538,
+    "difficulty": 2,
+    "title": "Which parliamentary act provided for the formation of Telangana in 2014?",
+    "description": "Identify the legislation that reorganised Andhra Pradesh.",
+    "hint": "It was passed by Parliament in February 2014.",
+    "summary": "The Andhra Pradesh Reorganisation Act, 2014 provided for the formation of Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Andhra Pradesh Reorganisation Act, Polity, State Formation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2538,
+        "id": 9949,
+        "title": "States Reorganisation Act, 1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2538,
+        "id": 9950,
+        "title": "Government of India Act, 1935",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2538,
+        "id": 9951,
+        "title": "Andhra Pradesh Reorganisation Act, 2014",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2538,
+        "id": 9952,
+        "title": "Indian Independence Act, 1947",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2539,
+    "difficulty": 2,
+    "title": "Which major public-sector company has a large coal-mining presence in Telangana?",
+    "description": "Identify the coal-mining company operating in the Singareni coalfields.",
+    "hint": "Its full name includes 'Collieries Company'.",
+    "summary": "Singareni Collieries Company Limited is a major coal producer in Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Singareni, Coal Mining, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2539,
+        "id": 9953,
+        "title": "Coal India Shipping Limited",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2539,
+        "id": 9954,
+        "title": "Singareni Collieries Company Limited",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2539,
+        "id": 9955,
+        "title": "Hindustan Aeronautics Limited",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2539,
+        "id": 9956,
+        "title": "National Mineral Development Corporation only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2540,
+    "difficulty": 2,
+    "title": "Which town in Telangana is known for its paper industry and the Sirpur paper mill?",
+    "description": "Identify the town in the northern part of the state.",
+    "hint": "It is located in the Komaram Bheem Asifabad region.",
+    "summary": "Sirpur Kagaznagar is associated with the Sirpur paper mill.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Sirpur Kagaznagar, Paper Industry, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2540,
+        "id": 9957,
+        "title": "Sirpur Kagaznagar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2540,
+        "id": 9958,
+        "title": "Jadcherla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2540,
+        "id": 9959,
+        "title": "Bhongir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2540,
+        "id": 9960,
+        "title": "Sangareddy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2541,
+    "difficulty": 2,
+    "title": "Which Telangana town is famous for its traditional Nirmal paintings and toys?",
+    "description": "Identify the town known for decorative art and painted wooden products.",
+    "hint": "Its name is also used for a district in northern Telangana.",
+    "summary": "Nirmal is famous for its paintings and traditional toys.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Nirmal Art, Handicrafts, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2541,
+        "id": 9961,
+        "title": "Nirmal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2541,
+        "id": 9962,
+        "title": "Sircilla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2541,
+        "id": 9963,
+        "title": "Bhadrachalam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2541,
+        "id": 9964,
+        "title": "Jangaon",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2542,
+    "difficulty": 2,
+    "title": "Which traditional Telangana craft is associated with silver filigree work?",
+    "description": "Identify the craft practiced in Karimnagar.",
+    "hint": "It involves creating delicate designs from thin silver wires.",
+    "summary": "Karimnagar is known for its silver filigree craft.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Karimnagar, Silver Filigree, Handicrafts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2542,
+        "id": 9965,
+        "title": "Blue pottery",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2542,
+        "id": 9966,
+        "title": "Bidriware",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2542,
+        "id": 9967,
+        "title": "Silver filigree",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2542,
+        "id": 9968,
+        "title": "Pattachitra",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2543,
+    "difficulty": 2,
+    "title": "Which Telangana town is associated with the famous Sammakka-Saralamma Jatara?",
+    "description": "Identify the forested region that hosts this large tribal festival.",
+    "hint": "The festival is held in Medaram.",
+    "summary": "Medaram in Mulugu district hosts the Sammakka-Saralamma Jatara.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Medaram Jatara, Tribal Festival, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2543,
+        "id": 9969,
+        "title": "Medaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2543,
+        "id": 9970,
+        "title": "Basar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2543,
+        "id": 9971,
+        "title": "Yadagirigutta",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2543,
+        "id": 9972,
+        "title": "Alampur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2544,
+    "difficulty": 2,
+    "title": "Which Telangana festival is often described as one of the world's largest tribal gatherings?",
+    "description": "Identify the biennial gathering dedicated to Sammakka and Saralamma.",
+    "hint": "It is held at Medaram.",
+    "summary": "The Sammakka-Saralamma Jatara is a major biennial tribal festival in Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Sammakka Saralamma Jatara, Tribal Culture, Festivals",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2544,
+        "id": 9973,
+        "title": "Pushkar Fair",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2544,
+        "id": 9974,
+        "title": "Kumbh Mela",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2544,
+        "id": 9975,
+        "title": "Sammakka-Saralamma Jatara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2544,
+        "id": 9976,
+        "title": "Surajkund Mela",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2545,
+    "difficulty": 2,
+    "title": "Which city in Telangana is a major centre for information technology?",
+    "description": "Identify the city containing HITEC City and many technology campuses.",
+    "hint": "It is the state capital.",
+    "summary": "Hyderabad is a major information technology centre in India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad, IT Industry, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2545,
+        "id": 9977,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2545,
+        "id": 9978,
+        "title": "Nirmal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2545,
+        "id": 9979,
+        "title": "Mahabubabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2545,
+        "id": 9980,
+        "title": "Jagtial",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2546,
+    "difficulty": 2,
+    "title": "Which airport serves Hyderabad?",
+    "description": "Identify the international airport located at Shamshabad.",
+    "hint": "It is named after a former Prime Minister of India.",
+    "summary": "Rajiv Gandhi International Airport serves Hyderabad.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Hyderabad Airport, Transport, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2546,
+        "id": 9981,
+        "title": "Begumpet International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2546,
+        "id": 9982,
+        "title": "Rajiv Gandhi International Airport",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2546,
+        "id": 9983,
+        "title": "Kempegowda International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2546,
+        "id": 9984,
+        "title": "Chhatrapati Shivaji Maharaj International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2547,
+    "difficulty": 2,
+    "title": "Which city in Telangana is associated with the historic Bhongir Fort?",
+    "description": "Identify the town near the distinctive monolithic hill fort.",
+    "hint": "The town is also known as Bhuvanagiri.",
+    "summary": "Bhongir is known for its hilltop fort.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Bhongir Fort, Heritage, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2547,
+        "id": 9985,
+        "title": "Bhongir",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2547,
+        "id": 9986,
+        "title": "Khammam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2547,
+        "id": 9987,
+        "title": "Nizamabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2547,
+        "id": 9988,
+        "title": "Mancherial",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2548,
+    "difficulty": 2,
+    "title": "Which famous poet from Telangana is known for the Telugu epic Palnati Veera Charitra?",
+    "description": "Identify the medieval Telugu poet associated with this historical narrative.",
+    "hint": "He was a major poet in the Telugu literary tradition.",
+    "summary": "Palnati Veera Charitra is associated with the Telugu poet Srinatha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Telugu Literature, Srinatha, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2548,
+        "id": 9989,
+        "title": "Pothana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2548,
+        "id": 9990,
+        "title": "Vemana",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2548,
+        "id": 9991,
+        "title": "Srinatha",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2548,
+        "id": 9992,
+        "title": "Gurajada Apparao",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2549,
+    "difficulty": 2,
+    "title": "Which Telangana town is associated with the famous poet Pothana?",
+    "description": "Identify the place traditionally associated with the poet who composed Andhra Maha Bhagavatamu.",
+    "hint": "He is linked with Bammera village.",
+    "summary": "Pothana is traditionally associated with Bammera village in present-day Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Pothana, Telugu Literature, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2549,
+        "id": 9993,
+        "title": "Bammera",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2549,
+        "id": 9994,
+        "title": "Mangalagiri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2549,
+        "id": 9995,
+        "title": "Kondapalli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2549,
+        "id": 9996,
+        "title": "Dharmavaram",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2550,
+    "difficulty": 2,
+    "title": "Which major irrigation project on the Godavari is located near Ramagundam?",
+    "description": "Identify the project that supplies water for irrigation and other uses in Telangana.",
+    "hint": "It is named after a town in Peddapalli district.",
+    "summary": "The Sripada Yellampalli project is a major irrigation project on the Godavari in Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Telangana, Yellampalli Project, Godavari River, Irrigation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2550,
+        "id": 9997,
+        "title": "Polavaram Project",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2550,
+        "id": 9998,
+        "title": "Sardar Sarovar Project",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2550,
+        "id": 9999,
+        "title": "Sripada Yellampalli Project",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2550,
+        "id": 10000,
+        "title": "Tehri Project",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
