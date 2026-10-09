@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2451,
+    "difficulty": 2,
+    "title": "What is the capital of Andhra Pradesh as designated in the state's administrative setup?",
+    "description": "Identify the city associated with Andhra Pradesh's capital development.",
+    "hint": "It is located on the banks of the Krishna River.",
+    "summary": "Amaravati is the planned capital city of Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Geography, Capital, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2451,
+        "id": 9601,
+        "title": "Visakhapatnam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2451,
+        "id": 9602,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2451,
+        "id": 9603,
+        "title": "Tirupati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2451,
+        "id": 9604,
+        "title": "Kurnool",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2452,
+    "difficulty": 2,
+    "title": "Which is the largest city in Andhra Pradesh by population?",
+    "description": "Identify the state's major coastal urban centre.",
+    "hint": "It is an important port city on the Bay of Bengal.",
+    "summary": "Visakhapatnam is Andhra Pradesh's largest city by population.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Cities, Population, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2452,
+        "id": 9605,
+        "title": "Guntur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2452,
+        "id": 9606,
+        "title": "Rajahmundry",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2452,
+        "id": 9607,
+        "title": "Visakhapatnam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2452,
+        "id": 9608,
+        "title": "Anantapur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2453,
+    "difficulty": 2,
+    "title": "Which river forms a major delta in coastal Andhra Pradesh?",
+    "description": "Choose the river known for its extensive delta in the state.",
+    "hint": "It flows through the region around Rajahmundry.",
+    "summary": "The Godavari forms a major delta in coastal Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Rivers, Godavari, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2453,
+        "id": 9609,
+        "title": "Pennar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2453,
+        "id": 9610,
+        "title": "Tungabhadra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2453,
+        "id": 9611,
+        "title": "Musi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2453,
+        "id": 9612,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2454,
+    "difficulty": 2,
+    "title": "Which river is associated with the Prakasam Barrage at Vijayawada?",
+    "description": "Identify the river crossed by this major barrage.",
+    "hint": "It flows through Vijayawada before reaching the Bay of Bengal.",
+    "summary": "The Prakasam Barrage is built across the Krishna River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Krishna River, Dams, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2454,
+        "id": 9613,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2454,
+        "id": 9614,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2454,
+        "id": 9615,
+        "title": "Vamsadhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2454,
+        "id": 9616,
+        "title": "Nagavali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2455,
+    "difficulty": 2,
+    "title": "Which district is famous for the Araku Valley?",
+    "description": "Identify the district associated with this hill destination.",
+    "hint": "The valley lies in the Eastern Ghats near Visakhapatnam.",
+    "summary": "Araku Valley is located in the Alluri Sitharama Raju district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Araku Valley, Districts, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2455,
+        "id": 9617,
+        "title": "NTR",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2455,
+        "id": 9618,
+        "title": "Prakasam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2455,
+        "id": 9619,
+        "title": "Alluri Sitharama Raju",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2455,
+        "id": 9620,
+        "title": "Sri Potti Sriramulu Nellore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2456,
+    "difficulty": 2,
+    "title": "Which famous temple town in Andhra Pradesh is associated with Lord Venkateswara?",
+    "description": "Identify the major pilgrimage destination in the Tirumala hills.",
+    "hint": "Millions of pilgrims visit its hill shrine each year.",
+    "summary": "Tirupati is the principal town associated with the Tirumala Venkateswara Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Tirupati, Temples, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2456,
+        "id": 9621,
+        "title": "Srikalahasti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2456,
+        "id": 9622,
+        "title": "Tirupati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2456,
+        "id": 9623,
+        "title": "Lepakshi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2456,
+        "id": 9624,
+        "title": "Ahobilam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2457,
+    "difficulty": 2,
+    "title": "Which classical dance form originated in Andhra Pradesh?",
+    "description": "Select the classical dance known for expressive storytelling and rhythmic footwork.",
+    "hint": "Its name comes from a village in Krishna district.",
+    "summary": "Kuchipudi originated in Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kuchipudi, Classical Dance, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2457,
+        "id": 9625,
+        "title": "Kathak",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2457,
+        "id": 9626,
+        "title": "Odissi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2457,
+        "id": 9627,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2457,
+        "id": 9628,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2458,
+    "difficulty": 2,
+    "title": "Which port is a major maritime gateway in Andhra Pradesh?",
+    "description": "Identify the state's prominent natural harbour.",
+    "hint": "It is located on the Bay of Bengal.",
+    "summary": "Visakhapatnam Port is a major port on India's eastern coast.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Ports, Visakhapatnam, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2458,
+        "id": 9629,
+        "title": "Kandla Port",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2458,
+        "id": 9630,
+        "title": "Mormugao Port",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2458,
+        "id": 9631,
+        "title": "Visakhapatnam Port",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2458,
+        "id": 9632,
+        "title": "Cochin Port",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2459,
+    "difficulty": 2,
+    "title": "Which lake in Andhra Pradesh is a well-known bird sanctuary?",
+    "description": "Identify the brackish-water lagoon famous for migratory birds.",
+    "hint": "It lies near the border of Andhra Pradesh and Tamil Nadu.",
+    "summary": "Pulicat Lake supports an important bird sanctuary.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Pulicat Lake, Birds, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2459,
+        "id": 9633,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2459,
+        "id": 9634,
+        "title": "Pulicat Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2459,
+        "id": 9635,
+        "title": "Sambhar Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2459,
+        "id": 9636,
+        "title": "Loktak Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2460,
+    "difficulty": 2,
+    "title": "Which lake is a Ramsar Site located in Andhra Pradesh?",
+    "description": "Choose the freshwater lake noted for its wetland ecosystem.",
+    "hint": "It is located between the Krishna and Godavari deltas.",
+    "summary": "Kolleru Lake is a Ramsar Site in Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kolleru Lake, Ramsar Sites, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2460,
+        "id": 9637,
+        "title": "Dal Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2460,
+        "id": 9638,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2460,
+        "id": 9639,
+        "title": "Wular Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2460,
+        "id": 9640,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2461,
+    "difficulty": 2,
+    "title": "Which mountain range runs along much of Andhra Pradesh's western side?",
+    "description": "Identify the major hill system covering parts of the state's interior.",
+    "hint": "It is one of India's ancient mountain systems.",
+    "summary": "The Eastern Ghats extend through parts of Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Eastern Ghats, Mountains, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2461,
+        "id": 9641,
+        "title": "Aravalli Range",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2461,
+        "id": 9642,
+        "title": "Western Ghats",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2461,
+        "id": 9643,
+        "title": "Eastern Ghats",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2461,
+        "id": 9644,
+        "title": "Satpura Range",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2462,
+    "difficulty": 2,
+    "title": "Which district is associated with the ancient Buddhist site of Amaravati?",
+    "description": "Identify the district in which the historic Amaravati site is located.",
+    "hint": "The district is named after a major river and has Guntur as its headquarters.",
+    "summary": "The ancient Amaravati site is in Guntur district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Amaravati, Buddhism, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2462,
+        "id": 9645,
+        "title": "Guntur",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2462,
+        "id": 9646,
+        "title": "Kurnool",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2462,
+        "id": 9647,
+        "title": "Chittoor",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2462,
+        "id": 9648,
+        "title": "Srikakulam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2463,
+    "difficulty": 2,
+    "title": "Which dynasty ruled from the Andhra region and issued many early Indian inscriptions?",
+    "description": "Identify the ancient dynasty associated with sites such as Amaravati and Nagarjunakonda.",
+    "hint": "Its rulers included Gautamiputra Satakarni.",
+    "summary": "The Satavahana dynasty ruled large parts of the Deccan, including the Andhra region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Satavahana Dynasty, Ancient History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2463,
+        "id": 9649,
+        "title": "Pallava",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2463,
+        "id": 9650,
+        "title": "Chola",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2463,
+        "id": 9651,
+        "title": "Satavahana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2463,
+        "id": 9652,
+        "title": "Pala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2464,
+    "difficulty": 2,
+    "title": "Who was the first Chief Minister of Andhra State formed in 1953?",
+    "description": "Identify the leader who became the first head of government of Andhra State.",
+    "hint": "He was a prominent freedom fighter known as Andhra Kesari.",
+    "summary": "Tanguturi Prakasam Pantulu was the first Chief Minister of Andhra State.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Andhra State, Chief Ministers, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2464,
+        "id": 9653,
+        "title": "Neelam Sanjiva Reddy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2464,
+        "id": 9654,
+        "title": "Tanguturi Prakasam Pantulu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2464,
+        "id": 9655,
+        "title": "Damodaram Sanjivayya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2464,
+        "id": 9656,
+        "title": "Kasu Brahmananda Reddy",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2465,
+    "difficulty": 2,
+    "title": "On which date was Andhra State formed?",
+    "description": "Recall the date when the first state formed on a linguistic basis in independent India came into existence.",
+    "hint": "It was formed in October 1953.",
+    "summary": "Andhra State was formed on 1 October 1953.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Andhra State, State Formation, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2465,
+        "id": 9657,
+        "title": "1 November 1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2465,
+        "id": 9658,
+        "title": "15 August 1947",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2465,
+        "id": 9659,
+        "title": "1 October 1953",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2465,
+        "id": 9660,
+        "title": "26 January 1950",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2466,
+    "difficulty": 2,
+    "title": "Which leader's fast unto death led to the creation of Andhra State in 1953?",
+    "description": "Identify the Telugu-speaking activist whose death intensified the demand for a separate state.",
+    "hint": "His name is often written with the honorific 'Amarajeevi'.",
+    "summary": "Potti Sriramulu's fast and death were pivotal in the formation of Andhra State.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Potti Sriramulu, State Formation, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2466,
+        "id": 9661,
+        "title": "Potti Sriramulu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2466,
+        "id": 9662,
+        "title": "Alluri Sitarama Raju",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2466,
+        "id": 9663,
+        "title": "Pingali Venkayya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2466,
+        "id": 9664,
+        "title": "Kandukuri Veeresalingam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2467,
+    "difficulty": 2,
+    "title": "Which freedom fighter led the Rampa Rebellion of 1922–1924?",
+    "description": "Identify the revolutionary associated with tribal resistance in the Eastern Ghats.",
+    "hint": "He is remembered as Manyam Veerudu.",
+    "summary": "Alluri Sitarama Raju led the Rampa Rebellion.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Alluri Sitarama Raju, Freedom Movement, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2467,
+        "id": 9665,
+        "title": "T. Prakasam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2467,
+        "id": 9666,
+        "title": "Pingali Venkayya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2467,
+        "id": 9667,
+        "title": "Alluri Sitarama Raju",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2467,
+        "id": 9668,
+        "title": "Kandukuri Veeresalingam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2468,
+    "difficulty": 2,
+    "title": "Who designed the Indian national flag in its widely recognized early form?",
+    "description": "Identify the freedom fighter and flag designer associated with Andhra Pradesh.",
+    "hint": "He was born in Bhatlapenumarru.",
+    "summary": "Pingali Venkayya is credited with designing the flag that influenced India's national flag.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Pingali Venkayya, National Flag, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2468,
+        "id": 9669,
+        "title": "Pingali Venkayya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2468,
+        "id": 9670,
+        "title": "Alluri Sitarama Raju",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2468,
+        "id": 9671,
+        "title": "Potti Sriramulu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2468,
+        "id": 9672,
+        "title": "Tanguturi Prakasam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2469,
+    "difficulty": 2,
+    "title": "Which city is associated with the famous Kondapalli toy-making tradition?",
+    "description": "Identify the Andhra Pradesh town known for its lightweight wooden toys.",
+    "hint": "The town lies near Vijayawada.",
+    "summary": "Kondapalli near Vijayawada is famous for traditional wooden toys.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kondapalli Toys, Handicrafts, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2469,
+        "id": 9673,
+        "title": "Machilipatnam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2469,
+        "id": 9674,
+        "title": "Kondapalli",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2469,
+        "id": 9675,
+        "title": "Nellore",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2469,
+        "id": 9676,
+        "title": "Kadapa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2470,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh town is renowned for Kalamkari textile art?",
+    "description": "Choose the town associated with a major tradition of hand-painted and block-printed cotton textiles.",
+    "hint": "It is a historic port town in Krishna district.",
+    "summary": "Machilipatnam is well known for its Kalamkari tradition.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kalamkari, Handicrafts, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2470,
+        "id": 9677,
+        "title": "Eluru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2470,
+        "id": 9678,
+        "title": "Kakinada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2470,
+        "id": 9679,
+        "title": "Machilipatnam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2470,
+        "id": 9680,
+        "title": "Hindupur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2471,
+    "difficulty": 2,
+    "title": "Which district is especially associated with the production of Banganapalle mangoes?",
+    "description": "Identify the district associated with the famous mango variety and town of Banganapalle.",
+    "hint": "The district was formerly known as Kurnool district's neighbouring region and includes Nandyal.",
+    "summary": "Banganapalle is in present-day Nandyal district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Banganapalle Mango, Agriculture, Districts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2471,
+        "id": 9681,
+        "title": "Nandyal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2471,
+        "id": 9682,
+        "title": "Srikakulam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2471,
+        "id": 9683,
+        "title": "Anakapalli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2471,
+        "id": 9684,
+        "title": "Bapatla",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2472,
+    "difficulty": 2,
+    "title": "Which agricultural product is the Guntur region particularly famous for?",
+    "description": "Identify the crop that makes the region an important centre of trade.",
+    "hint": "It is used to add heat and colour to food.",
+    "summary": "The Guntur region is famous for chilli cultivation and trade.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Guntur, Chilli, Agriculture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2472,
+        "id": 9685,
+        "title": "Tea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2472,
+        "id": 9686,
+        "title": "Coffee",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2472,
+        "id": 9687,
+        "title": "Rubber",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2472,
+        "id": 9688,
+        "title": "Chilli",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2473,
+    "difficulty": 2,
+    "title": "Which mineral resource is mined extensively in the YSR Kadapa region?",
+    "description": "Identify the mineral associated with the Mangampeta deposits.",
+    "hint": "It is used in glass, ceramics and certain industrial products.",
+    "summary": "Barytes is an important mineral mined near Mangampeta in YSR Kadapa district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kadapa, Minerals, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2473,
+        "id": 9689,
+        "title": "Barytes",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2473,
+        "id": 9690,
+        "title": "Gold",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2473,
+        "id": 9691,
+        "title": "Uranium only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2473,
+        "id": 9692,
+        "title": "Mica only",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2474,
+    "difficulty": 2,
+    "title": "Which district is home to the Lepakshi temple complex?",
+    "description": "Identify the district associated with the Vijayanagara-era temple and its mural art.",
+    "hint": "It lies in the southwestern part of Andhra Pradesh.",
+    "summary": "Lepakshi is located in Sri Sathya Sai district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Lepakshi, Temples, Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2474,
+        "id": 9693,
+        "title": "Annamayya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2474,
+        "id": 9694,
+        "title": "Sri Sathya Sai",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2474,
+        "id": 9695,
+        "title": "Bapatla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2474,
+        "id": 9696,
+        "title": "Parvathipuram Manyam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2475,
+    "difficulty": 2,
+    "title": "Which temple in Andhra Pradesh is famous for its association with the Pancharama Kshetras?",
+    "description": "Choose one of the five important Shiva temples known as the Pancharama Kshetras.",
+    "hint": "It is located in Palakollu.",
+    "summary": "Ksheerarama at Palakollu is one of the Pancharama Kshetras.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Pancharama Kshetras, Temples, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2475,
+        "id": 9697,
+        "title": "Srisailam Mallikarjuna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2475,
+        "id": 9698,
+        "title": "Kanaka Durga Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2475,
+        "id": 9699,
+        "title": "Ksheerarama Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2475,
+        "id": 9700,
+        "title": "Simhachalam Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2476,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh temple is dedicated to Lord Narasimha and stands on Simhachalam hill?",
+    "description": "Identify the well-known Vaishnavite shrine near Visakhapatnam.",
+    "hint": "The deity is worshipped in a distinctive sandalwood covering for much of the year.",
+    "summary": "Simhachalam Temple is dedicated to Varaha Lakshmi Narasimha.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Simhachalam, Narasimha, Temples",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2476,
+        "id": 9701,
+        "title": "Simhachalam Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2476,
+        "id": 9702,
+        "title": "Kanipakam Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2476,
+        "id": 9703,
+        "title": "Mahanandi Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2476,
+        "id": 9704,
+        "title": "Draksharamam Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2477,
+    "difficulty": 2,
+    "title": "Which city is associated with the Kanaka Durga Temple?",
+    "description": "Identify the city where this prominent temple stands on Indrakeeladri hill.",
+    "hint": "The city is situated on the Krishna River.",
+    "summary": "The Kanaka Durga Temple is in Vijayawada.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Vijayawada, Kanaka Durga Temple, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2477,
+        "id": 9705,
+        "title": "Kakinada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2477,
+        "id": 9706,
+        "title": "Tirupati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2477,
+        "id": 9707,
+        "title": "Vijayawada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2477,
+        "id": 9708,
+        "title": "Srikakulam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2478,
+    "difficulty": 2,
+    "title": "Which Buddhist site in Andhra Pradesh is associated with Acharya Nagarjuna?",
+    "description": "Identify the archaeological site linked with an important centre of Buddhist learning.",
+    "hint": "It is located on an island in the Nagarjuna Sagar reservoir area.",
+    "summary": "Nagarjunakonda is a major Buddhist archaeological site associated with the region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Nagarjunakonda, Buddhism, Archaeology",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2478,
+        "id": 9709,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2478,
+        "id": 9710,
+        "title": "Sanchi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2478,
+        "id": 9711,
+        "title": "Bodh Gaya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2478,
+        "id": 9712,
+        "title": "Nagarjunakonda",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2479,
+    "difficulty": 2,
+    "title": "Which ancient Buddhist site in Andhra Pradesh is famous for its great stupa?",
+    "description": "Identify the site near the Krishna River known for its Buddhist remains.",
+    "hint": "Its name is also used for the planned capital region.",
+    "summary": "Amaravati is famous for its ancient Buddhist stupa and sculptural remains.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Amaravati Stupa, Buddhism, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2479,
+        "id": 9713,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2479,
+        "id": 9714,
+        "title": "Lepakshi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2479,
+        "id": 9715,
+        "title": "Srisailam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2479,
+        "id": 9716,
+        "title": "Ahobilam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2480,
+    "difficulty": 2,
+    "title": "Which river flows through the city of Kurnool?",
+    "description": "Identify the river that meets the Tungabhadra near Kurnool.",
+    "hint": "Its name is also associated with a major river valley project in Telangana.",
+    "summary": "The Handri River flows through Kurnool and joins the Tungabhadra.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kurnool, Rivers, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2480,
+        "id": 9717,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2480,
+        "id": 9718,
+        "title": "Handri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2480,
+        "id": 9719,
+        "title": "Vamsadhara",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2480,
+        "id": 9720,
+        "title": "Nagavali",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2481,
+    "difficulty": 2,
+    "title": "Which river is known as the lifeline of Rayalaseema irrigation projects?",
+    "description": "Identify the river associated with the Somasila reservoir.",
+    "hint": "It flows through parts of southern Andhra Pradesh.",
+    "summary": "The Pennar River is an important river for irrigation in southern Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Pennar River, Irrigation, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2481,
+        "id": 9721,
+        "title": "Pennar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2481,
+        "id": 9722,
+        "title": "Brahmaputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2481,
+        "id": 9723,
+        "title": "Mahanadi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2481,
+        "id": 9724,
+        "title": "Periyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2482,
+    "difficulty": 2,
+    "title": "Which major irrigation project is built across the Godavari River near Rajahmundry?",
+    "description": "Identify the historic barrage that transformed irrigation in the Godavari delta.",
+    "hint": "It is named after a British-era engineer.",
+    "summary": "The Dowleswaram Barrage, associated with Sir Arthur Cotton, is built across the Godavari.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Godavari, Dowleswaram Barrage, Irrigation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2482,
+        "id": 9725,
+        "title": "Nagarjuna Sagar Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2482,
+        "id": 9726,
+        "title": "Srisailam Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2482,
+        "id": 9727,
+        "title": "Dowleswaram Barrage",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2482,
+        "id": 9728,
+        "title": "Almatti Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2483,
+    "difficulty": 2,
+    "title": "Which national park in Andhra Pradesh is known for its tiger habitat in the Nallamala Hills?",
+    "description": "Identify the protected area that forms part of the Nagarjunasagar-Srisailam tiger landscape.",
+    "hint": "Its name refers to a major reservoir and a temple town.",
+    "summary": "Nagarjunsagar-Srisailam Tiger Reserve spans parts of Andhra Pradesh and Telangana.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Tiger Reserve, Nallamala Hills, Wildlife",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2483,
+        "id": 9729,
+        "title": "Kaziranga National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2483,
+        "id": 9730,
+        "title": "Gir National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2483,
+        "id": 9731,
+        "title": "Nagarjunsagar-Srisailam Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2483,
+        "id": 9732,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2484,
+    "difficulty": 2,
+    "title": "Which wildlife sanctuary in Andhra Pradesh is known for its population of blackbucks?",
+    "description": "Identify the protected grassland habitat near Vijayawada.",
+    "hint": "It lies near the Krishna River and is named after a village.",
+    "summary": "The Rollapadu Wildlife Sanctuary is well known for blackbucks and the great Indian bustard.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Rollapadu, Blackbuck, Wildlife",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2484,
+        "id": 9733,
+        "title": "Rollapadu Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2484,
+        "id": 9734,
+        "title": "Periyar Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2484,
+        "id": 9735,
+        "title": "Dachigam National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2484,
+        "id": 9736,
+        "title": "Sundarbans National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2485,
+    "difficulty": 2,
+    "title": "Which coastal wetland in Andhra Pradesh is especially important for migratory birds?",
+    "description": "Identify the lake and wetland system famous for birdlife near the Krishna and Godavari deltas.",
+    "hint": "It is one of India's important freshwater lakes.",
+    "summary": "Kolleru Lake is an important wetland for resident and migratory birds.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Kolleru Lake, Migratory Birds, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2485,
+        "id": 9737,
+        "title": "Kolleru Lake",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2485,
+        "id": 9738,
+        "title": "Pangong Tso",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2485,
+        "id": 9739,
+        "title": "Vembanad Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2485,
+        "id": 9740,
+        "title": "Naini Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2486,
+    "difficulty": 2,
+    "title": "Which city is known as an important centre of shipbuilding in Andhra Pradesh?",
+    "description": "Identify the coastal city with a major shipyard.",
+    "hint": "Its shipyard has built naval and commercial vessels.",
+    "summary": "Visakhapatnam is an important shipbuilding centre and home to Hindustan Shipyard Limited.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Visakhapatnam, Shipbuilding, Industry",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2486,
+        "id": 9741,
+        "title": "Eluru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2486,
+        "id": 9742,
+        "title": "Visakhapatnam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2486,
+        "id": 9743,
+        "title": "Ongole",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2486,
+        "id": 9744,
+        "title": "Kadapa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2487,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh city is associated with the headquarters of the South Central Railway's Vijayawada Division?",
+    "description": "Identify the major railway junction in the state.",
+    "hint": "It is an important rail hub between Chennai and Hyderabad routes.",
+    "summary": "Vijayawada is a major railway junction and division headquarters.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Vijayawada, Railways, Transport",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2487,
+        "id": 9745,
+        "title": "Vijayawada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2487,
+        "id": 9746,
+        "title": "Chittoor",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2487,
+        "id": 9747,
+        "title": "Bhimavaram",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2487,
+        "id": 9748,
+        "title": "Puttaparthi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2488,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh city is known for its historic Dutch cemetery and port heritage?",
+    "description": "Identify the coastal town with a history of European trading settlements.",
+    "hint": "It is also famous for its traditional Kalamkari textiles.",
+    "summary": "Machilipatnam has a long maritime history and remnants of European trading activity.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Machilipatnam, Maritime History, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2488,
+        "id": 9749,
+        "title": "Tirupati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2488,
+        "id": 9750,
+        "title": "Anantapur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2488,
+        "id": 9751,
+        "title": "Machilipatnam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2488,
+        "id": 9752,
+        "title": "Rajampet",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2489,
+    "difficulty": 2,
+    "title": "Which language is the principal official language of Andhra Pradesh?",
+    "description": "Identify the language spoken widely across the state.",
+    "hint": "Its script is used for a major Dravidian language.",
+    "summary": "Telugu is the principal official language of Andhra Pradesh.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Telugu, Languages, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2489,
+        "id": 9753,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2489,
+        "id": 9754,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2489,
+        "id": 9755,
+        "title": "Odia",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2489,
+        "id": 9756,
+        "title": "Marathi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2490,
+    "difficulty": 2,
+    "title": "Which festival is celebrated with special grandeur at the Kanaka Durga Temple?",
+    "description": "Identify the major Hindu festival that draws large crowds to Vijayawada.",
+    "hint": "It celebrates the victory of the goddess over evil.",
+    "summary": "Dasara, also called Vijayadashami, is celebrated prominently at the Kanaka Durga Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Dasara, Festivals, Vijayawada",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2490,
+        "id": 9757,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2490,
+        "id": 9758,
+        "title": "Bihu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2490,
+        "id": 9759,
+        "title": "Pongal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2490,
+        "id": 9760,
+        "title": "Dasara",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2491,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh town is associated with the annual Lepakshi Utsav?",
+    "description": "Identify the town celebrated for its historic temple architecture and cultural festival.",
+    "hint": "It is known for a famous hanging pillar.",
+    "summary": "Lepakshi is associated with the Lepakshi Utsav.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Lepakshi Utsav, Festivals, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2491,
+        "id": 9761,
+        "title": "Lepakshi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2491,
+        "id": 9762,
+        "title": "Srikalahasti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2491,
+        "id": 9763,
+        "title": "Mangalagiri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2491,
+        "id": 9764,
+        "title": "Bhadrachalam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2492,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh town is famous for its handloom silk sarees?",
+    "description": "Identify the town renowned for its distinctive silk-weaving tradition.",
+    "hint": "It is located in the Annamayya district region.",
+    "summary": "Dharmavaram is well known for its silk sarees.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Dharmavaram, Silk Sarees, Handloom",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2492,
+        "id": 9765,
+        "title": "Narsapur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2492,
+        "id": 9766,
+        "title": "Mangalagiri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2492,
+        "id": 9767,
+        "title": "Dharmavaram",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2492,
+        "id": 9768,
+        "title": "Venkatagiri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2493,
+    "difficulty": 2,
+    "title": "Which town is known for the Venkatagiri saree weaving tradition?",
+    "description": "Identify the Andhra Pradesh town whose name is associated with a traditional saree style.",
+    "hint": "It is in Tirupati district.",
+    "summary": "Venkatagiri is famous for its fine handwoven sarees.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Venkatagiri Sarees, Handloom, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2493,
+        "id": 9769,
+        "title": "Venkatagiri",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2493,
+        "id": 9770,
+        "title": "Araku",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2493,
+        "id": 9771,
+        "title": "Puttaparthi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2493,
+        "id": 9772,
+        "title": "Kondapalli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2494,
+    "difficulty": 2,
+    "title": "Which district is known for the Nallamala forest range and the Srisailam area?",
+    "description": "Identify the district containing the famous Srisailam pilgrimage centre.",
+    "hint": "It is named after a major town and lies in the Nallamala Hills.",
+    "summary": "Nandyal district includes the Srisailam area and parts of the Nallamala landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Nallamala Hills, Srisailam, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2494,
+        "id": 9773,
+        "title": "Anakapalli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2494,
+        "id": 9774,
+        "title": "Nandyal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2494,
+        "id": 9775,
+        "title": "Bapatla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2494,
+        "id": 9776,
+        "title": "Parvathipuram Manyam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2495,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh city is known for the headquarters of the Eastern Naval Command?",
+    "description": "Identify the coastal city that hosts this major Indian Navy command.",
+    "hint": "It is home to a major naval base on the east coast.",
+    "summary": "The Eastern Naval Command is headquartered in Visakhapatnam.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Visakhapatnam, Indian Navy, Defence",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2495,
+        "id": 9777,
+        "title": "Visakhapatnam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2495,
+        "id": 9778,
+        "title": "Vijayawada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2495,
+        "id": 9779,
+        "title": "Tirupati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2495,
+        "id": 9780,
+        "title": "Rajahmundry",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2496,
+    "difficulty": 2,
+    "title": "Which dam is built across the Krishna River near Srisailam?",
+    "description": "Identify the major hydroelectric and irrigation project in the Nallamala region.",
+    "hint": "It shares its name with a famous Shiva temple town.",
+    "summary": "Srisailam Dam is built across the Krishna River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Srisailam Dam, Krishna River, Irrigation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2496,
+        "id": 9781,
+        "title": "Hirakud Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2496,
+        "id": 9782,
+        "title": "Mettur Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2496,
+        "id": 9783,
+        "title": "Srisailam Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2496,
+        "id": 9784,
+        "title": "Tehri Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2497,
+    "difficulty": 2,
+    "title": "Which Andhra Pradesh district is associated with the Borra Caves?",
+    "description": "Identify the district known for these limestone caves in the Eastern Ghats.",
+    "hint": "The caves are near the Araku Valley railway route.",
+    "summary": "Borra Caves are located in the Alluri Sitharama Raju district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Borra Caves, Geography, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2497,
+        "id": 9785,
+        "title": "Alluri Sitharama Raju",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2497,
+        "id": 9786,
+        "title": "NTR",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2497,
+        "id": 9787,
+        "title": "Bapatla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2497,
+        "id": 9788,
+        "title": "YSR Kadapa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2498,
+    "difficulty": 2,
+    "title": "Which city is associated with the Andhra Pradesh High Court?",
+    "description": "Identify the city where the state's High Court is located.",
+    "hint": "It is close to the planned capital region.",
+    "summary": "The Andhra Pradesh High Court is located in Amaravati, at Nelapadu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, High Court, Amaravati, Polity",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2498,
+        "id": 9789,
+        "title": "Kurnool",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2498,
+        "id": 9790,
+        "title": "Amaravati",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2498,
+        "id": 9791,
+        "title": "Visakhapatnam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2498,
+        "id": 9792,
+        "title": "Nellore",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2499,
+    "difficulty": 2,
+    "title": "Which organisation manages the Tirumala Venkateswara Temple?",
+    "description": "Identify the statutory trust responsible for administering the temple and its associated institutions.",
+    "hint": "Its abbreviation begins with T and ends with T.",
+    "summary": "Tirumala Tirupati Devasthanams (TTD) administers the Tirumala Venkateswara Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Tirumala, TTD, Temple Administration",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2499,
+        "id": 9793,
+        "title": "Archaeological Survey of India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2499,
+        "id": 9794,
+        "title": "Andhra Pradesh Tourism Development Corporation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2499,
+        "id": 9795,
+        "title": "Tirumala Tirupati Devasthanams",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2499,
+        "id": 9796,
+        "title": "Indian Council of Historical Research",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2500,
+    "difficulty": 2,
+    "title": "Which major river empties into the Bay of Bengal near Kakinada?",
+    "description": "Identify the river whose delta extends across the coastal districts of Andhra Pradesh.",
+    "hint": "It is one of India's longest rivers and flows through the Deccan Plateau.",
+    "summary": "The Godavari empties into the Bay of Bengal through its delta near the Kakinada region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Andhra Pradesh, Godavari River, Bay of Bengal, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2500,
+        "id": 9797,
+        "title": "Mahi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2500,
+        "id": 9798,
+        "title": "Sabarmati",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2500,
+        "id": 9799,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2500,
+        "id": 9800,
+        "title": "Godavari",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
