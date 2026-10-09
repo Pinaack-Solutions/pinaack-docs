@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2351,
+    "difficulty": 2,
+    "title": "What is the official name of Delhi's elected territorial government?",
+    "description": "Identify the commonly used official name of Delhi's elected government.",
+    "hint": "It includes the word 'National'.",
+    "summary": "Delhi's elected government is the Government of the National Capital Territory of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Polity, UPSC, RPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2351,
+        "id": 9201,
+        "title": "Government of NCT of Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2351,
+        "id": 9202,
+        "title": "Government of Delhi Province",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2351,
+        "id": 9203,
+        "title": "Government of Central India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2351,
+        "id": 9204,
+        "title": "Government of Delhi District",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2352,
+    "difficulty": 2,
+    "title": "Which river flows through Delhi?",
+    "description": "Identify the major river that passes through the National Capital Territory.",
+    "hint": "It is one of northern India's major rivers.",
+    "summary": "The Yamuna River flows through Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Geography, Rivers, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2352,
+        "id": 9205,
+        "title": "Ganga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2352,
+        "id": 9206,
+        "title": "Yamuna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2352,
+        "id": 9207,
+        "title": "Sutlej",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2352,
+        "id": 9208,
+        "title": "Chambal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2353,
+    "difficulty": 2,
+    "title": "Which monument in Delhi was built by Qutb-ud-din Aibak?",
+    "description": "Choose the monument whose construction was initiated by Qutb-ud-din Aibak.",
+    "hint": "It is part of a UNESCO World Heritage Site.",
+    "summary": "Qutb-ud-din Aibak initiated the construction of the Qutub Minar.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, History, Monuments, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2353,
+        "id": 9209,
+        "title": "Red Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2353,
+        "id": 9210,
+        "title": "Humayun's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2353,
+        "id": 9211,
+        "title": "Qutub Minar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2353,
+        "id": 9212,
+        "title": "Safdarjung's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2354,
+    "difficulty": 2,
+    "title": "Which Delhi monument served as the main residence of Mughal emperors for generations?",
+    "description": "Identify the Mughal imperial fort built by Shah Jahan.",
+    "hint": "India's Independence Day address is delivered from here.",
+    "summary": "The Red Fort served as a major Mughal imperial residence.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Mughal Empire, Red Fort, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2354,
+        "id": 9213,
+        "title": "Purana Qila",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2354,
+        "id": 9214,
+        "title": "Tughlaqabad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2354,
+        "id": 9215,
+        "title": "Lal Kot",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2354,
+        "id": 9216,
+        "title": "Red Fort",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2355,
+    "difficulty": 2,
+    "title": "Who built Humayun's Tomb in Delhi?",
+    "description": "Identify the person who commissioned this Mughal mausoleum.",
+    "hint": "She was Humayun's widow.",
+    "summary": "Humayun's Tomb was commissioned by his wife, Hamida Banu Begum, and built under the supervision of Persian architect Mirak Mirza Ghiyas and his son.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Mughal Architecture, Humayun, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2355,
+        "id": 9217,
+        "title": "Hamida Banu Begum",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2355,
+        "id": 9218,
+        "title": "Nur Jahan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2355,
+        "id": 9219,
+        "title": "Jahanara Begum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2355,
+        "id": 9220,
+        "title": "Mumtaz Mahal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2356,
+    "difficulty": 2,
+    "title": "Which Delhi structure is famous for its iron pillar?",
+    "description": "Identify the historic complex containing a celebrated ancient iron pillar.",
+    "hint": "The complex also contains a tall victory tower.",
+    "summary": "The Iron Pillar stands within the Qutub complex.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Ancient India, Iron Pillar, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2356,
+        "id": 9221,
+        "title": "Red Fort complex",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2356,
+        "id": 9222,
+        "title": "Qutub complex",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2356,
+        "id": 9223,
+        "title": "India Gate complex",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2356,
+        "id": 9224,
+        "title": "Rashtrapati Bhavan complex",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2357,
+    "difficulty": 2,
+    "title": "Which Delhi monument commemorates Indian soldiers who died in the First World War and other conflicts?",
+    "description": "Identify the prominent war memorial on Kartavya Path.",
+    "hint": "It is shaped like a large stone arch.",
+    "summary": "India Gate is a war memorial in New Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, India Gate, Modern India, Monuments",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2357,
+        "id": 9225,
+        "title": "Vijay Chowk",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2357,
+        "id": 9226,
+        "title": "Raj Ghat",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2357,
+        "id": 9227,
+        "title": "India Gate",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2357,
+        "id": 9228,
+        "title": "Teen Murti Bhavan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2358,
+    "difficulty": 2,
+    "title": "Where is Mahatma Gandhi's memorial, Raj Ghat, located?",
+    "description": "Identify the city containing the memorial at Raj Ghat.",
+    "hint": "It is India's national capital.",
+    "summary": "Raj Ghat is located in Delhi on the banks of the Yamuna.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Raj Ghat, Mahatma Gandhi, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2358,
+        "id": 9229,
+        "title": "Ahmedabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2358,
+        "id": 9230,
+        "title": "Mumbai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2358,
+        "id": 9231,
+        "title": "Lucknow",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2358,
+        "id": 9232,
+        "title": "Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2359,
+    "difficulty": 2,
+    "title": "Which building is the official residence of the President of India?",
+    "description": "Identify the presidential residence in New Delhi.",
+    "hint": "It was formerly known as the Viceroy's House.",
+    "summary": "Rashtrapati Bhavan is the official residence of the President of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Indian Polity, Rashtrapati Bhavan, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2359,
+        "id": 9233,
+        "title": "Rashtrapati Bhavan",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2359,
+        "id": 9234,
+        "title": "Parliament House",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2359,
+        "id": 9235,
+        "title": "North Block",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2359,
+        "id": 9236,
+        "title": "Hyderabad House",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2360,
+    "difficulty": 2,
+    "title": "Who designed the principal buildings of New Delhi's central administrative district?",
+    "description": "Choose the British architect closely associated with the design of New Delhi.",
+    "hint": "His surname is also part of the name Lutyens' Delhi.",
+    "summary": "Edwin Lutyens was the principal architect of New Delhi's central ceremonial and administrative area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, New Delhi, Architecture, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2360,
+        "id": 9237,
+        "title": "Herbert Baker",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2360,
+        "id": 9238,
+        "title": "Edwin Lutyens",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2360,
+        "id": 9239,
+        "title": "Le Corbusier",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2360,
+        "id": 9240,
+        "title": "Charles Correa",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2361,
+    "difficulty": 2,
+    "title": "In which year was New Delhi inaugurated as the capital of British India?",
+    "description": "Recall the year when the new imperial capital was formally inaugurated.",
+    "hint": "It was in the early 1930s.",
+    "summary": "New Delhi was inaugurated as the capital of British India in 1931.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, British India, Modern History, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2361,
+        "id": 9241,
+        "title": "1911",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2361,
+        "id": 9242,
+        "title": "1927",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2361,
+        "id": 9243,
+        "title": "1931",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2361,
+        "id": 9244,
+        "title": "1947",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2362,
+    "difficulty": 2,
+    "title": "At which event was the decision to shift British India's capital from Calcutta to Delhi announced?",
+    "description": "Identify the royal event held in Delhi in 1911.",
+    "hint": "It was a grand imperial assembly.",
+    "summary": "The capital shift was announced at the Delhi Durbar of 1911.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Delhi Durbar, British India, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2362,
+        "id": 9245,
+        "title": "Simla Conference",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2362,
+        "id": 9246,
+        "title": "Lucknow Pact",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2362,
+        "id": 9247,
+        "title": "Cabinet Mission",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2362,
+        "id": 9248,
+        "title": "Delhi Durbar",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2363,
+    "difficulty": 2,
+    "title": "Which Sultanate ruler founded Tughlaqabad Fort?",
+    "description": "Identify the ruler associated with the fort in southeastern Delhi.",
+    "hint": "He founded the Tughlaq dynasty.",
+    "summary": "Ghiyas-ud-din Tughlaq founded Tughlaqabad Fort.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Delhi Sultanate, Tughlaq Dynasty, Forts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2363,
+        "id": 9249,
+        "title": "Alauddin Khalji",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2363,
+        "id": 9250,
+        "title": "Ghiyas-ud-din Tughlaq",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2363,
+        "id": 9251,
+        "title": "Iltutmish",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2363,
+        "id": 9252,
+        "title": "Sikandar Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2364,
+    "difficulty": 2,
+    "title": "Which historic fort in Delhi is associated with Sher Shah Suri?",
+    "description": "Choose the fort traditionally linked with Sher Shah Suri's rebuilding activities.",
+    "hint": "Its name means 'Old Fort'.",
+    "summary": "Purana Qila is traditionally associated with Sher Shah Suri and the earlier city of Dinpanah.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Sher Shah Suri, Purana Qila, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2364,
+        "id": 9253,
+        "title": "Red Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2364,
+        "id": 9254,
+        "title": "Salimgarh Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2364,
+        "id": 9255,
+        "title": "Purana Qila",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2364,
+        "id": 9256,
+        "title": "Tughlaqabad Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2365,
+    "difficulty": 2,
+    "title": "Which Delhi landmark is also known as the Bahai House of Worship?",
+    "description": "Identify the famous flower-shaped place of worship in Delhi.",
+    "hint": "Its name refers to a flower.",
+    "summary": "The Lotus Temple is a Bahai House of Worship.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Lotus Temple, Religion, Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2365,
+        "id": 9257,
+        "title": "Akshardham Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2365,
+        "id": 9258,
+        "title": "Birla Mandir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2365,
+        "id": 9259,
+        "title": "Chhatarpur Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2365,
+        "id": 9260,
+        "title": "Lotus Temple",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2366,
+    "difficulty": 2,
+    "title": "Which famous Delhi temple complex opened in 2005?",
+    "description": "Identify the large Hindu temple complex near the Yamuna.",
+    "hint": "It is dedicated to Swaminarayan.",
+    "summary": "Swaminarayan Akshardham in Delhi opened in 2005.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Akshardham, Temples, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2366,
+        "id": 9261,
+        "title": "Akshardham",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2366,
+        "id": 9262,
+        "title": "Kalkaji Mandir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2366,
+        "id": 9263,
+        "title": "Gauri Shankar Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2366,
+        "id": 9264,
+        "title": "Yogmaya Temple",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2367,
+    "difficulty": 2,
+    "title": "Which Delhi site is known for the tomb of the Mughal emperor Safdarjung?",
+    "description": "Identify the 18th-century garden tomb in New Delhi.",
+    "hint": "The monument carries the name of the person buried there.",
+    "summary": "Safdarjung's Tomb was built in the 18th century for Safdarjung.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Safdarjung Tomb, Mughal Architecture, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2367,
+        "id": 9265,
+        "title": "Isa Khan's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2367,
+        "id": 9266,
+        "title": "Safdarjung's Tomb",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2367,
+        "id": 9267,
+        "title": "Lodhi Garden",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2367,
+        "id": 9268,
+        "title": "Adham Khan's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2368,
+    "difficulty": 2,
+    "title": "Which Delhi garden contains the tombs of several Sayyid and Lodi rulers?",
+    "description": "Identify the historic garden park known for its medieval tombs.",
+    "hint": "It is a popular public garden in central Delhi.",
+    "summary": "Lodhi Garden contains several tombs from the Sayyid and Lodi periods.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Lodhi Garden, Delhi Sultanate, Monuments",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2368,
+        "id": 9269,
+        "title": "Nehru Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2368,
+        "id": 9270,
+        "title": "Garden of Five Senses",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2368,
+        "id": 9271,
+        "title": "Buddha Jayanti Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2368,
+        "id": 9272,
+        "title": "Lodhi Garden",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2369,
+    "difficulty": 2,
+    "title": "Which Delhi monument was built to commemorate the 1911 Delhi Durbar?",
+    "description": "Identify the memorial arch constructed to mark the coronation durbar.",
+    "hint": "It is located near Kashmere Gate.",
+    "summary": "Coronation Park in Delhi commemorates the site of the Delhi Durbars, including the 1911 event.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Coronation Park, British India, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2369,
+        "id": 9273,
+        "title": "Coronation Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2369,
+        "id": 9274,
+        "title": "India Gate",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2369,
+        "id": 9275,
+        "title": "Teen Murti Bhavan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2369,
+        "id": 9276,
+        "title": "Vijay Chowk",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2370,
+    "difficulty": 2,
+    "title": "Which UNESCO World Heritage Site in Delhi includes the Qutub Minar?",
+    "description": "Identify the heritage complex recognized for its early Indo-Islamic architecture.",
+    "hint": "It is named after the tower.",
+    "summary": "Qutb Minar and its Monuments are a UNESCO World Heritage Site.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, UNESCO, Qutub Minar, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2370,
+        "id": 9277,
+        "title": "Red Fort Complex",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2370,
+        "id": 9278,
+        "title": "Humayun's Tomb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2370,
+        "id": 9279,
+        "title": "Qutb Minar and its Monuments",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2370,
+        "id": 9280,
+        "title": "Jantar Mantar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2371,
+    "difficulty": 2,
+    "title": "Which Delhi observatory was built by Maharaja Jai Singh II?",
+    "description": "Identify the astronomical observatory near Connaught Place.",
+    "hint": "It shares its name with observatories in Jaipur and other cities.",
+    "summary": "Jantar Mantar in Delhi was built by Maharaja Jai Singh II in the 18th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Jantar Mantar, Astronomy, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2371,
+        "id": 9281,
+        "title": "Jantar Mantar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2371,
+        "id": 9282,
+        "title": "Qutub Minar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2371,
+        "id": 9283,
+        "title": "Agrasen ki Baoli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2371,
+        "id": 9284,
+        "title": "Purana Qila",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2372,
+    "difficulty": 2,
+    "title": "Which Delhi stepwell is located near Hailey Road?",
+    "description": "Identify the historic stepwell known for its long staircases and arched niches.",
+    "hint": "Its name begins with 'Agrasen'.",
+    "summary": "Agrasen ki Baoli is a historic stepwell in central Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Agrasen ki Baoli, Heritage, Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2372,
+        "id": 9285,
+        "title": "Rajon ki Baoli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2372,
+        "id": 9286,
+        "title": "Agrasen ki Baoli",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2372,
+        "id": 9287,
+        "title": "Gandhak ki Baoli",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2372,
+        "id": 9288,
+        "title": "Neemrana Baoli",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2373,
+    "difficulty": 2,
+    "title": "Which Delhi gate is associated with the historic walled city of Shahjahanabad?",
+    "description": "Identify a major gate of Old Delhi located near the Red Fort.",
+    "hint": "Its name refers to a city in Lahore's direction.",
+    "summary": "Lahori Gate is the main western gate of the Red Fort and faces the historic city area.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Shahjahanabad, Red Fort, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2373,
+        "id": 9289,
+        "title": "India Gate",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2373,
+        "id": 9290,
+        "title": "Kashmere Gate",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2373,
+        "id": 9291,
+        "title": "Lahori Gate",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2373,
+        "id": 9292,
+        "title": "Ajmeri Gate",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2374,
+    "difficulty": 2,
+    "title": "Which Mughal emperor founded Shahjahanabad?",
+    "description": "Identify the emperor who established the walled city that became Old Delhi.",
+    "hint": "He also built the Red Fort and Jama Masjid.",
+    "summary": "Shah Jahan founded Shahjahanabad in the 17th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Shahjahanabad, Shah Jahan, Mughal History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2374,
+        "id": 9293,
+        "title": "Akbar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2374,
+        "id": 9294,
+        "title": "Jahangir",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2374,
+        "id": 9295,
+        "title": "Aurangzeb",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2374,
+        "id": 9296,
+        "title": "Shah Jahan",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2375,
+    "difficulty": 2,
+    "title": "Which mosque in Delhi was commissioned by Shah Jahan?",
+    "description": "Identify the large historic mosque near the Red Fort.",
+    "hint": "Its name means 'Friday Mosque'.",
+    "summary": "The Jama Masjid in Delhi was commissioned by Shah Jahan and completed in 1656.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Jama Masjid, Mughal Architecture, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2375,
+        "id": 9297,
+        "title": "Jama Masjid",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2375,
+        "id": 9298,
+        "title": "Moti Masjid in Agra Fort",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2375,
+        "id": 9299,
+        "title": "Adhai Din ka Jhonpra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2375,
+        "id": 9300,
+        "title": "Quwwat-ul-Islam Mosque",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2376,
+    "difficulty": 2,
+    "title": "Which historic Delhi market is famous for wholesale electrical goods and electronics?",
+    "description": "Identify the market located in the Bhagirath Palace area.",
+    "hint": "It is in Old Delhi.",
+    "summary": "Bhagirath Palace is a well-known electrical goods and electronics market in Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Markets, Economy, General Knowledge",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2376,
+        "id": 9301,
+        "title": "Sarojini Nagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2376,
+        "id": 9302,
+        "title": "Lajpat Nagar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2376,
+        "id": 9303,
+        "title": "Bhagirath Palace",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2376,
+        "id": 9304,
+        "title": "Khan Market",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2377,
+    "difficulty": 2,
+    "title": "Which Delhi market is especially known for wedding clothing and fabrics?",
+    "description": "Identify the popular shopping district in Old Delhi.",
+    "hint": "It is near Chandni Chowk.",
+    "summary": "Chandni Chowk and nearby markets are known for textiles, wedding wear, and traditional shopping.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Chandni Chowk, Markets, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2377,
+        "id": 9305,
+        "title": "Connaught Place",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2377,
+        "id": 9306,
+        "title": "Chandni Chowk",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2377,
+        "id": 9307,
+        "title": "Nehru Place",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2377,
+        "id": 9308,
+        "title": "Aerocity",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2378,
+    "difficulty": 2,
+    "title": "Which Delhi district is home to the major commercial hub of Connaught Place?",
+    "description": "Identify the central area in which Connaught Place is situated.",
+    "hint": "It is in central New Delhi.",
+    "summary": "Connaught Place is a major commercial district in central New Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Connaught Place, Economy, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2378,
+        "id": 9309,
+        "title": "South Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2378,
+        "id": 9310,
+        "title": "Dwarka",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2378,
+        "id": 9311,
+        "title": "Rohini",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2378,
+        "id": 9312,
+        "title": "Central Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2379,
+    "difficulty": 2,
+    "title": "What is the name of Delhi's international airport?",
+    "description": "Identify the airport serving most international air traffic for the capital.",
+    "hint": "It is named after a former Indian prime minister.",
+    "summary": "Indira Gandhi International Airport serves Delhi and the surrounding region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Transport, Airports, General Knowledge",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2379,
+        "id": 9313,
+        "title": "Indira Gandhi International Airport",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2379,
+        "id": 9314,
+        "title": "Safdarjung Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2379,
+        "id": 9315,
+        "title": "Palam Domestic Terminal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2379,
+        "id": 9316,
+        "title": "Hindon Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2380,
+    "difficulty": 2,
+    "title": "Which metro system serves Delhi and the National Capital Region?",
+    "description": "Identify the rapid-transit network operating across Delhi and nearby cities.",
+    "hint": "Its initials are DMRC.",
+    "summary": "The Delhi Metro is operated by the Delhi Metro Rail Corporation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Delhi Metro, Transport, DMRC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2380,
+        "id": 9317,
+        "title": "Mumbai Metro",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2380,
+        "id": 9318,
+        "title": "Delhi Metro",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2380,
+        "id": 9319,
+        "title": "Kolkata Metro",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2380,
+        "id": 9320,
+        "title": "Chennai Metro",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2381,
+    "difficulty": 2,
+    "title": "Which organization operates the Delhi Metro?",
+    "description": "Choose the corporation responsible for operating the metro network.",
+    "hint": "Its abbreviation begins with D and ends with RC.",
+    "summary": "The Delhi Metro Rail Corporation operates the Delhi Metro.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, DMRC, Transport, Indian Organizations",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2381,
+        "id": 9321,
+        "title": "National Highways Authority of India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2381,
+        "id": 9322,
+        "title": "Indian Railways Board",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2381,
+        "id": 9323,
+        "title": "Delhi Metro Rail Corporation",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2381,
+        "id": 9324,
+        "title": "Delhi Transport Infrastructure Board",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2382,
+    "difficulty": 2,
+    "title": "Which national highway provides a major road link between Delhi and Jaipur?",
+    "description": "Identify the highway connecting Delhi with Jaipur via Gurugram.",
+    "hint": "It is part of the Delhi-Mumbai highway corridor.",
+    "summary": "National Highway 48 is a major route between Delhi and Jaipur.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Highways, Transport, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2382,
+        "id": 9325,
+        "title": "NH 19",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2382,
+        "id": 9326,
+        "title": "NH 44",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2382,
+        "id": 9327,
+        "title": "NH 27",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2382,
+        "id": 9328,
+        "title": "NH 48",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2383,
+    "difficulty": 2,
+    "title": "Which constitutional amendment gave Delhi a Legislative Assembly and Council of Ministers?",
+    "description": "Identify the amendment that established the special constitutional framework for Delhi.",
+    "hint": "It was passed in 1991.",
+    "summary": "The 69th Constitutional Amendment Act, 1991, provided Delhi with a Legislative Assembly and Council of Ministers.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Constitution, 69th Amendment, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2383,
+        "id": 9329,
+        "title": "42nd Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2383,
+        "id": 9330,
+        "title": "69th Amendment",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2383,
+        "id": 9331,
+        "title": "73rd Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2383,
+        "id": 9332,
+        "title": "74th Amendment",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2384,
+    "difficulty": 2,
+    "title": "Which article of the Indian Constitution contains special provisions for Delhi?",
+    "description": "Identify the article inserted to establish Delhi's special status.",
+    "hint": "It was introduced by the 69th Amendment.",
+    "summary": "Article 239AA contains special provisions for the National Capital Territory of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Article 239AA, Constitution, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2384,
+        "id": 9333,
+        "title": "Article 356",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2384,
+        "id": 9334,
+        "title": "Article 370",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2384,
+        "id": 9335,
+        "title": "Article 239AA",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2384,
+        "id": 9336,
+        "title": "Article 280",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2385,
+    "difficulty": 2,
+    "title": "Who appoints the Lieutenant Governor of Delhi?",
+    "description": "Identify the constitutional authority responsible for the appointment.",
+    "hint": "The authority is the head of the Union executive.",
+    "summary": "The President of India appoints the Lieutenant Governor of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Lieutenant Governor, Indian Polity, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2385,
+        "id": 9337,
+        "title": "Prime Minister",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2385,
+        "id": 9338,
+        "title": "Chief Minister of Delhi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2385,
+        "id": 9339,
+        "title": "Chief Justice of India",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2385,
+        "id": 9340,
+        "title": "President of India",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2386,
+    "difficulty": 2,
+    "title": "What is the lower house of Delhi's legislature called?",
+    "description": "Identify the elected legislative body of the National Capital Territory.",
+    "hint": "Its name is used by several Indian states as well.",
+    "summary": "Delhi's legislature is the Legislative Assembly.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Legislative Assembly, Indian Polity, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2386,
+        "id": 9341,
+        "title": "Legislative Assembly",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2386,
+        "id": 9342,
+        "title": "Legislative Council",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2386,
+        "id": 9343,
+        "title": "Council of States",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2386,
+        "id": 9344,
+        "title": "Municipal Council",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2387,
+    "difficulty": 2,
+    "title": "How many Lok Sabha constituencies are there in the National Capital Territory of Delhi?",
+    "description": "Recall the number of parliamentary constituencies in Delhi.",
+    "hint": "The number is a single digit.",
+    "summary": "Delhi has seven Lok Sabha constituencies.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Lok Sabha, Elections, Indian Polity",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2387,
+        "id": 9345,
+        "title": "5",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2387,
+        "id": 9346,
+        "title": "7",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2387,
+        "id": 9347,
+        "title": "9",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2387,
+        "id": 9348,
+        "title": "12",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2388,
+    "difficulty": 2,
+    "title": "Which civic body is responsible for most municipal services across Delhi?",
+    "description": "Identify the main municipal corporation formed by the merger of Delhi's former municipal corporations.",
+    "hint": "Its initials are MCD.",
+    "summary": "The Municipal Corporation of Delhi provides many local civic services across the city.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, MCD, Local Government, Indian Polity",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2388,
+        "id": 9349,
+        "title": "New Delhi Municipal Council only",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2388,
+        "id": 9350,
+        "title": "Delhi Development Authority",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2388,
+        "id": 9351,
+        "title": "Municipal Corporation of Delhi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2388,
+        "id": 9352,
+        "title": "Delhi Cantonment Board",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2389,
+    "difficulty": 2,
+    "title": "Which organization is responsible for planned urban development in Delhi?",
+    "description": "Identify the authority established to guide Delhi's planned development.",
+    "hint": "Its initials are DDA.",
+    "summary": "The Delhi Development Authority was established in 1957 to promote planned development in Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, DDA, Urban Development, Governance",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2389,
+        "id": 9353,
+        "title": "Delhi Development Authority",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2389,
+        "id": 9354,
+        "title": "Delhi Metro Rail Corporation",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2389,
+        "id": 9355,
+        "title": "National Green Tribunal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2389,
+        "id": 9356,
+        "title": "Central Public Works Department",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2390,
+    "difficulty": 2,
+    "title": "Which institution is located in Sansad Marg and houses India's Parliament?",
+    "description": "Identify the national legislature's principal complex in New Delhi.",
+    "hint": "Its Hindi name is Sansad Bhavan.",
+    "summary": "Parliament House, known as Sansad Bhavan, is located in New Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Parliament, Indian Polity, Sansad Bhavan",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2390,
+        "id": 9357,
+        "title": "Supreme Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2390,
+        "id": 9358,
+        "title": "North Block",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2390,
+        "id": 9359,
+        "title": "Parliament House",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2390,
+        "id": 9360,
+        "title": "Rashtrapati Bhavan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2391,
+    "difficulty": 2,
+    "title": "Which court is the highest judicial authority for Delhi?",
+    "description": "Identify the High Court serving the National Capital Territory.",
+    "hint": "Its name includes the capital's name.",
+    "summary": "The Delhi High Court is the highest court within Delhi's territorial jurisdiction, subject to the Supreme Court of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Delhi High Court, Judiciary, Indian Polity",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2391,
+        "id": 9361,
+        "title": "Punjab and Haryana High Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2391,
+        "id": 9362,
+        "title": "Delhi High Court",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2391,
+        "id": 9363,
+        "title": "Allahabad High Court",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2391,
+        "id": 9364,
+        "title": "Rajasthan High Court",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2392,
+    "difficulty": 2,
+    "title": "Which major park in Delhi is associated with the Mughal-era Garden of Five Senses?",
+    "description": "Choose the well-known landscaped public park in Saket.",
+    "hint": "Its name refers to five human senses.",
+    "summary": "The Garden of Five Senses is a landscaped park in the Saket area of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Gardens, Tourism, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2392,
+        "id": 9365,
+        "title": "Nehru Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2392,
+        "id": 9366,
+        "title": "Lodhi Garden",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2392,
+        "id": 9367,
+        "title": "Buddha Jayanti Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2392,
+        "id": 9368,
+        "title": "Garden of Five Senses",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2393,
+    "difficulty": 2,
+    "title": "Which protected forested ridge forms part of Delhi's natural landscape?",
+    "description": "Identify the northern extension of an ancient hill range found in Delhi.",
+    "hint": "It is associated with the Aravalli system.",
+    "summary": "The Delhi Ridge is the northern extension of the Aravalli Range.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Delhi Ridge, Aravalli, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2393,
+        "id": 9369,
+        "title": "Shivalik Range",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2393,
+        "id": 9370,
+        "title": "Delhi Ridge",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2393,
+        "id": 9371,
+        "title": "Vindhya Range",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2393,
+        "id": 9372,
+        "title": "Satpura Range",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2394,
+    "difficulty": 2,
+    "title": "Which wildlife sanctuary lies in the southern part of Delhi?",
+    "description": "Identify the sanctuary known for its rocky Aravalli landscape and biodiversity.",
+    "hint": "It is named after a village in South Delhi.",
+    "summary": "Asola Bhatti Wildlife Sanctuary is located in southern Delhi and adjoining areas.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Wildlife Sanctuary, Environment, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2394,
+        "id": 9373,
+        "title": "Sultanpur Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2394,
+        "id": 9374,
+        "title": "Okhla Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2394,
+        "id": 9375,
+        "title": "Asola Bhatti Wildlife Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2394,
+        "id": 9376,
+        "title": "National Chambal Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2395,
+    "difficulty": 2,
+    "title": "Which bird sanctuary is located near the Okhla Barrage on the Yamuna?",
+    "description": "Identify the wetland sanctuary near Delhi's border with Uttar Pradesh.",
+    "hint": "Its name matches the nearby locality.",
+    "summary": "Okhla Bird Sanctuary is located near the Okhla Barrage on the Yamuna in Uttar Pradesh, adjoining Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi NCR, Okhla Bird Sanctuary, Wetlands, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2395,
+        "id": 9377,
+        "title": "Okhla Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2395,
+        "id": 9378,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2395,
+        "id": 9379,
+        "title": "Nalsarovar Bird Sanctuary",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2395,
+        "id": 9380,
+        "title": "Chilika Lake",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2396,
+    "difficulty": 2,
+    "title": "Which historic settlement is traditionally associated with the Pandavas in Delhi?",
+    "description": "Identify the ancient site traditionally linked with the Mahabharata.",
+    "hint": "Its name begins with 'Indraprastha'.",
+    "summary": "Indraprastha is traditionally associated with the Pandavas and is linked in tradition with the area around present-day Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Indraprastha, Mahabharata, Ancient History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2396,
+        "id": 9381,
+        "title": "Taxila",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2396,
+        "id": 9382,
+        "title": "Pataliputra",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2396,
+        "id": 9383,
+        "title": "Ujjain",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2396,
+        "id": 9384,
+        "title": "Indraprastha",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2397,
+    "difficulty": 2,
+    "title": "Which ruler is associated with the construction of Siri, one of Delhi's historic cities?",
+    "description": "Identify the Delhi Sultan who built Siri as a fortified city.",
+    "hint": "He was known for his military campaigns against the Mongols.",
+    "summary": "Alauddin Khalji established Siri, one of the historic cities of Delhi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Siri, Alauddin Khalji, Delhi Sultanate",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2397,
+        "id": 9385,
+        "title": "Alauddin Khalji",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2397,
+        "id": 9386,
+        "title": "Balban",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2397,
+        "id": 9387,
+        "title": "Ibrahim Lodi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2397,
+        "id": 9388,
+        "title": "Firoz Shah Tughlaq",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2398,
+    "difficulty": 2,
+    "title": "Which ruler built Firoz Shah Kotla in Delhi?",
+    "description": "Identify the Tughlaq ruler who established this fortified complex.",
+    "hint": "His name is part of the monument's name.",
+    "summary": "Firoz Shah Tughlaq built Firoz Shah Kotla in the 14th century.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, Firoz Shah Kotla, Tughlaq Dynasty, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2398,
+        "id": 9389,
+        "title": "Muhammad bin Tughlaq",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2398,
+        "id": 9390,
+        "title": "Ghiyas-ud-din Tughlaq",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2398,
+        "id": 9391,
+        "title": "Firoz Shah Tughlaq",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2398,
+        "id": 9392,
+        "title": "Nasir-ud-din Mahmud",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2399,
+    "difficulty": 2,
+    "title": "Which museum in Delhi is dedicated to India's railway heritage?",
+    "description": "Identify the museum that displays historic locomotives and railway coaches.",
+    "hint": "It is located in Chanakyapuri.",
+    "summary": "The National Rail Museum in New Delhi preserves and exhibits India's railway heritage.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, National Rail Museum, Indian Railways, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2399,
+        "id": 9393,
+        "title": "National Science Centre",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2399,
+        "id": 9394,
+        "title": "National Rail Museum",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2399,
+        "id": 9395,
+        "title": "National Museum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2399,
+        "id": 9396,
+        "title": "Nehru Memorial Museum",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2400,
+    "difficulty": 2,
+    "title": "Which Delhi institution is India's national museum for science and technology exhibits?",
+    "description": "Identify the major science museum located near Pragati Maidan.",
+    "hint": "Its name includes the words 'Science Centre'.",
+    "summary": "The National Science Centre in Delhi presents science and technology exhibitions.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Delhi, National Science Centre, Science, Education",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2400,
+        "id": 9397,
+        "title": "National Museum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2400,
+        "id": 9398,
+        "title": "Nehru Planetarium",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2400,
+        "id": 9399,
+        "title": "National Rail Museum",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2400,
+        "id": 9400,
+        "title": "National Science Centre",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  }
+]
