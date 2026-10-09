@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 2401,
+    "difficulty": 2,
+    "title": "What is the capital of Karnataka?",
+    "description": "Identify the capital city of Karnataka.",
+    "hint": "It is also known as Bengaluru.",
+    "summary": "Bengaluru is the capital of Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Geography, Capitals, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2401,
+        "id": 9401,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2401,
+        "id": 9402,
+        "title": "Hubballi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2401,
+        "id": 9403,
+        "title": "Bengaluru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2401,
+        "id": 9404,
+        "title": "Mangaluru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2402,
+    "difficulty": 2,
+    "title": "Which language is primarily spoken in Karnataka?",
+    "description": "Identify the state's principal official language.",
+    "hint": "Its script is used to write the language.",
+    "summary": "Kannada is the official language of Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kannada, Languages, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2402,
+        "id": 9405,
+        "title": "Telugu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2402,
+        "id": 9406,
+        "title": "Kannada",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2402,
+        "id": 9407,
+        "title": "Tamil",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2402,
+        "id": 9408,
+        "title": "Marathi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2403,
+    "difficulty": 2,
+    "title": "Which sea lies to the west of Karnataka?",
+    "description": "Identify the water body bordering Karnataka's western coast.",
+    "hint": "Goa also lies along this coast.",
+    "summary": "The Arabian Sea borders Karnataka to the west.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Geography, Arabian Sea, UPSC",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2403,
+        "id": 9409,
+        "title": "Bay of Bengal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2403,
+        "id": 9410,
+        "title": "Red Sea",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2403,
+        "id": 9411,
+        "title": "Arabian Sea",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2403,
+        "id": 9412,
+        "title": "Andaman Sea",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2404,
+    "difficulty": 2,
+    "title": "Which is the highest peak in Karnataka?",
+    "description": "Identify the highest mountain peak in the state.",
+    "hint": "It is located in the Western Ghats near Chikkamagaluru.",
+    "summary": "Mullayanagiri is the highest peak in Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mullayanagiri, Mountains, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2404,
+        "id": 9413,
+        "title": "Kudremukh",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2404,
+        "id": 9414,
+        "title": "Bababudangiri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2404,
+        "id": 9415,
+        "title": "Tadiandamol",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2404,
+        "id": 9416,
+        "title": "Mullayanagiri",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2405,
+    "difficulty": 2,
+    "title": "Which river flows through Hampi?",
+    "description": "Identify the river associated with the historic Vijayanagara capital.",
+    "hint": "It is a tributary of the Krishna River.",
+    "summary": "The Tungabhadra River flows through the Hampi region.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Tungabhadra, Rivers, Hampi",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2405,
+        "id": 9417,
+        "title": "Tungabhadra",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2405,
+        "id": 9418,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2405,
+        "id": 9419,
+        "title": "Sharavathi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2405,
+        "id": 9420,
+        "title": "Pennar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2406,
+    "difficulty": 2,
+    "title": "Which empire made Hampi its capital?",
+    "description": "Identify the South Indian empire whose ruins are found at Hampi.",
+    "hint": "Its rulers included Krishnadevaraya.",
+    "summary": "Hampi was the capital of the Vijayanagara Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Hampi, Vijayanagara Empire, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2406,
+        "id": 9421,
+        "title": "Chola Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2406,
+        "id": 9422,
+        "title": "Vijayanagara Empire",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2406,
+        "id": 9423,
+        "title": "Maurya Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2406,
+        "id": 9424,
+        "title": "Pala Empire",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2407,
+    "difficulty": 2,
+    "title": "Who was the famous ruler of Vijayanagara known as Krishnadevaraya?",
+    "description": "Identify the ruler celebrated for military success and support of literature.",
+    "hint": "He belonged to the Tuluva dynasty.",
+    "summary": "Krishnadevaraya was a prominent ruler of the Vijayanagara Empire.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Krishnadevaraya, Vijayanagara, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2407,
+        "id": 9425,
+        "title": "Harihara I",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2407,
+        "id": 9426,
+        "title": "Devaraya II",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2407,
+        "id": 9427,
+        "title": "Krishnadevaraya",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2407,
+        "id": 9428,
+        "title": "Bukka Raya I",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2408,
+    "difficulty": 2,
+    "title": "Which Karnataka site is famous for its stone chariot?",
+    "description": "Identify the historic temple complex containing the iconic stone chariot.",
+    "hint": "The monument is in the Vijayanagara ruins.",
+    "summary": "The stone chariot is located at the Vittala Temple complex in Hampi.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Hampi, Stone Chariot, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2408,
+        "id": 9429,
+        "title": "Belur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2408,
+        "id": 9430,
+        "title": "Badami",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2408,
+        "id": 9431,
+        "title": "Pattadakal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2408,
+        "id": 9432,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2409,
+    "difficulty": 2,
+    "title": "Which Karnataka town is famous for Mysore Palace?",
+    "description": "Identify the city whose royal palace is a major tourist attraction.",
+    "hint": "It was historically associated with the Wadiyar dynasty.",
+    "summary": "Mysuru is home to Mysore Palace.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mysore Palace, Mysuru, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2409,
+        "id": 9433,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2409,
+        "id": 9434,
+        "title": "Shivamogga",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2409,
+        "id": 9435,
+        "title": "Ballari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2409,
+        "id": 9436,
+        "title": "Kalaburagi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2410,
+    "difficulty": 2,
+    "title": "Which festival is famously celebrated in Mysuru with a grand procession?",
+    "description": "Identify the festival associated with the Mysuru royal tradition.",
+    "hint": "It is also called Nada Habba.",
+    "summary": "Mysuru Dasara is one of Karnataka's best-known cultural festivals.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mysuru Dasara, Festivals, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2410,
+        "id": 9437,
+        "title": "Onam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2410,
+        "id": 9438,
+        "title": "Pongal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2410,
+        "id": 9439,
+        "title": "Mysuru Dasara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2410,
+        "id": 9440,
+        "title": "Bihu",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2411,
+    "difficulty": 2,
+    "title": "Which classical dance form originated in Karnataka?",
+    "description": "Identify the traditional dance-drama form from Karnataka.",
+    "hint": "It combines dance, music, dialogue, and elaborate costumes.",
+    "summary": "Yakshagana is a traditional theatre and dance form associated with Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Yakshagana, Dance, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2411,
+        "id": 9441,
+        "title": "Kathakali",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2411,
+        "id": 9442,
+        "title": "Yakshagana",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2411,
+        "id": 9443,
+        "title": "Bharatanatyam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2411,
+        "id": 9444,
+        "title": "Kuchipudi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2412,
+    "difficulty": 2,
+    "title": "Which Karnataka city is known as the Silicon Valley of India?",
+    "description": "Identify the major Indian information technology hub.",
+    "hint": "Many technology companies have offices in its Electronic City and Whitefield areas.",
+    "summary": "Bengaluru is widely known as the Silicon Valley of India.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bengaluru, IT Industry, Economy",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2412,
+        "id": 9445,
+        "title": "Mangaluru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2412,
+        "id": 9446,
+        "title": "Belagavi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2412,
+        "id": 9447,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2412,
+        "id": 9448,
+        "title": "Bengaluru",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2413,
+    "difficulty": 2,
+    "title": "Which airport serves Bengaluru?",
+    "description": "Identify the main international airport serving the city.",
+    "hint": "It is named after a former Karnataka chief minister.",
+    "summary": "Kempegowda International Airport serves Bengaluru.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bengaluru, Airports, Transport",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2413,
+        "id": 9449,
+        "title": "Kempegowda International Airport",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2413,
+        "id": 9450,
+        "title": "Mysore Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2413,
+        "id": 9451,
+        "title": "Mangaluru International Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2413,
+        "id": 9452,
+        "title": "Hubballi Airport",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2414,
+    "difficulty": 2,
+    "title": "Which Karnataka city is an important port on the Arabian Sea?",
+    "description": "Identify the coastal city with a major seaport.",
+    "hint": "Its port is called New Mangalore Port.",
+    "summary": "Mangaluru is home to New Mangalore Port.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mangaluru, Ports, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2414,
+        "id": 9453,
+        "title": "Hassan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2414,
+        "id": 9454,
+        "title": "Mangaluru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2414,
+        "id": 9455,
+        "title": "Mandya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2414,
+        "id": 9456,
+        "title": "Kolar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2415,
+    "difficulty": 2,
+    "title": "Which Karnataka district is famous for coffee plantations around Madikeri?",
+    "description": "Identify the hill district known for coffee and scenic landscapes.",
+    "hint": "It is also called Kodagu.",
+    "summary": "Kodagu district is well known for coffee cultivation.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kodagu, Coffee, Agriculture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2415,
+        "id": 9457,
+        "title": "Kodagu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2415,
+        "id": 9458,
+        "title": "Raichur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2415,
+        "id": 9459,
+        "title": "Vijayapura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2415,
+        "id": 9460,
+        "title": "Koppal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2416,
+    "difficulty": 2,
+    "title": "Which Karnataka town is famous for sandalwood products and silk?",
+    "description": "Identify the city associated with Mysore silk and sandalwood crafts.",
+    "hint": "It is the former name of Mysuru.",
+    "summary": "Mysuru is renowned for Mysore silk and sandalwood products.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mysuru, Sandalwood, Silk",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2416,
+        "id": 9461,
+        "title": "Udupi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2416,
+        "id": 9462,
+        "title": "Davanagere",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2416,
+        "id": 9463,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2416,
+        "id": 9464,
+        "title": "Bidar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2417,
+    "difficulty": 2,
+    "title": "Which Karnataka town is famous for its Krishna temple and Udupi cuisine?",
+    "description": "Identify the coastal town associated with a renowned Krishna temple.",
+    "hint": "Its name is also used for a style of South Indian restaurants.",
+    "summary": "Udupi is famous for its Krishna temple and distinctive cuisine.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Udupi, Temples, Food",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2417,
+        "id": 9465,
+        "title": "Udupi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2417,
+        "id": 9466,
+        "title": "Ballari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2417,
+        "id": 9467,
+        "title": "Tumakuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2417,
+        "id": 9468,
+        "title": "Bidar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2418,
+    "difficulty": 2,
+    "title": "Which UNESCO World Heritage Site in Karnataka is known for Chalukyan temples?",
+    "description": "Identify the heritage site famous for its early Chalukyan architecture.",
+    "hint": "It is located near Badami.",
+    "summary": "Pattadakal is a UNESCO World Heritage Site known for Chalukyan temple architecture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Pattadakal, UNESCO, Chalukya Dynasty",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2418,
+        "id": 9469,
+        "title": "Halebidu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2418,
+        "id": 9470,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2418,
+        "id": 9471,
+        "title": "Pattadakal",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2418,
+        "id": 9472,
+        "title": "Shravanabelagola",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2419,
+    "difficulty": 2,
+    "title": "Which Karnataka town is famous for its cave temples?",
+    "description": "Identify the town known for rock-cut cave temples built under the Early Chalukyas.",
+    "hint": "It is near Agastya Lake.",
+    "summary": "Badami is famous for its rock-cut cave temples.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Badami, Cave Temples, Chalukya Dynasty",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2419,
+        "id": 9473,
+        "title": "Badami",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2419,
+        "id": 9474,
+        "title": "Madikeri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2419,
+        "id": 9475,
+        "title": "Karwar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2419,
+        "id": 9476,
+        "title": "Chitradurga",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2420,
+    "difficulty": 2,
+    "title": "Which dynasty built the famous Hoysaleswara Temple at Halebidu?",
+    "description": "Identify the dynasty known for ornate soapstone temple architecture.",
+    "hint": "Its name is associated with Belur and Halebidu.",
+    "summary": "The Hoysala dynasty built the Hoysaleswara Temple at Halebidu.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Hoysala Dynasty, Halebidu, Temples",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2420,
+        "id": 9477,
+        "title": "Pallava dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2420,
+        "id": 9478,
+        "title": "Hoysala dynasty",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2420,
+        "id": 9479,
+        "title": "Maurya dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2420,
+        "id": 9480,
+        "title": "Pala dynasty",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2421,
+    "difficulty": 2,
+    "title": "Which Karnataka town is home to the Gomateshwara statue?",
+    "description": "Identify the Jain pilgrimage site with a monumental statue on a hill.",
+    "hint": "It is near Hassan.",
+    "summary": "Shravanabelagola is famous for the Gomateshwara statue of Bahubali.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Shravanabelagola, Jainism, Heritage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2421,
+        "id": 9481,
+        "title": "Shravanabelagola",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2421,
+        "id": 9482,
+        "title": "Gokarna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2421,
+        "id": 9483,
+        "title": "Badami",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2421,
+        "id": 9484,
+        "title": "Srirangapatna",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2422,
+    "difficulty": 2,
+    "title": "Which freedom fighter from Karnataka was known as the Karnataka Kesari?",
+    "description": "Identify the freedom fighter and social reformer associated with the title Karnataka Kesari.",
+    "hint": "He was active in the Indian independence movement.",
+    "summary": "Gangadharrao Deshpande is often associated with the title Karnataka Kesari.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Freedom Movement, Gangadharrao Deshpande, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2422,
+        "id": 9485,
+        "title": "Kittur Rani Chennamma",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2422,
+        "id": 9486,
+        "title": "Sangolli Rayanna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2422,
+        "id": 9487,
+        "title": "Gangadharrao Deshpande",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2422,
+        "id": 9488,
+        "title": "Aluru Venkata Rao",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2423,
+    "difficulty": 2,
+    "title": "Who led the resistance against British forces in Kittur in 1824?",
+    "description": "Identify the queen remembered for her early resistance to British rule.",
+    "hint": "She is known as Kittur Rani.",
+    "summary": "Kittur Rani Chennamma led an armed resistance against the British in 1824.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kittur Rani Chennamma, Freedom Movement, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2423,
+        "id": 9489,
+        "title": "Rani Lakshmibai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2423,
+        "id": 9490,
+        "title": "Kittur Rani Chennamma",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2423,
+        "id": 9491,
+        "title": "Begum Hazrat Mahal",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2423,
+        "id": 9492,
+        "title": "Velu Nachiyar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2424,
+    "difficulty": 2,
+    "title": "Which leader is associated with the unification of Karnataka?",
+    "description": "Identify the writer and activist who campaigned for a unified Kannada-speaking state.",
+    "hint": "He was called Karnataka Kulapurohita.",
+    "summary": "Aluru Venkata Rao played a major role in the Karnataka unification movement.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Unification Movement, Aluru Venkata Rao, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2424,
+        "id": 9493,
+        "title": "Kuvempu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2424,
+        "id": 9494,
+        "title": "B. M. Srikantaiah",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2424,
+        "id": 9495,
+        "title": "D. R. Bendre",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2424,
+        "id": 9496,
+        "title": "Aluru Venkata Rao",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2425,
+    "difficulty": 2,
+    "title": "On which date is Karnataka Rajyotsava celebrated?",
+    "description": "Identify the annual state formation day celebration.",
+    "hint": "It is the first day of November.",
+    "summary": "Karnataka Rajyotsava is celebrated on 1 November.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Rajyotsava, State Formation, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2425,
+        "id": 9497,
+        "title": "1 November",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2425,
+        "id": 9498,
+        "title": "15 August",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2425,
+        "id": 9499,
+        "title": "26 January",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2425,
+        "id": 9500,
+        "title": "1 May",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2426,
+    "difficulty": 2,
+    "title": "In which year was Mysore State renamed Karnataka?",
+    "description": "Recall the year the state's name was officially changed.",
+    "hint": "It was in the 1970s.",
+    "summary": "Mysore State was renamed Karnataka in 1973.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Mysore State, State Formation, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2426,
+        "id": 9501,
+        "title": "1956",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2426,
+        "id": 9502,
+        "title": "1969",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2426,
+        "id": 9503,
+        "title": "1973",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2426,
+        "id": 9504,
+        "title": "1986",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2427,
+    "difficulty": 2,
+    "title": "Which national park in Karnataka is famous for its tiger reserve?",
+    "description": "Identify the protected area associated with the Nagarahole forest region.",
+    "hint": "It is also known by the name Rajiv Gandhi National Park.",
+    "summary": "Nagarahole National Park is part of the Nilgiri Biosphere Reserve and a tiger reserve landscape.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Nagarahole, Tiger Reserve, Wildlife",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2427,
+        "id": 9505,
+        "title": "Bannerghatta National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2427,
+        "id": 9506,
+        "title": "Nagarahole National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2427,
+        "id": 9507,
+        "title": "Kudremukh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2427,
+        "id": 9508,
+        "title": "Anshi National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2428,
+    "difficulty": 2,
+    "title": "Which national park lies near Bengaluru and includes a large biological park?",
+    "description": "Identify the protected area known for its zoo and safari facilities.",
+    "hint": "It shares its name with a locality south of Bengaluru.",
+    "summary": "Bannerghatta National Park is located near Bengaluru and includes Bannerghatta Biological Park.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bannerghatta, National Parks, Wildlife",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2428,
+        "id": 9509,
+        "title": "Bandipur National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2428,
+        "id": 9510,
+        "title": "Kudremukh National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2428,
+        "id": 9511,
+        "title": "Bannerghatta National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2428,
+        "id": 9512,
+        "title": "Rajiv Gandhi National Park, Odisha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2429,
+    "difficulty": 2,
+    "title": "Which Karnataka national park is part of the Nilgiri Biosphere Reserve?",
+    "description": "Identify the well-known protected area adjoining forests in Tamil Nadu and Kerala.",
+    "hint": "It is known for elephants and tigers.",
+    "summary": "Bandipur National Park forms part of the Nilgiri Biosphere Reserve.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bandipur, Nilgiri Biosphere Reserve, Wildlife",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2429,
+        "id": 9513,
+        "title": "Bandipur National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2429,
+        "id": 9514,
+        "title": "Desert National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2429,
+        "id": 9515,
+        "title": "Keoladeo National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2429,
+        "id": 9516,
+        "title": "Dachigam National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2430,
+    "difficulty": 2,
+    "title": "Which national park in Karnataka is known for its shola forests and grasslands?",
+    "description": "Identify the protected area in the Western Ghats near Chikkamagaluru.",
+    "hint": "Its name is associated with a mountain range in the district.",
+    "summary": "Kudremukh National Park protects montane forests, shola vegetation, and grasslands.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kudremukh, Western Ghats, Environment",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2430,
+        "id": 9517,
+        "title": "Guindy National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2430,
+        "id": 9518,
+        "title": "Kudremukh National Park",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2430,
+        "id": 9519,
+        "title": "Hemis National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2430,
+        "id": 9520,
+        "title": "Sundarbans National Park",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2431,
+    "difficulty": 2,
+    "title": "Which Karnataka river is famous for the Jog Falls region?",
+    "description": "Identify the river that forms Jog Falls.",
+    "hint": "It flows westward into the Arabian Sea.",
+    "summary": "The Sharavathi River forms Jog Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Jog Falls, Sharavathi River, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2431,
+        "id": 9521,
+        "title": "Kaveri",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2431,
+        "id": 9522,
+        "title": "Krishna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2431,
+        "id": 9523,
+        "title": "Sharavathi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2431,
+        "id": 9524,
+        "title": "Bhima",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2432,
+    "difficulty": 2,
+    "title": "Which Karnataka waterfall is also called Gersoppa Falls?",
+    "description": "Identify the famous waterfall on the Sharavathi River.",
+    "hint": "It is one of India's best-known high waterfalls.",
+    "summary": "Jog Falls is also known as Gersoppa Falls.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Jog Falls, Waterfalls, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2432,
+        "id": 9525,
+        "title": "Abbey Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2432,
+        "id": 9526,
+        "title": "Jog Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2432,
+        "id": 9527,
+        "title": "Shivanasamudra Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2432,
+        "id": 9528,
+        "title": "Gaganachukki Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2433,
+    "difficulty": 2,
+    "title": "Which Karnataka waterfall is formed by the Kaveri River?",
+    "description": "Identify the waterfall system near Mandya district.",
+    "hint": "It includes Gaganachukki and Bharachukki.",
+    "summary": "Shivanasamudra Falls is formed by the Kaveri River.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Shivanasamudra, Kaveri River, Waterfalls",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2433,
+        "id": 9529,
+        "title": "Jog Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2433,
+        "id": 9530,
+        "title": "Hebbe Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2433,
+        "id": 9531,
+        "title": "Shivanasamudra Falls",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2433,
+        "id": 9532,
+        "title": "Unchalli Falls",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2434,
+    "difficulty": 2,
+    "title": "Which dam in Karnataka is built across the Kaveri River near Srirangapatna?",
+    "description": "Identify the historic dam associated with irrigation and the Krishnarajasagara reservoir.",
+    "hint": "It is named after a Mysore ruler.",
+    "summary": "Krishnarajasagara Dam is built across the Kaveri River near Srirangapatna.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, KRS Dam, Kaveri, Dams",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2434,
+        "id": 9533,
+        "title": "Almatti Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2434,
+        "id": 9534,
+        "title": "Tungabhadra Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2434,
+        "id": 9535,
+        "title": "Linganamakki Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2434,
+        "id": 9536,
+        "title": "Krishnarajasagara Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      }
+    ]
+  },
+  {
+    "id": 2435,
+    "difficulty": 2,
+    "title": "Which dam on the Krishna River is located in northern Karnataka?",
+    "description": "Identify the reservoir associated with the Upper Krishna Project.",
+    "hint": "It is near Vijayapura.",
+    "summary": "Almatti Dam is built across the Krishna River in northern Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Almatti Dam, Krishna River, Dams",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2435,
+        "id": 9537,
+        "title": "Almatti Dam",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2435,
+        "id": 9538,
+        "title": "KRS Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2435,
+        "id": 9539,
+        "title": "Bhadra Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2435,
+        "id": 9540,
+        "title": "Kabini Dam",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2436,
+    "difficulty": 2,
+    "title": "Which Karnataka city is famous for the Gol Gumbaz?",
+    "description": "Identify the city containing the mausoleum of Mohammed Adil Shah.",
+    "hint": "The city was formerly known as Bijapur.",
+    "summary": "Vijayapura is home to the Gol Gumbaz.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Gol Gumbaz, Vijayapura, Architecture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2436,
+        "id": 9541,
+        "title": "Bidar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2436,
+        "id": 9542,
+        "title": "Vijayapura",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2436,
+        "id": 9543,
+        "title": "Dharwad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2436,
+        "id": 9544,
+        "title": "Hassan",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2437,
+    "difficulty": 2,
+    "title": "Which Karnataka city is known for its Bidriware metal craft?",
+    "description": "Identify the city associated with the traditional inlay craft of metalwork.",
+    "hint": "It is located in northeastern Karnataka.",
+    "summary": "Bidar is famous for Bidriware, a metal craft involving inlay work.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bidar, Bidriware, Handicrafts",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2437,
+        "id": 9545,
+        "title": "Bidar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2437,
+        "id": 9546,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2437,
+        "id": 9547,
+        "title": "Udupi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2437,
+        "id": 9548,
+        "title": "Madikeri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2438,
+    "difficulty": 2,
+    "title": "Which Karnataka district is known for the production of silk?",
+    "description": "Identify the state associated with sericulture and silk weaving.",
+    "hint": "Ramanagara is an important silk market in the state.",
+    "summary": "Karnataka is a major silk-producing state, with Ramanagara known for its silk market and sericulture.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Sericulture, Silk, Agriculture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2438,
+        "id": 9549,
+        "title": "Kodagu",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2438,
+        "id": 9550,
+        "title": "Uttara Kannada",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2438,
+        "id": 9551,
+        "title": "Ramanagara",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2438,
+        "id": 9552,
+        "title": "Koppal",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2439,
+    "difficulty": 2,
+    "title": "Which Karnataka city is associated with the Dharwad peda sweet?",
+    "description": "Identify the city whose name is part of this famous sweet's name.",
+    "hint": "It is a cultural and educational centre in northwestern Karnataka.",
+    "summary": "Dharwad is famous for Dharwad peda.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Dharwad Peda, Food, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2439,
+        "id": 9553,
+        "title": "Dharwad",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2439,
+        "id": 9554,
+        "title": "Ballari",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2439,
+        "id": 9555,
+        "title": "Kolar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2439,
+        "id": 9556,
+        "title": "Mandya",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2440,
+    "difficulty": 2,
+    "title": "Which Karnataka town is famous for the Murudeshwar Shiva statue?",
+    "description": "Identify the coastal pilgrimage destination with a large Shiva statue.",
+    "hint": "It lies on the Arabian Sea coast.",
+    "summary": "Murudeshwar is known for its towering Shiva statue and temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Murudeshwar, Shiva Temple, Tourism",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2440,
+        "id": 9557,
+        "title": "Gokarna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2440,
+        "id": 9558,
+        "title": "Udupi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2440,
+        "id": 9559,
+        "title": "Murudeshwar",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2440,
+        "id": 9560,
+        "title": "Dharmasthala",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2441,
+    "difficulty": 2,
+    "title": "Which Karnataka pilgrimage town is famous for the Mahabaleshwar Temple?",
+    "description": "Identify the coastal town associated with the Atmalinga legend.",
+    "hint": "It is a major pilgrimage destination in Uttara Kannada district.",
+    "summary": "Gokarna is famous for the Mahabaleshwar Temple.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Gokarna, Mahabaleshwar Temple, Pilgrimage",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2441,
+        "id": 9561,
+        "title": "Gokarna",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2441,
+        "id": 9562,
+        "title": "Belur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2441,
+        "id": 9563,
+        "title": "Srirangapatna",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2441,
+        "id": 9564,
+        "title": "Melukote",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2442,
+    "difficulty": 2,
+    "title": "Which Karnataka city is associated with the poet Kuvempu?",
+    "description": "Identify the region closely associated with the Kannada writer and Jnanpith awardee.",
+    "hint": "His birthplace is Kuppali in the Malenadu region.",
+    "summary": "Kuvempu was born in Kuppali in present-day Shivamogga district.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kuvempu, Kannada Literature, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2442,
+        "id": 9565,
+        "title": "Vijayapura",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2442,
+        "id": 9566,
+        "title": "Shivamogga region",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2442,
+        "id": 9567,
+        "title": "Raichur",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2442,
+        "id": 9568,
+        "title": "Kolar",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2443,
+    "difficulty": 2,
+    "title": "Which Kannada poet was the first recipient of the Jnanpith Award for Kannada?",
+    "description": "Identify the celebrated Kannada writer who received the award in 1967.",
+    "hint": "His pen name begins with the letter K.",
+    "summary": "Kuvempu received the Jnanpith Award for Kannada literature in 1967.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Kuvempu, Jnanpith Award, Literature",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2443,
+        "id": 9569,
+        "title": "D. R. Bendre",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2443,
+        "id": 9570,
+        "title": "U. R. Ananthamurthy",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2443,
+        "id": 9571,
+        "title": "Kuvempu",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2443,
+        "id": 9572,
+        "title": "Girish Karnad",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2444,
+    "difficulty": 2,
+    "title": "Which Karnataka city is home to the Indian Institute of Science?",
+    "description": "Identify the city where this leading research institute is located.",
+    "hint": "It is the state capital.",
+    "summary": "The Indian Institute of Science is located in Bengaluru.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, IISc, Education, Bengaluru",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2444,
+        "id": 9573,
+        "title": "Bengaluru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2444,
+        "id": 9574,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2444,
+        "id": 9575,
+        "title": "Dharwad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2444,
+        "id": 9576,
+        "title": "Mangaluru",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2445,
+    "difficulty": 2,
+    "title": "Which Karnataka city hosts the headquarters of ISRO?",
+    "description": "Identify the city where the Indian Space Research Organisation is headquartered.",
+    "hint": "It is also the state's capital.",
+    "summary": "ISRO headquarters is located in Bengaluru.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, ISRO, Space Research, Science",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2445,
+        "id": 9577,
+        "title": "Hyderabad",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2445,
+        "id": 9578,
+        "title": "Bengaluru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2445,
+        "id": 9579,
+        "title": "Chennai",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2445,
+        "id": 9580,
+        "title": "Pune",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2446,
+    "difficulty": 2,
+    "title": "Which Karnataka city is known for the University of Mysore?",
+    "description": "Identify the city where the university was established in 1916.",
+    "hint": "It was once the capital of the Kingdom of Mysore.",
+    "summary": "The University of Mysore is located in Mysuru.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, University of Mysore, Education, Mysuru",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2446,
+        "id": 9581,
+        "title": "Mysuru",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2446,
+        "id": 9582,
+        "title": "Belagavi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2446,
+        "id": 9583,
+        "title": "Kalaburagi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2446,
+        "id": 9584,
+        "title": "Udupi",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2447,
+    "difficulty": 2,
+    "title": "Which Karnataka city is known for its historic fort and Kittur Rani Chennamma memorials?",
+    "description": "Identify the city in northern Karnataka associated with the Rani Chennamma University.",
+    "hint": "It is a major city near the Maharashtra border.",
+    "summary": "Belagavi is an important city in northern Karnataka and is associated with Kittur Rani Chennamma's legacy.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Belagavi, Kittur Rani Chennamma, Geography",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2447,
+        "id": 9585,
+        "title": "Hassan",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2447,
+        "id": 9586,
+        "title": "Belagavi",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2447,
+        "id": 9587,
+        "title": "Mandya",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2447,
+        "id": 9588,
+        "title": "Chikkaballapur",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2448,
+    "difficulty": 2,
+    "title": "Which Karnataka city is associated with the historic fort of Chitradurga?",
+    "description": "Identify the city famous for its hilltop fort and stone defenses.",
+    "hint": "The fort is also called Kallina Kote.",
+    "summary": "Chitradurga is known for its historic hill fort.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Chitradurga Fort, Forts, History",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2448,
+        "id": 9589,
+        "title": "Hampi",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2448,
+        "id": 9590,
+        "title": "Bidar",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2448,
+        "id": 9591,
+        "title": "Chitradurga",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2448,
+        "id": 9592,
+        "title": "Madikeri",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2449,
+    "difficulty": 2,
+    "title": "Which traditional Karnataka dish is made from fermented rice and lentil batter and steamed?",
+    "description": "Identify the popular South Indian breakfast food.",
+    "hint": "It is often served with chutney and sambar.",
+    "summary": "Idli is made by steaming fermented rice and lentil batter and is widely eaten in Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Food, Idli, Culture",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2449,
+        "id": 9593,
+        "title": "Idli",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2449,
+        "id": 9594,
+        "title": "Dhokla",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2449,
+        "id": 9595,
+        "title": "Litti",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2449,
+        "id": 9596,
+        "title": "Pitha",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "id": 2450,
+    "difficulty": 2,
+    "title": "Which wildlife reserve in Karnataka is well known for elephants and tiger conservation?",
+    "description": "Identify the reserve located near the borders of Tamil Nadu and Kerala.",
+    "hint": "It is part of the Nilgiri landscape.",
+    "summary": "Bandipur Tiger Reserve is an important protected area for tigers and elephants in Karnataka.",
+    "tenantId": 4,
+    "isVerify": true,
+    "questionTags": "Karnataka, Bandipur Tiger Reserve, Wildlife, Conservation",
+    "createdDate": "2025-02-19T00:38:45.060735",
+    "options": [
+      {
+        "questionId": 2450,
+        "id": 9597,
+        "title": "Sariska Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2450,
+        "id": 9598,
+        "title": "Pench Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      },
+      {
+        "questionId": 2450,
+        "id": 9599,
+        "title": "Bandipur Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": true
+      },
+      {
+        "questionId": 2450,
+        "id": 9600,
+        "title": "Dudhwa Tiger Reserve",
+        "tenantId": 4,
+        "isAnswer": false
+      }
+    ]
+  }
+]
